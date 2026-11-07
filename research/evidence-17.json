@@ -1,0 +1,79 @@
+[
+  {
+    "note": 1,
+    "claim": "La explicación de Cortés cuestiona una oposición esencial entre comunismo nacional y soviético",
+    "source": "comunismo-a-la-tica-pvp-2020",
+    "pages": [
+      124,
+      125,
+      126,
+      127
+    ],
+    "type": "interpretacion",
+    "counterpoint": "No es una explicación única de todos los militantes ni prueba de un carácter nacional.",
+    "visual_checked": false
+  },
+  {
+    "note": 2,
+    "claim": "Las estructuras y vínculos de los partidos difieren; no hay una crisis uniforme",
+    "source": "gomez-campos-organizacion-partidaria",
+    "pages": [
+      30,
+      31,
+      32
+    ],
+    "type": "interpretacion",
+    "counterpoint": "La muestra de 2013–2014 no mide el presente de 2026.",
+    "visual_checked": false
+  },
+  {
+    "note": 3,
+    "claim": "Mora defendió vía pacífica local e intervención en Checoslovaquia en la misma intervención pública",
+    "source": "discursos-manuel-mora-1934-1979",
+    "pages": [
+      473,
+      474,
+      475,
+      476,
+      477,
+      478,
+      479,
+      480
+    ],
+    "type": "declaracion",
+    "counterpoint": "El discurso está reconstruido y resumido; sus denuncias de conspiración no se presentan como hechos probados.",
+    "visual_checked": false
+  },
+  {
+    "note": 4,
+    "claim": "El estudio de Álvarez Garro explica una frontera simbólica de pertenencia nacional",
+    "source": "comunismo-exterior-constitutivo-2020",
+    "pages": [
+      19,
+      20
+    ],
+    "type": "interpretacion",
+    "counterpoint": "No demuestra su persistencia inalterada en todas las polémicas contemporáneas.",
+    "visual_checked": false
+  },
+  {
+    "note": 5,
+    "claim": "FA obtuvo siete escaños en 2026 y De la Clase Trabajadora ninguno",
+    "source": "tse-leg-2026",
+    "pages": [],
+    "type": "hecho",
+    "counterpoint": "No mide por sí solo organización, influencia sindical o motivaciones de cada votante.",
+    "visual_checked": false
+  },
+  {
+    "note": 6,
+    "claim": "La ruptura local precedió al derrumbe soviético y requiere seguir trayectorias de base",
+    "source": "comunismo-a-la-tica-pvp-2020",
+    "pages": [
+      127
+    ],
+    "type": "inferencia",
+    "counterpoint": "La cronología no sustituye archivos de afiliación ni prueba una causalidad uniforme.",
+    "visual_checked": false
+  }
+]

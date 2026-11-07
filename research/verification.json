@@ -1,0 +1,18 @@
+{
+  "mode": "local-corpus",
+  "cutoff": "2026-11-06",
+  "counts": {
+    "chapters": 17,
+    "notes": 257,
+    "corpus_references": 237,
+    "web_references": 59,
+    "pages_checked": 440,
+    "evidence_rows": 296,
+    "literal_quotes_checked": 1,
+    "facsimile_review_rows": 26
+  },
+  "errors": [],
+  "limitations": [
+    "Las comprobaciones automáticas no certifican respaldo semántico, causalidad, representatividad ni exactitud del OCR. La revisión de facsímiles se registra por afirmación; no cubre todas las páginas."
+  ]
+}

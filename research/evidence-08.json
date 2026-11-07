@@ -1,0 +1,216 @@
+[
+  {
+    "note": 1,
+    "claim": "Discurso radial de Mora de 15 abril 1959 sobre Figueres y Cuba",
+    "source": "discursos-manuel-mora-1934-1979",
+    "pages": [
+      237,
+      239
+    ],
+    "type": "declaracion",
+    "counterpoint": "La introducción editorial identifica ocasión y fecha; no se confunde con la voz del orador.",
+    "visual_checked": false
+  },
+  {
+    "note": 2,
+    "claim": "Coexistencia de vía pacífica nacional e internacionalismo prosoviético",
+    "source": "discursos-manuel-mora-1934-1979",
+    "pages": [
+      474,
+      475,
+      476,
+      477,
+      478,
+      479
+    ],
+    "type": "inferencia",
+    "counterpoint": "Se apoya en contraste dentro de un mismo texto; no define esencia inmutable del dirigente.",
+    "visual_checked": false
+  },
+  {
+    "note": 3,
+    "claim": "Programa democrático y económico atribuido por Mora a revolución cubana en 1959",
+    "source": "discursos-manuel-mora-1934-1979",
+    "pages": [
+      242,
+      243
+    ],
+    "type": "declaracion",
+    "counterpoint": "Expectativa de 1959, no descripción de evolución posterior de Cuba.",
+    "visual_checked": false
+  },
+  {
+    "note": 4,
+    "claim": "Mora interpreta enfrentamiento Castro–Figueres desde alineamiento y monopolios",
+    "source": "discursos-manuel-mora-1934-1979",
+    "pages": [
+      239,
+      240,
+      241,
+      242,
+      243
+    ],
+    "type": "declaracion",
+    "counterpoint": "Intenciones y causalidad atribuidas por Mora no se presentan como hechos probados.",
+    "visual_checked": false
+  },
+  {
+    "note": 5,
+    "claim": "Visita de Figueres en marzo de 1959 y diferencia sobre alineamiento internacional",
+    "source": "luces-y-sombras-socialdemocracia-guerra-fria",
+    "pages": [
+      81,
+      82
+    ],
+    "type": "hecho",
+    "counterpoint": "Contraste historiográfico no valida toda inferencia personal de Mora.",
+    "visual_checked": false
+  },
+  {
+    "note": 6,
+    "claim": "Monge retira apoyo a Castro en abril de 1961 por concentración de poder y libertades",
+    "source": "luces-y-sombras-socialdemocracia-guerra-fria",
+    "pages": [
+      80,
+      81
+    ],
+    "type": "declaracion",
+    "counterpoint": "Se informa su posición, no se reproduce como evaluación total de la Revolución.",
+    "visual_checked": false
+  },
+  {
+    "note": 7,
+    "claim": "Tensiones entre antiimperialismo, anticomunismo y democracia",
+    "source": "luces-y-sombras-socialdemocracia-guerra-fria",
+    "pages": [
+      82,
+      83,
+      84,
+      85,
+      86
+    ],
+    "type": "inferencia",
+    "counterpoint": "Se evita equivalencia indiferenciada de proyectos.",
+    "visual_checked": false
+  },
+  {
+    "note": 8,
+    "claim": "Mora defiende vía pacífica condicional y reserva otros medios ante cierre de vías",
+    "source": "discursos-manuel-mora-1934-1979",
+    "pages": [
+      474
+    ],
+    "type": "declaracion",
+    "counterpoint": "No equivale a renuncia incondicional a las armas.",
+    "visual_checked": false
+  },
+  {
+    "note": 9,
+    "claim": "Concepción material de democracia y límites de su diseño institucional",
+    "source": "discursos-manuel-mora-1934-1979",
+    "pages": [
+      473,
+      474
+    ],
+    "type": "inferencia",
+    "counterpoint": "La ausencia de detalles en este discurso no prueba ausencia de toda reflexión institucional.",
+    "visual_checked": false
+  },
+  {
+    "note": 10,
+    "claim": "Mora justifica intervención del Pacto de Varsovia como prevención de amenaza occidental",
+    "source": "discursos-manuel-mora-1934-1979",
+    "pages": [
+      476,
+      477
+    ],
+    "type": "declaracion",
+    "counterpoint": "Las denuncias de conspiración se atribuyen al dirigente; no se adoptan como hechos.",
+    "visual_checked": false
+  },
+  {
+    "note": 11,
+    "claim": "Defensa soviética, autodeterminación y acusación de doble criterio",
+    "source": "discursos-manuel-mora-1934-1979",
+    "pages": [
+      478,
+      479
+    ],
+    "type": "inferencia",
+    "counterpoint": "La crítica a intervenciones estadounidenses no justifica por sí sola otra intervención.",
+    "visual_checked": false
+  },
+  {
+    "note": 12,
+    "claim": "Datación de discurso de 1968 frente al encabezado de 1969 de la compilación",
+    "source": "discursos-manuel-mora-1934-1979",
+    "pages": [
+      479,
+      480
+    ],
+    "type": "hecho",
+    "counterpoint": "Se mantiene advertencia de reconstrucción y resumen periodístico.",
+    "visual_checked": true
+  },
+  {
+    "note": 13,
+    "claim": "Mora defiende relación soviética mediante argumentos comerciales y de desarrollo",
+    "source": "discursos-manuel-mora-1934-1979",
+    "pages": [
+      504,
+      505,
+      506
+    ],
+    "type": "declaracion",
+    "counterpoint": "Las causas conspirativas que propone se mantienen como interpretación partidaria.",
+    "visual_checked": false
+  },
+  {
+    "note": 14,
+    "claim": "Relato de operaciones de café y honorarios entregados al partido",
+    "source": "discursos-manuel-mora-1934-1979",
+    "pages": [
+      506,
+      507
+    ],
+    "type": "declaracion",
+    "counterpoint": "Sin auditoría de contratos o contabilidad; se omiten cifras como hechos certificados.",
+    "visual_checked": false
+  },
+  {
+    "note": 15,
+    "claim": "Defensa de orden constitucional y rechazo a guerra civil",
+    "source": "discursos-manuel-mora-1934-1979",
+    "pages": [
+      508
+    ],
+    "type": "declaracion",
+    "counterpoint": "No constituye renuncia universal a uso de armas en cualquier contexto.",
+    "visual_checked": false
+  },
+  {
+    "note": 16,
+    "claim": "Impacto de Chile en 1973 y justificación de capacidad defensiva",
+    "source": "comunismo-a-la-tica-pvp-2020",
+    "pages": [
+      12,
+      13,
+      14
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Cortés utiliza entre otras fuentes el testimonio de Manuel Mora Salas.",
+    "visual_checked": false
+  },
+  {
+    "note": 17,
+    "claim": "CNS, mando de Mora y colaboración con sandinismo",
+    "source": "comunismo-a-la-tica-pvp-2020",
+    "pages": [
+      14,
+      15
+    ],
+    "type": "hecho",
+    "counterpoint": "Cooperación documentada no autoriza a describir toda militancia como estructura militar.",
+    "visual_checked": false
+  }
+]

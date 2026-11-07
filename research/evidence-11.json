@@ -1,0 +1,174 @@
+[
+  {
+    "note": 1,
+    "claim": "Cortés sitúa la crisis de Vanguardia Popular antes de la desaparición de la Unión Soviética.",
+    "source": "comunismo-a-la-tica-pvp-2020",
+    "pages": [
+      124,
+      125,
+      126,
+      127
+    ],
+    "type": "interpretacion",
+    "counterpoint": "No explica por sí sola toda la trayectoria posterior a 1984.",
+    "visual_checked": false
+  },
+  {
+    "note": 2,
+    "claim": "Cortés analiza la oposición periodística entre moderación nacional y extranjerización de la nueva dirección.",
+    "source": "comunismo-a-la-tica-pvp-2020",
+    "pages": [
+      125,
+      126
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Las etiquetas de los actores no son categorías neutrales del libro.",
+    "visual_checked": false
+  },
+  {
+    "note": 3,
+    "claim": "La fractura plantea un problema de confianza y recursos organizativos.",
+    "source": "comunismo-a-la-tica-pvp-2020",
+    "pages": [
+      126,
+      127
+    ],
+    "type": "inferencia",
+    "counterpoint": "No se dispone de un inventario de la evolución de cada comité de base.",
+    "visual_checked": false
+  },
+  {
+    "note": 4,
+    "claim": "Castro reconstruye la expansión de asociaciones solidaristas, comités permanentes y arreglos directos.",
+    "source": "derecho-colectivo-trabajo-costa-rica-2021",
+    "pages": [
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ],
+    "type": "interpretacion",
+    "counterpoint": "No atribuye una intención antisindical individual a toda persona solidarista.",
+    "visual_checked": false
+  },
+  {
+    "note": 5,
+    "claim": "Ley solidarista de 1984 y apoyos a su aprobación según Castro.",
+    "source": "derecho-colectivo-trabajo-costa-rica-2021",
+    "pages": [
+      35,
+      36,
+      37
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Se atribuye la lectura crítica al autor.",
+    "visual_checked": false
+  },
+  {
+    "note": 6,
+    "claim": "Reformas 1993, protección sindical e intervención judicial en despidos de representantes.",
+    "source": "derecho-colectivo-trabajo-costa-rica-2021",
+    "pages": [
+      39,
+      40
+    ],
+    "type": "hecho",
+    "counterpoint": "Conocido a través del estudio, sin revisión íntegra de expedientes originales.",
+    "visual_checked": false
+  },
+  {
+    "note": 7,
+    "claim": "Persistencia de comités permanentes y recursos internacionales de defensa sindical.",
+    "source": "derecho-colectivo-trabajo-costa-rica-2021",
+    "pages": [
+      40,
+      41,
+      42,
+      43
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Avance normativo no equivale a desaparición de obstáculos prácticos.",
+    "visual_checked": false
+  },
+  {
+    "note": 8,
+    "claim": "Fuerza Democrática obtuvo dos diputaciones en 1994.",
+    "source": "cuitino-burone-2021",
+    "pages": [],
+    "type": "hecho",
+    "counterpoint": "Artículo académico; la genealogía partidaria requiere otros documentos.",
+    "visual_checked": false
+  },
+  {
+    "note": 8,
+    "claim": "Fuerza Democrática obtuvo tres diputaciones en 1998.",
+    "source": "tse-leg-1998",
+    "pages": [],
+    "type": "hecho",
+    "counterpoint": "Resultado y adjudicación de esa elección; no mide apoyo social permanente ni cambios posteriores de afiliación.",
+    "visual_checked": false
+  },
+  {
+    "note": 9,
+    "claim": "Gerardo Trejos pasó por Fuerza Democrática y fue diputado 1994–1998.",
+    "source": "tse-trejos-2001",
+    "pages": [],
+    "type": "hecho",
+    "counterpoint": "La circulación personal no acredita continuidad jurídica de organizaciones.",
+    "visual_checked": false
+  },
+  {
+    "note": 10,
+    "claim": "Fuerza Democrática quedó sin diputaciones en 2002.",
+    "source": "tse-leg-2002",
+    "pages": [],
+    "type": "hecho",
+    "counterpoint": "Resultado y adjudicación de esa elección; no mide apoyo social permanente ni cambios posteriores de afiliación.",
+    "visual_checked": false
+  },
+  {
+    "note": 11,
+    "claim": "Gómez Campos vincula representación partidaria, organización interna y relaciones sociales.",
+    "source": "gomez-campos-organizacion-partidaria",
+    "pages": [
+      30,
+      31,
+      32
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Estudio 2015, no balance de toda la década de 1990.",
+    "visual_checked": false
+  },
+  {
+    "note": 12,
+    "claim": "La cobertura consultada es insuficiente para una historia integral de la militancia cotidiana.",
+    "source": "comunismo-a-la-tica-pvp-2020",
+    "pages": [
+      124,
+      125,
+      126,
+      127
+    ],
+    "type": "inferencia",
+    "counterpoint": "Límite de esta edición, no afirmación de inexistencia universal de fuentes.",
+    "visual_checked": false
+  },
+  {
+    "note": 12,
+    "claim": "El estudio organizativo no reemplaza trayectorias individuales longitudinales.",
+    "source": "gomez-campos-organizacion-partidaria",
+    "pages": [
+      30,
+      31,
+      32
+    ],
+    "type": "inferencia",
+    "counterpoint": "Conclusiones de un estudio de 2015; no constituyen seguimiento longitudinal de cada militante u órgano partidario.",
+    "visual_checked": false
+  }
+]

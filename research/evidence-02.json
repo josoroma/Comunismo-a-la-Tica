@@ -1,0 +1,430 @@
+[
+  {
+    "note": 1,
+    "claim": "Transmisión de la crisis a comercio, fisco, empleo y salarios.",
+    "source": "crisis-1929-fundacion-partido-comunista-1984",
+    "pages": [
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86
+    ],
+    "type": "interpretacion",
+    "counterpoint": "La conexión económica no produce automáticamente afiliación comunista.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/crisis-1929-fundacion-partido-comunista-1984/chapters/07-capitulo-iii.md"
+    ]
+  },
+  {
+    "note": 2,
+    "claim": "Necesidad de mediaciones entre crisis y organización.",
+    "source": "crisis-1929-fundacion-partido-comunista-1984",
+    "pages": [
+      99,
+      100
+    ],
+    "type": "inferencia",
+    "counterpoint": "Las respuestas individuales posibles se presentan como alternativas explicativas, no como censo de conductas.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/crisis-1929-fundacion-partido-comunista-1984/chapters/07-capitulo-iii.md"
+    ]
+  },
+  {
+    "note": 3,
+    "claim": "Límites del registro de desocupación y trabajo intermitente.",
+    "source": "crisis-1929-fundacion-partido-comunista-1984",
+    "pages": [
+      88,
+      89,
+      90
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Se omiten cifras que no se han cotejado visualmente; no se usa el censo como retrato completo.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/crisis-1929-fundacion-partido-comunista-1984/chapters/07-capitulo-iii.md"
+    ]
+  },
+  {
+    "note": 4,
+    "claim": "Demandas sobre obras públicas, alquileres y protección de talleres.",
+    "source": "crisis-1929-fundacion-partido-comunista-1984",
+    "pages": [
+      84,
+      85,
+      86,
+      87,
+      88
+    ],
+    "type": "hecho",
+    "counterpoint": "Las demandas no implican identidad socialista de todos los participantes.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/crisis-1929-fundacion-partido-comunista-1984/chapters/07-capitulo-iii.md"
+    ]
+  },
+  {
+    "note": 5,
+    "claim": "Organización de la UGT, reclamos, detenciones y vigilancia.",
+    "source": "crisis-1929-fundacion-partido-comunista-1984",
+    "pages": [
+      86,
+      87,
+      88
+    ],
+    "type": "hecho",
+    "counterpoint": "Los efectos divergentes de la represión son una inferencia, no una medición de adhesiones.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/crisis-1929-fundacion-partido-comunista-1984/chapters/07-capitulo-iii.md"
+    ]
+  },
+  {
+    "note": 5,
+    "claim": "Organización de la UGT, reclamos, detenciones y vigilancia.",
+    "source": "crisis-1929-fundacion-partido-comunista-1984",
+    "pages": [
+      106,
+      107,
+      108
+    ],
+    "type": "hecho",
+    "counterpoint": "Los efectos divergentes de la represión son una inferencia, no una medición de adhesiones.",
+    "visual_checked": false,
+    "visual_pages_checked": [
+      106,
+      107
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/crisis-1929-fundacion-partido-comunista-1984/chapters/08-capitulo-iv.md"
+    ]
+  },
+  {
+    "note": 6,
+    "claim": "Círculos de estudio, Carmen Lyra, ARCO y vínculos estudiantiles y obreros.",
+    "source": "crisis-1929-fundacion-partido-comunista-1984",
+    "pages": [
+      105,
+      106,
+      107
+    ],
+    "type": "hecho",
+    "counterpoint": "Las memorias utilizadas por los autores son retrospectivas.",
+    "visual_checked": true,
+    "visual_pages_checked": [
+      105,
+      106,
+      107
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/crisis-1929-fundacion-partido-comunista-1984/chapters/08-capitulo-iv.md"
+    ]
+  },
+  {
+    "note": 7,
+    "claim": "Circulación de literatura y reservas sobre afiliación internacional de la UGT.",
+    "source": "crisis-1929-fundacion-partido-comunista-1984",
+    "pages": [
+      105,
+      106,
+      107,
+      108
+    ],
+    "type": "interpretacion",
+    "counterpoint": "La noticia periodística no corroborada se conserva como límite.",
+    "visual_checked": false,
+    "visual_pages_checked": [
+      105,
+      106,
+      107
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/crisis-1929-fundacion-partido-comunista-1984/chapters/08-capitulo-iv.md"
+    ]
+  },
+  {
+    "note": 8,
+    "claim": "Acuerdo del 6 de junio y comité del 16 de junio de 1931, según Botey y Cisneros.",
+    "source": "crisis-1929-fundacion-partido-comunista-1984",
+    "pages": [
+      109
+    ],
+    "type": "hecho",
+    "counterpoint": "Las dos fechas se atribuyen a la fuente y se mantienen diferenciadas; no se certifica prioridad sobre todas las cronologías.",
+    "visual_checked": true,
+    "visual_pages_checked": [
+      109
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/crisis-1929-fundacion-partido-comunista-1984/chapters/08-capitulo-iv.md"
+    ]
+  },
+  {
+    "note": 9,
+    "claim": "Diversidad de trayectorias fundadoras y centralidad historiográfica de Mora.",
+    "source": "crisis-1929-fundacion-partido-comunista-1984",
+    "pages": [
+      120,
+      121
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Los nombres y funciones conocidos no reconstruyen todo el trabajo cotidiano ni las voces sin registro.",
+    "visual_checked": true,
+    "visual_pages_checked": [
+      120,
+      121
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/crisis-1929-fundacion-partido-comunista-1984/chapters/08-capitulo-iv.md"
+    ]
+  },
+  {
+    "note": 10,
+    "claim": "Programa integral, medidas inmediatas y condiciones internacionales.",
+    "source": "crisis-1929-fundacion-partido-comunista-1984",
+    "pages": [
+      110,
+      111,
+      112,
+      113,
+      114,
+      115
+    ],
+    "type": "interpretacion",
+    "counterpoint": "El programa es declaración de propósitos, no prueba de ejecución.",
+    "visual_checked": false,
+    "visual_pages_checked": [
+      111,
+      112,
+      113
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/crisis-1929-fundacion-partido-comunista-1984/chapters/08-capitulo-iv.md"
+    ]
+  },
+  {
+    "note": 11,
+    "claim": "Seguros, huelga, vivienda, salud y emancipación de la mujer en el programa.",
+    "source": "crisis-1929-fundacion-partido-comunista-1984",
+    "pages": [
+      111
+    ],
+    "type": "declaracion",
+    "counterpoint": "El lenguaje protector convive con ampliación de derechos; no prueba igualdad interna efectivamente realizada.",
+    "visual_checked": true,
+    "visual_pages_checked": [
+      111
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/crisis-1929-fundacion-partido-comunista-1984/chapters/08-capitulo-iv.md"
+    ]
+  },
+  {
+    "note": 12,
+    "claim": "Política económica, servicio civil y educación en el programa.",
+    "source": "crisis-1929-fundacion-partido-comunista-1984",
+    "pages": [
+      112
+    ],
+    "type": "declaracion",
+    "counterpoint": "La amplitud de objetivos no demuestra capacidad administrativa para ejecutarlos.",
+    "visual_checked": true,
+    "visual_pages_checked": [
+      112
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/crisis-1929-fundacion-partido-comunista-1984/chapters/08-capitulo-iv.md"
+    ]
+  },
+  {
+    "note": 13,
+    "claim": "Horizonte de república socialista soviética continental en el programa.",
+    "source": "crisis-1929-fundacion-partido-comunista-1984",
+    "pages": [
+      113
+    ],
+    "type": "declaracion",
+    "counterpoint": "El objetivo escrito no prueba subordinación operativa internacional.",
+    "visual_checked": true,
+    "visual_pages_checked": [
+      113
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/crisis-1929-fundacion-partido-comunista-1984/chapters/08-capitulo-iv.md"
+    ]
+  },
+  {
+    "note": 14,
+    "claim": "Tensiones entre programa, estrategia y condiciones de transformación.",
+    "source": "crisis-1929-fundacion-partido-comunista-1984",
+    "pages": [
+      113,
+      114,
+      115,
+      116,
+      117,
+      118
+    ],
+    "type": "interpretacion",
+    "counterpoint": "La evaluación de los autores responde a su teoría del partido; el libro no la adopta como tribunal de autenticidad.",
+    "visual_checked": false,
+    "visual_pages_checked": [
+      113
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/crisis-1929-fundacion-partido-comunista-1984/chapters/08-capitulo-iv.md"
+    ]
+  },
+  {
+    "note": 15,
+    "claim": "Permanencia, células, programa y educación política.",
+    "source": "crisis-1929-fundacion-partido-comunista-1984",
+    "pages": [
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115
+    ],
+    "type": "inferencia",
+    "counterpoint": "Son funciones propuestas; no garantía de democracia interna o eficacia.",
+    "visual_checked": false,
+    "visual_pages_checked": [
+      109,
+      111,
+      112,
+      113
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/crisis-1929-fundacion-partido-comunista-1984/chapters/08-capitulo-iv.md"
+    ]
+  },
+  {
+    "note": 16,
+    "claim": "Relación entre desarrollo sindical y partidario.",
+    "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
+    "pages": [
+      64,
+      65,
+      66
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Influencia sindical, afiliación y voto no son equivalentes.",
+    "visual_checked": false,
+    "visual_pages_checked": [
+      65,
+      66
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/lucha-social-guerra-civil-costa-rica-1940-1948/chapters/13-lucha-nivel-sindical.md"
+    ]
+  },
+  {
+    "note": 17,
+    "claim": "Combinación cambiante de reforma, revolución y marco internacional.",
+    "source": "crisis-1929-fundacion-partido-comunista-1984",
+    "pages": [
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119
+    ],
+    "type": "inferencia",
+    "counterpoint": "Hipótesis de este libro que deberá confrontarse con la trayectoria posterior.",
+    "visual_checked": false,
+    "visual_pages_checked": [
+      111,
+      112,
+      113
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/crisis-1929-fundacion-partido-comunista-1984/chapters/08-capitulo-iv.md"
+    ]
+  },
+  {
+    "note": 18,
+    "claim": "Fundar no resuelve el problema de organizar territorialmente.",
+    "source": "crisis-1929-fundacion-partido-comunista-1984",
+    "pages": [
+      105,
+      106,
+      107,
+      108,
+      109
+    ],
+    "type": "inferencia",
+    "counterpoint": "La persistencia no se deduce de la gravedad de la crisis.",
+    "visual_checked": false,
+    "visual_pages_checked": [
+      105,
+      106,
+      107,
+      109
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/crisis-1929-fundacion-partido-comunista-1984/chapters/08-capitulo-iv.md"
+    ]
+  },
+  {
+    "note": 18,
+    "claim": "Fundar no resuelve el problema de organizar territorialmente.",
+    "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
+    "pages": [
+      64,
+      65,
+      66
+    ],
+    "type": "inferencia",
+    "counterpoint": "La persistencia no se deduce de la gravedad de la crisis.",
+    "visual_checked": false,
+    "visual_pages_checked": [
+      65,
+      66
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/lucha-social-guerra-civil-costa-rica-1940-1948/chapters/13-lucha-nivel-sindical.md"
+    ]
+  }
+]

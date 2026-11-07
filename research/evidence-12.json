@@ -1,0 +1,133 @@
+[
+  {
+    "note": 1,
+    "claim": "Menjívar compara las luchas 1995 y 2000 como defensa de continuidades institucionales.",
+    "source": "menjivar-2005",
+    "pages": [
+      1,
+      2,
+      3
+    ],
+    "type": "interpretacion",
+    "counterpoint": "La paradoja continuidad/cambio es propuesta analítica del autor.",
+    "visual_checked": false
+  },
+  {
+    "note": 2,
+    "claim": "Castro sitúa la huelga magisterial 1995 en conflictos por gasto público y derechos colectivos.",
+    "source": "derecho-colectivo-trabajo-costa-rica-2021",
+    "pages": [
+      39,
+      40,
+      41,
+      42
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Reconstrucción de Castro Méndez publicada en 2021; no sustituye el expediente original ni una evaluación integral de efectos.",
+    "visual_checked": false
+  },
+  {
+    "note": 3,
+    "claim": "La reforma laboral involucró organizaciones sindicales, empresariales y órganos estatales.",
+    "source": "derecho-colectivo-trabajo-costa-rica-2021",
+    "pages": [
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "type": "hecho",
+    "counterpoint": "La participación sindical no demuestra subordinación a un partido.",
+    "visual_checked": false
+  },
+  {
+    "note": 4,
+    "claim": "Los acuerdos 1998 abrieron una agenda de reformas que tuvo una ejecución prolongada.",
+    "source": "derecho-colectivo-trabajo-costa-rica-2021",
+    "pages": [
+      42,
+      43,
+      44
+    ],
+    "type": "hecho",
+    "counterpoint": "Reconstrucción de Castro Méndez publicada en 2021; no sustituye el expediente original ni una evaluación integral de efectos.",
+    "visual_checked": false
+  },
+  {
+    "note": 5,
+    "claim": "La protesta contra el Combo reunió una diversidad de actores y centros de decisión.",
+    "source": "menjivar-2012",
+    "pages": [],
+    "type": "interpretacion",
+    "counterpoint": "No censo definitivo ni dirección exclusiva de Fuerza Democrática.",
+    "visual_checked": false
+  },
+  {
+    "note": 6,
+    "claim": "Carazo reconstruye la comisión mixta y la coordinación CONAES tras el Combo.",
+    "source": "carazo-2001",
+    "pages": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "type": "declaracion",
+    "counterpoint": "Balance de una participante; distingue valoración propia y hechos de organización.",
+    "visual_checked": false
+  },
+  {
+    "note": 7,
+    "claim": "La pérdida de escaños de Fuerza Democrática en 2002 no traduce mecánicamente la protesta 2000.",
+    "source": "tse-leg-2002",
+    "pages": [],
+    "type": "inferencia",
+    "counterpoint": "No se atribuyen motivaciones individuales a partir del resultado agregado.",
+    "visual_checked": false
+  },
+  {
+    "note": 8,
+    "claim": "La organización y los vínculos sociales condicionan capacidades partidarias según Gómez Campos.",
+    "source": "gomez-campos-organizacion-partidaria",
+    "pages": [
+      30,
+      31,
+      32
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Conclusiones de un estudio de 2015; no constituyen seguimiento longitudinal de cada militante u órgano partidario.",
+    "visual_checked": false
+  },
+  {
+    "note": 9,
+    "claim": "La reforma procesal laboral atravesó gobiernos, acuerdos y controversias.",
+    "source": "derecho-colectivo-trabajo-costa-rica-2021",
+    "pages": [
+      43,
+      44,
+      45,
+      46
+    ],
+    "type": "hecho",
+    "counterpoint": "Reconstrucción de Castro Méndez publicada en 2021; no sustituye el expediente original ni una evaluación integral de efectos.",
+    "visual_checked": false
+  },
+  {
+    "note": 10,
+    "claim": "Castro sitúa la firma de la reforma en 2016 y vigencia 25 julio 2017; valora avances parciales.",
+    "source": "derecho-colectivo-trabajo-costa-rica-2021",
+    "pages": [
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    "type": "interpretacion",
+    "counterpoint": "No asesoría de derecho vigente ni atribución exclusiva del logro a un partido.",
+    "visual_checked": false
+  }
+]

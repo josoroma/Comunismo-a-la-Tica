@@ -1,0 +1,214 @@
+[
+  {
+    "note": 1,
+    "claim": "Cartas de deslinde ante firmas de solidaridad con Guatemala",
+    "source": "comunismo-exterior-constitutivo-2020",
+    "pages": [
+      15,
+      16
+    ],
+    "type": "hecho",
+    "counterpoint": "No se infiere temor individual ni sanción material no documentada.",
+    "visual_checked": false
+  },
+  {
+    "note": 2,
+    "claim": "Comunismo como límite simbólico de pertenencia nacional",
+    "source": "comunismo-exterior-constitutivo-2020",
+    "pages": [
+      12,
+      13,
+      14,
+      15
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Categoría de Álvarez Garro, no encuesta de la identidad nacional.",
+    "visual_checked": false
+  },
+  {
+    "note": 3,
+    "claim": "Muestra de La Nación y La República, cuatro meses por año, 1950–1959",
+    "source": "comunismo-exterior-constitutivo-2020",
+    "pages": [
+      4
+    ],
+    "type": "hecho",
+    "counterpoint": "No representa estadísticamente a toda la población.",
+    "visual_checked": false
+  },
+  {
+    "note": 4,
+    "claim": "Metáforas de enfermedad, engaño y amenaza",
+    "source": "comunismo-exterior-constitutivo-2020",
+    "pages": [
+      12,
+      13,
+      14
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Describe repertorio publicado, no todos los discursos del periodo.",
+    "visual_checked": false
+  },
+  {
+    "note": 5,
+    "claim": "Justicia social anticomunista y contradicción sobre origen del conflicto",
+    "source": "comunismo-exterior-constitutivo-2020",
+    "pages": [
+      14,
+      15
+    ],
+    "type": "interpretacion",
+    "counterpoint": "El sentido de justicia social variaba entre actores.",
+    "visual_checked": false
+  },
+  {
+    "note": 6,
+    "claim": "Disputa entre defensores del libre mercado y reformismo liberacionista",
+    "source": "comunismo-exterior-constitutivo-2020",
+    "pages": [
+      7,
+      8,
+      9
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Rechazo común al comunismo no supone programa económico único.",
+    "visual_checked": false
+  },
+  {
+    "note": 7,
+    "claim": "Uso de socialismo para impugnar nacionalizaciones, impuestos y prestaciones",
+    "source": "comunismo-exterior-constitutivo-2020",
+    "pages": [
+      10,
+      11,
+      12
+    ],
+    "type": "hecho",
+    "counterpoint": "La acusación no demuestra naturaleza socialista de las medidas.",
+    "visual_checked": false
+  },
+  {
+    "note": 8,
+    "claim": "Ideario de ANFE y estrategia de transformación estatal",
+    "source": "marchena-anfe-1958-1975",
+    "pages": [
+      5,
+      6,
+      7
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Se distingue la interpretación crítica de Marchena de los argumentos de la asociación.",
+    "visual_checked": false
+  },
+  {
+    "note": 9,
+    "claim": "Trabajo, responsabilidad y cristianismo en repertorios antisocialistas",
+    "source": "comunismo-exterior-constitutivo-2020",
+    "pages": [
+      11,
+      12
+    ],
+    "type": "interpretacion",
+    "counterpoint": "No se identifica a toda identidad religiosa con un programa económico único.",
+    "visual_checked": false
+  },
+  {
+    "note": 10,
+    "claim": "Deslindes publicados y desigual carga de legitimación",
+    "source": "comunismo-exterior-constitutivo-2020",
+    "pages": [
+      15,
+      16
+    ],
+    "type": "inferencia",
+    "counterpoint": "No se atribuyen estados mentales particulares ni eficacia total a la vigilancia.",
+    "visual_checked": false
+  },
+  {
+    "note": 11,
+    "claim": "Sospechas extendidas a sindicatos no comunistas y católicos",
+    "source": "comunismo-exterior-constitutivo-2020",
+    "pages": [
+      16,
+      17
+    ],
+    "type": "hecho",
+    "counterpoint": "Acusación pública no prueba afiliación.",
+    "visual_checked": false
+  },
+  {
+    "note": 12,
+    "claim": "Ligas anticomunistas conectaron episodios internacionales y nombres locales",
+    "source": "comunismo-exterior-constitutivo-2020",
+    "pages": [
+      18,
+      19
+    ],
+    "type": "hecho",
+    "counterpoint": "Se presentan como intervenciones de actores y no como verdad de sus denuncias.",
+    "visual_checked": false
+  },
+  {
+    "note": 13,
+    "claim": "Redes y financiamiento de Combate e Instituto de Educación Política",
+    "source": "luces-y-sombras-socialdemocracia-guerra-fria",
+    "pages": [
+      69,
+      70,
+      71,
+      72,
+      91,
+      92
+    ],
+    "type": "hecho",
+    "counterpoint": "Los autores documentan también conflictos y autonomía relativa de dirigentes liberacionistas.",
+    "visual_checked": false
+  },
+  {
+    "note": 14,
+    "claim": "Anticomunismo reformista, críticas a dictaduras y conflicto ante Cuba",
+    "source": "luces-y-sombras-socialdemocracia-guerra-fria",
+    "pages": [
+      80,
+      81,
+      82,
+      83,
+      84,
+      85
+    ],
+    "type": "interpretacion",
+    "counterpoint": "La combinación no convierte al PLN en aliado de los comunistas.",
+    "visual_checked": false
+  },
+  {
+    "note": 15,
+    "claim": "Dimensión internacional y agencia propia del proyecto liberacionista",
+    "source": "luces-y-sombras-socialdemocracia-guerra-fria",
+    "pages": [
+      83,
+      84,
+      85,
+      86,
+      87,
+      91,
+      92,
+      93,
+      94
+    ],
+    "type": "inferencia",
+    "counterpoint": "No toda financiación implica control total; tampoco borra dependencias.",
+    "visual_checked": false
+  },
+  {
+    "note": 16,
+    "claim": "Alcance temporal de la interpretación y necesidad de probar continuidades",
+    "source": "comunismo-exterior-constitutivo-2020",
+    "pages": [
+      19,
+      20
+    ],
+    "type": "interpretacion",
+    "counterpoint": "La extrapolación hasta 2026 requiere fuentes adicionales, no disponibles en la muestra de 1950–1959.",
+    "visual_checked": false
+  }
+]

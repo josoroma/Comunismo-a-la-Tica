@@ -1,0 +1,153 @@
+[
+  {
+    "note": 1,
+    "claim": "El PT recuerda MAS 21 octubre 2005 y asamblea constitutiva 1 mayo 2012.",
+    "source": "pt-historia-2013",
+    "pages": [],
+    "type": "declaracion",
+    "counterpoint": "Continuidad política narrada por la organización; no inscripción legal 2005.",
+    "visual_checked": false
+  },
+  {
+    "note": 2,
+    "claim": "El PT fue inscrito nacionalmente por DGRE 0702013 el 2 julio 2013.",
+    "source": "tse-pt-inscripcion-2013",
+    "pages": [
+      1,
+      2
+    ],
+    "type": "hecho",
+    "counterpoint": "Primera inscripción; fue cancelada en 2016 y no debe confundirse con la reinscripción de 2017.",
+    "visual_checked": false
+  },
+  {
+    "note": 3,
+    "claim": "TSE confirmó 12 agosto 2016 cancelación registral dictada 27 abril tras municipales.",
+    "source": "tse-pt-cancelacion-2016",
+    "pages": [],
+    "type": "hecho",
+    "counterpoint": "La decisión responde al umbral electoral; se conserva el desacuerdo jurídico del PT.",
+    "visual_checked": false
+  },
+  {
+    "note": 4,
+    "claim": "Ficha del TSE registra fundación 21 agosto 2016 e inscripción 21 junio 2017.",
+    "source": "tse-pt-ficha",
+    "pages": [],
+    "type": "hecho",
+    "counterpoint": "La discontinuidad se contrasta con resolución de cancelación, no solo con discrepancia de fichas.",
+    "visual_checked": false
+  },
+  {
+    "note": 4,
+    "claim": "Página histórica conserva inscripción 2013 y registra cambio nominal 25 octubre 2024.",
+    "source": "tse-pt-estructuras",
+    "pages": [],
+    "type": "hecho",
+    "counterpoint": "El encabezado conserva la inscripción de 2013; se contrasta con cancelación de 2016 y ficha de 2017.",
+    "visual_checked": false
+  },
+  {
+    "note": 5,
+    "claim": "Balance PT 2022 reivindica trotskismo, internacionalismo y trabajo sindical y campesino.",
+    "source": "pt-balance-2022",
+    "pages": [],
+    "type": "declaracion",
+    "counterpoint": "Las atribuciones de logros y cifras no se validan por repetición.",
+    "visual_checked": false
+  },
+  {
+    "note": 6,
+    "claim": "Estatuto declara afiliación LIT, no subordinación exterior y compromiso constitucional.",
+    "source": "pt-estatuto-2024",
+    "pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      42
+    ],
+    "type": "declaracion",
+    "counterpoint": "Compromisos normativos no prueban funcionamiento efectivo en cada decisión.",
+    "visual_checked": false
+  },
+  {
+    "note": 7,
+    "claim": "Programa 2022 propone consejos obreros y usa elecciones como instrumento organizativo.",
+    "source": "pt-programa-2022",
+    "pages": [
+      6,
+      7,
+      8
+    ],
+    "type": "declaracion",
+    "counterpoint": "Propuesta y justificación partidaria, no realidad institucional ni eficacia comprobada.",
+    "visual_checked": false
+  },
+  {
+    "note": 8,
+    "claim": "PT 2014 recibió 4897 votos presidenciales.",
+    "source": "tse-pres-2014",
+    "pages": [],
+    "type": "hecho",
+    "counterpoint": "Cuadro revisado visualmente.",
+    "visual_checked": true
+  },
+  {
+    "note": 8,
+    "claim": "PT 2014 recibió 12998 votos legislativos y ninguna diputación.",
+    "source": "tse-leg-2014",
+    "pages": [
+      3
+    ],
+    "type": "hecho",
+    "counterpoint": "Resultado y adjudicación de esa elección; no mide apoyo social permanente ni cambios posteriores de afiliación.",
+    "visual_checked": false
+  },
+  {
+    "note": 9,
+    "claim": "PT 2018 recibió 4351 votos presidenciales.",
+    "source": "tse-pres-2018",
+    "pages": [],
+    "type": "hecho",
+    "counterpoint": "Votación presidencial inicial del año indicado; no identifica militancia ni motivaciones individuales.",
+    "visual_checked": false
+  },
+  {
+    "note": 9,
+    "claim": "PT 2018 recibió 11615 votos legislativos y ninguna diputación.",
+    "source": "tse-leg-2018",
+    "pages": [],
+    "type": "hecho",
+    "counterpoint": "Resultado y adjudicación de esa elección; no mide apoyo social permanente ni cambios posteriores de afiliación.",
+    "visual_checked": false
+  },
+  {
+    "note": 9,
+    "claim": "PT 2022 recibió 1951 votos presidenciales.",
+    "source": "tse-pres-2022",
+    "pages": [],
+    "type": "hecho",
+    "counterpoint": "Votación presidencial inicial del año indicado; no identifica militancia ni motivaciones individuales.",
+    "visual_checked": false
+  },
+  {
+    "note": 9,
+    "claim": "PT 2022 recibió 5631 votos legislativos y ninguna diputación.",
+    "source": "tse-leg-2022",
+    "pages": [],
+    "type": "hecho",
+    "counterpoint": "Resultado y adjudicación de esa elección; no mide apoyo social permanente ni cambios posteriores de afiliación.",
+    "visual_checked": false
+  },
+  {
+    "note": 10,
+    "claim": "Investigación UCR registra apoyo estudiantil del PT junto a otros actores a trabajadoras tercerizadas.",
+    "source": "caamano-dinartes-villena-2022",
+    "pages": [],
+    "type": "hecho",
+    "counterpoint": "Caso exploratorio localizado; no demuestra afiliación de todas las trabajadoras ni control exclusivo del sindicato.",
+    "visual_checked": false
+  }
+]

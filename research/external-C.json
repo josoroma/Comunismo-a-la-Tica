@@ -1,0 +1,643 @@
+[
+  {
+    "id": "cuitino-burone-2021",
+    "author": "Carlos Cuitiño Burone",
+    "title": "Sistema de partidos en Costa Rica en el periodo 1986-2018: del bipartidismo al multipartidismo",
+    "date": "2021",
+    "event_date": "1986–2018",
+    "url": "https://tse.go.cr/revista/art/32/cuitino_burone.html",
+    "accessed": "2026-11-06",
+    "locator": "Revista Derecho Electoral 32, sección 4",
+    "type": "investigación académica",
+    "notes": "Se utiliza para el resultado de Fuerza Democrática en 1994; no reemplaza una genealogía organizativa.",
+    "chapters": [
+      "11-despues-de-la-fractura.md"
+    ]
+  },
+  {
+    "id": "tse-leg-1998",
+    "author": "Tribunal Supremo de Elecciones de Costa Rica",
+    "title": "Resolución 0003-1998",
+    "date": "1998-03-06",
+    "event_date": "1998",
+    "url": "https://www.tse.go.cr/juris/electorales/0003-1998.HTM",
+    "accessed": "2026-11-06",
+    "locator": "Adjudicación provincial y parte dispositiva: Fuerza Democrática, tres diputaciones.",
+    "type": "fuente primaria electoral",
+    "notes": "",
+    "chapters": [
+      "11-despues-de-la-fractura.md"
+    ]
+  },
+  {
+    "id": "tse-trejos-2001",
+    "author": "Tribunal Supremo de Elecciones de Costa Rica",
+    "title": "Resolución 0859-E-2001",
+    "date": "2001-04-17",
+    "event_date": "1990–2001",
+    "url": "https://tse.go.cr/juris/electorales/0859-E-2001.HTM",
+    "accessed": "2026-11-06",
+    "locator": "Resultandos, hechos probados y discusión del requisito de militancia.",
+    "type": "fuente primaria electoral",
+    "notes": "Distinguir hechos declarados probados de alegaciones de las partes. La trayectoria personal no prueba fusión de partidos.",
+    "chapters": [
+      "11-despues-de-la-fractura.md"
+    ]
+  },
+  {
+    "id": "tse-leg-2002",
+    "author": "Tribunal Supremo de Elecciones de Costa Rica",
+    "title": "Resolución 0432-E-2002",
+    "date": "2002-03-19",
+    "event_date": "2002",
+    "url": "https://www.tse.go.cr/juris/electorales/0432-E-2002.HTM",
+    "accessed": "2026-11-06",
+    "locator": "Adjudicación provincial y parte dispositiva.",
+    "type": "fuente primaria electoral",
+    "notes": "Fuerza Democrática no obtuvo diputaciones.",
+    "chapters": [
+      "11-despues-de-la-fractura.md",
+      "12-la-politica-fuera-del-partido.md"
+    ]
+  },
+  {
+    "id": "menjivar-2005",
+    "author": "Mauricio Menjívar Ochoa",
+    "title": "Acciones colectivas en Costa Rica al final del siglo XX: entre la continuidad y el orden",
+    "date": "2004–2005",
+    "event_date": "1995 y 2000",
+    "url": "https://revistacienciassociales.ucr.ac.cr/images/revistas/RCS106_107/05MENJIVAR.pdf",
+    "accessed": "2026-11-06",
+    "locator": "Revista de Ciencias Sociales 106–107; PDF pp.1–3, impresas 55–57",
+    "type": "investigación académica",
+    "notes": "La oposición continuidad/cambio se atribuye al autor. Lectura del artículo completo.",
+    "chapters": [
+      "12-la-politica-fuera-del-partido.md"
+    ]
+  },
+  {
+    "id": "menjivar-2012",
+    "author": "Mauricio Menjívar Ochoa",
+    "title": "El referéndum de las calles. Lucha social y reforma del Instituto Costarricense de Electricidad (Costa Rica 2000)",
+    "date": "2012-09",
+    "event_date": "2000",
+    "url": "https://www.scielo.sa.cr/scielo.php?pid=S1409-469X2012000200001&script=sci_arttext",
+    "accessed": "2026-11-06",
+    "locator": "Diálogos 13(2), secciones El inicio de la movilización social y La confluencia de la diversidad",
+    "type": "investigación académica",
+    "notes": "Explicación de la pluralidad de actores; no acredita una dirección exclusiva de partido.",
+    "chapters": [
+      "12-la-politica-fuera-del-partido.md"
+    ]
+  },
+  {
+    "id": "carazo-2001",
+    "author": "Eva Carazo Vargas",
+    "title": "Después del Combo, ¿qué?",
+    "date": "2001",
+    "event_date": "2000–2001",
+    "url": "https://revista.trabajosocial.or.cr/index.php/revista/article/download/219/245",
+    "accessed": "2026-11-06",
+    "locator": "Revista Costarricense de Trabajo Social 12; PDF pp. 2–7: Comisión Especial Mixta y CONAES",
+    "type": "balance de participante",
+    "notes": "La autora participó como representante estudiantil en la comisión. El año del número es 2001; fecha de carga del portal posterior. PDF completo leído.",
+    "chapters": [
+      "12-la-politica-fuera-del-partido.md"
+    ]
+  },
+  {
+    "id": "tse-fa-ficha",
+    "author": "Tribunal Supremo de Elecciones de Costa Rica",
+    "title": "Ficha del partido Frente Amplio",
+    "date": null,
+    "event_date": "2004-10-16;2009-07-13",
+    "url": "https://www.tse.go.cr/frenteamplio.html",
+    "accessed": "2026-11-06",
+    "locator": "Campos Fundado, Inscripción y Escala",
+    "type": "registro electoral vigente",
+    "notes": "Ficha consultada al corte; distingue fundación de inscripción nacional.",
+    "chapters": [
+      "13-un-frente-y-muchas-izquierdas.md"
+    ]
+  },
+  {
+    "id": "tse-leg-2006",
+    "author": "Tribunal Supremo de Elecciones de Costa Rica",
+    "title": "Resolución 1137-E-2006",
+    "date": "2006-03-22",
+    "event_date": "2006",
+    "url": "https://www.tse.go.cr/juris/electorales/1137-E-2006.HTM",
+    "accessed": "2026-11-06",
+    "locator": "Resultando 3, adjudicación por San José y parte dispositiva.",
+    "type": "fuente primaria electoral",
+    "notes": "José Merino: una diputación del Frente Amplio.",
+    "chapters": [
+      "13-un-frente-y-muchas-izquierdas.md"
+    ]
+  },
+  {
+    "id": "tse-fa-nacional-2009",
+    "author": "Tribunal Supremo de Elecciones de Costa Rica",
+    "title": "Acta 74-2009, inscripción nacional del Frente Amplio",
+    "date": "2009-08-04",
+    "event_date": "2009-07-13",
+    "url": "https://www.tse.go.cr/actas/2009/74-2009-del-4-de-agosto-del-2009.htm",
+    "accessed": "2026-11-06",
+    "locator": "Artículo octavo, apartadoA: DGPP-048-2009",
+    "type": "fuente primaria institucional",
+    "notes": "La fecha del acta que comunica no sustituye la fecha de la resolución de inscripción.",
+    "chapters": [
+      "13-un-frente-y-muchas-izquierdas.md"
+    ]
+  },
+  {
+    "id": "mora-asamblea-2015",
+    "author": "Patricia Mora Castellanos / Asamblea Legislativa",
+    "title": "Acta plenaria ordinaria 40, intervención de Patricia Mora",
+    "date": "2015-07-20",
+    "event_date": "2015-07-20",
+    "url": "https://www.asamblea.go.cr/glcp/Actas/2015-2016-PLENARIO-SESI%C3%93N-40.pdf",
+    "accessed": "2026-11-06",
+    "locator": "PDF pp. 75–77, especialmente 76",
+    "type": "testimonio político en acta parlamentaria",
+    "notes": "Genealogía de la diputada: Vanguardia Popular, Partido del Pueblo Costarricense, Fuerza Democrática y Frente Amplio. No prueba sucesión jurídica entre las organizaciones.",
+    "chapters": [
+      "14-crecer-retroceder-volver.md",
+      "13-un-frente-y-muchas-izquierdas.md"
+    ]
+  },
+  {
+    "id": "fa-estatuto",
+    "author": "Partido Frente Amplio",
+    "title": "Estatuto del Frente Amplio",
+    "date": null,
+    "event_date": "Versión disponible al 2026-11-06",
+    "url": "https://www.tse.go.cr/pdf/normativa/estatutos/frenteamplio.pdf",
+    "accessed": "2026-11-06",
+    "locator": "PDF pp. 2–4, artículo 4 y anotaciones de reformas",
+    "type": "documento normativo partidario",
+    "notes": "Autodefiniciones; no se proyecta la versión íntegra sobre 2004 ni se toma como prueba automática de funcionamiento real.",
+    "chapters": [
+      "13-un-frente-y-muchas-izquierdas.md"
+    ]
+  },
+  {
+    "id": "tse-merino-referendum-2007",
+    "author": "Tribunal Supremo de Elecciones de Costa Rica",
+    "title": "Resolución 2534-E-2007",
+    "date": "2007-09-21",
+    "event_date": "2007-07-20",
+    "url": "https://www.tse.go.cr/juris/electorales/2534-E-2007.htm",
+    "accessed": "2026-11-06",
+    "locator": "Resultando 1 y considerandoII.",
+    "type": "fuente primaria electoral",
+    "notes": "Consulta de Merino sobre recursos públicos durante campaña del referéndum; las alegaciones no se presentan como hechos declarados probados.",
+    "chapters": [
+      "13-un-frente-y-muchas-izquierdas.md"
+    ]
+  },
+  {
+    "id": "ucr-no-tlc-2008",
+    "author": "Patricia Blanco Picado",
+    "title": "Académicos de la UCR estudian movimiento del NO al TLC",
+    "date": "2008-10-08",
+    "event_date": "2007–2008",
+    "url": "https://www.ucr.ac.cr/noticias/2008/10/08/academicos-de-la-ucr-estudian-movimiento-del-no-al-tlc.html",
+    "accessed": "2026-11-06",
+    "locator": "Presentación de investigaciones de Cisca Raventós y Jeremy Rayner",
+    "type": "crónica institucional de investigación",
+    "notes": "Resultados preliminares y metodología; no censo definitivo de los comités.",
+    "chapters": [
+      "13-un-frente-y-muchas-izquierdas.md"
+    ]
+  },
+  {
+    "id": "tse-referendum-2007",
+    "author": "Tribunal Supremo de Elecciones de Costa Rica",
+    "title": "Resolución 2944-E-2007",
+    "date": "2007-10-22",
+    "event_date": "2007-10-07",
+    "url": "https://www.tse.go.cr/juris/electorales/2944-E-2007.htm",
+    "accessed": "2026-11-06",
+    "locator": "ConsiderandosI–III y parte dispositiva.",
+    "type": "fuente primaria electoral",
+    "notes": "Resultado de opciones sobre tratado; no votación partidaria.",
+    "chapters": [
+      "13-un-frente-y-muchas-izquierdas.md"
+    ]
+  },
+  {
+    "id": "tse-leg-2010",
+    "author": "Tribunal Supremo de Elecciones de Costa Rica",
+    "title": "Resolución 1820-E 11-2010",
+    "date": "2010-03-17",
+    "event_date": "2010-02-07",
+    "url": "https://www.tse.go.cr/juris/electorales/1820-E11-2010.pdf",
+    "accessed": "2026-11-06",
+    "locator": "PDF pp. 9–10, adjudicación y parte dispositiva.",
+    "type": "fuente primaria electoral",
+    "notes": "Una diputación FA: José María Villalta.",
+    "chapters": [
+      "14-crecer-retroceder-volver.md"
+    ]
+  },
+  {
+    "id": "tse-leg-2014",
+    "author": "Tribunal Supremo de Elecciones de Costa Rica",
+    "title": "Resolución 0830-E 11-2014",
+    "date": "2014-03-03",
+    "event_date": "2014-02-02",
+    "url": "https://www.tse.go.cr/juris/electorales/0830-E11-2014.pdf",
+    "accessed": "2026-11-06",
+    "locator": "PDF p. 3 cuadro nacional; pp.4–10 adjudicación.",
+    "type": "fuente primaria electoral",
+    "notes": "FA 269178 votos y 9 diputaciones; PT 12998 votos, ninguna diputación.",
+    "chapters": [
+      "14-crecer-retroceder-volver.md",
+      "15-otra-tradicion-revolucionaria.md",
+      "16-izquierdas-ante-el-presente.md"
+    ]
+  },
+  {
+    "id": "tse-pres-2014",
+    "author": "Tribunal Supremo de Elecciones de Costa Rica",
+    "title": "Resolución 0551-E 11-2014",
+    "date": "2014-02-17",
+    "event_date": "2014-02-02",
+    "url": "https://www.tse.go.cr/juris/electorales/0551-E11-2014.html",
+    "accessed": "2026-11-06",
+    "locator": "ConsiderandoI, cuadro incorporado como imagen 0551-E 11-2014.jpg.",
+    "type": "fuente primaria electoral",
+    "notes": "Cuadro revisado visualmente: FA 354479 votos,17,25%; PT 4897. Corresponde a primera votación presidencial.",
+    "chapters": [
+      "14-crecer-retroceder-volver.md",
+      "15-otra-tradicion-revolucionaria.md"
+    ]
+  },
+  {
+    "id": "tse-pres-2018",
+    "author": "Tribunal Supremo de Elecciones de Costa Rica",
+    "title": "Resolución 0970-E 11-2018",
+    "date": "2018-02-15",
+    "event_date": "2018-02-04",
+    "url": "https://www.tse.go.cr/juris/electorales/0970-E11-2018.html",
+    "accessed": "2026-11-06",
+    "locator": "Cuadro de votos válidos presidenciales.",
+    "type": "fuente primaria electoral",
+    "notes": "Primera votación: FA 16863 y PT 4351.",
+    "chapters": [
+      "14-crecer-retroceder-volver.md",
+      "15-otra-tradicion-revolucionaria.md"
+    ]
+  },
+  {
+    "id": "tse-leg-2018",
+    "author": "Tribunal Supremo de Elecciones de Costa Rica",
+    "title": "Resolución 1230-E 11-2018",
+    "date": "2018-02-27",
+    "event_date": "2018-02-04",
+    "url": "https://www.tse.go.cr/juris/electorales/1230-E11-2018.html",
+    "accessed": "2026-11-06",
+    "locator": "Cuadro nacional de votos y parte dispositiva.",
+    "type": "fuente primaria electoral",
+    "notes": "FA 84437 votos,1 diputación; PT 11615 votos,0 diputaciones.",
+    "chapters": [
+      "14-crecer-retroceder-volver.md",
+      "15-otra-tradicion-revolucionaria.md"
+    ]
+  },
+  {
+    "id": "asamblea-fiscal-2018",
+    "author": "Esteban Rojas Sáurez / Departamento de Relaciones Públicas, Prensa y Protocolo, Asamblea Legislativa",
+    "title": "Instalada Comisión de Fortalecimiento de las Finanzas Públicas",
+    "date": "2018",
+    "event_date": "2018",
+    "url": "https://www.asamblea.go.cr/p/Lists/Noticias/DispForm.aspx?ID=8134",
+    "accessed": "2026-11-06",
+    "locator": "Integración de la comisión: José María Villalta",
+    "type": "información institucional contemporánea",
+    "notes": "Se usa para composición de la comisión, no para atribuir eficacia o autoría total de la reforma. Página descargada y texto verificado pese a error del visor web; año confirmado por su contenido, día no consignado.",
+    "chapters": [
+      "14-crecer-retroceder-volver.md"
+    ]
+  },
+  {
+    "id": "delfino-fiscal-2018",
+    "author": "Delfino.cr",
+    "title": "Registro de votación del proyecto 20580, segundo debate",
+    "date": "2018-12-03",
+    "event_date": "2018-12-03",
+    "url": "https://delfino.cr/asamblea/votaciones/proyecto/201812031",
+    "accessed": "2026-11-06",
+    "locator": "Resultado y voto individual de José María Villalta",
+    "type": "registro periodístico de votación parlamentaria",
+    "notes": "34 a favor,17 en contra,6 ausentes; Villalta en contra. Coincidencia de voto no prueba alianza ideológica.",
+    "chapters": [
+      "14-crecer-retroceder-volver.md"
+    ]
+  },
+  {
+    "id": "tse-pres-2022",
+    "author": "Tribunal Supremo de Elecciones de Costa Rica",
+    "title": "Resolución 1221-E 11-2022",
+    "date": "2022-03-01",
+    "event_date": "2022-02-06",
+    "url": "https://www.tse.go.cr/juris/relevantes/1221-E11-2022.html",
+    "accessed": "2026-11-06",
+    "locator": "Cuadro de votación presidencial.",
+    "type": "fuente primaria electoral",
+    "notes": "Primera votación: FA 182789 votos,8,73%; PT 1951.",
+    "chapters": [
+      "14-crecer-retroceder-volver.md",
+      "15-otra-tradicion-revolucionaria.md",
+      "16-izquierdas-ante-el-presente.md"
+    ]
+  },
+  {
+    "id": "tse-leg-2022",
+    "author": "Tribunal Supremo de Elecciones de Costa Rica",
+    "title": "Resolución 1555-E 11-2022",
+    "date": "2022-03-16",
+    "event_date": "2022-02-06",
+    "url": "https://www.tse.go.cr/juris/relevantes/1555-E11-2022.html",
+    "accessed": "2026-11-06",
+    "locator": "Cuadro nacional, distribución provincial y parte dispositiva.",
+    "type": "fuente primaria electoral",
+    "notes": "FA 172961 votos,6 diputaciones; PT 5631 votos,0 diputaciones.",
+    "chapters": [
+      "14-crecer-retroceder-volver.md",
+      "15-otra-tradicion-revolucionaria.md",
+      "16-izquierdas-ante-el-presente.md"
+    ]
+  },
+  {
+    "id": "pt-historia-2013",
+    "author": "Partido de los Trabajadores",
+    "title": "El PT es una historia viva de la reconstrucción de la izquierda revolucionaria",
+    "date": "2013-09-06",
+    "event_date": "2005-10-21;2012-05-01",
+    "url": "https://ptcostarica.org/historia-del-pt/",
+    "accessed": "2026-11-06",
+    "locator": "Párrafos iniciales sobre MAS y asamblea constitutiva",
+    "type": "memoria partidaria",
+    "notes": "Se atribuye la continuidad militante; no se valida cada acusación o cifra de la retrospectiva.",
+    "chapters": [
+      "15-otra-tradicion-revolucionaria.md"
+    ]
+  },
+  {
+    "id": "tse-pt-inscripcion-2013",
+    "author": "Dirección General del Registro Electoral y Financiamiento de Partidos Políticos",
+    "title": "Resolución DGRE-070-DRPP-2013, inscripción nacional del Partido de los Trabajadores",
+    "date": "2013-07-02",
+    "event_date": "2013-07-02",
+    "url": "https://www.tse.go.cr/pdf/estructuras/delostrabajadores/DGRE-070-DRPP-2013%20-%20De%20los%20Trabajadores%20-%20Nacional.pdf",
+    "accessed": "2026-11-06",
+    "locator": "PDF pp. 1–2 y parte dispositiva",
+    "type": "fuente primaria registral",
+    "notes": "Fecha de inscripción comprobada en documento original; la lista genérica de cancelados presenta una errata 2012.",
+    "chapters": [
+      "15-otra-tradicion-revolucionaria.md"
+    ]
+  },
+  {
+    "id": "tse-pt-cancelacion-2016",
+    "author": "Tribunal Supremo de Elecciones de Costa Rica",
+    "title": "Resolución 5229-E 3-2016",
+    "date": "2016-08-12",
+    "event_date": "2016-04-27;2016-08-12",
+    "url": "https://www.tse.go.cr/juris/relevantes/5229-E3-2016.html",
+    "accessed": "2026-11-06",
+    "locator": "Resultando 1, considerandosI yIV, parte dispositiva.",
+    "type": "fuente primaria electoral",
+    "notes": "Confirma cancelación DGRE-028-DRPP-2016 por umbral de votos tras municipales 2016; distingue alegato del partido de decisión del tribunal.",
+    "chapters": [
+      "15-otra-tradicion-revolucionaria.md"
+    ]
+  },
+  {
+    "id": "tse-pt-ficha",
+    "author": "Tribunal Supremo de Elecciones de Costa Rica",
+    "title": "Ficha del partido De La Clase Trabajadora",
+    "date": null,
+    "event_date": "2016-08-21;2017-06-21;2024-10-25",
+    "url": "https://www.tse.go.cr/delostrabajadores.html",
+    "accessed": "2026-11-06",
+    "locator": "Campos Fundado, Inscripción y cambio de nombre",
+    "type": "registro electoral vigente",
+    "notes": "Identifica nueva constitución e inscripción 2017 y reforma nominal 2024; se contrasta con resolución de cancelación 2016.",
+    "chapters": [
+      "15-otra-tradicion-revolucionaria.md"
+    ]
+  },
+  {
+    "id": "tse-pt-estructuras",
+    "author": "Tribunal Supremo de Elecciones de Costa Rica",
+    "title": "Historial de estructuras del partido De La Clase Trabajadora",
+    "date": null,
+    "event_date": "2013–2026",
+    "url": "https://www.tse.go.cr/estructuras_delostrabajadores.html",
+    "accessed": "2026-11-06",
+    "locator": "Encabezado: inscripción DGRE-070-DRPP-2013 y cambio de denominación 2024",
+    "type": "historial registral",
+    "notes": "Conserva referencia a inscripción anterior 2013; debe leerse junto con cancelación 2016 y ficha 2017, no sustituirlas.",
+    "chapters": [
+      "15-otra-tradicion-revolucionaria.md"
+    ]
+  },
+  {
+    "id": "pt-balance-2022",
+    "author": "PT–Costa Rica",
+    "title": "Partido de los Trabajadores:17 años construyendo una alternativa obrera y socialista en Costa Rica",
+    "date": "2022-10-21",
+    "event_date": "2005–2022",
+    "url": "https://litci.org/es/partido-de-los-trabajadores-17-anos-construyendo-una-alternativa-obrera-y-socialista-en-costa-rica/",
+    "accessed": "2026-11-06",
+    "locator": "Apartados Internacionalismo proletario, lucha agraria y sindicalismo",
+    "type": "balance partidario publicado por la LIT-CI",
+    "notes": "Acredita reivindicación de identidad y actividades; sus acusaciones sobre adversarios no se adoptan como hechos.",
+    "chapters": [
+      "15-otra-tradicion-revolucionaria.md"
+    ]
+  },
+  {
+    "id": "pt-estatuto-2024",
+    "author": "Partido de la Clase Trabajadora",
+    "title": "Estatuto del Partido de la Clase Trabajadora",
+    "date": "2024",
+    "event_date": "2024-09-22;2024-10-25",
+    "url": "https://www.tse.go.cr/pdf/normativa/estatutos/DeLaClaseTrabajadora.pdf",
+    "accessed": "2026-11-06",
+    "locator": "PDF pp. 1–5, artículos 1–7; p.42 modificaciones acreditadas",
+    "type": "documento normativo partidario",
+    "notes": "Incluye reforma aprobada por asamblea 22/09/2024, acreditada DGRE 01062024. Compromiso constitucional y afiliación LIT se distinguen de funcionamiento efectivo.",
+    "chapters": [
+      "15-otra-tradicion-revolucionaria.md"
+    ]
+  },
+  {
+    "id": "pt-programa-2022",
+    "author": "Partido de los Trabajadores",
+    "title": "Programa Electoral 2022–2026",
+    "date": "Sin fecha exacta; campaña de 2022",
+    "event_date": "Elecciones 2022;propuestas 2022–2026",
+    "url": "https://ride.tse.go.cr/xmlui/bitstream/handle/123456789/12912/DE%20LOS%20TRABAJADORES.pdf?isAllowed=y&sequence=1",
+    "accessed": "2026-11-06",
+    "locator": "PDF pp. 6–8: Estado, elecciones y consejos populares",
+    "type": "programa partidario",
+    "notes": "Texto para campaña 2022; fecha exacta no confirmada. Las propuestas no equivalen a medidas ejecutadas.",
+    "chapters": [
+      "15-otra-tradicion-revolucionaria.md"
+    ]
+  },
+  {
+    "id": "caamano-dinartes-villena-2022",
+    "author": "Carmen Caamaño Morúa; Andrés Dinartes Bogantes; Sergio Villena Fiengo",
+    "title": "¿Vienen con los edificios? “Modernización” y trabajo precario en la Universidad de Costa Rica(UCR)",
+    "date": "2022",
+    "event_date": "2017–2021",
+    "url": "https://revistacienciassociales.ucr.ac.cr/html/04-Caama%C3%B1o173/04-Caama%C3%B1o173.html",
+    "accessed": "2026-11-06",
+    "locator": "Revista de Ciencias Sociales 173; introducción y apartados Denuncias y Persecución laboral",
+    "type": "investigación académica original",
+    "notes": "Estudio exploratorio con documentos, observación y conversaciones. Identifica apoyo de estudiantes PT junto con otros actores; no prueba afiliación de toda trabajadora.",
+    "chapters": [
+      "15-otra-tradicion-revolucionaria.md"
+    ]
+  },
+  {
+    "id": "tse-financiacion-2026",
+    "author": "Tribunal Supremo de Elecciones de Costa Rica",
+    "title": "Resolución 3788-E 10-2026",
+    "date": "2026-06-02",
+    "event_date": "2026-02-01",
+    "url": "https://www.tse.go.cr/juris/electorales/3788-E10-2026.html?zoom_highlight=tribunal+supremo+elecciones+costa+rica",
+    "accessed": "2026-11-06",
+    "locator": "ConsiderandoII, cuadro de votos presidenciales y legislativos.",
+    "type": "fuente primaria electoral",
+    "notes": "La columna porcentual combina ambas papeletas para contribución estatal. El capítulo calcula porcentajes separados con 2561343 y 2544626 votos válidos.",
+    "chapters": [
+      "16-izquierdas-ante-el-presente.md"
+    ]
+  },
+  {
+    "id": "tse-leg-2026",
+    "author": "Tribunal Supremo de Elecciones de Costa Rica",
+    "title": "Resolución 2363-E 11-2026",
+    "date": "2026-03-23",
+    "event_date": "2026-02-01",
+    "url": "https://www.tse.go.cr/juris/electorales/2363-E11-2026.html",
+    "accessed": "2026-11-06",
+    "locator": "ConsiderandoI, cuadro por partido y provincia; adjudicación y parte dispositiva.",
+    "type": "fuente primaria electoral",
+    "notes": "FA 313868 votos y 7 diputaciones; De La Clase Trabajadora 5829 votos y 0 diputaciones.",
+    "chapters": [
+      "16-izquierdas-ante-el-presente.md"
+    ]
+  },
+  {
+    "id": "sanchez-fa-costas-2026",
+    "author": "Sebastián Sánchez",
+    "title": "Frente Amplio reconoce su debilidad en las provincias costeras: Una tarea pendiente es lograr mayor representación",
+    "date": "2026-10-18",
+    "event_date": "2026-10-18",
+    "url": "https://www.nacion.com/politica/frente-amplio-reconoce-su-debilidad-en-las/PMLNKAVTGJEVVNHT52DE5MYHW4/story/",
+    "accessed": "2026-11-06",
+    "locator": "Declaraciones de Jonathan Acuña y apartado Congreso ideológico",
+    "type": "entrevista periodística",
+    "notes": "Diagnóstico atribuido a la dirección; no prueba eficacia futura de la estrategia anunciada.",
+    "chapters": [
+      "16-izquierdas-ante-el-presente.md"
+    ]
+  },
+  {
+    "id": "fa-programa-2026",
+    "author": "Partido Frente Amplio",
+    "title": "Plan de gobierno 2026–2030",
+    "date": "2025",
+    "event_date": "Propuestas 2026–2030",
+    "url": "https://www.frenteamplio.org/wp-content/uploads/2025/10/PLAN-DE-GOBIERNO-FRENTE-AMPLIO-2026-2030.pdf",
+    "accessed": "2026-11-06",
+    "locator": "PDF pp. 2–5, introducción",
+    "type": "programa partidario",
+    "notes": "Descargado del servidor del partido y leído localmente por exceder límite de tamaño del visor web. No se redistribuye íntegro.",
+    "chapters": [
+      "16-izquierdas-ante-el-presente.md"
+    ]
+  },
+  {
+    "id": "pt-programa-2026",
+    "author": "Partido de la Clase Trabajadora",
+    "title": "Programa electoral 2026",
+    "date": "2025",
+    "event_date": "Propuestas 2026–2030",
+    "url": "https://ptcostarica.org/wp-content/uploads/2025/10/Programa-electoral-PT.pdf",
+    "accessed": "2026-11-06",
+    "locator": "PDF pp. 8–9 y 37–38",
+    "type": "programa partidario",
+    "notes": "Se utilizan propuestas y posiciones; no se adoptan cálculos económicos ni cifras internacionales sin corroboración.",
+    "chapters": [
+      "16-izquierdas-ante-el-presente.md"
+    ]
+  },
+  {
+    "id": "ucr-programas-racismo-2026",
+    "author": "Guillermo Navarro Alvarado y Kisha Méndez Rodríguez; Cátedra de Estudios de África y el Caribe, CIEP e IIS, Universidad de Costa Rica",
+    "title": "Análisis comparativo de planes de gobierno. Propuestas contra las discriminaciones y reconocimiento étnico-raciales, pluriculturalidad y multietnicidad. Elecciones Nacionales 2026 de Costa Rica",
+    "date": "2026-01",
+    "event_date": "Consultas de programas 2026-01-02 a 2026-01-15",
+    "url": "https://africa.caribe.fcs.ucr.ac.cr/wp-content/uploads/2026/01/Informe-Comparacion-planes-de-gobierno-Final.pdf",
+    "accessed": "2026-11-06",
+    "locator": "PDF pp. 2–4 metodología y 7 acciones afirmativas afrodescendientes",
+    "type": "análisis académico de programas",
+    "notes": "PDF p. 7 revisada visualmente. No evalúa viabilidad o cumplimiento; no cubre toda diversidad étnica ni todos los territorios. Autoría y título completos verificados visualmente en la portada.",
+    "chapters": [
+      "16-izquierdas-ante-el-presente.md"
+    ]
+  },
+  {
+    "id": "murillo-fa-congreso-2026",
+    "author": "José Adelio Murillo",
+    "title": "Asamblea Nacional del Frente Amplio da inicio a su congreso ideológico",
+    "date": "2026-10-18",
+    "event_date": "2026-10-18",
+    "url": "https://crhoy.com/nacionales/asamblea-nacional-del-frente-amplio-da-inicio-a-su-congreso-ideologico/",
+    "accessed": "2026-11-06",
+    "locator": "Convocatoria aprobada y declaraciones de Jonathan Acuña",
+    "type": "crónica periodística contemporánea",
+    "notes": "Contrastada con crónicas de La Nación del mismo evento; el proceso anunciado continúa después del corte.",
+    "chapters": [
+      "16-izquierdas-ante-el-presente.md"
+    ]
+  },
+  {
+    "id": "sanchez-fa-socialismo-2026",
+    "author": "Sebastián Sánchez",
+    "title": "Frente Amplio debatió el uso de los conceptos socialismo y democracia dentro de sus objetivos. Así quedó la redacción final",
+    "date": "2026-10-18",
+    "event_date": "2026-10-18",
+    "url": "https://www.nacion.com/politica/frente-amplio-debatio-el-uso-de-los-conceptos/BWV7XNFEZNBDVHK2U72F5W5LLY/story/",
+    "accessed": "2026-11-06",
+    "locator": "Debate de objetivos delV congreso; declaraciones de Robles,Araya yVillalta",
+    "type": "crónica periodística contemporánea",
+    "notes": "Se documenta discusión y redacción de objetivo; no se afirma reforma integral de estatutos ni conclusión del congreso.",
+    "chapters": [
+      "16-izquierdas-ante-el-presente.md"
+    ]
+  },
+  {
+    "id": "pt-derechos-octubre-2026",
+    "author": "Partido de la Clase Trabajadora",
+    "title": "¡No al retroceso de nuestros derechos! ¡La anticoncepción de emergencia es un derecho!",
+    "date": "2026-10-23",
+    "event_date": "2026-10-23",
+    "url": "https://ptcostarica.org/no-al-retroceso-de-nuestros-derechos-la-anticoncepcion-de-emergencia-es-un-derecho/",
+    "accessed": "2026-11-06",
+    "locator": "Párrafos finales, posición sobre derechos reproductivos y convocatoria",
+    "type": "declaración partidaria",
+    "notes": "Acredita posición y convocatoria; no valida cifras de justicia, imputaciones contra instituciones ni asistencia efectiva a la protesta.",
+    "chapters": [
+      "16-izquierdas-ante-el-presente.md"
+    ]
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "note": 1,
+    "claim": "El Frente Amplio se fundó 16 octubre 2004.",
+    "source": "tse-fa-ficha",
+    "pages": [],
+    "type": "hecho",
+    "counterpoint": "La fecha de fundación se distingue de la posterior inscripción a escala nacional.",
+    "visual_checked": false
+  },
+  {
+    "note": 1,
+    "claim": "El Frente Amplio obtuvo una diputación provincial en 2006 con José Merino.",
+    "source": "tse-leg-2006",
+    "pages": [],
+    "type": "hecho",
+    "counterpoint": "Resultado y adjudicación de esa elección; no mide apoyo social permanente ni cambios posteriores de afiliación.",
+    "visual_checked": false
+  },
+  {
+    "note": 2,
+    "claim": "La inscripción nacional del FA se aprobó 13 julio 2009 y se comunicó en acta 4 agosto.",
+    "source": "tse-fa-nacional-2009",
+    "pages": [],
+    "type": "hecho",
+    "counterpoint": "Inscripción nacional del partido; no demuestra absorción de otras organizaciones ni fecha inicial de militancia.",
+    "visual_checked": false
+  },
+  {
+    "note": 3,
+    "claim": "Patricia Mora relató su trayectoria PVP–PPC–FD–FA ante la Asamblea.",
+    "source": "mora-asamblea-2015",
+    "pages": [
+      75,
+      76,
+      77
+    ],
+    "type": "declaracion",
+    "counterpoint": "Testimonio público situado; no prueba fusión jurídica de los partidos.",
+    "visual_checked": false
+  },
+  {
+    "note": 4,
+    "claim": "El FA declara principios democrático, socialista, pluralista, feminista y ecologista.",
+    "source": "fa-estatuto",
+    "pages": [
+      2,
+      3,
+      4
+    ],
+    "type": "declaracion",
+    "counterpoint": "Versión vigente al corte; no se proyectan todas sus reformas sobre 2004.",
+    "visual_checked": false
+  },
+  {
+    "note": 5,
+    "claim": "Gómez Campos describe estructuras sectoriales y comités de base frenteamplistas.",
+    "source": "gomez-campos-organizacion-partidaria",
+    "pages": [
+      28,
+      29,
+      30
+    ],
+    "type": "hecho",
+    "counterpoint": "Diseño institucional no prueba funcionamiento homogéneo de todos los órganos.",
+    "visual_checked": false
+  },
+  {
+    "note": 6,
+    "claim": "La estructura formal y las capacidades de los partidos pueden diferir.",
+    "source": "gomez-campos-organizacion-partidaria",
+    "pages": [
+      30,
+      31,
+      32
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Conclusiones de un estudio de 2015; no constituyen seguimiento longitudinal de cada militante u órgano partidario.",
+    "visual_checked": false
+  },
+  {
+    "note": 7,
+    "claim": "Merino consultó sobre recursos públicos en campaña del referéndum en julio 2007.",
+    "source": "tse-merino-referendum-2007",
+    "pages": [],
+    "type": "hecho",
+    "counterpoint": "Las alegaciones de consulta no se adoptan como hechos probados.",
+    "visual_checked": false
+  },
+  {
+    "note": 8,
+    "claim": "Investigaciones UCR examinaban diversidad y continuidad parcial de comités patrióticos.",
+    "source": "ucr-no-tlc-2008",
+    "pages": [],
+    "type": "declaracion",
+    "counterpoint": "Crónica de resultados preliminares de Raventós y Rayner, no censo definitivo.",
+    "visual_checked": false
+  },
+  {
+    "note": 9,
+    "claim": "Referéndum 2007:805658 votos por el Sí y 756814 No, participación 59,2%.",
+    "source": "tse-referendum-2007",
+    "pages": [],
+    "type": "hecho",
+    "counterpoint": "Son opciones sobre tratado, no votos partidarios.",
+    "visual_checked": false
+  },
+  {
+    "note": 10,
+    "claim": "Una sola curul ofrecía capacidades limitadas de intervención.",
+    "source": "tse-leg-2006",
+    "pages": [],
+    "type": "inferencia",
+    "counterpoint": "La declaratoria prueba número; evaluación de capacidades es razonamiento del libro.",
+    "visual_checked": false
+  }
+]

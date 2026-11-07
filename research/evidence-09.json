@@ -1,0 +1,251 @@
+[
+  {
+    "note": 1,
+    "claim": "Retorno de Mora a Asamblea en 1970 vía Acción Socialista y legalización del PVP en 1975",
+    "source": "luces-y-sombras-socialdemocracia-guerra-fria",
+    "pages": [
+      129,
+      130,
+      138
+    ],
+    "type": "hecho",
+    "counterpoint": "Representación mediante PASO no equivale a legalidad de Vanguardia Popular.",
+    "visual_checked": false
+  },
+  {
+    "note": 2,
+    "claim": "Rejuvenecimiento y pluralización de izquierdas en la década de 1970",
+    "source": "comunismo-a-la-tica-pvp-2020",
+    "pages": [
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "type": "interpretacion",
+    "counterpoint": "La renovación no fue homogénea ni exclusivamente universitaria.",
+    "visual_checked": false
+  },
+  {
+    "note": 3,
+    "claim": "Congreso de 1976 registra final de ilegalidad en 1975",
+    "source": "discursos-manuel-mora-1934-1979",
+    "pages": [
+      534,
+      536
+    ],
+    "type": "hecho",
+    "counterpoint": "La ley y el texto constitucional se contrastan con TSE.",
+    "visual_checked": false
+  },
+  {
+    "note": 4,
+    "claim": "Mora reivindica legalidad como conquista popular",
+    "source": "discursos-manuel-mora-1934-1979",
+    "pages": [
+      534,
+      535,
+      536
+    ],
+    "type": "declaracion",
+    "counterpoint": "El discurso no determina por sí solo el peso causal de todos los actores.",
+    "visual_checked": false
+  },
+  {
+    "note": 5,
+    "claim": "Interpretación de democratización societal y ciudadanía social",
+    "source": "derecho-colectivo-trabajo-costa-rica-2021",
+    "pages": [
+      28,
+      29,
+      30
+    ],
+    "type": "interpretacion",
+    "counterpoint": "El esquema de Castro no sustituye historias particulares de cada movilización.",
+    "visual_checked": false
+  },
+  {
+    "note": 6,
+    "claim": "Huelga y primera convención bananera de 1971",
+    "source": "derecho-colectivo-trabajo-costa-rica-2021",
+    "pages": [
+      29
+    ],
+    "type": "hecho",
+    "counterpoint": "Coincide con Álvarez-Echandi, PDF 135; no se adopta mención inconsistente de 1969–1970 en PDF 132.",
+    "visual_checked": false
+  },
+  {
+    "note": 7,
+    "claim": "Convenios, resultados materiales y disputa sobre legalismo",
+    "source": "luces-y-sombras-socialdemocracia-guerra-fria",
+    "pages": [
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Testimonio retrospectivo de Montero Vega no representa neutralmente a ambas corrientes.",
+    "visual_checked": false
+  },
+  {
+    "note": 8,
+    "claim": "Restricciones y encarcelamiento de dirigentes del ICE en 1976",
+    "source": "derecho-colectivo-trabajo-costa-rica-2021",
+    "pages": [
+      29,
+      30
+    ],
+    "type": "hecho",
+    "counterpoint": "No se infiere que toda huelga tuvo el mismo trato.",
+    "visual_checked": false
+  },
+  {
+    "note": 9,
+    "claim": "Huelga de segunda convención bananera declarada legal en 1974",
+    "source": "derecho-colectivo-trabajo-costa-rica-2021",
+    "pages": [
+      30
+    ],
+    "type": "hecho",
+    "counterpoint": "Un episodio de reconocimiento no implica eliminación general de restricciones sindicales.",
+    "visual_checked": false
+  },
+  {
+    "note": 10,
+    "claim": "Ingreso del MARS a la JVC en 1974 y nuevos militantes",
+    "source": "comunismo-a-la-tica-pvp-2020",
+    "pages": [
+      16,
+      17
+    ],
+    "type": "hecho",
+    "counterpoint": "No se equipara afiliación nominal con actividad permanente.",
+    "visual_checked": false
+  },
+  {
+    "note": 11,
+    "claim": "Tensiones generacionales y sociales de renovación",
+    "source": "comunismo-a-la-tica-pvp-2020",
+    "pages": [
+      17,
+      18,
+      19
+    ],
+    "type": "interpretacion",
+    "counterpoint": "No todos los jóvenes ocuparon la misma tendencia.",
+    "visual_checked": false
+  },
+  {
+    "note": 12,
+    "claim": "Desigualdad de género y machismo en experiencias de militantes",
+    "source": "comunismo-a-la-tica-pvp-2020",
+    "pages": [
+      20
+    ],
+    "type": "interpretacion",
+    "counterpoint": "La evidencia recogida es parcial; no se inventan experiencias individuales.",
+    "visual_checked": false
+  },
+  {
+    "note": 13,
+    "claim": "Respuesta de Mora a obispos durante campaña del PASO de 1974",
+    "source": "discursos-manuel-mora-1934-1979",
+    "pages": [
+      523,
+      529
+    ],
+    "type": "declaracion",
+    "counterpoint": "Acusaciones sobre maniobras electorales no se presentan como hechos corroborados.",
+    "visual_checked": false
+  },
+  {
+    "note": 14,
+    "claim": "Uso electoral de memoria de alianza con Sanabria",
+    "source": "discursos-manuel-mora-1934-1979",
+    "pages": [
+      524,
+      525,
+      526,
+      527,
+      528
+    ],
+    "type": "declaracion",
+    "counterpoint": "Conversaciones recordadas no equivalen a transcripción contemporánea.",
+    "visual_checked": false
+  },
+  {
+    "note": 15,
+    "claim": "Pluralidad marxista y formación de Pueblo Unido en 1978",
+    "source": "comunismo-a-la-tica-pvp-2020",
+    "pages": [
+      17,
+      18,
+      20
+    ],
+    "type": "hecho",
+    "counterpoint": "Coalición no equivale a partido único; votos no se atribuyen íntegramente al PVP.",
+    "visual_checked": false
+  },
+  {
+    "note": 16,
+    "claim": "Legalidad, reformas y horizonte socialista en discurso de 1976",
+    "source": "discursos-manuel-mora-1934-1979",
+    "pages": [
+      533,
+      534,
+      535
+    ],
+    "type": "declaracion",
+    "counterpoint": "No representa consenso detallado de todos los militantes.",
+    "visual_checked": false
+  },
+  {
+    "note": 17,
+    "claim": "Persistencia de tensiones pese a crecimiento y unidad proclamada",
+    "source": "comunismo-a-la-tica-pvp-2020",
+    "pages": [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "type": "interpretacion",
+    "counterpoint": "La crisis posterior no estaba predeterminada por el crecimiento.",
+    "visual_checked": false
+  },
+  {
+    "note": 18,
+    "claim": "Programa neoliberal y heterogeneidad coalición de Carazo en 1977–1978",
+    "source": "neoliberalismo-costa-rica-1977-1978",
+    "pages": [
+      44,
+      45,
+      46
+    ],
+    "type": "interpretacion",
+    "counterpoint": "No se describe toda administración Carazo como aplicación uniforme de un programa.",
+    "visual_checked": false
+  },
+  {
+    "note": 19,
+    "claim": "Debate comunista sobre aliados dentro del PLN",
+    "source": "luces-y-sombras-socialdemocracia-guerra-fria",
+    "pages": [
+      122,
+      123,
+      129,
+      130
+    ],
+    "type": "interpretacion",
+    "counterpoint": "El carácter progresista del PLN era una valoración disputada, no hecho general.",
+    "visual_checked": false
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "title": "Comunismo a la tica",
+  "cutoff": "2026-11-06",
+  "chapters": 16,
+  "chapter_words": [
+    2324,
+    2250,
+    2334,
+    2289,
+    2243,
+    2327,
+    2270,
+    2272,
+    2294,
+    2213,
+    1891,
+    1942,
+    1848,
+    1940,
+    1892,
+    1939
+  ],
+  "words_chapters": 34268,
+  "words_manuscript_without_notes": 37030,
+  "word_count_method": "Tokens léxicos del texto anterior a Notas; incluye marcadores numéricos y texto de tablas.",
+  "documents": 23,
+  "sections": 175
+}

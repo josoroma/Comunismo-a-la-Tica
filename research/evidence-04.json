@@ -1,0 +1,480 @@
+[
+  {
+    "note": 1,
+    "claim": "Exclusión presidencial y participación municipal de 1932; impugnación electoral exitosa.",
+    "source": "desempeno-electoral-partido-comunista-1999",
+    "pages": [
+      4,
+      5
+    ],
+    "type": "hecho",
+    "counterpoint": "Un procedimiento favorable no implica un sistema plenamente abierto.",
+    "visual_checked": true,
+    "visual_pages_checked": [
+      4,
+      5
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/desempeno-electoral-partido-comunista-1999/chapters/03-influencia-del-abstencionismo.md",
+      "data/books/desempeno-electoral-partido-comunista-1999/chapters/02-desempeno-en-el-juego-electoral.md"
+    ]
+  },
+  {
+    "note": 2,
+    "claim": "Series electorales heterogéneas, alianzas, cobertura e información incompleta.",
+    "source": "desempeno-electoral-partido-comunista-1999",
+    "pages": [
+      2,
+      3
+    ],
+    "type": "interpretacion",
+    "counterpoint": "No son comparables automáticamente todos los porcentajes de las tablas.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/desempeno-electoral-partido-comunista-1999/chapters/01-las-fuentes.md"
+    ]
+  },
+  {
+    "note": 3,
+    "claim": "Abstencionismo, tipo de elección y apoyo relativamente estable.",
+    "source": "desempeno-electoral-partido-comunista-1999",
+    "pages": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "type": "interpretacion",
+    "counterpoint": "No se infiere afiliación o motivo individual a partir de resultados agregados.",
+    "visual_checked": false,
+    "visual_pages_checked": [
+      5
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/desempeno-electoral-partido-comunista-1999/chapters/03-influencia-del-abstencionismo.md",
+      "data/books/desempeno-electoral-partido-comunista-1999/chapters/04-caida-de-1936-y-aumento-de-1938.md"
+    ]
+  },
+  {
+    "note": 4,
+    "claim": "Permanencia partidaria, medios de difusión y costos represivos de la movilización.",
+    "source": "desempeno-electoral-partido-comunista-1999",
+    "pages": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Se omite la divergencia no resuelta sobre la deportación de Betancourt.",
+    "visual_checked": false,
+    "visual_pages_checked": [
+      9,
+      11,
+      12
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/desempeno-electoral-partido-comunista-1999/chapters/04-caida-de-1936-y-aumento-de-1938.md"
+    ]
+  },
+  {
+    "note": 5,
+    "claim": "Geografía de apoyo y reconsideración del vínculo con pequeños caficultores.",
+    "source": "desempeno-electoral-partido-comunista-1999",
+    "pages": [
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "type": "interpretacion",
+    "counterpoint": "La evidencia territorial no determina la ocupación ni las razones de cada votante.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/desempeno-electoral-partido-comunista-1999/chapters/06-areas-de-apoyo-electoral.md"
+    ]
+  },
+  {
+    "note": 6,
+    "claim": "Comparación de alfabetización y voto con censos posteriores.",
+    "source": "desempeno-electoral-partido-comunista-1999",
+    "pages": [
+      23,
+      24,
+      25
+    ],
+    "type": "interpretacion",
+    "counterpoint": "El desfase temporal y la inferencia ecológica limitan la conclusión causal.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/desempeno-electoral-partido-comunista-1999/chapters/06-areas-de-apoyo-electoral.md"
+    ]
+  },
+  {
+    "note": 7,
+    "claim": "Santo Domingo en 1942: 44,4 % legislativo frente a 4,6 % municipal.",
+    "source": "desempeno-electoral-partido-comunista-1999",
+    "pages": [
+      15
+    ],
+    "type": "hecho",
+    "counterpoint": "Cifras verificadas visualmente; variación de opciones electorales, no medida directa de identidad comunista.",
+    "visual_checked": true,
+    "visual_pages_checked": [
+      15
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/desempeno-electoral-partido-comunista-1999/chapters/05-alza-de-1942-y-baja-de-1948.md"
+    ]
+  },
+  {
+    "note": 8,
+    "claim": "Discurso fechado en 1938 que enlaza himnos nacional e internacional.",
+    "source": "discursos-manuel-mora-1934-1979",
+    "pages": [
+      83,
+      84,
+      85
+    ],
+    "type": "declaracion",
+    "counterpoint": "La fecha es la consignada por los compiladores, no inferida de referencias internas.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/discursos-manuel-mora-1934-1979/chapters/11-democracia-progreso-bienestar.md"
+    ]
+  },
+  {
+    "note": 8,
+    "claim": "Discurso fechado en 1938 que enlaza himnos nacional e internacional.",
+    "source": "discursos-manuel-mora-1934-1979",
+    "pages": [
+      95
+    ],
+    "type": "declaracion",
+    "counterpoint": "La fecha es la consignada por los compiladores, no inferida de referencias internas.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/discursos-manuel-mora-1934-1979/chapters/11-democracia-progreso-bienestar.md"
+    ]
+  },
+  {
+    "note": 9,
+    "claim": "Mora define la consigna Por un comunismo tico.",
+    "source": "discursos-manuel-mora-1934-1979",
+    "pages": [
+      87,
+      88
+    ],
+    "type": "declaracion",
+    "counterpoint": "No abandona por ello el horizonte socialista ni demuestra ausencia de vínculos internacionales.",
+    "visual_checked": true,
+    "visual_pages_checked": [
+      87,
+      88
+    ],
+    "native_text": true,
+    "local_paths": [
+      "data/books/discursos-manuel-mora-1934-1979/chapters/11-democracia-progreso-bienestar.md"
+    ],
+    "quote": "Por un comunismo tico",
+    "review_note": "Cotejados facsímiles PDF87–88; cita breve en PDF88, folio impreso86."
+  },
+  {
+    "note": 10,
+    "claim": "Crítica pública de sectarismo y misterio organizativo.",
+    "source": "discursos-manuel-mora-1934-1979",
+    "pages": [
+      86
+    ],
+    "type": "declaracion",
+    "counterpoint": "La exhortación no prueba que las prácticas se modificaran por completo.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/discursos-manuel-mora-1934-1979/chapters/11-democracia-progreso-bienestar.md"
+    ]
+  },
+  {
+    "note": 11,
+    "claim": "Defensa condicional de instituciones y contenido económico de la libertad.",
+    "source": "discursos-manuel-mora-1934-1979",
+    "pages": [
+      87,
+      88
+    ],
+    "type": "declaracion",
+    "counterpoint": "No equivale a pacifismo absoluto en cualquier circunstancia.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/discursos-manuel-mora-1934-1979/chapters/11-democracia-progreso-bienestar.md"
+    ]
+  },
+  {
+    "note": 12,
+    "claim": "El Comité Central reclama autoría colectiva de la orientación.",
+    "source": "discursos-manuel-mora-1934-1979",
+    "pages": [
+      83
+    ],
+    "type": "declaracion",
+    "counterpoint": "La declaración no elimina la centralidad pública del dirigente.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/discursos-manuel-mora-1934-1979/chapters/11-democracia-progreso-bienestar.md"
+    ]
+  },
+  {
+    "note": 12,
+    "claim": "El Comité Central reclama autoría colectiva de la orientación.",
+    "source": "discursos-manuel-mora-1934-1979",
+    "pages": [
+      95
+    ],
+    "type": "declaracion",
+    "counterpoint": "La declaración no elimina la centralidad pública del dirigente.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/discursos-manuel-mora-1934-1979/chapters/11-democracia-progreso-bienestar.md"
+    ]
+  },
+  {
+    "note": 13,
+    "claim": "Política productiva, protección laboral y disputa del patriotismo.",
+    "source": "discursos-manuel-mora-1934-1979",
+    "pages": [
+      89,
+      90,
+      91,
+      92,
+      93,
+      94
+    ],
+    "type": "declaracion",
+    "counterpoint": "La unidad programática propuesta no elimina contradicciones de intereses.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/discursos-manuel-mora-1934-1979/chapters/11-democracia-progreso-bienestar.md"
+    ]
+  },
+  {
+    "note": 14,
+    "claim": "Comparación de explicaciones electoral e internacional del cambio de línea.",
+    "source": "desempeno-electoral-partido-comunista-1999",
+    "pages": [
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Ninguna de las dos explicaciones se convierte en causalidad exclusiva.",
+    "visual_checked": false,
+    "visual_pages_checked": [
+      9,
+      11,
+      12
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/desempeno-electoral-partido-comunista-1999/chapters/04-caida-de-1936-y-aumento-de-1938.md",
+      "data/books/desempeno-electoral-partido-comunista-1999/chapters/05-alza-de-1942-y-baja-de-1948.md"
+    ]
+  },
+  {
+    "note": 14,
+    "claim": "Comparación de explicaciones electoral e internacional del cambio de línea.",
+    "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
+    "pages": [
+      67,
+      68,
+      69,
+      70,
+      71,
+      72
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Ninguna de las dos explicaciones se convierte en causalidad exclusiva.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/lucha-social-guerra-civil-costa-rica-1940-1948/chapters/14-internacional-comunista-lucha-politica.md"
+    ]
+  },
+  {
+    "note": 15,
+    "claim": "Limitaciones financieras y solicitud de préstamo internacional.",
+    "source": "desempeno-electoral-partido-comunista-1999",
+    "pages": [
+      26
+    ],
+    "type": "hecho",
+    "counterpoint": "Se registra la solicitud citada por Molina, sin afirmar desembolso ni dependencia financiera total.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/desempeno-electoral-partido-comunista-1999/chapters/06-areas-de-apoyo-electoral.md"
+    ]
+  },
+  {
+    "note": 16,
+    "claim": "Defensa de programas contra personalismo y paradoja de la centralidad de Mora.",
+    "source": "discursos-manuel-mora-1934-1979",
+    "pages": [
+      89
+    ],
+    "type": "interpretacion",
+    "counterpoint": "La selección de discursos no representa todas las voces del partido.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/discursos-manuel-mora-1934-1979/chapters/11-democracia-progreso-bienestar.md"
+    ]
+  },
+  {
+    "note": 17,
+    "claim": "Autonomía nacional y defensa soviética en discurso de diciembre de 1939.",
+    "source": "discursos-manuel-mora-1934-1979",
+    "pages": [
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110
+    ],
+    "type": "declaracion",
+    "counterpoint": "Se estudia lo que sostuvo Mora, no se usa su discurso como reconstrucción suficiente de la guerra europea.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/discursos-manuel-mora-1934-1979/chapters/13-democracia-discurso-i.md"
+    ]
+  },
+  {
+    "note": 18,
+    "claim": "Crítica de dobles medidas y confianza en justificaciones soviéticas.",
+    "source": "discursos-manuel-mora-1934-1979",
+    "pages": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108
+    ],
+    "type": "interpretacion",
+    "counterpoint": "La crítica a adversarios no acredita automáticamente la propia versión del orador.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/discursos-manuel-mora-1934-1979/chapters/13-democracia-discurso-i.md"
+    ]
+  },
+  {
+    "note": 19,
+    "claim": "Crisis republicana, competencia por votos y acercamiento político.",
+    "source": "desempeno-electoral-partido-comunista-1999",
+    "pages": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "type": "interpretacion",
+    "counterpoint": "La interpretación electoral no agota motivaciones sociales o ideológicas.",
+    "visual_checked": false,
+    "visual_pages_checked": [
+      15
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/desempeno-electoral-partido-comunista-1999/chapters/05-alza-de-1942-y-baja-de-1948.md",
+      "data/books/desempeno-electoral-partido-comunista-1999/chapters/06-areas-de-apoyo-electoral.md"
+    ]
+  },
+  {
+    "note": 20,
+    "claim": "Participación institucional, alternativas de alianza y límites de control.",
+    "source": "desempeno-electoral-partido-comunista-1999",
+    "pages": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "type": "inferencia",
+    "counterpoint": "No se supone que electores, sindicatos y aliados compartan todos los objetivos.",
+    "visual_checked": false,
+    "visual_pages_checked": [
+      15
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/desempeno-electoral-partido-comunista-1999/chapters/05-alza-de-1942-y-baja-de-1948.md",
+      "data/books/desempeno-electoral-partido-comunista-1999/chapters/06-areas-de-apoyo-electoral.md"
+    ]
+  },
+  {
+    "note": 20,
+    "claim": "Participación institucional, alternativas de alianza y límites de control.",
+    "source": "discursos-manuel-mora-1934-1979",
+    "pages": [
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94
+    ],
+    "type": "inferencia",
+    "counterpoint": "No se supone que electores, sindicatos y aliados compartan todos los objetivos.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/discursos-manuel-mora-1934-1979/chapters/11-democracia-progreso-bienestar.md"
+    ]
+  }
+]

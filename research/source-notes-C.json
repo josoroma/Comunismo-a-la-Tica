@@ -1,0 +1,158 @@
+[
+  {
+    "source": "comunismo-a-la-tica-pvp-2020",
+    "files": [
+      "data/books/comunismo-a-la-tica-pvp-2020/chapters/12-conclusiones.md"
+    ],
+    "pages": [
+      124,
+      125,
+      126,
+      127
+    ],
+    "reading": "Sección de conclusiones leída íntegra; se atribuyen explicaciones y categorías a Sofía Cortés Sequeira.",
+    "limitations": [
+      "No permite reconstruir todos los comités después de 1984.",
+      "No usar derrumbe soviético como causa única de crisis que lo antecede."
+    ]
+  },
+  {
+    "source": "derecho-colectivo-trabajo-costa-rica-2021",
+    "files": [
+      "data/books/derecho-colectivo-trabajo-costa-rica-2021/chapters/12-segunda-reaccion-conservadora.md",
+      "data/books/derecho-colectivo-trabajo-costa-rica-2021/chapters/13-resistencia-sindical.md",
+      "data/books/derecho-colectivo-trabajo-costa-rica-2021/chapters/14-tercera-reaccion-conservadora.md"
+    ],
+    "pages": [
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53
+    ],
+    "reading": "Tres capítulos completos leídos en secuencia. Reconstrucción jurídica e histórica de Mauricio Castro Méndez, publicada en 2021.",
+    "limitations": [
+      "Interpretación crítica atribuida al autor, no consenso de todos los actores.",
+      "Expedientes judiciales y leyes conocidas a través del estudio cuando no hay nota primaria adicional.",
+      "Proyectos todavía abiertos en 2021 no se presentan como derecho vigente en 2026."
+    ]
+  },
+  {
+    "source": "gomez-campos-organizacion-partidaria",
+    "files": [
+      "data/books/gomez-campos-organizacion-partidaria/chapters/04-perfil-organizacional.md",
+      "data/books/gomez-campos-organizacion-partidaria/chapters/05-conclusiones.md"
+    ],
+    "pages": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
+    ],
+    "reading": "Perfil organizacional completo y conclusiones leídos; uso focal en Frente Amplio PDF28–30 y conclusiones30–32.",
+    "limitations": [
+      "Estatutos y entrevistas permiten contrastar forma y funcionamiento en la muestra temporal.",
+      "No acreditan funcionamiento de todos los órganos durante 2026."
+    ]
+  },
+  {
+    "source": "tse-pt-cancelacion-2016",
+    "reading": "Texto de resolución 5229-E3-2016 leído; contrastado con inscripción original2013 y ficha actual2017.",
+    "finding": "Se confirma discontinuidad registral; no se infiere solo de discrepancia entre páginas web.",
+    "limitations": [
+      "La fecha02/07/2012 de lista genérica de cancelados es incompatible con documento original2/07/2013 y no se reproduce."
+    ]
+  },
+  {
+    "source": "tse-pres-2014",
+    "reading": "Cuadro incorporado como imagen revisado visualmente:354479FA y4897PT.",
+    "limitations": [
+      "Se usa primera votación, no segunda ronda ni suma de ambas."
+    ]
+  },
+  {
+    "source": "tse-financiacion-2026",
+    "reading": "Cuadro leído y porcentajes separados recalculados.",
+    "finding": "Porcentajes separados, redondeados a dos decimales: Presidencia FA 3,76 %, PT 0,10 %; Legislativa FA 12,33 %, PT 0,23 %. Denominadores: 2.561.343 votos presidenciales y 2.544.626 legislativos.",
+    "limitations": [
+      "La columna8,03%FA y0,16%PT en documento combina votos para financiamiento.",
+      "No confundir monto máximo de contribución con dinero efectivamente pagado."
+    ]
+  },
+  {
+    "source": "fa-programa-2026",
+    "reading": "Introducción PDF2–5 leída completa; documento descargado del sitio partidario por exceder tamaño del visor.",
+    "limitations": [
+      "Resumen programático breve; no se validan automáticamente diagnósticos y cálculos del documento.",
+      "No se redistribuye el PDF íntegro."
+    ]
+  },
+  {
+    "source": "pt-programa-2026",
+    "reading": "Secciones utilizadas leídas con contexto: economía y consejos PDF7–9, internacionalismo PDF37–38.",
+    "limitations": [
+      "No se adoptan cifras internacionales ni proyecciones económicas sin contraste.",
+      "Se distingue crítica al FA como declaración del PT."
+    ]
+  },
+  {
+    "source": "ucr-programas-racismo-2026",
+    "reading": "MetodologíaPDF2–4 y hallazgoPDF7 leídos; página7 revisada visualmente.",
+    "limitations": [
+      "No evalúa factibilidad ni ejecución de programas.",
+      "No se utilizan fechas históricas incidentales ni tablas con columnas ambiguas para sostener hechos no contrastados."
+    ]
+  },
+  {
+    "source": "asamblea-fiscal-2018",
+    "reading": "Página institucional recuperada mediante descarga HTTPS; sitio presenta fallo del visor web. Texto leído y presencia de Villalta confirmada.",
+    "limitations": [
+      "No se pudo confirmar día exacto de publicación; se conserva2018."
+    ]
+  },
+  {
+    "scope": "chapters11–16",
+    "limitations": [
+      "No hay auditoría exhaustiva de gestión municipal de FA y PT.",
+      "No hay serie longitudinal de composición sociológica de militancia ni de funcionamiento cotidiano de cada órgano.",
+      "No se atribuyen causalidades individuales a diferencias agregadas entre papeletas.",
+      "No se concluye que partido y sindicato sean organizaciones idénticas por cooperación localizada.",
+      "La cobertura de conflictos internos modernos es selectiva; la discusiónFAoctubre2026 no constituye historia completa de sus fracciones.",
+      "No se anticipan resultados de programas2026–2030 ni conclusiones del congresoFA previsto para continuar2027."
+    ],
+    "copyright": "Prosa original y resúmenes breves de fuentes externas; sin citas extensas ni redistribución de PDFs externos."
+  }
+]

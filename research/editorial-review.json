@@ -1,0 +1,84 @@
+{
+  "cutoff": "2026-11-06",
+  "reader_test": {
+    "desktop": {
+      "title": "Comunismo a la tica · josoroma + AI Corpus",
+      "articles": 23,
+      "overflow": false
+    },
+    "note": {
+      "hash": "#c01-note-1",
+      "target": true,
+      "returnLinks": 1
+    },
+    "back": "#c01-ref-1-1",
+    "search": {
+      "count": 33,
+      "status": "33 secciones encontradas."
+    },
+    "searchClosed": true,
+    "theme": "dark",
+    "themeReload": "dark",
+    "mobile": {
+      "overflow": false,
+      "button": "block"
+    },
+    "menu": {
+      "opened": "true",
+      "closed": "false"
+    },
+    "errors": []
+  },
+  "external_link_check": {
+    "count": 43,
+    "http_200": 43
+  },
+  "cross_reading": {
+    "chapters_01_05_and_epilogue": "Revisión independiente: sin contradicciones sustantivas; precisada ciudadanía y acceso al voto en capítulo03; notas de04 reordenadas.",
+    "chapters_06_10": "Revisión independiente: sin contradicciones sustantivas; idearioANFE situado expresamente en los sesenta en capítulo07.",
+    "chapters_11_15": "Revisión independiente: sin contradicciones genealógicas; títulos bibliográficos contrastados.",
+    "chapter_16": "Lectura editorial raíz; porcentajes de2026 recalculados; proyecciones separadas de acontecimientos.",
+    "chapter_04_literal_quote": "Cotejo raíz de facsímiles PDF87–88 de Discursos: cita Por un comunismo tico localizada en PDF88, impresa86."
+  },
+  "limitations": [
+    "El cotejo de facsímiles fue selectivo, no integral.",
+    "La validación de enlaces comprueba disponibilidad HTTP; no certifica el respaldo de una afirmación.",
+    "La revisión asistida por IA no constituye arbitraje académico externo.",
+    "Las pruebas del lector se ejecutaron con Chromium automatizado; no había navegador visible conectado."
+  ],
+  "reproducible_build": true,
+  "static_checks": {
+    "documents": 23,
+    "anchors": 846,
+    "links": 1242,
+    "broken_local_links": 0
+  },
+  "manuscript": {
+    "title": "Comunismo a la tica",
+    "cutoff": "2026-11-06",
+    "chapters": 16,
+    "chapter_words": [
+      2324,
+      2250,
+      2334,
+      2289,
+      2243,
+      2327,
+      2270,
+      2272,
+      2294,
+      2213,
+      1891,
+      1942,
+      1848,
+      1940,
+      1892,
+      1939
+    ],
+    "words_chapters": 34268,
+    "words_manuscript_without_notes": 37030,
+    "word_count_method": "Tokens léxicos del texto anterior a Notas; incluye marcadores numéricos y texto de tablas.",
+    "documents": 23,
+    "sections": 175
+  }
+}

@@ -1,0 +1,156 @@
+[
+  {
+    "note": 1,
+    "claim": "FA 2026: 96.384 votos presidenciales y 313.868 legislativos; PT: 2.456 y 5.829.",
+    "source": "tse-financiacion-2026",
+    "pages": [],
+    "type": "hecho",
+    "counterpoint": "Los porcentajes separados del capítulo son cálculo propio; columna original combina papeletas.",
+    "visual_checked": false
+  },
+  {
+    "note": 2,
+    "claim": "FA 2026 obtuvo siete diputaciones: tres en San José, dos en Alajuela, una en Cartago y una en Heredia; PT, ninguna.",
+    "source": "tse-leg-2026",
+    "pages": [],
+    "type": "hecho",
+    "counterpoint": "Adjudicación electoral; no inventario de cambios posteriores de afiliación.",
+    "visual_checked": false
+  },
+  {
+    "note": 2,
+    "claim": "Votación provincial FA 2026 muestra representación desigual.",
+    "source": "tse-leg-2026",
+    "pages": [],
+    "type": "inferencia",
+    "counterpoint": "No permite inferir por sí sola clase social, etnia o militancia de votantes.",
+    "visual_checked": false
+  },
+  {
+    "note": 3,
+    "claim": "FA 2026 supera voto legislativo 2014 pero consigue menos curules.",
+    "source": "tse-leg-2014",
+    "pages": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "type": "inferencia",
+    "counterpoint": "Comparación con declaratoria 2026; votos y curules son indicadores diferentes.",
+    "visual_checked": false
+  },
+  {
+    "note": 3,
+    "claim": "Comparación presidencial 2022–2026 muestra caídaFA y pequeña recuperaciónPT.",
+    "source": "tse-pres-2022",
+    "pages": [],
+    "type": "inferencia",
+    "counterpoint": "No atribuye causas individuales al cambio agregado.",
+    "visual_checked": false
+  },
+  {
+    "note": 3,
+    "claim": "Comparación legislativa 2022–2026 muestra crecimientoFA y pequeña variaciónPT.",
+    "source": "tse-leg-2022",
+    "pages": [],
+    "type": "inferencia",
+    "counterpoint": "No identifica crecimiento de militancia proporcional.",
+    "visual_checked": false
+  },
+  {
+    "note": 4,
+    "claim": "Jonathan Acuña reconoció debilidades frenteamplistas en provincias costeras en octubre 2026.",
+    "source": "sanchez-fa-costas-2026",
+    "pages": [],
+    "type": "declaracion",
+    "counterpoint": "Diagnóstico de dirigente, no evaluación independiente de eficacia de estrategia.",
+    "visual_checked": false
+  },
+  {
+    "note": 5,
+    "claim": "Programa del FA 2026 propone fortalecer Estado social, participación y reforma fiscal progresiva.",
+    "source": "fa-programa-2026",
+    "pages": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "type": "declaracion",
+    "counterpoint": "Programa para período futuro; no resultados ejecutados.",
+    "visual_checked": false
+  },
+  {
+    "note": 6,
+    "claim": "Programa del PT 2026 propone consejos, expropiaciones y critica reformismoFA.",
+    "source": "pt-programa-2026",
+    "pages": [
+      8,
+      9
+    ],
+    "type": "declaracion",
+    "counterpoint": "La calificación de reformista es del PT.",
+    "visual_checked": false
+  },
+  {
+    "note": 6,
+    "claim": "Programa del PT rechaza invasión rusa y gobiernos de Ortega y Bukele, y propone federación socialista.",
+    "source": "pt-programa-2026",
+    "pages": [
+      37,
+      38
+    ],
+    "type": "declaracion",
+    "counterpoint": "No se adoptan todas las cifras ni acusaciones del programa como hechos.",
+    "visual_checked": false
+  },
+  {
+    "note": 7,
+    "claim": "UCR analiza 20 programas y encuentra solo el FA con acción afirmativa educativa afrodescendiente.",
+    "source": "ucr-programas-racismo-2026",
+    "pages": [
+      2,
+      3,
+      4,
+      7
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Su metodología documenta propuestas, no viabilidad o ejecución; p 7 visual.",
+    "visual_checked": true,
+    "visual_pages_checked": [
+      7
+    ]
+  },
+  {
+    "note": 8,
+    "claim": "Asamblea del FA 18 octubre 2026 abrió procesoV congreso ideológico.",
+    "source": "murillo-fa-congreso-2026",
+    "pages": [],
+    "type": "hecho",
+    "counterpoint": "Convocatoria contrastada con otra cobertura; no se anticipan conclusiones 2027.",
+    "visual_checked": false
+  },
+  {
+    "note": 9,
+    "claim": "La asambleaFA discutió relación de socialismo y democracia en objetivos del congreso.",
+    "source": "sanchez-fa-socialismo-2026",
+    "pages": [],
+    "type": "hecho",
+    "counterpoint": "Una discusión de objetivos no prueba reforma integral estatutaria.",
+    "visual_checked": false
+  },
+  {
+    "note": 10,
+    "claim": "PT publicó 23 octubre 2026 posición y convocatoria por derechos reproductivos.",
+    "source": "pt-derechos-octubre-2026",
+    "pages": [],
+    "type": "declaracion",
+    "counterpoint": "No prueba asistencia al acto ni valida cifras y acusaciones contenidas en declaración.",
+    "visual_checked": false
+  }
+]

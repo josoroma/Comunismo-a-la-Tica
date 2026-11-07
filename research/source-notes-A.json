@@ -1,0 +1,221 @@
+{
+  "scope": "Capítulos01–05: antecedentes–1948",
+  "review_date_local": "2026-11-06",
+  "chapters": {
+    "01-el-pais-antes-del-partido.md": {
+      "lexical_words_before_notes_including_headings_and_markers": 2353,
+      "notes": 18,
+      "evidence_records": 20
+    },
+    "02-fundar-y-organizar.md": {
+      "lexical_words_before_notes_including_headings_and_markers": 2285,
+      "notes": 18,
+      "evidence_records": 20
+    },
+    "03-el-banano-y-la-huelga.md": {
+      "lexical_words_before_notes_including_headings_and_markers": 2335,
+      "notes": 21,
+      "evidence_records": 30
+    },
+    "04-las-urnas-y-la-palabra.md": {
+      "lexical_words_before_notes_including_headings_and_markers": 2319,
+      "notes": 20,
+      "evidence_records": 24
+    },
+    "05-la-alianza-y-la-guerra.md": {
+      "lexical_words_before_notes_including_headings_and_markers": 2283,
+      "notes": 19,
+      "evidence_records": 23
+    }
+  },
+  "total_lexical_words_before_notes": 11575,
+  "count_method": "Expresión Unicode \\b[\\wÁ-ú]+\\b sobre texto anterior a ## Notas. Incluye títulos y números de marcadores; no equivale a palabras puras de prosa.",
+  "sources_used": [
+    "crisis-1929-fundacion-partido-comunista-1984",
+    "desempeno-electoral-partido-comunista-1999",
+    "lucha-social-guerra-civil-costa-rica-1940-1948",
+    "mamita-yunai",
+    "discursos-manuel-mora-1934-1979"
+  ],
+  "visual_facsimile_pages": {
+    "crisis-1929-fundacion-partido-comunista-1984": [
+      40,
+      57,
+      105,
+      106,
+      107,
+      109,
+      111,
+      112,
+      113,
+      120,
+      121
+    ],
+    "desempeno-electoral-partido-comunista-1999": [
+      4,
+      5,
+      9,
+      11,
+      12,
+      15
+    ],
+    "lucha-social-guerra-civil-costa-rica-1940-1948": [
+      65,
+      66,
+      88,
+      89,
+      90,
+      136,
+      137,
+      149
+    ]
+  },
+  "visual_page_count": 25,
+  "native_text_sources": [
+    "mamita-yunai",
+    "discursos-manuel-mora-1934-1979"
+  ],
+  "verification_limits": [
+    "La revisión visual se concentró en cifras, fechas y nombres utilizados; no es cotejo integral del corpus OCR.",
+    "visual_checked en evidencia es true solo si todas las páginas de ese registro fueron inspeccionadas; visual_pages_checked identifica revisiones parciales.",
+    "Los testimonios reproducidos por historiadores no se presentan como documentos originales consultados.",
+    "No se reconstruye la guerra militarmente ni se verifica exhaustivamente la diplomacia exterior.",
+    "Las breves citas literales se limitan a Por un comunismo tico, localizada en Mora PDF88.",
+    "No se incorporaron fuentes web adicionales ni se atribuyó lectura al resto del corpus."
+  ],
+  "source_issues": [
+    {
+      "severity": "media",
+      "source": "crisis-1929-fundacion-partido-comunista-1984",
+      "pages": [
+        109
+      ],
+      "issue": "Dos hitos de fundación: acuerdo el 6 y primer comité el 16 de junio de 1931.",
+      "treatment": "Ambos se mantienen atribuidos al estudio y cotejados visualmente; no se afirma resolver todas las cronologías."
+    },
+    {
+      "severity": "media",
+      "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
+      "pages": [
+        65
+      ],
+      "issue": "Rojas dice que Betancourt evadió la expulsión; Molina PDF10 dice que fue deportado.",
+      "treatment": "No usado como hecho resuelto; requiere contrastar expedientes migratorios y cronología específica."
+    },
+    {
+      "severity": "media",
+      "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
+      "pages": [
+        71,
+        72
+      ],
+      "issue": "Rojas introduce en 1940 formulaciones que la compilación de Mora coloca en el discurso de 1938 (PDF86–88,95).",
+      "treatment": "Se cita directamente la compilación y se atribuye su datación; no se usa la fecha secundaria como certeza."
+    },
+    {
+      "severity": "media",
+      "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
+      "pages": [
+        88
+      ],
+      "issue": "El original impreso dice Vanguardia Nacional en una oración; la carta que reproduce y las demás menciones dicen Vanguardia Popular.",
+      "treatment": "Errata confirmada visualmente y declarada en nota 5 del capítulo 05; no se introduce un partido ficticio."
+    },
+    {
+      "severity": "alta",
+      "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
+      "pages": [
+        33,
+        34,
+        73,
+        74,
+        98,
+        99,
+        104,
+        105
+      ],
+      "issue": "Ejemplar incompleto: faltan páginas impresas 35,100,107; duplicación de la impresa75 en PDF73–74.",
+      "treatment": "No se reconstruye texto ausente ni se usa comienzo faltante del capítuloVI como lectura íntegra."
+    },
+    {
+      "severity": "media",
+      "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
+      "pages": [
+        145,
+        146
+      ],
+      "issue": "OCR y/o impreso presentan fechas problemáticas del Pacto del Caribe y oferta de Somoza (1937, mayo).",
+      "treatment": "Se omitieron estas fechas en la narración; no se corrigen silenciosamente."
+    },
+    {
+      "severity": "media",
+      "source": "desempeno-electoral-partido-comunista-1999",
+      "pages": [
+        9,
+        13
+      ],
+      "issue": "Porcentajes narrados de incremento electoral pueden no coincidir con el cálculo sobre tablas; revisión aritmética adicional necesaria antes de repetirlos.",
+      "treatment": "No se reproducen estos incrementos. Solo se usan cifras puntuales de Santo Domingo PDF15 revisadas visualmente."
+    },
+    {
+      "severity": "media",
+      "source": "discursos-manuel-mora-1934-1979",
+      "pages": [
+        139,
+        145
+      ],
+      "issue": "Intervención catalogada 1945 contiene referencias a quince años del partido y dos años de gobierno de Picado; datación interna requiere contraste con edición original.",
+      "treatment": "Capítulo05 debe expresar fecha como catalogación de la compilación, sin certificar datación independiente."
+    },
+    {
+      "severity": "baja",
+      "source": "mamita-yunai",
+      "pages": [
+        207,
+        208
+      ],
+      "issue": "Edición reúne novela y discurso de1955; el orador admite trasladar literariamente un dispensario.",
+      "treatment": "Separación estricta de ficción, memoria y secuencia histórica. No se usa diálogo literario como acta ni escena documental."
+    }
+  ],
+  "read_sections": {
+    "crisis-1929-fundacion-partido-comunista-1984": [
+      "05-capitulo-i.md",
+      "06-capitulo-ii.md",
+      "07-capitulo-iii.md",
+      "08-capitulo-iv.md"
+    ],
+    "desempeno-electoral-partido-comunista-1999": [
+      "01-las-fuentes.md",
+      "02-desempeno-en-el-juego-electoral.md",
+      "03-influencia-del-abstencionismo.md",
+      "04-caida-de-1936-y-aumento-de-1938.md",
+      "05-alza-de-1942-y-baja-de-1948.md",
+      "06-areas-de-apoyo-electoral.md"
+    ],
+    "lucha-social-guerra-civil-costa-rica-1940-1948": [
+      "13-lucha-nivel-sindical.md",
+      "14-internacional-comunista-lucha-politica.md",
+      "16-alineaciones-clase-1942-1944.md",
+      "25-hacia-guerra-civil.md",
+      "27-guerra-civil-dieciocho-meses.md"
+    ],
+    "mamita-yunai": [
+      "08-sombra-del-banano-capitulo-i.md",
+      "14-en-la-brecha.md",
+      "15-gran-huelga-bananera-1934.md"
+    ],
+    "discursos-manuel-mora-1934-1979": [
+      "11-democracia-progreso-bienestar.md",
+      "13-democracia-discurso-i.md",
+      "16-programa-discurso-i.md",
+      "18-actuaciones-gobierno.md"
+    ]
+  },
+  "checks": {
+    "note_markers_match_definitions": true,
+    "evidence_covers_all_note_numbers": true,
+    "source_paths_resolved_from_corpus_frontmatter": true,
+    "verbatim_quote_check": "La cadena Por un comunismo tico está en fuente nativa PDF88."
+  }
+}

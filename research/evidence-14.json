@@ -1,0 +1,190 @@
+[
+  {
+    "note": 1,
+    "claim": "El FA obtuvo una diputación en 2010.",
+    "source": "tse-leg-2010",
+    "pages": [
+      9,
+      10
+    ],
+    "type": "hecho",
+    "counterpoint": "Resultado y adjudicación de esa elección; no mide apoyo social permanente ni cambios posteriores de afiliación.",
+    "visual_checked": false
+  },
+  {
+    "note": 1,
+    "claim": "El FA pasó a nueve diputaciones en 2014.",
+    "source": "tse-leg-2014",
+    "pages": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "type": "hecho",
+    "counterpoint": "Resultado y adjudicación de esa elección; no mide apoyo social permanente ni cambios posteriores de afiliación.",
+    "visual_checked": false
+  },
+  {
+    "note": 1,
+    "claim": "El FA obtuvo una diputación en 2018.",
+    "source": "tse-leg-2018",
+    "pages": [],
+    "type": "hecho",
+    "counterpoint": "Resultado y adjudicación de esa elección; no mide apoyo social permanente ni cambios posteriores de afiliación.",
+    "visual_checked": false
+  },
+  {
+    "note": 1,
+    "claim": "El FA obtuvo seis diputaciones en 2022.",
+    "source": "tse-leg-2022",
+    "pages": [],
+    "type": "hecho",
+    "counterpoint": "Resultado y adjudicación de esa elección; no mide apoyo social permanente ni cambios posteriores de afiliación.",
+    "visual_checked": false
+  },
+  {
+    "note": 2,
+    "claim": "FA 2014:354479 votos presidenciales y 17,25% de válidos.",
+    "source": "tse-pres-2014",
+    "pages": [],
+    "type": "hecho",
+    "counterpoint": "Primera votación presidencial, cuadro en imagen.",
+    "visual_checked": true
+  },
+  {
+    "note": 2,
+    "claim": "FA 2014:269178 votos legislativos.",
+    "source": "tse-leg-2014",
+    "pages": [
+      3
+    ],
+    "type": "hecho",
+    "counterpoint": "Resultado y adjudicación de esa elección; no mide apoyo social permanente ni cambios posteriores de afiliación.",
+    "visual_checked": false
+  },
+  {
+    "note": 3,
+    "claim": "Gómez Campos atribuye importancia a comités de base en expansión 2014.",
+    "source": "gomez-campos-organizacion-partidaria",
+    "pages": [
+      28,
+      29,
+      30
+    ],
+    "type": "interpretacion",
+    "counterpoint": "No cuantifica cuánto del resultado corresponde a cada factor.",
+    "visual_checked": false
+  },
+  {
+    "note": 4,
+    "claim": "La reforma laboral integró acuerdos legislativos con participación FA, PAC y PUSC.",
+    "source": "derecho-colectivo-trabajo-costa-rica-2021",
+    "pages": [
+      44,
+      45,
+      46
+    ],
+    "type": "hecho",
+    "counterpoint": "La participación no equivale a autoría exclusiva de toda la reforma.",
+    "visual_checked": false
+  },
+  {
+    "note": 5,
+    "claim": "La reforma que entró en vigor 2017 abrió protecciones y dejó controversias según Castro.",
+    "source": "derecho-colectivo-trabajo-costa-rica-2021",
+    "pages": [
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Reconstrucción de Castro Méndez publicada en 2021; no sustituye el expediente original ni una evaluación integral de efectos.",
+    "visual_checked": false
+  },
+  {
+    "note": 6,
+    "claim": "Mora utilizó una memoria de militancia en intervención parlamentaria 2015.",
+    "source": "mora-asamblea-2015",
+    "pages": [
+      75,
+      76,
+      77
+    ],
+    "type": "declaracion",
+    "counterpoint": "No prueba una estrategia uniforme de todas las generaciones.",
+    "visual_checked": false
+  },
+  {
+    "note": 7,
+    "claim": "FA 2018:16863 votos presidenciales,0,78%.",
+    "source": "tse-pres-2018",
+    "pages": [],
+    "type": "hecho",
+    "counterpoint": "Votación presidencial inicial del año indicado; no identifica militancia ni motivaciones individuales.",
+    "visual_checked": false
+  },
+  {
+    "note": 7,
+    "claim": "FA 2018:84437 votos legislativos y una diputación.",
+    "source": "tse-leg-2018",
+    "pages": [],
+    "type": "hecho",
+    "counterpoint": "Resultado y adjudicación de esa elección; no mide apoyo social permanente ni cambios posteriores de afiliación.",
+    "visual_checked": false
+  },
+  {
+    "note": 8,
+    "claim": "Villalta integró comisión de fortalecimiento de finanzas públicas.",
+    "source": "asamblea-fiscal-2018",
+    "pages": [],
+    "type": "hecho",
+    "counterpoint": "Participar no demuestra control del resultado.",
+    "visual_checked": false
+  },
+  {
+    "note": 9,
+    "claim": "Villalta votó contra proyecto 20580 en segundo debate 3 diciembre 2018.",
+    "source": "delfino-fiscal-2018",
+    "pages": [],
+    "type": "hecho",
+    "counterpoint": "Registro periodístico; coincidencia de voto negativo no equivale a coalición.",
+    "visual_checked": false
+  },
+  {
+    "note": 10,
+    "claim": "Castro caracteriza el período abierto 2018 como tercera reacción conservadora.",
+    "source": "derecho-colectivo-trabajo-costa-rica-2021",
+    "pages": [
+      51,
+      52,
+      53
+    ],
+    "type": "interpretacion",
+    "counterpoint": "El estudio 2021 contiene proyectos; no se los presenta automáticamente como leyes 2026.",
+    "visual_checked": false
+  },
+  {
+    "note": 11,
+    "claim": "FA 2022:182789 votos presidenciales y 8,73%.",
+    "source": "tse-pres-2022",
+    "pages": [],
+    "type": "hecho",
+    "counterpoint": "Votación presidencial inicial del año indicado; no identifica militancia ni motivaciones individuales.",
+    "visual_checked": false
+  },
+  {
+    "note": 11,
+    "claim": "FA 2022:172961 votos legislativos;3 diputacionesSJ y 1 enAlajuela, Cartago, Heredia.",
+    "source": "tse-leg-2022",
+    "pages": [],
+    "type": "hecho",
+    "counterpoint": "Distribución provincial no demuestra ocupación o identidad étnica de votantes.",
+    "visual_checked": false
+  }
+]

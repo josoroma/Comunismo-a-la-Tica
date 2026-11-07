@@ -1,0 +1,237 @@
+[
+  {
+    "note": 1,
+    "claim": "Continuidad de garantías sociales y debilitamiento de organización sindical tras 1948",
+    "source": "derecho-colectivo-trabajo-costa-rica-2021",
+    "pages": [
+      23,
+      24,
+      25,
+      26,
+      27
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Castro ofrece una interpretación del derecho colectivo; continuidad normativa no implica ausencia de reformas sociales.",
+    "visual_checked": false
+  },
+  {
+    "note": 2,
+    "claim": "Reconstrucción comunista y uso de instrumentos legales desde las organizaciones de trabajadores",
+    "source": "luces-y-sombras-socialdemocracia-guerra-fria",
+    "pages": [
+      101,
+      102,
+      103
+    ],
+    "type": "inferencia",
+    "counterpoint": "Síntesis del autor a partir de estudio regional, no descripción exhaustiva de todo el país.",
+    "visual_checked": false
+  },
+  {
+    "note": 3,
+    "claim": "Modelo de reacción conservadora y coexistencia de bienestar y restricciones sindicales",
+    "source": "derecho-colectivo-trabajo-costa-rica-2021",
+    "pages": [
+      24,
+      25,
+      26,
+      27,
+      28
+    ],
+    "type": "interpretacion",
+    "counterpoint": "La categoría es de Castro Méndez; no se universaliza a toda decisión de los gobiernos.",
+    "visual_checked": false
+  },
+  {
+    "note": 4,
+    "claim": "Ley 1191 de 1950 y aplicación del artículo 98 al PVP",
+    "source": "comunismo-exterior-constitutivo-2020",
+    "pages": [
+      6
+    ],
+    "type": "hecho",
+    "counterpoint": "Estudio historiográfico; no sustituye la consulta de los expedientes legislativos.",
+    "visual_checked": false
+  },
+  {
+    "note": 5,
+    "claim": "Disolución de CTCR en 1950, ratificación en 1951 y persecución de sindicatos",
+    "source": "comunismo-exterior-constitutivo-2020",
+    "pages": [
+      16
+    ],
+    "type": "hecho",
+    "counterpoint": "La secuencia permite evitar la atribución errónea a un ministro de la Junta en 1951 que figura en otra obra del corpus.",
+    "visual_checked": false
+  },
+  {
+    "note": 6,
+    "claim": "Prohibición del PPI en 1953 y solicitud posterior contra Unión Popular",
+    "source": "comunismo-exterior-constitutivo-2020",
+    "pages": [
+      17
+    ],
+    "type": "hecho",
+    "counterpoint": "Se distingue una solicitud de ilegalización de una prohibición efectivamente acordada.",
+    "visual_checked": false
+  },
+  {
+    "note": 7,
+    "claim": "Papel de Montero Vega y Meléndez Ibarra en reconstrucción organizativa",
+    "source": "luces-y-sombras-socialdemocracia-guerra-fria",
+    "pages": [
+      103,
+      104
+    ],
+    "type": "hecho",
+    "counterpoint": "No implica que estos dirigentes agotaran la red de militantes.",
+    "visual_checked": false
+  },
+  {
+    "note": 8,
+    "claim": "Cooperación entre dirigentes de FOBA y FETRABA y oposición de redes anticomunistas",
+    "source": "luces-y-sombras-socialdemocracia-guerra-fria",
+    "pages": [
+      95,
+      96,
+      99,
+      100,
+      101
+    ],
+    "type": "interpretacion",
+    "counterpoint": "La afiliación de los dirigentes y la de los trabajadores no son intercambiables.",
+    "visual_checked": false
+  },
+  {
+    "note": 9,
+    "claim": "Demandas, conciliación y legalidad de huelga de 1955",
+    "source": "luces-y-sombras-socialdemocracia-guerra-fria",
+    "pages": [
+      105,
+      106,
+      107
+    ],
+    "type": "hecho",
+    "counterpoint": "La legalidad inicial no equivale a protección efectiva del movimiento.",
+    "visual_checked": false
+  },
+  {
+    "note": 10,
+    "claim": "Acuerdo de Marchena, presiones y sanciones internas",
+    "source": "luces-y-sombras-socialdemocracia-guerra-fria",
+    "pages": [
+      107,
+      108,
+      109,
+      110,
+      111
+    ],
+    "type": "hecho",
+    "counterpoint": "Presiones reconstruidas por la historiadora mediante testimonios; no se reproduce diálogo como escena presenciada.",
+    "visual_checked": false
+  },
+  {
+    "note": 11,
+    "claim": "Los criterios para valorar un acuerdo sindical podían divergir",
+    "source": "luces-y-sombras-socialdemocracia-guerra-fria",
+    "pages": [
+      108,
+      109,
+      110,
+      111,
+      112
+    ],
+    "type": "inferencia",
+    "counterpoint": "No atribuye la reflexión conceptual a todos los huelguistas.",
+    "visual_checked": false
+  },
+  {
+    "note": 12,
+    "claim": "Huelga de aguinaldo de diciembre de 1959 a enero de 1960",
+    "source": "luces-y-sombras-socialdemocracia-guerra-fria",
+    "pages": [
+      114,
+      115
+    ],
+    "type": "hecho",
+    "counterpoint": "Se emplea mes y año; no se reproduce el porcentaje del pago estatal sin cotejo adicional.",
+    "visual_checked": false
+  },
+  {
+    "note": 13,
+    "claim": "Unidad sindical y resultado ambiguo en distribución del costo del aguinaldo",
+    "source": "luces-y-sombras-socialdemocracia-guerra-fria",
+    "pages": [
+      114,
+      115,
+      116
+    ],
+    "type": "interpretacion",
+    "counterpoint": "La interpretación de las bases procede de memoria de Montero Vega, no encuesta contemporánea.",
+    "visual_checked": false
+  },
+  {
+    "note": 14,
+    "claim": "Creación de FUTRA en 1960 y persistencia de obstáculos",
+    "source": "luces-y-sombras-socialdemocracia-guerra-fria",
+    "pages": [
+      116,
+      117
+    ],
+    "type": "hecho",
+    "counterpoint": "El nombre de la federación presenta variantes en el corpus; se utiliza su sigla.",
+    "visual_checked": false
+  },
+  {
+    "note": 15,
+    "claim": "SITRACOBA anticomunista también sufrió conflicto empresarial y retiro de apoyo internacional",
+    "source": "luces-y-sombras-socialdemocracia-guerra-fria",
+    "pages": [
+      121,
+      122
+    ],
+    "type": "hecho",
+    "counterpoint": "No se generaliza a todos los sindicatos no comunistas.",
+    "visual_checked": false
+  },
+  {
+    "note": 16,
+    "claim": "Recursos ante OIT y negativa de reconocimiento a FUTRA",
+    "source": "luces-y-sombras-socialdemocracia-guerra-fria",
+    "pages": [
+      117,
+      118,
+      123,
+      124
+    ],
+    "type": "hecho",
+    "counterpoint": "Una recomendación internacional no equivalía a ejecución automática.",
+    "visual_checked": false
+  },
+  {
+    "note": 17,
+    "claim": "Recurso de Montero Vega y liberación de Solís Barboza en 1963",
+    "source": "luces-y-sombras-socialdemocracia-guerra-fria",
+    "pages": [
+      125
+    ],
+    "type": "hecho",
+    "counterpoint": "Se limita a este episodio documentado, sin atribuir uniformidad a tribunales.",
+    "visual_checked": false
+  },
+  {
+    "note": 18,
+    "claim": "Estrategia jurídica y acusación interna de legalismo",
+    "source": "luces-y-sombras-socialdemocracia-guerra-fria",
+    "pages": [
+      130,
+      131,
+      132,
+      133,
+      134
+    ],
+    "type": "interpretacion",
+    "counterpoint": "La fuente contiene el testimonio retrospectivo de Montero Vega; no se toma como voz neutral de ambas corrientes.",
+    "visual_checked": false
+  }
+]

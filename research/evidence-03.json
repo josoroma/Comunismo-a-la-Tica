@@ -1,0 +1,569 @@
+[
+  {
+    "note": 1,
+    "claim": "Discurso del 18 de septiembre de 1955 recuerda la huelga de 1934 para solicitar solidaridad.",
+    "source": "mamita-yunai",
+    "pages": [
+      207
+    ],
+    "type": "declaracion",
+    "counterpoint": "Edición de 2008 reproduce un arreglo de versión taquigráfica, no registro íntegro contemporáneo de 1934.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/mamita-yunai/chapters/15-gran-huelga-bananera-1934.md"
+    ]
+  },
+  {
+    "note": 2,
+    "claim": "Diferencia entre novela, memoria y análisis histórico/electoral.",
+    "source": "mamita-yunai",
+    "pages": [
+      207,
+      208
+    ],
+    "type": "inferencia",
+    "counterpoint": "La coincidencia de autores no es corroboración independiente de todos los detalles.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/mamita-yunai/chapters/15-gran-huelga-bananera-1934.md"
+    ]
+  },
+  {
+    "note": 2,
+    "claim": "Diferencia entre novela, memoria y análisis histórico/electoral.",
+    "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
+    "pages": [
+      65,
+      66
+    ],
+    "type": "inferencia",
+    "counterpoint": "La coincidencia de autores no es corroboración independiente de todos los detalles.",
+    "visual_checked": true,
+    "visual_pages_checked": [
+      65,
+      66
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/lucha-social-guerra-civil-costa-rica-1940-1948/chapters/13-lucha-nivel-sindical.md"
+    ]
+  },
+  {
+    "note": 2,
+    "claim": "Diferencia entre novela, memoria y análisis histórico/electoral.",
+    "source": "desempeno-electoral-partido-comunista-1999",
+    "pages": [
+      11,
+      12
+    ],
+    "type": "inferencia",
+    "counterpoint": "La coincidencia de autores no es corroboración independiente de todos los detalles.",
+    "visual_checked": true,
+    "visual_pages_checked": [
+      11,
+      12
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/desempeno-electoral-partido-comunista-1999/chapters/04-caida-de-1936-y-aumento-de-1938.md"
+    ]
+  },
+  {
+    "note": 3,
+    "claim": "Mecanismo de recepción de fruta y traslado de riesgos en el relato de Fallas.",
+    "source": "mamita-yunai",
+    "pages": [
+      208,
+      209,
+      210,
+      211
+    ],
+    "type": "declaracion",
+    "counterpoint": "El ejemplo numérico explícitamente hipotético del orador no se usa como estadística.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/mamita-yunai/chapters/15-gran-huelga-bananera-1934.md"
+    ]
+  },
+  {
+    "note": 4,
+    "claim": "Dependencias laborales, comerciales y sanitarias del enclave.",
+    "source": "mamita-yunai",
+    "pages": [
+      208,
+      209,
+      210,
+      211
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Botey y Cisneros corroboran relaciones generales, no todas las acusaciones particulares del discurso.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/mamita-yunai/chapters/15-gran-huelga-bananera-1934.md"
+    ]
+  },
+  {
+    "note": 4,
+    "claim": "Dependencias laborales, comerciales y sanitarias del enclave.",
+    "source": "crisis-1929-fundacion-partido-comunista-1984",
+    "pages": [
+      18,
+      19,
+      20,
+      21,
+      22
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Botey y Cisneros corroboran relaciones generales, no todas las acusaciones particulares del discurso.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/crisis-1929-fundacion-partido-comunista-1984/chapters/05-capitulo-i.md"
+    ]
+  },
+  {
+    "note": 5,
+    "claim": "Pliego favorable a productores y oposición patronal según Fallas.",
+    "source": "mamita-yunai",
+    "pages": [
+      212,
+      213
+    ],
+    "type": "declaracion",
+    "counterpoint": "Los motivos atribuidos por el orador no se convierten en estados mentales comprobados.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/mamita-yunai/chapters/15-gran-huelga-bananera-1934.md"
+    ]
+  },
+  {
+    "note": 6,
+    "claim": "Cabo Pancho, Pastora y transformación del paisaje en la novela.",
+    "source": "mamita-yunai",
+    "pages": [
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Personajes y escenas son representación literaria, no expediente biográfico o medición ambiental.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/mamita-yunai/chapters/08-sombra-del-banano-capitulo-i.md"
+    ]
+  },
+  {
+    "note": 7,
+    "claim": "Trabajo de mujeres y límites de su visibilidad en las fuentes.",
+    "source": "mamita-yunai",
+    "pages": [
+      120,
+      121
+    ],
+    "type": "interpretacion",
+    "counterpoint": "No se reconstruyen organizaciones ni nombres que las fuentes no ofrecen.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/mamita-yunai/chapters/08-sombra-del-banano-capitulo-i.md"
+    ]
+  },
+  {
+    "note": 7,
+    "claim": "Trabajo de mujeres y límites de su visibilidad en las fuentes.",
+    "source": "mamita-yunai",
+    "pages": [
+      216,
+      217,
+      218,
+      219
+    ],
+    "type": "interpretacion",
+    "counterpoint": "No se reconstruyen organizaciones ni nombres que las fuentes no ofrecen.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/mamita-yunai/chapters/15-gran-huelga-bananera-1934.md"
+    ]
+  },
+  {
+    "note": 8,
+    "claim": "Congreso del 4 de agosto y paro del 9 de agosto de 1934; variedad de demandas.",
+    "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
+    "pages": [
+      65,
+      66
+    ],
+    "type": "hecho",
+    "counterpoint": "Las fechas y el pliego se cotejaron en facsímil de Rojas; las escenas médicas de la novela no se tratan como víctimas documentadas.",
+    "visual_checked": true,
+    "visual_pages_checked": [
+      65,
+      66
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/lucha-social-guerra-civil-costa-rica-1940-1948/chapters/13-lucha-nivel-sindical.md"
+    ]
+  },
+  {
+    "note": 8,
+    "claim": "Congreso del 4 de agosto y paro del 9 de agosto de 1934; variedad de demandas.",
+    "source": "mamita-yunai",
+    "pages": [
+      197,
+      198,
+      199,
+      200,
+      201,
+      202
+    ],
+    "type": "hecho",
+    "counterpoint": "Las fechas y el pliego se cotejaron en facsímil de Rojas; las escenas médicas de la novela no se tratan como víctimas documentadas.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/mamita-yunai/chapters/14-en-la-brecha.md"
+    ]
+  },
+  {
+    "note": 9,
+    "claim": "Preparación clandestina y legitimidad del dirigente en su propio relato.",
+    "source": "mamita-yunai",
+    "pages": [
+      212,
+      213,
+      214
+    ],
+    "type": "declaracion",
+    "counterpoint": "No se reproducen diálogos reconstruidos como actas verificadas.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/mamita-yunai/chapters/15-gran-huelga-bananera-1934.md"
+    ]
+  },
+  {
+    "note": 10,
+    "claim": "Reconocimiento del comité, consultas y negociación según Fallas.",
+    "source": "mamita-yunai",
+    "pages": [
+      218,
+      219,
+      220
+    ],
+    "type": "declaracion",
+    "counterpoint": "Falta contraste con voces de participantes distintos del orador.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/mamita-yunai/chapters/15-gran-huelga-bananera-1934.md"
+    ]
+  },
+  {
+    "note": 11,
+    "claim": "Alimentación, brigadas y solidaridad como condiciones del paro.",
+    "source": "mamita-yunai",
+    "pages": [
+      215,
+      216,
+      217,
+      218
+    ],
+    "type": "declaracion",
+    "counterpoint": "No se extrae un censo de personas asistidas a partir de cifras oratorias.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/mamita-yunai/chapters/15-gran-huelga-bananera-1934.md"
+    ]
+  },
+  {
+    "note": 12,
+    "claim": "Acuerdo y desmovilización de brigadas en la memoria de Fallas.",
+    "source": "mamita-yunai",
+    "pages": [
+      220,
+      221,
+      222
+    ],
+    "type": "inferencia",
+    "counterpoint": "La vulnerabilidad organizativa es interpretación basada en ese relato.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/mamita-yunai/chapters/15-gran-huelga-bananera-1934.md"
+    ]
+  },
+  {
+    "note": 13,
+    "claim": "Acuerdo del 28 de agosto, reanudación del 1 de septiembre y captura del 10 de septiembre.",
+    "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
+    "pages": [
+      66
+    ],
+    "type": "hecho",
+    "counterpoint": "Secuencia de Rojas cotejada visualmente; el recuerdo de engaños y violencia permanece atribuido a Fallas.",
+    "visual_checked": true,
+    "visual_pages_checked": [
+      66
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/lucha-social-guerra-civil-costa-rica-1940-1948/chapters/13-lucha-nivel-sindical.md"
+    ]
+  },
+  {
+    "note": 13,
+    "claim": "Acuerdo del 28 de agosto, reanudación del 1 de septiembre y captura del 10 de septiembre.",
+    "source": "mamita-yunai",
+    "pages": [
+      220,
+      221,
+      222
+    ],
+    "type": "hecho",
+    "counterpoint": "Secuencia de Rojas cotejada visualmente; el recuerdo de engaños y violencia permanece atribuido a Fallas.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/mamita-yunai/chapters/15-gran-huelga-bananera-1934.md"
+    ]
+  },
+  {
+    "note": 14,
+    "claim": "Contención inicial y violencia posterior en la narración del dirigente.",
+    "source": "mamita-yunai",
+    "pages": [
+      216,
+      217,
+      218,
+      219,
+      220,
+      221,
+      222
+    ],
+    "type": "interpretacion",
+    "counterpoint": "La distribución moral del relato favorece a huelguistas; no agota las responsabilidades históricas.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/mamita-yunai/chapters/15-gran-huelga-bananera-1934.md"
+    ]
+  },
+  {
+    "note": 15,
+    "claim": "Balances de victoria como concesiones, organización y aprendizaje.",
+    "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
+    "pages": [
+      66
+    ],
+    "type": "interpretacion",
+    "counterpoint": "No se equiparan reconocimiento formal y efectividad cotidiana.",
+    "visual_checked": true,
+    "visual_pages_checked": [
+      66
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/lucha-social-guerra-civil-costa-rica-1940-1948/chapters/13-lucha-nivel-sindical.md"
+    ]
+  },
+  {
+    "note": 15,
+    "claim": "Balances de victoria como concesiones, organización y aprendizaje.",
+    "source": "mamita-yunai",
+    "pages": [
+      222,
+      223,
+      224
+    ],
+    "type": "interpretacion",
+    "counterpoint": "No se equiparan reconocimiento formal y efectividad cotidiana.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/mamita-yunai/chapters/15-gran-huelga-bananera-1934.md"
+    ]
+  },
+  {
+    "note": 16,
+    "claim": "La huelga no se tradujo automáticamente en aumento electoral; ciudadanía y racismo.",
+    "source": "desempeno-electoral-partido-comunista-1999",
+    "pages": [
+      11,
+      12
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Las cifras no miden toda la influencia social; no todos los trabajadores podían votar.",
+    "visual_checked": true,
+    "visual_pages_checked": [
+      11,
+      12
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/desempeno-electoral-partido-comunista-1999/chapters/04-caida-de-1936-y-aumento-de-1938.md"
+    ]
+  },
+  {
+    "note": 17,
+    "claim": "Afirmación de superación de la pugna racial contrastada con límites de ciudadanía.",
+    "source": "mamita-yunai",
+    "pages": [
+      211,
+      212
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Unidad durante un conflicto no equivale a desaparición del racismo.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/mamita-yunai/chapters/15-gran-huelga-bananera-1934.md"
+    ]
+  },
+  {
+    "note": 17,
+    "claim": "Afirmación de superación de la pugna racial contrastada con límites de ciudadanía.",
+    "source": "desempeno-electoral-partido-comunista-1999",
+    "pages": [
+      11
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Unidad durante un conflicto no equivale a desaparición del racismo.",
+    "visual_checked": true,
+    "visual_pages_checked": [
+      11
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/desempeno-electoral-partido-comunista-1999/chapters/04-caida-de-1936-y-aumento-de-1938.md"
+    ]
+  },
+  {
+    "note": 18,
+    "claim": "Finalidad movilizadora de la memoria: dinero, víveres y campaña pública.",
+    "source": "mamita-yunai",
+    "pages": [
+      228,
+      229
+    ],
+    "type": "declaracion",
+    "counterpoint": "El discurso selecciona el pasado para intervenir en un conflicto presente.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/mamita-yunai/chapters/15-gran-huelga-bananera-1934.md"
+    ]
+  },
+  {
+    "note": 19,
+    "claim": "El internacionalismo se elabora en el diálogo literario de En la brecha.",
+    "source": "mamita-yunai",
+    "pages": [
+      197,
+      198,
+      199,
+      200,
+      201,
+      202,
+      203
+    ],
+    "type": "interpretacion",
+    "counterpoint": "No se atribuye esa conciencia a todos los bananeros ni se historiza literalmente el diálogo.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/mamita-yunai/chapters/14-en-la-brecha.md"
+    ]
+  },
+  {
+    "note": 20,
+    "claim": "Fallas reconoce traslado literario de un dispensario entre escenarios.",
+    "source": "mamita-yunai",
+    "pages": [
+      208
+    ],
+    "type": "declaracion",
+    "counterpoint": "La declaración prueba composición narrativa y exige separar localizaciones al afirmar hechos históricos.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/mamita-yunai/chapters/15-gran-huelga-bananera-1934.md"
+    ]
+  },
+  {
+    "note": 21,
+    "claim": "Herencias organizativas y memorias no garantizan expansión electoral.",
+    "source": "mamita-yunai",
+    "pages": [
+      222,
+      223,
+      224,
+      225,
+      226,
+      227,
+      228,
+      229
+    ],
+    "type": "inferencia",
+    "counterpoint": "La importancia histórica no depende de un crecimiento lineal del partido.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/mamita-yunai/chapters/15-gran-huelga-bananera-1934.md"
+    ]
+  },
+  {
+    "note": 21,
+    "claim": "Herencias organizativas y memorias no garantizan expansión electoral.",
+    "source": "desempeno-electoral-partido-comunista-1999",
+    "pages": [
+      11,
+      12
+    ],
+    "type": "inferencia",
+    "counterpoint": "La importancia histórica no depende de un crecimiento lineal del partido.",
+    "visual_checked": true,
+    "visual_pages_checked": [
+      11,
+      12
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/desempeno-electoral-partido-comunista-1999/chapters/04-caida-de-1936-y-aumento-de-1938.md"
+    ]
+  }
+]

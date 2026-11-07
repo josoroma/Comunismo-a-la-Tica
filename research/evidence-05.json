@@ -1,0 +1,459 @@
+[
+  {
+    "note": 1,
+    "claim": "Convergencia de gobierno, comunistas y católicos sin identidad doctrinaria.",
+    "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
+    "pages": [
+      76,
+      77,
+      78,
+      79
+    ],
+    "type": "interpretacion",
+    "counterpoint": "La coincidencia reformadora no prueba una voluntad única ni propiedad exclusiva de las reformas.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/lucha-social-guerra-civil-costa-rica-1940-1948/chapters/16-alineaciones-clase-1942-1944.md"
+    ]
+  },
+  {
+    "note": 2,
+    "claim": "Bases sociales, competencia electoral y motivos de alianza.",
+    "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
+    "pages": [
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82
+    ],
+    "type": "interpretacion",
+    "counterpoint": "El cálculo electoral no reduce las reformas a una maniobra sin efectos reales.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/lucha-social-guerra-civil-costa-rica-1940-1948/chapters/16-alineaciones-clase-1942-1944.md"
+    ]
+  },
+  {
+    "note": 2,
+    "claim": "Bases sociales, competencia electoral y motivos de alianza.",
+    "source": "desempeno-electoral-partido-comunista-1999",
+    "pages": [
+      17,
+      18
+    ],
+    "type": "interpretacion",
+    "counterpoint": "El cálculo electoral no reduce las reformas a una maniobra sin efectos reales.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/desempeno-electoral-partido-comunista-1999/chapters/06-areas-de-apoyo-electoral.md",
+      "data/books/desempeno-electoral-partido-comunista-1999/chapters/05-alza-de-1942-y-baja-de-1948.md"
+    ]
+  },
+  {
+    "note": 3,
+    "claim": "Programa de emergencia de 1942: unidad e intervención económica.",
+    "source": "discursos-manuel-mora-1934-1979",
+    "pages": [
+      123,
+      124,
+      125,
+      126,
+      127,
+      128
+    ],
+    "type": "declaracion",
+    "counterpoint": "El carácter técnico propuesto no elimina las preguntas sobre control del Ejecutivo.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/discursos-manuel-mora-1934-1979/chapters/16-programa-discurso-i.md"
+    ]
+  },
+  {
+    "note": 4,
+    "claim": "Sanabria: preocupación social y competencia con el comunismo.",
+    "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
+    "pages": [
+      77,
+      78,
+      79
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Motivaciones atribuidas por Rojas; no conversión doctrinaria ni simple obediencia.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/lucha-social-guerra-civil-costa-rica-1940-1948/chapters/16-alineaciones-clase-1942-1944.md"
+    ]
+  },
+  {
+    "note": 5,
+    "claim": "Reorganización como Vanguardia Popular y respuesta de Sanabria en 1943.",
+    "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
+    "pages": [
+      88,
+      89
+    ],
+    "type": "hecho",
+    "counterpoint": "Rojas contiene la errata impresa Vanguardia Nacional en PDF88; la carta y las demás fuentes dicen Popular. No se reproduce esa errata como denominación histórica.",
+    "visual_checked": true,
+    "visual_pages_checked": [
+      88,
+      89
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/lucha-social-guerra-civil-costa-rica-1940-1948/chapters/16-alineaciones-clase-1942-1944.md"
+    ]
+  },
+  {
+    "note": 5,
+    "claim": "Reorganización como Vanguardia Popular y respuesta de Sanabria en 1943.",
+    "source": "desempeno-electoral-partido-comunista-1999",
+    "pages": [
+      3
+    ],
+    "type": "hecho",
+    "counterpoint": "Rojas contiene la errata impresa Vanguardia Nacional en PDF88; la carta y las demás fuentes dicen Popular. No se reproduce esa errata como denominación histórica.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/desempeno-electoral-partido-comunista-1999/chapters/01-las-fuentes.md"
+    ]
+  },
+  {
+    "note": 6,
+    "claim": "Garantías Sociales y Código de Trabajo como niveles distintos de reforma.",
+    "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
+    "pages": [
+      77
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Aprobación normativa no demuestra cobertura y cumplimiento universales.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/lucha-social-guerra-civil-costa-rica-1940-1948/chapters/16-alineaciones-clase-1942-1944.md"
+    ]
+  },
+  {
+    "note": 6,
+    "claim": "Garantías Sociales y Código de Trabajo como niveles distintos de reforma.",
+    "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
+    "pages": [
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Aprobación normativa no demuestra cobertura y cumplimiento universales.",
+    "visual_checked": false,
+    "visual_pages_checked": [
+      88,
+      89,
+      90
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/lucha-social-guerra-civil-costa-rica-1940-1948/chapters/16-alineaciones-clase-1942-1944.md"
+    ]
+  },
+  {
+    "note": 7,
+    "claim": "Pacto entre Republicano Nacional y Vanguardia Popular del 22 de septiembre de 1943.",
+    "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
+    "pages": [
+      90
+    ],
+    "type": "hecho",
+    "counterpoint": "Fecha cotejada visualmente; el compromiso no prueba ejecución de todas sus cláusulas.",
+    "visual_checked": true,
+    "visual_pages_checked": [
+      90
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/lucha-social-guerra-civil-costa-rica-1940-1948/chapters/16-alineaciones-clase-1942-1944.md"
+    ]
+  },
+  {
+    "note": 8,
+    "claim": "Mora critica administración y política económica de Picado en intervención catalogada como 1945.",
+    "source": "discursos-manuel-mora-1934-1979",
+    "pages": [
+      139,
+      140
+    ],
+    "type": "declaracion",
+    "counterpoint": "Es crítica de un aliado y no una evaluación independiente de cada acusación.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/discursos-manuel-mora-1934-1979/chapters/18-actuaciones-gobierno.md"
+    ]
+  },
+  {
+    "note": 9,
+    "claim": "Defensa de la alianza como medio de afianzar reformas y advertencia sobre beneficios tardíos.",
+    "source": "discursos-manuel-mora-1934-1979",
+    "pages": [
+      141,
+      142,
+      143,
+      144,
+      145
+    ],
+    "type": "declaracion",
+    "counterpoint": "El riesgo de romper debe contrastarse con el costo de perder autonomía.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/discursos-manuel-mora-1934-1979/chapters/18-actuaciones-gobierno.md"
+    ]
+  },
+  {
+    "note": 10,
+    "claim": "Crítica de autonomía política contrastada con análisis electoral de Molina.",
+    "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
+    "pages": [
+      131,
+      132,
+      133
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Caída desde una elección excepcional no prueba retroceso uniforme del comunismo.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/lucha-social-guerra-civil-costa-rica-1940-1948/chapters/25-hacia-guerra-civil.md"
+    ]
+  },
+  {
+    "note": 10,
+    "claim": "Crítica de autonomía política contrastada con análisis electoral de Molina.",
+    "source": "desempeno-electoral-partido-comunista-1999",
+    "pages": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Caída desde una elección excepcional no prueba retroceso uniforme del comunismo.",
+    "visual_checked": false,
+    "visual_pages_checked": [
+      15
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/desempeno-electoral-partido-comunista-1999/chapters/05-alza-de-1942-y-baja-de-1948.md",
+      "data/books/desempeno-electoral-partido-comunista-1999/chapters/06-areas-de-apoyo-electoral.md"
+    ]
+  },
+  {
+    "note": 11,
+    "claim": "Oposición plural, anticomunismo, violencia y problemas administrativos.",
+    "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
+    "pages": [
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137
+    ],
+    "type": "interpretacion",
+    "counterpoint": "La prosa de Rojas tiene una perspectiva de clase; se distinguen hechos narrados y propósitos atribuidos.",
+    "visual_checked": false,
+    "visual_pages_checked": [
+      136,
+      137
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/lucha-social-guerra-civil-costa-rica-1940-1948/chapters/25-hacia-guerra-civil.md"
+    ]
+  },
+  {
+    "note": 12,
+    "claim": "Documentos partidarios reconocen motivos legítimos en sectores opositores.",
+    "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
+    "pages": [
+      131,
+      132
+    ],
+    "type": "declaracion",
+    "counterpoint": "Documentos citados por Rojas, sin consulta del original; formular una distinción no garantiza aplicarla.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/lucha-social-guerra-civil-costa-rica-1940-1948/chapters/25-hacia-guerra-civil.md"
+    ]
+  },
+  {
+    "note": 13,
+    "claim": "Declaración provisional por Ulate y anulación congresional del 1 de marzo de 1948.",
+    "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
+    "pages": [
+      136,
+      137
+    ],
+    "type": "hecho",
+    "counterpoint": "Secuencia cotejada visualmente; denuncias de fraude no se presentan como demostración suficiente de su magnitud.",
+    "visual_checked": true,
+    "visual_pages_checked": [
+      136,
+      137
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/lucha-social-guerra-civil-costa-rica-1940-1948/chapters/25-hacia-guerra-civil.md"
+    ]
+  },
+  {
+    "note": 14,
+    "claim": "Versión retrospectiva de Mora sobre discrepancia ante la anulación.",
+    "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
+    "pages": [
+      137
+    ],
+    "type": "declaracion",
+    "counterpoint": "Testimonio citado por Rojas; no elimina responsabilidad colectiva ni prueba que otra decisión habría evitado la guerra.",
+    "visual_checked": true,
+    "visual_pages_checked": [
+      137
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/lucha-social-guerra-civil-costa-rica-1940-1948/chapters/25-hacia-guerra-civil.md"
+    ]
+  },
+  {
+    "note": 15,
+    "claim": "Milicias, armas y contexto regional del conflicto.",
+    "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
+    "pages": [
+      145,
+      146,
+      147,
+      148
+    ],
+    "type": "interpretacion",
+    "counterpoint": "No se reduce el conflicto a dirección extranjera; se omiten fechas problemáticas no verificadas.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/lucha-social-guerra-civil-costa-rica-1940-1948/chapters/27-guerra-civil-dieciocho-meses.md"
+    ]
+  },
+  {
+    "note": 16,
+    "claim": "Negociación de garantías sociales, sindicales y políticas.",
+    "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
+    "pages": [
+      146,
+      147,
+      148,
+      149
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Núñez y Mora son testimonios citados por Rojas; temores de intervención no equivalen a un plan militar probado.",
+    "visual_checked": false,
+    "visual_pages_checked": [
+      149
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/lucha-social-guerra-civil-costa-rica-1940-1948/chapters/27-guerra-civil-dieciocho-meses.md"
+    ]
+  },
+  {
+    "note": 17,
+    "claim": "Conservación de legislación y exclusión comunista tras la guerra.",
+    "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
+    "pages": [
+      149
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Preservar normas no equivale a preservar organización sindical y libertad partidaria.",
+    "visual_checked": true,
+    "visual_pages_checked": [
+      149
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/lucha-social-guerra-civil-costa-rica-1940-1948/chapters/27-guerra-civil-dieciocho-meses.md"
+    ]
+  },
+  {
+    "note": 18,
+    "claim": "Reformas de la Junta y conflictos con intereses empresariales.",
+    "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
+    "pages": [
+      150,
+      151,
+      152,
+      153,
+      154
+    ],
+    "type": "interpretacion",
+    "counterpoint": "La reforma estatal no hace secundaria la represión ni garantiza ruptura completa con el orden anterior.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/lucha-social-guerra-civil-costa-rica-1940-1948/chapters/27-guerra-civil-dieciocho-meses.md"
+    ]
+  },
+  {
+    "note": 19,
+    "claim": "Herencia dividida de derechos conservados y actores excluidos.",
+    "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
+    "pages": [
+      149,
+      150,
+      151,
+      152,
+      153,
+      154
+    ],
+    "type": "inferencia",
+    "counterpoint": "Balance de este libro; distingue resultados sociales, autonomía y derrota militar.",
+    "visual_checked": false,
+    "visual_pages_checked": [
+      149
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/lucha-social-guerra-civil-costa-rica-1940-1948/chapters/27-guerra-civil-dieciocho-meses.md"
+    ]
+  }
+]

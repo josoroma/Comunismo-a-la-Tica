@@ -1,0 +1,390 @@
+[
+  {
+    "note": 1,
+    "claim": "La organización popular antecedió al comunismo y tuvo trayectorias diversas.",
+    "source": "crisis-1929-fundacion-partido-comunista-1984",
+    "pages": [
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40
+    ],
+    "type": "interpretacion",
+    "counterpoint": "La periodización de los autores privilegia una maduración revolucionaria; aquí no se acepta como destino inevitable.",
+    "visual_checked": false,
+    "visual_pages_checked": [
+      40
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/crisis-1929-fundacion-partido-comunista-1984/chapters/06-capitulo-ii.md"
+    ]
+  },
+  {
+    "note": 2,
+    "claim": "Crítica a la escala evolutiva que ordena mutualismo, sindicato y partido.",
+    "source": "crisis-1929-fundacion-partido-comunista-1984",
+    "pages": [
+      32,
+      33,
+      34,
+      35
+    ],
+    "type": "inferencia",
+    "counterpoint": "Se conservan las prácticas documentadas sin considerar incompletas las organizaciones anteriores.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/crisis-1929-fundacion-partido-comunista-1984/chapters/06-capitulo-ii.md"
+    ]
+  },
+  {
+    "note": 3,
+    "claim": "Propiedad parcelaria, beneficiado, crédito y subordinación económica.",
+    "source": "crisis-1929-fundacion-partido-comunista-1984",
+    "pages": [
+      13,
+      14,
+      15,
+      16
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Se trata de la explicación de Botey y Cisneros, apoyada a su vez en estudios citados por ellos.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/crisis-1929-fundacion-partido-comunista-1984/chapters/05-capitulo-i.md"
+    ]
+  },
+  {
+    "note": 4,
+    "claim": "Heterogeneidad de campesinos, jornaleros, artesanos y empleados.",
+    "source": "crisis-1929-fundacion-partido-comunista-1984",
+    "pages": [
+      26,
+      27,
+      28,
+      29
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Una categoría ocupacional no determina conciencia ni afiliación.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/crisis-1929-fundacion-partido-comunista-1984/chapters/05-capitulo-i.md"
+    ]
+  },
+  {
+    "note": 5,
+    "claim": "Diversificación de capitales y categoría de oligarquía burguesa.",
+    "source": "crisis-1929-fundacion-partido-comunista-1984",
+    "pages": [
+      16,
+      17,
+      18
+    ],
+    "type": "interpretacion",
+    "counterpoint": "La categoría no prueba unanimidad empresarial ni control automático de cada decisión estatal.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/crisis-1929-fundacion-partido-comunista-1984/chapters/05-capitulo-i.md"
+    ]
+  },
+  {
+    "note": 5,
+    "claim": "Diversificación de capitales y categoría de oligarquía burguesa.",
+    "source": "crisis-1929-fundacion-partido-comunista-1984",
+    "pages": [
+      25,
+      26
+    ],
+    "type": "interpretacion",
+    "counterpoint": "La categoría no prueba unanimidad empresarial ni control automático de cada decisión estatal.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/crisis-1929-fundacion-partido-comunista-1984/chapters/05-capitulo-i.md"
+    ]
+  },
+  {
+    "note": 6,
+    "claim": "Transporte, fruta, productores y población heterogénea en el Caribe.",
+    "source": "crisis-1929-fundacion-partido-comunista-1984",
+    "pages": [
+      18,
+      19,
+      20,
+      21,
+      22
+    ],
+    "type": "interpretacion",
+    "counterpoint": "La explicación de división patronal no agota el racismo social.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/crisis-1929-fundacion-partido-comunista-1984/chapters/05-capitulo-i.md"
+    ]
+  },
+  {
+    "note": 7,
+    "claim": "La heterogeneidad social planteaba un problema de traducción programática.",
+    "source": "crisis-1929-fundacion-partido-comunista-1984",
+    "pages": [
+      26,
+      27,
+      28,
+      29
+    ],
+    "type": "inferencia",
+    "counterpoint": "No se presupone una clase políticamente unificada antes del partido.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/crisis-1929-fundacion-partido-comunista-1984/chapters/05-capitulo-i.md"
+    ]
+  },
+  {
+    "note": 8,
+    "claim": "Funciones de socorro, ahorro, bibliotecas y educación en asociaciones.",
+    "source": "crisis-1929-fundacion-partido-comunista-1984",
+    "pages": [
+      34,
+      35,
+      36
+    ],
+    "type": "hecho",
+    "counterpoint": "Las capacidades organizativas cotidianas son una inferencia; no se consultaron las actas de cada sociedad.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/crisis-1929-fundacion-partido-comunista-1984/chapters/06-capitulo-ii.md"
+    ]
+  },
+  {
+    "note": 9,
+    "claim": "Prensa obrera, representación y relaciones con el liberalismo.",
+    "source": "crisis-1929-fundacion-partido-comunista-1984",
+    "pages": [
+      36,
+      37,
+      38,
+      39
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Se reconoce iniciativa popular dentro de partidos tradicionales, sin presuponer pasividad.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/crisis-1929-fundacion-partido-comunista-1984/chapters/06-capitulo-ii.md"
+    ]
+  },
+  {
+    "note": 10,
+    "claim": "Centro Germinal, educación popular y variedad de referencias ideológicas.",
+    "source": "crisis-1929-fundacion-partido-comunista-1984",
+    "pages": [
+      40,
+      41,
+      42
+    ],
+    "type": "hecho",
+    "counterpoint": "La participación compartida no constituye identidad doctrinaria.",
+    "visual_checked": false,
+    "visual_pages_checked": [
+      40
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/crisis-1929-fundacion-partido-comunista-1984/chapters/06-capitulo-ii.md"
+    ]
+  },
+  {
+    "note": 11,
+    "claim": "Luchas económicas y oposición a la dictadura tinoquista.",
+    "source": "crisis-1929-fundacion-partido-comunista-1984",
+    "pages": [
+      42,
+      43,
+      44
+    ],
+    "type": "interpretacion",
+    "counterpoint": "No se convierte toda la oposición a Tinoco en fuerza socialista; se omiten fechas internamente problemáticas del OCR.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/crisis-1929-fundacion-partido-comunista-1984/chapters/06-capitulo-ii.md"
+    ]
+  },
+  {
+    "note": 12,
+    "claim": "Coordinación huelguística y reconocimiento de límites a la jornada.",
+    "source": "crisis-1929-fundacion-partido-comunista-1984",
+    "pages": [
+      44,
+      45,
+      46
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Se distingue reconocimiento normativo y cumplimiento; no se fija universalidad ni fecha única de vigencia.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/crisis-1929-fundacion-partido-comunista-1984/chapters/06-capitulo-ii.md"
+    ]
+  },
+  {
+    "note": 13,
+    "claim": "Diferencias entre luchas campesinas guanacastecas.",
+    "source": "crisis-1929-fundacion-partido-comunista-1984",
+    "pages": [
+      47,
+      48,
+      49
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Lowell Gudmundson es consultado indirectamente: citado por Botey y Cisneros, no como obra leída directamente.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/crisis-1929-fundacion-partido-comunista-1984/chapters/06-capitulo-ii.md"
+    ]
+  },
+  {
+    "note": 14,
+    "claim": "Programa reformista, pactos y crítica de la pérdida de autonomía.",
+    "source": "crisis-1929-fundacion-partido-comunista-1984",
+    "pages": [
+      51,
+      52,
+      53,
+      54,
+      55,
+      56
+    ],
+    "type": "interpretacion",
+    "counterpoint": "El balance negativo es de los autores; ellos mismos reconocen participación en legislación social.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/crisis-1929-fundacion-partido-comunista-1984/chapters/06-capitulo-ii.md"
+    ]
+  },
+  {
+    "note": 15,
+    "claim": "La representación y el costo de los pactos como problema recurrente.",
+    "source": "crisis-1929-fundacion-partido-comunista-1984",
+    "pages": [
+      53,
+      54,
+      55,
+      56
+    ],
+    "type": "inferencia",
+    "counterpoint": "No se deduce que toda alianza posterior deba tener el mismo efecto.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/crisis-1929-fundacion-partido-comunista-1984/chapters/06-capitulo-ii.md"
+    ]
+  },
+  {
+    "note": 16,
+    "claim": "Antiimperialismo, Liga Cívica y aprismo como espacio plural.",
+    "source": "crisis-1929-fundacion-partido-comunista-1984",
+    "pages": [
+      57,
+      58,
+      59
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Un objetivo nacional común no borra conflictos laborales internos.",
+    "visual_checked": false,
+    "visual_pages_checked": [
+      57
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/crisis-1929-fundacion-partido-comunista-1984/chapters/06-capitulo-ii.md"
+    ]
+  },
+  {
+    "note": 17,
+    "claim": "Circulación de ideas y contactos internacionales con grados distintos de comprobación.",
+    "source": "crisis-1929-fundacion-partido-comunista-1984",
+    "pages": [
+      61,
+      62,
+      63
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Los autores dejan sin corroborar algunas visitas; no se presenta rumor como instrucción externa.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/crisis-1929-fundacion-partido-comunista-1984/chapters/06-capitulo-ii.md"
+    ]
+  },
+  {
+    "note": 18,
+    "claim": "La crisis no basta para explicar creación y persistencia de un partido.",
+    "source": "crisis-1929-fundacion-partido-comunista-1984",
+    "pages": [
+      99,
+      100
+    ],
+    "type": "inferencia",
+    "counterpoint": "Síntesis del argumento; no implica que los autores renuncien a su escala de maduración revolucionaria.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/crisis-1929-fundacion-partido-comunista-1984/chapters/07-capitulo-iii.md"
+    ]
+  },
+  {
+    "note": 18,
+    "claim": "La crisis no basta para explicar creación y persistencia de un partido.",
+    "source": "crisis-1929-fundacion-partido-comunista-1984",
+    "pages": [
+      105,
+      106,
+      107,
+      108,
+      109
+    ],
+    "type": "inferencia",
+    "counterpoint": "Síntesis del argumento; no implica que los autores renuncien a su escala de maduración revolucionaria.",
+    "visual_checked": false,
+    "visual_pages_checked": [
+      105,
+      106,
+      107,
+      109
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/crisis-1929-fundacion-partido-comunista-1984/chapters/08-capitulo-iv.md"
+    ]
+  }
+]
