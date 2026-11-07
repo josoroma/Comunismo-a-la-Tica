@@ -9,11 +9,13 @@ import json
 DOCS=Path(__file__).resolve().parent
 class Reader(HTMLParser):
     def __init__(self):
-        super().__init__(); self.ids=[]; self.links=[]; self.articles=0
+        super().__init__(); self.ids=[]; self.links=[]; self.articles=0; self.cards=[]; self.images=[]
     def handle_starttag(self,tag,attrs):
         d=dict(attrs)
         if 'id' in d:self.ids.append(d['id'])
         if tag=='article':self.articles+=1
+        if tag=='a' and 'chapter-card' in d.get('class','').split():self.cards.append(d.get('href'))
+        if tag=='img':self.images.append(d)
         for key in ('href','src'):
             if key in d:self.links.append(d[key])
 p=Reader();p.feed((DOCS/'index.html').read_text());errors=[]
@@ -27,5 +29,10 @@ for link in p.links:
 for row in json.loads((DOCS/'assets/search.json').read_text()):
     if row['id'] not in p.ids:errors.append(f'Búsqueda sin destino: {row["id"]}')
 if p.articles != 23:errors.append(f'Se esperan 23 documentos, hay {p.articles}')
-print(json.dumps({'documents':p.articles,'anchors':len(p.ids),'links':len(p.links),'errors':errors},ensure_ascii=False,indent=2))
+if p.cards != [f'#c{n:02}' for n in range(1,18)]:errors.append('El recorrido debe enlazar los 16 capítulos y el epílogo en orden.')
+for n in range(1,18):
+    src=f'assets/img/capitulos/{n:02}.svg'
+    if sum(im.get('src')==src for im in p.images)!=2:errors.append(f'Falta ilustración en recorrido o capítulo: {src}')
+if any('alt' not in im for im in p.images):errors.append('Hay imágenes sin atributo alt.')
+print(json.dumps({'documents':p.articles,'chapter_cards':len(p.cards),'anchors':len(p.ids),'links':len(p.links),'errors':errors},ensure_ascii=False,indent=2))
 raise SystemExit(bool(errors))

@@ -1,0 +1,104 @@
+{
+  "10": {
+    "src": "assets/img/capitulos/10.svg",
+    "titulo": "Dos mesas, una historia",
+    "alt": "Dos casas y dos mesas separadas, con documentos y libros de distintos colores.",
+    "descripcion": "La fractura de una organización y la disputa por su continuidad."
+  },
+  "11": {
+    "src": "assets/img/capitulos/11.svg",
+    "titulo": "El trabajo después de la ruptura",
+    "alt": "Una fábrica, cajas, una reunión y documentos sobre una mesa.",
+    "descripcion": "Transformaciones del empleo y esfuerzos por recomponer la representación."
+  },
+  "12": {
+    "src": "assets/img/capitulos/12.svg",
+    "titulo": "La calle como lugar político",
+    "alt": "Una infraestructura eléctrica y una tribuna rodeada de personas con pancartas.",
+    "descripcion": "Organizaciones sociales, servicios públicos y acción colectiva."
+  },
+  "13": {
+    "src": "assets/img/capitulos/13.svg",
+    "titulo": "Una casa para varias izquierdas",
+    "alt": "Una casa de reunión, libros diversos y personas ante una mesa compartida.",
+    "descripcion": "Pluralidad, acuerdos y la construcción de un nuevo frente político."
+  },
+  "14": {
+    "src": "assets/img/capitulos/14.svg",
+    "titulo": "Representar y permanecer",
+    "alt": "Una urna, una tribuna, sillas y una mesa de trabajo parlamentario.",
+    "descripcion": "La trayectoria electoral y el trabajo cotidiano de la representación."
+  },
+  "15": {
+    "src": "assets/img/capitulos/15.svg",
+    "titulo": "Otra tradición del trabajo",
+    "alt": "Una fábrica y una tribuna con pancarta roja ante un grupo de trabajadores.",
+    "descripcion": "Organización obrera y una tradición revolucionaria diferenciada."
+  },
+  "16": {
+    "src": "assets/img/capitulos/16.svg",
+    "titulo": "Dos papeletas, un presente",
+    "alt": "Dos urnas junto a una mesa con computadora y documentos, bajo una bandera costarricense.",
+    "descripcion": "Resultados electorales, programas y debates abiertos al corte de 2026."
+  },
+  "17": {
+    "src": "assets/img/capitulos/17.svg",
+    "titulo": "Leer una tradición abierta",
+    "alt": "Un gran libro abierto, una casa de reunión, sillas y una urna.",
+    "descripcion": "Una historia en revisión, sin un desenlace escrito de antemano."
+  },
+  "01": {
+    "src": "assets/img/capitulos/01.svg",
+    "titulo": "Trabajo y ayuda mutua",
+    "alt": "Una casa de tejas, cafetos, una carreta y una mesa compartida con libros.",
+    "descripcion": "La vida del trabajo y las redes de ayuda antes de la organización partidaria."
+  },
+  "02": {
+    "src": "assets/img/capitulos/02.svg",
+    "titulo": "La palabra se organiza",
+    "alt": "Una imprenta de madera y una mesa de reunión con papeles, libros y sillas.",
+    "descripcion": "Publicar, reunirse y convertir necesidades dispersas en demandas comunes."
+  },
+  "03": {
+    "src": "assets/img/capitulos/03.svg",
+    "titulo": "La plantación y la huelga",
+    "alt": "Bananos, un campamento, cajas sobre rieles y trabajadores ante una pancarta.",
+    "descripcion": "El territorio bananero y la organización de quienes lo trabajaban."
+  },
+  "04": {
+    "src": "assets/img/capitulos/04.svg",
+    "titulo": "Votar y tomar la palabra",
+    "alt": "Una urna, una imprenta y una tribuna ante varias sillas.",
+    "descripcion": "La representación electoral y la circulación de un vocabulario político."
+  },
+  "05": {
+    "src": "assets/img/capitulos/05.svg",
+    "titulo": "Pactar en un país dividido",
+    "alt": "Una iglesia, una casa de reunión y una mesa con documentos y un sello.",
+    "descripcion": "Alianzas, reforma social y negociaciones atravesadas por el conflicto."
+  },
+  "06": {
+    "src": "assets/img/capitulos/06.svg",
+    "titulo": "Los derechos y la puerta cerrada",
+    "alt": "Una urna detrás de una verja y trabajadores junto a una mesa de documentos.",
+    "descripcion": "La exclusión política y la reconstrucción de derechos desde el trabajo."
+  },
+  "07": {
+    "src": "assets/img/capitulos/07.svg",
+    "titulo": "El miedo en circulación",
+    "alt": "Un radio, publicaciones y una cartelera junto a una casa costarricense.",
+    "descripcion": "La prensa, la radio y las representaciones públicas del enemigo."
+  },
+  "08": {
+    "src": "assets/img/capitulos/08.svg",
+    "titulo": "Ideas que cruzan fronteras",
+    "alt": "Un globo terráqueo, un radio y libros reunidos sobre una mesa.",
+    "descripcion": "Las revoluciones y disputas internacionales leídas desde Costa Rica."
+  },
+  "09": {
+    "src": "assets/img/capitulos/09.svg",
+    "titulo": "La política vuelve a abrirse",
+    "alt": "Una urna, una tribuna y ciudadanos en una plaza con bandera costarricense.",
+    "descripcion": "Participación electoral, legalidad y nuevas generaciones de militantes."
+  }
+}

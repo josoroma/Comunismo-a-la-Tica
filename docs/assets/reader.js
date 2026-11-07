@@ -7,10 +7,11 @@
   function applyTheme() { document.documentElement.dataset.theme = theme; $('#theme').setAttribute('aria-label', `Cambiar a tema ${theme === 'dark' ? 'claro' : 'oscuro'}`); }
   applyTheme();
   $('#theme').addEventListener('click', () => { theme = theme === 'dark' ? 'light' : 'dark'; storage.set('cat-theme', theme); applyTheme(); });
-  function menu(open) { document.body.classList.toggle('menu-open', open); $('#menu').setAttribute('aria-expanded', String(open)); }
+  function menu(open) { document.body.classList.toggle('menu-open', open); $('#menu').setAttribute('aria-expanded', String(open)); $('#menu').setAttribute('aria-label', open ? 'Cerrar índice' : 'Abrir índice'); }
   $('#menu').addEventListener('click', () => menu(!document.body.classList.contains('menu-open')));
   $('#sidebar').addEventListener('click', event => { if (event.target.closest('a')) menu(false); });
-  document.addEventListener('keydown', e => { if(e.key === 'Escape') menu(false); });
+  $('#menu-backdrop').addEventListener('click', () => menu(false));
+  document.addEventListener('keydown', e => { if(e.key === 'Escape' && document.body.classList.contains('menu-open')) { menu(false); $('#menu').focus(); } });
   const articles = [...document.querySelectorAll('article')];
   let ticking = false, current = '';
   function update() {
@@ -20,7 +21,7 @@
     const active = [...articles].reverse().find(a => a.getBoundingClientRect().top < 160);
     if ((active?.id || '') !== current) {
       current = active?.id || '';
-      $('#current-chapter').textContent = active?.dataset.chapter || 'Una historia de Costa Rica';
+      $('#current-chapter').textContent = active?.dataset.chapter || 'Comunismo a la tica';
       document.querySelectorAll('#sidebar a[aria-current]').forEach(a => a.removeAttribute('aria-current'));
       if (current) document.querySelector(`#sidebar a[href="#${current}"]`)?.setAttribute('aria-current', 'location');
     }
@@ -31,7 +32,7 @@
   let index = null, failed = false;
   const fold = s => s.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLocaleLowerCase('es');
   async function openSearch() {
-    menu(false); dialog.showModal(); query.focus();
+    menu(false); if(!dialog.open) dialog.showModal(); query.focus();
     if (!index) {
       status.textContent = 'Cargando el índice…';
       try {
@@ -43,7 +44,11 @@
     search();
   }
   $('#search-open').addEventListener('click', openSearch);
-  document.addEventListener('keydown', e => { if(e.key==='/' && !/INPUT|TEXTAREA/.test(document.activeElement.tagName) && !dialog.open) { e.preventDefault(); openSearch(); } });
+  document.addEventListener('keydown', e => {
+    const shortcut = (e.metaKey || e.ctrlKey) && e.key.toLowerCase() === 'k';
+    const slash = e.key === '/' && !/INPUT|TEXTAREA/.test(document.activeElement.tagName) && !document.activeElement.isContentEditable;
+    if(shortcut || slash) { e.preventDefault(); if(!dialog.open) openSearch(); }
+  });
   dialog.addEventListener('click', e => { if(e.target === dialog && (e.clientX < dialog.getBoundingClientRect().left || e.clientX > dialog.getBoundingClientRect().right || e.clientY < dialog.getBoundingClientRect().top || e.clientY > dialog.getBoundingClientRect().bottom)) dialog.close(); });
   function search() {
     results.replaceChildren();

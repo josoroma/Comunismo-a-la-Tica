@@ -17,12 +17,17 @@ def slug(s):
     return re.sub(r'[^a-z0-9]+', '-', s).strip('-')
 
 
+def roman(n):
+    return ('X' if n >= 10 else '') + ['', 'I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX'][n % 10]
+
+
 def main():
     files = sorted(ROOT.glob('[0-9][0-9]-*.md'))
     if len([p for p in files if 1 <= int(p.name[:2]) <= 16]) != 16:
         raise SystemExit('Se necesitan los dieciséis capítulos terminados.')
     links = {p.name: 'c' + p.name[:2] for p in files}
-    toc, content, search, counts = [], [], [], []
+    toc, content, search, counts, cards = [], [], [], [], []
+    art = json.loads((DOCS / 'art/capitulos.json').read_text())
     manuscript_words = 0
     groups = {0: 'Para comenzar', 1: 'I · Formación y conflicto', 6: 'II · Exclusión y reconstrucción', 11: 'III · Recomponer las izquierdas', 13: 'IV · Nuevos partidos y disputas', 17: 'El balance', 90: 'Archivo del libro'}
     for path in files:
@@ -78,16 +83,25 @@ def main():
             body += f'<section class="{"apparatus" if is_notes else "section"}" id="{sid}"><h3>{html.escape(heading)}</h3>{fragment}</section>'
         if n in groups:
             toc.append(f'<p class="toc-group">{groups[n]}</p>')
-        label = f'{n:02}' if 1 <= n <= 16 else '§' if n == 0 else '◇'
-        toc.append(f'<details class="toc-chapter"><summary><a href="#{cid}"><span>{label}</span>{html.escape(title)}</a></summary><ul>{"".join(sections_nav)}</ul></details>')
+        label = roman(n) if 1 <= n <= 16 else '§' if n == 0 else '✳' if n == 17 else 'A'
+        nav_title = 'Nota de método' if n == 0 else title
+        toc.append(f'<details class="toc-chapter"><summary><a href="#{cid}"><span>{label}</span>{html.escape(nav_title)}</a></summary><ul>{"".join(sections_nav)}</ul></details>')
         if 1 <= n <= 16:
             counts.append(body_words)
         if n <= 17:
             manuscript_words += body_words
-        category = f'Capítulo {n:02}' if 1 <= n <= 16 else 'Epílogo' if n == 17 else 'Nota de método' if n == 0 else 'Documentación'
-        content.append(f'<article id="{cid}" data-chapter="{html.escape(title)}"><header class="chapter-header"><p class="eyebrow">{category}</p><h2>{html.escape(title)}</h2><p class="reading-time">{max(1, round(body_words/210))} min de lectura</p></header>{body}</article>')
+        category = f'Capítulo {roman(n)}' if 1 <= n <= 16 else 'Epílogo' if n == 17 else 'Nota de método' if n == 0 else 'Documentación'
+        illustration = ''
+        if 1 <= n <= 17:
+            image = art[f'{n:02}']
+            src, alt = html.escape(image['src']), html.escape(image['alt'])
+            if not (DOCS / image['src']).is_file():
+                raise SystemExit(f'Falta la ilustración del capítulo {n}: {image["src"]}')
+            cards.append(f'<a class="chapter-card{" epilogue-card" if n == 17 else ""}" href="#{cid}"><img src="{src}" width="1000" height="680" loading="lazy" decoding="async" alt=""><span class="chapter-card-copy"><span class="chapter-label">{category}</span><span class="chapter-card-title">{html.escape(title)}</span></span><span class="chapter-arrow" aria-hidden="true">↗</span></a>')
+            illustration = f'<figure class="chapter-art"><img src="{src}" width="1000" height="680" loading="lazy" decoding="async" alt="{alt}"><figcaption><strong>{html.escape(image["titulo"])}</strong><span>{html.escape(image["descripcion"])}</span></figcaption></figure>'
+        content.append(f'<article id="{cid}" data-chapter="{html.escape(title)}"><header class="chapter-header"><p class="eyebrow">{category}</p><h2>{html.escape(title)}</h2><p class="reading-time">{max(1, round(body_words/210))} min de lectura</p></header>{illustration}{body}<a class="back-to-contents" href="#recorrido">↑ Volver al recorrido</a></article>')
     page = (DOCS / 'template.html').read_text()
-    page = page.replace('@@TOC@@', '\n'.join(toc)).replace('@@CONTENT@@', '\n'.join(content))
+    page = page.replace('@@TOC@@', '\n'.join(toc)).replace('@@CONTENT@@', '\n'.join(content)).replace('@@CHAPTER_CARDS@@', '\n'.join(cards))
     page = page.replace('@@WORDS@@', f'{sum(counts):,}'.replace(',', '.'))
     (DOCS / 'index.html').write_text(page)
     (DOCS / 'assets/search.json').write_text(json.dumps(search, ensure_ascii=False, separators=(',', ':')) + '\n')

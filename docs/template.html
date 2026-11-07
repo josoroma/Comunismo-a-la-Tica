@@ -4,13 +4,15 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="color-scheme" content="light dark">
+<meta name="author" content="josoroma + AI Corpus">
 <meta name="description" content="Una historia crítica del comunismo y las transformaciones de las izquierdas en Costa Rica, de 1931 al 6 de noviembre de 2026. Por josoroma + AI Corpus.">
 <meta property="og:title" content="Comunismo a la tica">
 <meta property="og:description" content="Organización popular, reforma social y transformaciones de las izquierdas. Costa Rica, 1931–2026.">
 <meta property="og:type" content="book">
 <meta property="og:url" content="https://josoroma.github.io/Comunismo-a-la-Tica/">
 <link rel="canonical" href="https://josoroma.github.io/Comunismo-a-la-Tica/">
-<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="assets/img/emblema.svg" type="image/svg+xml">
+<script>try{document.documentElement.dataset.theme=localStorage.getItem('cat-theme')||(matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light')}catch{}</script>
 <link rel="stylesheet" href="assets/reader.css">
 <title>Comunismo a la tica · josoroma + AI Corpus</title>
 <script src="assets/reader.js" defer></script>
@@ -18,29 +20,39 @@
 <body>
 <a class="skip" href="#libro">Saltar al libro</a>
 <aside id="sidebar" aria-label="Índice del libro">
-<a class="wordmark" href="#portada">COMUNISMO<br><span>A LA TICA</span><i>1931 — 2026</i></a>
-<nav>@@TOC@@</nav>
-<div class="sidebar-footer"><a href="https://github.com/josoroma/Comunismo-a-la-Tica">Texto y fuentes en GitHub ↗</a><p>josoroma + AI Corpus</p></div>
+<a class="wordmark" href="#portada"><img src="assets/img/emblema.svg" width="48" height="56" alt=""><span><strong>Comunismo<br>a la tica</strong><small>Organización y reforma social</small></span></a>
+<nav aria-label="Contenido"><a class="home-link" href="#recorrido">Explorar el libro <span aria-hidden="true">↗</span></a>@@TOC@@</nav>
+<div class="sidebar-footer"><span>1931 — 2026</span><a href="https://github.com/josoroma/Comunismo-a-la-Tica">Texto y fuentes en GitHub ↗</a></div>
 </aside>
+<button id="menu-backdrop" tabindex="-1" aria-label="Cerrar índice"></button>
 <div class="reading-shell">
 <header class="toolbar">
-<button id="menu" class="text-button" aria-controls="sidebar" aria-expanded="false">Índice</button>
-<span id="current-chapter">Una historia de Costa Rica</span>
-<div class="tools"><button id="search-open" class="text-button" aria-label="Buscar en el libro">Buscar <kbd>/</kbd></button><button id="theme" class="text-button" aria-label="Cambiar a tema oscuro">◐ <span>Tema</span></button></div>
+<button id="menu" class="icon-button" aria-label="Abrir índice" aria-controls="sidebar" aria-expanded="false">☰</button>
+<div class="toolbar-title"><span>ENSAYO HISTÓRICO</span><span id="current-chapter">Comunismo a la tica</span></div>
+<div class="tools"><button id="search-open" aria-label="Buscar en el libro"><span aria-hidden="true">⌕</span><span class="search-label">Buscar en el libro…</span><kbd>⌘K</kbd></button><button id="theme" class="icon-button" aria-label="Cambiar a tema oscuro">◐</button></div>
 <progress id="progress" max="100" value="0" aria-label="Progreso de lectura"></progress>
 </header>
 <main id="libro">
 <section id="portada" class="cover" aria-labelledby="book-title">
-<div class="cover-top"><span>HISTORIA · COSTA RICA</span><span>EDICIÓN DIGITAL / 01</span></div>
+<div class="cover-copy">
+<p class="eyebrow">Una historia de Costa Rica</p>
 <p class="cover-period">1931 <span>—</span> 2026</p>
-<h1 id="book-title">Comunismo<br><em>a la tica</em></h1>
+<h1 id="book-title">Comunismo<em>a la tica.</em></h1>
 <p class="subtitle">Organización popular, reforma social y transformaciones de las izquierdas.</p>
-<figure class="cover-art"><img src="assets/tramas.svg" width="900" height="270" alt="Líneas que se cruzan, se separan y vuelven a encontrarse, una representación abstracta de trayectorias políticas."><figcaption>Tramas y rupturas · ilustración editorial</figcaption></figure>
-<div class="cover-bottom"><p>Un libro de <strong>josoroma</strong> + AI Corpus</p><a class="start" href="#c01">Comenzar a leer <span>↗</span></a></div>
-<p class="edition-note">16 capítulos · @@WORDS@@ palabras en los capítulos · Fuentes y notas abiertas a revisión<br>Alcance histórico hasta el 6 de noviembre de 2026</p>
+<p class="author-signature"><img src="assets/img/josoroma.svg" width="1000" height="200" alt="Josoroma"><span class="author-plus" aria-hidden="true">+</span><span>AI Corpus</span></p>
+<div class="cover-actions"><a class="start" href="#c01">Comenzar a leer <span aria-hidden="true">↗</span></a><a class="explore" href="#recorrido">Explorar el libro <span aria-hidden="true">↓</span></a></div>
+<p class="edition-note"><span>16 capítulos y un epílogo</span><span>Fuentes abiertas a revisión</span></p>
+</div>
+<figure class="cover-art"><img src="assets/img/portada.svg" width="1000" height="1000" fetchpriority="high" alt="Escena isométrica editorial con libros, imprenta y espacios de organización popular costarricense."><figcaption><span>Las formas de organizarse</span><span>Costa Rica · 1931–2026</span></figcaption></figure>
 </section>
+<section id="recorrido" class="journey" aria-labelledby="journey-title">
+<div class="journey-heading"><div><p class="eyebrow">El recorrido</p><h2 id="journey-title">Una historia, muchas izquierdas.</h2></div><p>De 1931 al 6 de noviembre de 2026</p></div>
+<div class="chapter-grid">@@CHAPTER_CARDS@@</div>
+<div class="journey-links"><a href="#c00">Nota de método ↗</a><a href="#c90">Cronología ↗</a><a href="#c92">Fuentes del libro ↗</a></div>
+</section>
+<section class="home-note" aria-labelledby="home-note-title"><p class="eyebrow">La pregunta del libro</p><h2 id="home-note-title">¿Qué significó hacer comunismo en Costa Rica?</h2><p>Seguir sus organizaciones, sus alianzas y sus rupturas: del partido de 1931 a las distintas izquierdas del presente. Una historia con fuentes, interpretaciones y vacíos declarados.</p><a href="#c00">Leer la nota de método <span aria-hidden="true">↗</span></a></section>
 @@CONTENT@@
-<footer class="book-footer"><p class="eyebrow">Comunismo a la tica</p><p>La historia continúa. Esta edición tiene una fecha de corte.</p><a href="#portada">Volver a la portada ↑</a> · <a href="https://github.com/josoroma/Comunismo-a-la-Tica/issues">Señalar una corrección</a><p>josoroma + AI Corpus · 2026</p></footer>
+<footer class="book-footer"><p class="eyebrow">Comunismo a la tica</p><p class="footer-statement">La historia continúa. Esta edición tiene una fecha de corte.</p><p class="author-signature"><img src="assets/img/josoroma.svg" width="1000" height="200" alt="Josoroma"><span class="author-plus" aria-hidden="true">+</span><span>AI Corpus</span></p><div class="footer-links"><a href="#portada">Volver a la portada ↑</a><a href="https://github.com/josoroma/Comunismo-a-la-Tica/issues">Señalar una corrección ↗</a></div><p>Edición digital · 2026 · Ilustraciones editoriales, no reconstrucciones documentales.</p></footer>
 </main>
 </div>
 <dialog id="search-dialog" aria-labelledby="search-label"><form method="dialog"><button class="close text-button" aria-label="Cerrar búsqueda">Cerrar ✕</button></form><h2 id="search-label">Buscar en el libro</h2><label for="query">Palabra, nombre o frase</label><input id="query" type="search" autocomplete="off" placeholder="Por ejemplo: organización popular"><p id="search-status" role="status" aria-live="polite">Escriba al menos dos caracteres.</p><div id="results"></div></dialog>

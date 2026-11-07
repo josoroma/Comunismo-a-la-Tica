@@ -14,7 +14,7 @@ Esta edición reúne aproximadamente **37.000 palabras de texto principal**, 257
 
 ## Leer y revisar
 
-El lector incluye índice por capítulos y secciones, búsqueda, enlaces estables, notas con retorno, progreso de lectura, temas claro y oscuro y presentación móvil. Su contenido permanece legible sin JavaScript. La ilustración de portada es editorial y abstracta; no representa un organigrama partidario.
+El lector incluye una portada con la firma **Josoroma + AI Corpus**, un recorrido visual por los 16 capítulos y el epílogo, índice por secciones, búsqueda, enlaces estables, notas con retorno, progreso de lectura, temas claro y oscuro y presentación móvil. Su contenido permanece legible sin JavaScript. El tema acompaña al de [Los arquitectos del Estado](https://josoroma.github.io/Los-Arquitectos-del-Estado/), con ilustraciones isométricas originales para este libro. Son interpretaciones editoriales, no reconstrucciones documentales. Sus fuentes editables y procedencia se explican en [docs/art/README.md](docs/art/README.md).
 
 Las notas remiten al corpus local y a documentos externos. La [matriz de evidencia](93-matriz-de-evidencias.md) separa hechos, declaraciones, interpretaciones e inferencias. La [bibliografía reciente](94-fuentes-1984-2026.md) registra procedencia y localizadores de las fuentes incorporadas. El [informe de verificación](research/verification.json) declara qué se comprobó automáticamente y sus límites.
 
