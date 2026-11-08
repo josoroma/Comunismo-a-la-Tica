@@ -22,6 +22,80 @@
   },
   {
     "note": 2,
+    "claim": "Gobernación rechazó la inscripción en julio de 1931; la comisión confirmó el 23 de septiembre y el pleno aprobó el dictamen el 7 de octubre por 18 contra 14, con 11 ausentes de 43.",
+    "source": "anticomunismo-reformista-molina",
+    "pages": [
+      58,
+      59,
+      60
+    ],
+    "type": "hecho",
+    "counterpoint": "Votación conocida por estudios previos y prensa citados por Molina; la posición de Carlos María Jiménez es interpretación del autor.",
+    "visual_checked": true,
+    "visual_pages_checked": [
+      59
+    ],
+    "native_text": true,
+    "local_paths": [
+      "data/books/anticomunismo-reformista-molina/chapters/09-capitulo-3-ilegalizacion-fallida.md"
+    ],
+    "quote": "con tendencias internacionales adversas a [los] dos ejes principales de nuestra vida jurídica y política…dictamen que fue aprobado por la cámara de diputados el 7 de octubre con una votación de 18 votos a favor y 14 en contra…11 de un total de 43 diputados (25,6 por ciento) optó por no asistir a la sesión, y 14 legisladores (32,6 por ciento) apoyaron el reclamo del PCCR"
+  },
+  {
+    "note": 3,
+    "claim": "Misma votación de octubre de 1931 (14 a favor del reclamo, 18 en contra, 11 ausentes); Otilio Ulate entre quienes apoyaron a los comunistas.",
+    "source": "moradas-y-discursos-molina-2010",
+    "pages": [
+      164
+    ],
+    "type": "hecho",
+    "counterpoint": "Cifras tomadas de un artículo previo del autor; actas legislativas no consultadas.",
+    "visual_checked": true,
+    "visual_pages_checked": [
+      164
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/moradas-y-discursos-molina-2010/chapters/10-capitulo-5-prensa-propaganda-y-comunismo.md"
+    ],
+    "quote": "de 43 diputados, 11 se abstuvieron de asistir a la sesión…a favor del reclamo y 18 lo adversaron…Otilio Ulate Blanco, fue precisamente uno de los que apoyó a los comunistas"
+  },
+  {
+    "note": 4,
+    "claim": "Ricardo Jiménez, único candidato favorable a la inscripción en 1931.",
+    "source": "anticomunismo-reformista-molina",
+    "pages": [
+      61
+    ],
+    "type": "hecho",
+    "counterpoint": "La frase de Jiménez es cita mediada (La Tribuna vía Vargas Coto).",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/anticomunismo-reformista-molina/chapters/09-capitulo-3-ilegalizacion-fallida.md"
+    ],
+    "quote": "fue el único candidato que, en campaña, se había pronunciado a favor de la inscripción electoral de los comunistas…al comunismo hay que combatirlo con razones, no con puñetazos"
+  },
+  {
+    "note": 4,
+    "claim": "El presidente Jiménez no apoyó la descalificación de los electos del Bloque en 1932 y 1934.",
+    "source": "moradas-y-discursos-molina-2010",
+    "pages": [
+      165
+    ],
+    "type": "interpretacion",
+    "counterpoint": "El papel decisivo del Ejecutivo es lectura de Molina; no se dispone de los textos de prensa citados.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/moradas-y-discursos-molina-2010/chapters/10-capitulo-5-prensa-propaganda-y-comunismo.md"
+    ],
+    "quote": "iniciativa que no prosperó, dado que no contó con el apoyo del presidente Jiménez"
+  },
+  {
+    "note": 5,
     "claim": "Series electorales heterogéneas, alianzas, cobertura e información incompleta.",
     "source": "desempeno-electoral-partido-comunista-1999",
     "pages": [
@@ -38,7 +112,7 @@
     ]
   },
   {
-    "note": 3,
+    "note": 6,
     "claim": "Abstencionismo, tipo de elección y apoyo relativamente estable.",
     "source": "desempeno-electoral-partido-comunista-1999",
     "pages": [
@@ -60,7 +134,146 @@
     ]
   },
   {
-    "note": 4,
+    "note": 7,
+    "claim": "Cociente de la ley de 1927, asistencia de 41,9 % en 1934, abstención de 27,1 % en 1936, voto obligatorio y caída de la abstención de 58,1 % a 31,9 %; giro eclesiástico hacia la participación.",
+    "source": "anticomunismo-reformista-molina",
+    "pages": [
+      63,
+      64,
+      66,
+      119
+    ],
+    "type": "interpretacion",
+    "counterpoint": "La abstención no es causa única; Molina menciona también la campaña eclesiástica y errores del Bloque.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/anticomunismo-reformista-molina/chapters/09-capitulo-3-ilegalizacion-fallida.md",
+      "data/books/anticomunismo-reformista-molina/chapters/13-capitulo-7-catolicismo-social-al-poder.md"
+    ],
+    "quote": "una muy baja asistencia a las urnas (41,9 por ciento)…el abstencionismo y la indiferencia del ciudadano son pecados cívicos…dividir el total de votos entre las plazas en juego para obtener un cociente…una baja en el abstencionismo (fue, apenas, de 27,1 por ciento) que impidió alcanzar cocientes…bajó de 58,1 por ciento en 1934 a 31,9 por ciento cuatro años después"
+  },
+  {
+    "note": 7,
+    "claim": "El Partido Comunista denunció compra de votos y un recuento que le negó un segundo diputado en 1936.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      353
+    ],
+    "type": "declaracion",
+    "counterpoint": "Acusación partidaria recogida en nota por Angulo; no verificada con actas ni discutida por Molina.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/79-cap4-control-censura-autoritarismo.md"
+    ],
+    "quote": "el Partido Comunista acusa al lado cortesista de haber comprado votos y que. por el conteo de papeletas, el segundo posible diputado comunista no quedo electo"
+  },
+  {
+    "note": 8,
+    "claim": "Molina 2007 da 27,1 % (1936), 58,1 % y 31,9 % (1934 y 1938) de abstención, y 16,2 % y 16,3 % para el voto comunista de 1942 en páginas distintas.",
+    "source": "anticomunismo-reformista-molina",
+    "pages": [
+      66,
+      119,
+      162,
+      179
+    ],
+    "type": "hecho",
+    "counterpoint": "Discrepancias menores entre obras del mismo autor; no alteran el argumento.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/anticomunismo-reformista-molina/chapters/09-capitulo-3-ilegalizacion-fallida.md",
+      "data/books/anticomunismo-reformista-molina/chapters/13-capitulo-7-catolicismo-social-al-poder.md",
+      "data/books/anticomunismo-reformista-molina/chapters/15-capitulo-9-sindicalismo-catolico.md",
+      "data/books/anticomunismo-reformista-molina/chapters/16-capitulo-10-de-comunistas-a-laboristas.md"
+    ],
+    "quote": "fue, apenas, de 27,1 por ciento…bajó de 58,1 por ciento en 1934 a 31,9 por ciento…acaba de capturar el 16,2 por ciento de los votos en los comicios diputadiles de febrero de 1942…los comunistas capturaron el 16,3 por ciento de los votos"
+  },
+  {
+    "note": 8,
+    "claim": "Cuadros de 1999: 16,3 % en 1942; abstención de 58,0 %, 26,2 % y 35,0 % en 1934, 1936 y 1938; 2.122 votos en San José en 1934.",
+    "source": "desempeno-electoral-partido-comunista-1999",
+    "pages": [
+      4,
+      6,
+      7
+    ],
+    "type": "hecho",
+    "counterpoint": "Base de cálculo no explicitada; cifras cotejadas con el facsímil.",
+    "visual_checked": true,
+    "visual_pages_checked": [
+      4,
+      6,
+      7
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/desempeno-electoral-partido-comunista-1999/chapters/02-desempeno-en-el-juego-electoral.md",
+      "data/books/desempeno-electoral-partido-comunista-1999/chapters/03-influencia-del-abstencionismo.md"
+    ],
+    "quote": "Total 5,0 5,1 11,6 98 16,3 12,8…1934 58,0 22 1936 26,2 3 1938 35,0 10…San José 1.153 2. 122"
+  },
+  {
+    "note": 8,
+    "claim": "Angulo: 2101 votos comunistas en San José y 272 en Limón en febrero de 1934, según La Tribuna.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      198
+    ],
+    "type": "hecho",
+    "counterpoint": "Recuento de prensa de dos días después; difiere levemente del oficial que usa Molina.",
+    "visual_checked": true,
+    "visual_pages_checked": [
+      198
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/50-cap2-formacion-de-los-sindicatos.md"
+    ],
+    "quote": "obtuvieron un total de 2101 votos, por lo que se constituyeron como la tercera fuerza"
+  },
+  {
+    "note": 9,
+    "claim": "Huelga de zapateros y elección de 1934 se nutrieron mutuamente; Efraín Jiménez Guerrero, diputado.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      195,
+      196
+    ],
+    "type": "interpretacion",
+    "counterpoint": "La relación causal es interpretación de la autora; no hay medición del voto huelguista.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/49-cap2-primera-huelga-zapateros-1934.md"
+    ],
+    "quote": "logró, en las elecciones del 11 de febrero de 1934. ganar la diputación por San…Ambos eventos, tanto la huelga como las elecciones, lograron nutrirse mutuamente"
+  },
+  {
+    "note": 9,
+    "claim": "Un comentarista de 1934 vinculó el voto comunista con el apoyo a la huelga de zapateros.",
+    "source": "moradas-y-discursos-molina-2010",
+    "pages": [
+      167
+    ],
+    "type": "declaracion",
+    "counterpoint": "Texto anónimo conocido por cita de Molina.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/moradas-y-discursos-molina-2010/chapters/10-capitulo-5-prensa-propaganda-y-comunismo.md"
+    ],
+    "quote": "Ellos fueron los únicos que acudieron a sostener la huelga contra los patrones…Eso comprometió a mucha gente con su voto"
+  },
+  {
+    "note": 10,
     "claim": "Permanencia partidaria, medios de difusión y costos represivos de la movilización.",
     "source": "desempeno-electoral-partido-comunista-1999",
     "pages": [
@@ -83,7 +296,7 @@
     ]
   },
   {
-    "note": 5,
+    "note": 11,
     "claim": "Geografía de apoyo y reconsideración del vínculo con pequeños caficultores.",
     "source": "desempeno-electoral-partido-comunista-1999",
     "pages": [
@@ -104,7 +317,7 @@
     ]
   },
   {
-    "note": 6,
+    "note": 12,
     "claim": "Comparación de alfabetización y voto con censos posteriores.",
     "source": "desempeno-electoral-partido-comunista-1999",
     "pages": [
@@ -122,7 +335,7 @@
     ]
   },
   {
-    "note": 7,
+    "note": 13,
     "claim": "Santo Domingo en 1942: 44,4 % legislativo frente a 4,6 % municipal.",
     "source": "desempeno-electoral-partido-comunista-1999",
     "pages": [
@@ -140,7 +353,7 @@
     ]
   },
   {
-    "note": 8,
+    "note": 14,
     "claim": "Discurso fechado en 1938 que enlaza himnos nacional e internacional.",
     "source": "discursos-manuel-mora-1934-1979",
     "pages": [
@@ -158,7 +371,7 @@
     ]
   },
   {
-    "note": 8,
+    "note": 14,
     "claim": "Discurso fechado en 1938 que enlaza himnos nacional e internacional.",
     "source": "discursos-manuel-mora-1934-1979",
     "pages": [
@@ -174,7 +387,25 @@
     ]
   },
   {
-    "note": 9,
+    "note": 15,
+    "claim": "Comentarista de La Prensa Libre (13 de febrero de 1934): comunismo costarricense y no soviético; Molina: intento de desovietizar y nacionalizar desde fuera.",
+    "source": "moradas-y-discursos-molina-2010",
+    "pages": [
+      166,
+      167
+    ],
+    "type": "declaracion",
+    "counterpoint": "Expectativa de un observador externo, no autodefinición del partido.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/moradas-y-discursos-molina-2010/chapters/10-capitulo-5-prensa-propaganda-y-comunismo.md"
+    ],
+    "quote": "desovietizar y nacionalizar a los comunistas costarricenses…Entre nosotros no puede haber un comunismo soviético sino un comunismo costarricense"
+  },
+  {
+    "note": 16,
     "claim": "Mora define la consigna Por un comunismo tico.",
     "source": "discursos-manuel-mora-1934-1979",
     "pages": [
@@ -196,7 +427,7 @@
     "review_note": "Cotejados facsímiles PDF87–88; cita breve en PDF88, folio impreso86."
   },
   {
-    "note": 10,
+    "note": 17,
     "claim": "Crítica pública de sectarismo y misterio organizativo.",
     "source": "discursos-manuel-mora-1934-1979",
     "pages": [
@@ -212,7 +443,7 @@
     ]
   },
   {
-    "note": 11,
+    "note": 18,
     "claim": "Defensa condicional de instituciones y contenido económico de la libertad.",
     "source": "discursos-manuel-mora-1934-1979",
     "pages": [
@@ -229,7 +460,42 @@
     ]
   },
   {
-    "note": 12,
+    "note": 19,
+    "claim": "Proyecto de ley Gurdián (noviembre de 1936) contra la literatura de izquierda; oposición de Mora y Ulate; acusación contra Mora por el asesinato.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      354,
+      355
+    ],
+    "type": "hecho",
+    "counterpoint": "La tesis no reproduce el texto ni el trámite final de la ley.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/79-cap4-control-censura-autoritarismo.md"
+    ],
+    "quote": "En noviembre de 1936, el Poder Ejecutivo presenta al Congreso la ley que prohíbe la literatura de izquierda con la justificación de que esta era inmoral y extremista…en contra se encontraban tanto Manuel Mora como Otilio Ulate…se acusó a Manuel…Mora como el autor intelectual del asesinato"
+  },
+  {
+    "note": 19,
+    "claim": "Fracasó el intento de vincular a Mora con el asesinato de González Lahmann.",
+    "source": "moradas-y-discursos-molina-2010",
+    "pages": [
+      184
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Juicio de Molina apoyado en un despacho estadounidense.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/moradas-y-discursos-molina-2010/chapters/10-capitulo-5-prensa-propaganda-y-comunismo.md"
+    ],
+    "quote": "crimen con el que infructuosamente se trató de vincular a Mora"
+  },
+  {
+    "note": 20,
     "claim": "El Comité Central reclama autoría colectiva de la orientación.",
     "source": "discursos-manuel-mora-1934-1979",
     "pages": [
@@ -245,7 +511,7 @@
     ]
   },
   {
-    "note": 12,
+    "note": 20,
     "claim": "El Comité Central reclama autoría colectiva de la orientación.",
     "source": "discursos-manuel-mora-1934-1979",
     "pages": [
@@ -261,7 +527,63 @@
     ]
   },
   {
-    "note": 13,
+    "note": 21,
+    "claim": "Programa de asamblea con el himno nacional antes de La Internacional y acusación de traición de bases radicales.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      362
+    ],
+    "type": "hecho",
+    "counterpoint": "La acusación se conoce por la réplica del partido; el programa anuncia y no relata.",
+    "visual_checked": true,
+    "visual_pages_checked": [
+      362
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/79-cap4-control-censura-autoritarismo.md"
+    ],
+    "quote": "en una asamblea del Partido Comunista se cantara primero el himno nacional y luego el de La Internacional…Ante esto, se les llamó traidores"
+  },
+  {
+    "note": 22,
+    "claim": "Propaganda de enero de 1940: Rusia antes que todo, burla del «nacional comunismo costarricense» e himno.",
+    "source": "moradas-y-discursos-molina-2010",
+    "pages": [
+      179,
+      180,
+      181
+    ],
+    "type": "declaracion",
+    "counterpoint": "Propaganda adversaria citada por Molina; no mide recepción.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/moradas-y-discursos-molina-2010/chapters/10-capitulo-5-prensa-propaganda-y-comunismo.md"
+    ],
+    "quote": "para él Rusia está antes que todo…no es posible concebir la existencia de una Iglesia Católica Apostólica Costarricense…Jamás comienzan los rojos sus fiestas con el Himno de nuestra patria"
+  },
+  {
+    "note": 22,
+    "claim": "Calderón Guardia (febrero de 1940): doctrinas trasplantadas en «un insano intento de aclimataciones imposibles».",
+    "source": "anticomunismo-reformista-molina",
+    "pages": [
+      194,
+      195
+    ],
+    "type": "declaracion",
+    "counterpoint": "Discurso de campaña conocido por La Tribuna citada por Molina.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/anticomunismo-reformista-molina/chapters/17-epilogo.md"
+    ],
+    "quote": "en un insano intento de aclimataciones imposibles"
+  },
+  {
+    "note": 23,
     "claim": "Política productiva, protección laboral y disputa del patriotismo.",
     "source": "discursos-manuel-mora-1934-1979",
     "pages": [
@@ -282,7 +604,64 @@
     ]
   },
   {
-    "note": 14,
+    "note": 24,
+    "claim": "«Mano tendida» de 1938, declaraciones de Valenciano, su protesta y la réplica de Trabajo; Valenciano había felicitado la exclusión de 1931.",
+    "source": "anticomunismo-reformista-molina",
+    "pages": [
+      59,
+      111,
+      112,
+      113
+    ],
+    "type": "declaracion",
+    "counterpoint": "Cita mediada; publicación original no localizada.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/anticomunismo-reformista-molina/chapters/09-capitulo-3-ilegalizacion-fallida.md",
+      "data/books/anticomunismo-reformista-molina/chapters/12-capitulo-6-fortalecimiento-catolicismo-social.md"
+    ],
+    "quote": "felicitó públicamente “…a los que combatieron las pretensiones del comunismo en el Congreso”…La estrategia precedente (denominada “la mano tendida”)…no es ni puede ser condenado por la moral cristiana…abierta condenación del comunismo ateo…para combatir al enemigo común que es la miseria"
+  },
+  {
+    "note": 25,
+    "claim": "Trabajo (16 de septiembre de 1938): debilidad de los sindicatos y propuesta de sacarlos de los marcos gremiales.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      318,
+      319
+    ],
+    "type": "declaracion",
+    "counterpoint": "Diagnóstico interesado del partido; sin cifras de afiliación.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/72-cap4-sindicatos-y-luchas-por-el-salario.md"
+    ],
+    "quote": "han aumentado su volumen de participantes, pero a través de métodos forzados y coercitivos, lo que produce que se desintegren rápidamente…Hacer salir a los Sindicatos de los estrechos marcos gremiales…Debilidades del Movimiento Sindical en Costa Rica"
+  },
+  {
+    "note": 26,
+    "claim": "Alianza Democrática de 1939 en torno a Ricardo Jiménez; se deshizo con su renuncia.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      362,
+      363
+    ],
+    "type": "hecho",
+    "counterpoint": "Versiones distintas de Lyra y Eduardo Mora; fechas inconsistentes en la tesis.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/79-cap4-control-censura-autoritarismo.md"
+    ],
+    "quote": "se formó entonces la Alianza con las siguientes agrupaciones…Ante la renuncia de Ricardo Jiménez, la alianza se deshace y el partido vuelve a la campaña nuevamente solo"
+  },
+  {
+    "note": 27,
     "claim": "Comparación de explicaciones electoral e internacional del cambio de línea.",
     "source": "desempeno-electoral-partido-comunista-1999",
     "pages": [
@@ -307,7 +686,7 @@
     ]
   },
   {
-    "note": 14,
+    "note": 27,
     "claim": "Comparación de explicaciones electoral e internacional del cambio de línea.",
     "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
     "pages": [
@@ -328,7 +707,7 @@
     ]
   },
   {
-    "note": 15,
+    "note": 28,
     "claim": "Limitaciones financieras y solicitud de préstamo internacional.",
     "source": "desempeno-electoral-partido-comunista-1999",
     "pages": [
@@ -344,7 +723,7 @@
     ]
   },
   {
-    "note": 16,
+    "note": 29,
     "claim": "Defensa de programas contra personalismo y paradoja de la centralidad de Mora.",
     "source": "discursos-manuel-mora-1934-1979",
     "pages": [
@@ -360,7 +739,7 @@
     ]
   },
   {
-    "note": 17,
+    "note": 30,
     "claim": "Autonomía nacional y defensa soviética en discurso de diciembre de 1939.",
     "source": "discursos-manuel-mora-1934-1979",
     "pages": [
@@ -385,7 +764,7 @@
     ]
   },
   {
-    "note": 18,
+    "note": 31,
     "claim": "Crítica de dobles medidas y confianza en justificaciones soviéticas.",
     "source": "discursos-manuel-mora-1934-1979",
     "pages": [
@@ -407,7 +786,59 @@
     ]
   },
   {
-    "note": 19,
+    "note": 32,
+    "claim": "Molina 2010: la insistencia en un genuino comunismo costarricense («a la tica») buscaba contrarrestar la desnacionalización.",
+    "source": "moradas-y-discursos-molina-2010",
+    "pages": [
+      184
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Interpretación apoyada en literatura secundaria; no cita un texto fechado de Mora con la expresión.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/moradas-y-discursos-molina-2010/chapters/10-capitulo-5-prensa-propaganda-y-comunismo.md"
+    ],
+    "quote": "en afirmar que el suyo era un genuino comunismo costarricense (\"a la tica\")"
+  },
+  {
+    "note": 32,
+    "claim": "Molina 2007: hipótesis de que el enfoque étnico de la legación facilitó destacar un «comunismo a la tica».",
+    "source": "anticomunismo-reformista-molina",
+    "pages": [
+      50
+    ],
+    "type": "interpretacion",
+    "counterpoint": "El autor declara que precisa más investigación.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/anticomunismo-reformista-molina/chapters/08-capitulo-2-sombra-judia.md"
+    ],
+    "quote": "precisa ser investigada con más detalle, pero es verosímil que…les facilitara a los dirigentes destacar el carácter “costarricense” de su partido e insistir en que el suyo era un “comunismo a la tica”"
+  },
+  {
+    "note": 33,
+    "claim": "Mora ante diplomáticos: más democracia y no comunismo (1944); curso más esencialmente costarricense (1948).",
+    "source": "anticomunismo-reformista-molina",
+    "pages": [
+      186,
+      191
+    ],
+    "type": "declaracion",
+    "counterpoint": "Resúmenes de funcionarios estadounidenses traducidos por Molina; posible táctica.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/anticomunismo-reformista-molina/chapters/16-capitulo-10-de-comunistas-a-laboristas.md"
+    ],
+    "quote": "consistió en “descomunistizarse” e insistir en su carácter nacional…no quiero comunismo para Costa Rica ni para otro país centroamericano. Lo que necesitamos es más democracia…un curso más moderado y más esencialmente costarricense"
+  },
+  {
+    "note": 34,
     "claim": "Crisis republicana, competencia por votos y acercamiento político.",
     "source": "desempeno-electoral-partido-comunista-1999",
     "pages": [
@@ -431,7 +862,7 @@
     ]
   },
   {
-    "note": 20,
+    "note": 35,
     "claim": "Participación institucional, alternativas de alianza y límites de control.",
     "source": "desempeno-electoral-partido-comunista-1999",
     "pages": [
@@ -455,7 +886,7 @@
     ]
   },
   {
-    "note": 20,
+    "note": 35,
     "claim": "Participación institucional, alternativas de alianza y límites de control.",
     "source": "discursos-manuel-mora-1934-1979",
     "pages": [

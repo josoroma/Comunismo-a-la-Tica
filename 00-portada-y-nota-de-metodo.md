@@ -2,7 +2,13 @@
 
 **Organización popular, reforma social y transformaciones de las izquierdas en Costa Rica, 1931–2026.**
 
-josoroma + AI Corpus · Primera edición digital · Corte histórico: 6 de noviembre de 2026.
+josoroma + AI Corpus · Primera edición digital, ampliada el 7 de noviembre de 2026 · Corte histórico: 6 de noviembre de 2026.
+
+> Hace ya un siglo, Angelo Rappoport reunió en su *Dictionary of Socialism* de 1924 no menos de cuarenta definiciones del socialismo, y advirtió a sus lectores en el prefacio que «hay muchas moradas en la Casa del Socialismo» (Rappoport 1924: v, 34–41). Aun ceñido a una parte relativamente acotada del pensamiento socialista, Leszek Kołakowski llenó más de 1.300 páginas en su magistral panorama de las *Principales corrientes del marxismo* (Kołakowski 1978; edición de 2008).
+>
+> — Pablo Gilabert y Martin O’Neill, «Socialism», [*Stanford Encyclopedia of Philosophy*](https://plato.stanford.edu/entries/socialism/) (primera publicación: 15 de julio de 2019; revisión sustantiva: 25 de mayo de 2024). Traducción de esta edición; consulta del 7 de noviembre de 2026.
+
+El epígrafe no ofrece una definición que este libro adopte. Recuerda que la palabra socialismo ha nombrado proyectos distintos y a menudo rivales. Esa pluralidad atraviesa también la historia costarricense: ideas socialistas difundidas por artesanos y periodistas antes de 1930, catolicismo social, reformismo, comunismo de partido, socialdemocracia y nuevas izquierdas. Ninguna corriente es la medida de las demás.
 
 ## Una pregunta que atraviesa el libro
 
@@ -20,13 +26,13 @@ El libro distingue continuidad jurídica, circulación de personas, afinidad pro
 
 ## Qué fuentes permiten ver
 
-El punto de partida es una biblioteca local de treinta y dos obras y documentos convertidos a Markdown, con sus originales, metadatos de extracción y facsímiles. El inventario no equivale a afirmar que todas las obras se utilizaron ni que cada página se cotejó visualmente. La bibliografía identifica las fuentes efectivamente citadas; los archivos de evidencia permiten localizar el pasaje utilizado. Los capítulos sobre el período reciente añaden documentos oficiales, estudios académicos y fuentes partidarias identificadas por separado.
+El punto de partida es una biblioteca local de cuarenta y dos obras y documentos convertidos a Markdown, con sus originales, metadatos de extracción y facsímiles. Treinta y dos formaban el corpus de la primera versión. Las diez restantes se incorporaron el 7 de noviembre de 2026 para ampliar los capítulos uno a nueve. Son estudios de Iván Molina Jiménez, Manuel Antonio Solís, Jaime Delgado Rojas, Mario Oliva Medina, y Ana María Schroeder Barrantes con José Aurelio Sandí Morales. Se suman la tesis doctoral y un artículo de Sonia Angulo Brenes, una carta autobiográfica de Jorge Volio y un manual de formación del Partido Demócrata Cristiano. El inventario no equivale a afirmar que todas las obras se utilizaron ni que cada página se cotejó visualmente. La bibliografía identifica las fuentes efectivamente citadas; los archivos de evidencia permiten localizar el pasaje utilizado. Los capítulos sobre el período reciente añaden documentos oficiales, estudios académicos y fuentes partidarias identificadas por separado.
 
 Los discursos de Manuel Mora se leen como intervenciones públicas y, en ocasiones, como reconstrucciones posteriores de acontecimientos. La fecha del discurso, la del hecho recordado y la edición digital de 2013 no son intercambiables. Sus afirmaciones permiten conocer posiciones, defensas y estrategias; para establecer acontecimientos externos requieren contraste. Las notas editoriales pueden aportar información decisiva, pero también contienen discrepancias que se registran.
 
 La novela *Mamita Yunai* permite estudiar representaciones del trabajo, las jerarquías y la experiencia política. Sus escenas no se convierten en un expediente de hechos comprobados. El discurso de Fallas sobre la huelga bananera, incorporado a la edición consultada, se trata como un documento distinto: una memoria pública de 1955 sobre 1934. Tampoco se equipara la voz del narrador literario con cada opinión del autor o de una organización.
 
-Las investigaciones históricas se atribuyen a sus autores. Una interpretación puede resultar convincente sin convertirse por ello en una explicación única. Cuando un documento se conoce mediante un estudio posterior se declara esa mediación. En las obras colectivas se identifica al autor del capítulo, no solamente a quien editó el volumen. Los programas partidarios acreditan propuestas y autodefiniciones; no demuestran que estas se hayan ejecutado ni que sus diagnósticos sobre otros actores sean correctos.
+Las investigaciones históricas se atribuyen a sus autores. Una interpretación puede resultar convincente sin convertirse por ello en una explicación única. Cuando un documento se conoce mediante un estudio posterior se declara esa mediación. En las obras colectivas se identifica al autor del capítulo, no solamente a quien editó el volumen. Los programas partidarios acreditan propuestas y autodefiniciones; no demuestran que estas se hayan ejecutado ni que sus diagnósticos sobre otros actores sean correctos. Lo mismo vale para las entrevistas de dirigentes liberacionistas que Delgado reproduce y para las traducciones de despachos diplomáticos estadounidenses que Molina cita. Unas y otras son testimonios situados y llegan al lector a través de un estudio posterior.
 
 ## Cómo seguir una afirmación
 
@@ -34,7 +40,7 @@ Cada capítulo termina con notas numeradas. Las marcas en el texto conducen a la
 
 La matriz distingue hechos documentados, declaraciones, interpretaciones e inferencias del nuevo libro. Incluye contrapuntos y el estado del cotejo visual registrado. Una fila no es un sello de verdad: permite discutir la correspondencia entre una afirmación y su evidencia. Las herramientas automáticas comprueban correspondencia de llamadas y notas, existencia de referencias y páginas, y coincidencias textuales de citas registradas. No deciden si una causalidad es convincente ni sustituyen la lectura de una fuente.
 
-Los límites materiales importan. Algunas obras dependen de OCR; el ejemplar de Rojas contiene omisiones y una duplicación de páginas. Una coincidencia entre la cita y el texto extraído no garantiza exactitud frente al impreso. Por eso se registra separadamente la revisión de facsímiles. El corpus local conserva las imágenes necesarias para repetir esa comprobación; este repositorio publica el ensayo original y sus referencias, sin redistribuir las obras completas de terceros.
+Los límites materiales importan. Algunas obras dependen de OCR; el ejemplar de Rojas contiene omisiones y una duplicación de páginas. Entre las obras incorporadas en la ampliación, la tesis de Angulo, los libros de Solís y Delgado, *Moradas y discursos*, la carta de Volio y el manual demócrata cristiano son escaneos con una capa de texto reconocida por máquina. En esos casos las citas se eligieron entre pasajes limpios y la página del PDF remite al facsímil. El manual no indica fecha y la revista que publicó la carta de Volio no consta en el ejemplar. Ambas limitaciones se declaran en lugar de suplirse con conjeturas. Una coincidencia entre la cita y el texto extraído no garantiza exactitud frente al impreso. Por eso se registra separadamente la revisión de facsímiles. El corpus local conserva las imágenes necesarias para repetir esa comprobación; este repositorio publica el ensayo original y sus referencias, sin redistribuir las obras completas de terceros.
 
 ## Un presente con fecha de corte
 

@@ -44,6 +44,60 @@
   },
   {
     "note": 3,
+    "claim": "Comité Pro desocupados de septiembre de 1925 y primera reunión de obreros sin trabajo el 21 de octubre de 1929.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      113,
+      114
+    ],
+    "type": "hecho",
+    "counterpoint": "Fuentes de prensa mediadas por la tesis; Botey y Cisneros también advierten la dificultad de medir la desocupación.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/38-cap1-surgimiento-movimiento-desocupados.md"
+    ],
+    "quote": "se informaba de la creación de un “Comité Pro desocupados” … el lunes 21 de octubre de 1929 se realiza la primera reunión de los obreros sin trabajo en el parque Central de San José"
+  },
+  {
+    "note": 3,
+    "claim": "Respuestas del gobierno en 1929: obra pública, traslado a las cogidas de café de Turrialba y amenaza policial; quejas por el pago de 75 céntimos por medida.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      116,
+      117,
+      118
+    ],
+    "type": "hecho",
+    "counterpoint": "Procede de prensa oficialista y declaraciones de funcionarios; la frase sobre el oficio urbano es inferencia de esta edición.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/38-cap1-surgimiento-movimiento-desocupados.md"
+    ],
+    "quote": "la segunda, contar con soporte para trasladar a las personas sin trabajo a Turrialba para las cogidas de café … sólo se les quiere pagar 75 céntimos por medida"
+  },
+  {
+    "note": 3,
+    "claim": "La crisis de 1929 agudizó, pero no originó, un desempleo urbano visible desde 1925.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      180
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Conclusión de la autora a partir de prensa; no mide el desempleo anterior a 1929.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/46-cap1-conclusiones.md"
+    ],
+    "quote": "la situación convulsa interna, en términos del desempleo y las condiciones laborales de los trabajadores costarricenses desde 1925"
+  },
+  {
+    "note": 4,
     "claim": "Límites del registro de desocupación y trabajo intermitente.",
     "source": "crisis-1929-fundacion-partido-comunista-1984",
     "pages": [
@@ -61,7 +115,29 @@
     ]
   },
   {
-    "note": 4,
+    "note": 5,
+    "claim": "Censo de personas sin trabajo de 1932: 8.863 desocupados, 8.585 hombres y 278 mujeres; 6.503 jornaleros; 16 de 44 cantones sin desocupados; Limón central sin registro.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      162,
+      164,
+      166
+    ],
+    "type": "hecho",
+    "counterpoint": "Datos no representativos según la autora; el censo no capta el trabajo intermitente que señalan Botey y Cisneros.",
+    "visual_checked": true,
+    "visual_pages_checked": [
+      164
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/43-cap1-oficina-tecnica-del-trabajo.md",
+      "data/books/era-del-desencanto-angulo-2021/chapters/44-cap1-censo-de-los-desocupados.md"
+    ],
+    "quote": "se obtuvieron algunos datos no representativos … de la cantidad total de desocupados (8863), se identificó que el 97 %, es decir, 8585 personas, eran hombres"
+  },
+  {
+    "note": 6,
     "claim": "Demandas sobre obras públicas, alquileres y protección de talleres.",
     "source": "crisis-1929-fundacion-partido-comunista-1984",
     "pages": [
@@ -81,7 +157,79 @@
     ]
   },
   {
-    "note": 5,
+    "note": 7,
+    "claim": "Los desocupados atribuían parte del desempleo a la entrada de artesanos inmigrantes centroamericanos.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      116
+    ],
+    "type": "declaracion",
+    "counterpoint": "Perspectiva de trabajadores reconstruida desde la prensa; no se cuantifica la inmigración.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/38-cap1-surgimiento-movimiento-desocupados.md"
+    ],
+    "quote": "por la entrada de inmigrantes artesanos centroamericanos; los cuales, según su perspectiva, abarataban el trabajo y el salario"
+  },
+  {
+    "note": 7,
+    "claim": "Memorial de febrero de 1931 que culpa al capitalista y pide impedir el «agiotismo judaico»; la tesis lo fecha el 9 de marzo pero lo cita de La Tribuna del 10 de febrero.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      139,
+      140
+    ],
+    "type": "declaracion",
+    "counterpoint": "Angulo no analiza el componente antisemita; la coexistencia de crítica anticapitalista y estereotipo antijudío es lectura de esta edición.",
+    "visual_checked": true,
+    "visual_pages_checked": [
+      139
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/40-cap1-desocupados-y-partido-comunista.md"
+    ],
+    "quote": "al encerrar su dinero … impedir que se dedique al agiotismo judaico"
+  },
+  {
+    "note": 7,
+    "claim": "El ministro Eberhardt atribuía la agitación comunista a judíos polacos.",
+    "source": "anticomunismo-reformista-molina",
+    "pages": [
+      41,
+      42
+    ],
+    "type": "declaracion",
+    "counterpoint": "Cita diplomática traducida por Molina; un subordinado del ministro descartó el nexo.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/anticomunismo-reformista-molina/chapters/08-capitulo-2-sombra-judia.md"
+    ],
+    "quote": "la más siniestra y peligrosa influencia en toda la cuestión … ha sido el creciente número de judíos polacos"
+  },
+  {
+    "note": 7,
+    "claim": "Trabajo impugnaba en noviembre de 1933 a quienes decían que los judíos venían a «corromper» la sangre nacional.",
+    "source": "moradas-y-discursos-molina-2010",
+    "pages": [
+      219
+    ],
+    "type": "hecho",
+    "counterpoint": "Valoración de Molina basada en el periódico del partido; no prueba ausencia de prejuicios entre sus militantes.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/moradas-y-discursos-molina-2010/chapters/11-capitulo-6-harold-nichols.md"
+    ],
+    "quote": "impugnaban a quienes planteaban que estos últimos venían"
+  },
+  {
+    "note": 8,
     "claim": "Organización de la UGT, reclamos, detenciones y vigilancia.",
     "source": "crisis-1929-fundacion-partido-comunista-1984",
     "pages": [
@@ -99,7 +247,7 @@
     ]
   },
   {
-    "note": 5,
+    "note": 8,
     "claim": "Organización de la UGT, reclamos, detenciones y vigilancia.",
     "source": "crisis-1929-fundacion-partido-comunista-1984",
     "pages": [
@@ -120,7 +268,62 @@
     ]
   },
   {
-    "note": 6,
+    "note": 9,
+    "claim": "Carta-ultimátum del 10 de febrero de 1931, detención de firmantes y solidaridad de la UGT y los sastres.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      141,
+      142,
+      143,
+      144,
+      145
+    ],
+    "type": "hecho",
+    "counterpoint": "Reconstrucción desde La Tribuna y Diario de Costa Rica; la fecha exacta de liberación se desconoce.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/40-cap1-desocupados-y-partido-comunista.md"
+    ],
+    "quote": "acordaron establecer, a través de una carta, un plazo de ocho días para que la presidencia de la república resolviera su situación"
+  },
+  {
+    "note": 9,
+    "claim": "Memorias de Cerdas (hoja subversiva) y de Eduardo Mora (plan de secuestro).",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      142
+    ],
+    "type": "declaracion",
+    "counterpoint": "Memorias muy posteriores de dirigentes comunistas; se registran como recuerdos atribuidos, no como hechos.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/40-cap1-desocupados-y-partido-comunista.md"
+    ],
+    "quote": "Manuel Mora y yo redactamos una hoja suelta altamente subversiva … se planeó un secuestro para obligarlo a rectificar su posible negativa"
+  },
+  {
+    "note": 9,
+    "claim": "Molina reconstruye el ultimátum del 10 de febrero de 1931 y el arresto de los firmantes.",
+    "source": "anticomunismo-reformista-molina",
+    "pages": [
+      43
+    ],
+    "type": "hecho",
+    "counterpoint": "Basado en La Tribuna del 11 de febrero de 1931; no menciona el supuesto secuestro.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/anticomunismo-reformista-molina/chapters/08-capitulo-2-sombra-judia.md"
+    ],
+    "quote": "un grupo de más de 200 obreros sin empleo le dio ocho días al gobierno de Cleto González Víquez"
+  },
+  {
+    "note": 10,
     "claim": "Círculos de estudio, Carmen Lyra, ARCO y vínculos estudiantiles y obreros.",
     "source": "crisis-1929-fundacion-partido-comunista-1984",
     "pages": [
@@ -142,7 +345,7 @@
     ]
   },
   {
-    "note": 7,
+    "note": 11,
     "claim": "Circulación de literatura y reservas sobre afiliación internacional de la UGT.",
     "source": "crisis-1929-fundacion-partido-comunista-1984",
     "pages": [
@@ -165,7 +368,42 @@
     ]
   },
   {
-    "note": 8,
+    "note": 12,
+    "claim": "Volantes de «Viva el Partido Comunista» en el Teatro Raventós el 15 de mayo de 1931 y arresto de Carballo, Cerdas y Mora.",
+    "source": "anticomunismo-reformista-molina",
+    "pages": [
+      44,
+      45
+    ],
+    "type": "hecho",
+    "counterpoint": "Basado en prensa y en Vladimir de la Cruz; la suspensión de Mora no se debió a su comunismo según la nota del autor.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/anticomunismo-reformista-molina/chapters/08-capitulo-2-sombra-judia.md"
+    ],
+    "quote": "desde un palco, lanzaron a los presentes volantes con la frase, en tinta roja, “Viva el Partido Comunista” … Mora fue suspendido no por ser comunista"
+  },
+  {
+    "note": 12,
+    "claim": "El secretario de Seguridad Pública dijo a Eberhardt que desarticularía reuniones comunistas aun con violencia.",
+    "source": "anticomunismo-reformista-molina",
+    "pages": [
+      90
+    ],
+    "type": "declaracion",
+    "counterpoint": "Versión de un diplomático sobre lo que dijo un funcionario; no documenta que se aplicara.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/anticomunismo-reformista-molina/chapters/11-capitulo-5-diplomaticos-reformistas.md"
+    ],
+    "quote": "en el proceso algunas cabezas pueden ser rotas o, incluso, puede ser necesario tomar algunas vidas"
+  },
+  {
+    "note": 13,
     "claim": "Acuerdo del 6 de junio y comité del 16 de junio de 1931, según Botey y Cisneros.",
     "source": "crisis-1929-fundacion-partido-comunista-1984",
     "pages": [
@@ -183,7 +421,41 @@
     ]
   },
   {
-    "note": 9,
+    "note": 14,
+    "claim": "Los desocupados se organizaron sin intervención comunista y dieron fuerza al partido; la influencia comunista crece tras el 16 de junio de 1931.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      146
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Interpretación apoyada en Cerdas; no excluye vínculos previos mediante la UGT y Montero Berry.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/40-cap1-desocupados-y-partido-comunista.md"
+    ],
+    "quote": "fueron los desocupados quienes, en primera instancia, dieron fuerza al partido"
+  },
+  {
+    "note": 14,
+    "claim": "División del movimiento entre sectores colaboradores, socialistas y provinciales.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      145
+    ],
+    "type": "hecho",
+    "counterpoint": "Basado en declaraciones del secretario de Gobernación y prensa.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/40-cap1-desocupados-y-partido-comunista.md"
+    ],
+    "quote": "la existencia de una división entre los grupos de obreros sin trabajo"
+  },
+  {
+    "note": 15,
     "claim": "Diversidad de trayectorias fundadoras y centralidad historiográfica de Mora.",
     "source": "crisis-1929-fundacion-partido-comunista-1984",
     "pages": [
@@ -203,7 +475,7 @@
     ]
   },
   {
-    "note": 10,
+    "note": 16,
     "claim": "Programa integral, medidas inmediatas y condiciones internacionales.",
     "source": "crisis-1929-fundacion-partido-comunista-1984",
     "pages": [
@@ -228,7 +500,7 @@
     ]
   },
   {
-    "note": 11,
+    "note": 17,
     "claim": "Seguros, huelga, vivienda, salud y emancipación de la mujer en el programa.",
     "source": "crisis-1929-fundacion-partido-comunista-1984",
     "pages": [
@@ -246,7 +518,7 @@
     ]
   },
   {
-    "note": 12,
+    "note": 18,
     "claim": "Política económica, servicio civil y educación en el programa.",
     "source": "crisis-1929-fundacion-partido-comunista-1984",
     "pages": [
@@ -264,7 +536,7 @@
     ]
   },
   {
-    "note": 13,
+    "note": 19,
     "claim": "Horizonte de república socialista soviética continental en el programa.",
     "source": "crisis-1929-fundacion-partido-comunista-1984",
     "pages": [
@@ -282,7 +554,7 @@
     ]
   },
   {
-    "note": 14,
+    "note": 20,
     "claim": "Tensiones entre programa, estrategia y condiciones de transformación.",
     "source": "crisis-1929-fundacion-partido-comunista-1984",
     "pages": [
@@ -305,7 +577,7 @@
     ]
   },
   {
-    "note": 15,
+    "note": 21,
     "claim": "Permanencia, células, programa y educación política.",
     "source": "crisis-1929-fundacion-partido-comunista-1984",
     "pages": [
@@ -332,7 +604,7 @@
     ]
   },
   {
-    "note": 16,
+    "note": 22,
     "claim": "Relación entre desarrollo sindical y partidario.",
     "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
     "pages": [
@@ -353,7 +625,215 @@
     ]
   },
   {
-    "note": 17,
+    "note": 23,
+    "claim": "Proyectos comunistas de salario mínimo y auxilio a desocupados (1932), dictamen contrario y memorial de desocupados de octubre de 1933.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      147,
+      148,
+      149,
+      150,
+      151
+    ],
+    "type": "hecho",
+    "counterpoint": "Resumen de la autora a partir del expediente legislativo; los proyectos no se reproducen completos.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/40-cap1-desocupados-y-partido-comunista.md",
+      "data/books/era-del-desencanto-angulo-2021/chapters/41-cap1-ley-de-salario-minimo.md"
+    ],
+    "quote": "El segundo fue la propuesta de la ley de auxilio para los desocupados, cuya presentación al Congreso estuvo a cargo del diputado Otilio Ulate … DIEZ MIL O MAS sin trabajo … sería irremediablemente burlada por los capitalistas"
+  },
+  {
+    "note": 23,
+    "claim": "La Oficina Técnica del Trabajo fue propuesta por Jorge Volio y formalizada por la Ley N.° 14.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      160
+    ],
+    "type": "hecho",
+    "counterpoint": "Fecha de la ley inconsistente dentro de la tesis.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/43-cap1-oficina-tecnica-del-trabajo.md"
+    ],
+    "quote": "La Oficina Técnica del Trabajo fue propuesta por el diputado Jorge Volio"
+  },
+  {
+    "note": 23,
+    "claim": "Volio recuerda haber sido diputado dos períodos más y haberse retirado en 1936.",
+    "source": "jorge-volio-ineditos-documentos",
+    "pages": [
+      3
+    ],
+    "type": "declaracion",
+    "counterpoint": "Autobiografía de 1947 escrita ante un diplomático; la competencia entre reformismo y comunismo es inferencia de esta edición.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/jorge-volio-ineditos-documentos/chapters/00-presentacion-y-carta-de-1947.md"
+    ],
+    "quote": "Todavía fui Diputado al Congreso en dos períodos más, y en 1936 me retiré definitivamente de la Política"
+  },
+  {
+    "note": 23,
+    "claim": "Consejo de clase frente a oficina estatal como alternativas políticas de protección del trabajo.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      147,
+      148,
+      149,
+      150,
+      151,
+      160
+    ],
+    "type": "inferencia",
+    "counterpoint": "Lectura de esta edición; las fuentes no documentan un debate explícito entre Volio y los comunistas.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/40-cap1-desocupados-y-partido-comunista.md",
+      "data/books/era-del-desencanto-angulo-2021/chapters/41-cap1-ley-de-salario-minimo.md",
+      "data/books/era-del-desencanto-angulo-2021/chapters/43-cap1-oficina-tecnica-del-trabajo.md"
+    ]
+  },
+  {
+    "note": 24,
+    "claim": "Disolución de la reunión comunista del 28 de mayo de 1932: unos cincuenta disparos al aire, dos policías heridos y unos ochenta detenidos.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      171,
+      172
+    ],
+    "type": "hecho",
+    "counterpoint": "Prensa diaria como fuente casi única; la versión comunista no se contrasta.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/45-cap1-manifestaciones-de-los-desocupados.md"
+    ],
+    "quote": "en la que fueron detenidos ochenta obreros comunistas. La policía atacó y lanzó cincuenta disparos al aire"
+  },
+  {
+    "note": 24,
+    "claim": "Convocatoria «sin distinción de ideas» y declaración de Ricardo Jiménez justificando la acción policial.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      169,
+      170,
+      172
+    ],
+    "type": "declaracion",
+    "counterpoint": "Declaraciones recogidas por la prensa; la influencia reformista es apreciación de la autora.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/44-cap1-censo-de-los-desocupados.md",
+      "data/books/era-del-desencanto-angulo-2021/chapters/45-cap1-manifestaciones-de-los-desocupados.md"
+    ],
+    "quote": "ni creo que tengan mayor incremento en una sociedad bien organizada como la nuestra"
+  },
+  {
+    "note": 25,
+    "claim": "Manifestación del 22 de mayo de 1933: once heridos y versión del partido sobre el préstamo de su salón.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      173
+    ],
+    "type": "hecho",
+    "counterpoint": "Cifras de prensa; la explicación del partido es exculpatoria.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/45-cap1-manifestaciones-de-los-desocupados.md"
+    ],
+    "quote": "lo que produjo once heridos: seis policías y cinco obreros … la actuación del Partido se limitó a prestarle su salón a los desocupados"
+  },
+  {
+    "note": 25,
+    "claim": "Testimonio de un obrero sin trabajo que niega tener doctrina.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      177
+    ],
+    "type": "declaracion",
+    "counterpoint": "Testimonio recogido por el Diario de Costa Rica y reordenado en un cuadro de la autora.",
+    "visual_checked": true,
+    "visual_pages_checked": [
+      177
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/45-cap1-manifestaciones-de-los-desocupados.md"
+    ],
+    "quote": "Yo no tengo doctrina alguna. Soy un hombre sin trabajo nada más."
+  },
+  {
+    "note": 25,
+    "claim": "Confiscación de archivos, expulsión de Braña y destitución de Carmen Lyra.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      177,
+      178,
+      179
+    ],
+    "type": "hecho",
+    "counterpoint": "Fuentes comunistas y prensa; la causalidad de la destitución procede de la tesis.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/45-cap1-manifestaciones-de-los-desocupados.md"
+    ],
+    "quote": "se expulsó del país a Adolfo Braña … fue destituida de su cargo como directora de la Escuela Maternal de San José"
+  },
+  {
+    "note": 26,
+    "claim": "La respuesta estatal combinó obra pública y control policial, con medidas más radicales bajo Jiménez.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      168,
+      181
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Interpretación de la autora; la gradación de la represión no se mide.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/44-cap1-censo-de-los-desocupados.md",
+      "data/books/era-del-desencanto-angulo-2021/chapters/46-cap1-conclusiones.md"
+    ],
+    "quote": "en el que la persecución de los líderes comunistas dentro del movimiento generó medidas más radicales"
+  },
+  {
+    "note": 26,
+    "claim": "Confinamiento de Fallas en la zona atlántica tras la manifestación de 1933 y expulsión de Braña.",
+    "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
+    "pages": [
+      65
+    ],
+    "type": "hecho",
+    "counterpoint": "Angulo, siguiendo a Aguilar, atribuye el destierro de Fallas a una condena por injurias; ambas versiones se mantienen separadas.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/lucha-social-guerra-civil-costa-rica-1940-1948/chapters/13-lucha-nivel-sindical.md"
+    ],
+    "quote": "por espacio de un año, debido a su participación en una manifestación de desocupados"
+  },
+  {
+    "note": 27,
     "claim": "Combinación cambiante de reforma, revolución y marco internacional.",
     "source": "crisis-1929-fundacion-partido-comunista-1984",
     "pages": [
@@ -382,7 +862,7 @@
     ]
   },
   {
-    "note": 18,
+    "note": 28,
     "claim": "Fundar no resuelve el problema de organizar territorialmente.",
     "source": "crisis-1929-fundacion-partido-comunista-1984",
     "pages": [
@@ -407,7 +887,7 @@
     ]
   },
   {
-    "note": 18,
+    "note": 28,
     "claim": "Fundar no resuelve el problema de organizar territorialmente.",
     "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
     "pages": [

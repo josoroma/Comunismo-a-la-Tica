@@ -17,6 +17,28 @@
   },
   {
     "note": 2,
+    "claim": "La tesis reconstruye la huelga con prensa, memorias comunistas, expedientes de Gobernación y correspondencia diplomática.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      244,
+      246,
+      250,
+      292
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Escasa voz directa de trabajadores de base, mujeres bananeras y afrocaribeños.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/58-cap3-espaldas-curtidas.md",
+      "data/books/era-del-desencanto-angulo-2021/chapters/59-cap3-hechos-de-la-huelga.md",
+      "data/books/era-del-desencanto-angulo-2021/chapters/67-cap3-avance-del-conservadurismo.md"
+    ],
+    "quote": "memorias de los líderes comunistas … Elaboración propia de acuerdo con el ANCR. Fondo Ministerio de Gobernación y Policía … Carta del 27 de agosto de 1934 de Leo R. Sack al secretario de Estado"
+  },
+  {
+    "note": 3,
     "claim": "Diferencia entre novela, memoria y análisis histórico/electoral.",
     "source": "mamita-yunai",
     "pages": [
@@ -33,7 +55,7 @@
     ]
   },
   {
-    "note": 2,
+    "note": 3,
     "claim": "Diferencia entre novela, memoria y análisis histórico/electoral.",
     "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
     "pages": [
@@ -53,7 +75,7 @@
     ]
   },
   {
-    "note": 2,
+    "note": 3,
     "claim": "Diferencia entre novela, memoria y análisis histórico/electoral.",
     "source": "desempeno-electoral-partido-comunista-1999",
     "pages": [
@@ -73,7 +95,79 @@
     ]
   },
   {
-    "note": 3,
+    "note": 4,
+    "claim": "Inicio de la huelga zapatera el 25 de enero de 1934 en La Renaciente y comité provisional encabezado por Jiménez Guerrero.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      188,
+      189
+    ],
+    "type": "hecho",
+    "counterpoint": "Fuentes mayoritariamente comunistas.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/48-cap2-sociabilidad-obrera-zapateros.md",
+      "data/books/era-del-desencanto-angulo-2021/chapters/49-cap2-primera-huelga-zapateros-1934.md"
+    ],
+    "quote": "Cuando el 25 de enero de 1934 en el taller La Renaciente inicia la huelga de los zapateros, no causa sorpresa … Integrar un comité provisional de huelga constituido por Efraín Jiménez Guerrero como secretario general"
+  },
+  {
+    "note": 4,
+    "claim": "El comité de huelga presenta el movimiento como espontáneo y apoyado por el partido.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      193
+    ],
+    "type": "declaracion",
+    "counterpoint": "Declaración interesada del comité, publicada por Trabajo.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/49-cap2-primera-huelga-zapateros-1934.md"
+    ],
+    "quote": "Esta huelga surgió espontáneamente; y el Partido se limitó a prestarnos su fervoroso y eficaz apoyo."
+  },
+  {
+    "note": 4,
+    "claim": "Fin de la huelga en San José en la tercera semana de febrero y constitución del Sindicato de Zapateros el 12 de marzo de 1934.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      194,
+      197
+    ],
+    "type": "hecho",
+    "counterpoint": "La difusión a otras provincias se conoce por prensa y memorias.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/49-cap2-primera-huelga-zapateros-1934.md",
+      "data/books/era-del-desencanto-angulo-2021/chapters/50-cap2-formacion-de-los-sindicatos.md"
+    ],
+    "quote": "la huelga en San José llegó a su fin … el cual se conforma finalmente el 12 de marzo de 1934"
+  },
+  {
+    "note": 4,
+    "claim": "Secuencia desocupados, zapateros y bananeros en el desarrollo del partido.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      196
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Síntesis de la autora; no mide afiliación ni votos.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/49-cap2-primera-huelga-zapateros-1934.md"
+    ],
+    "quote": "la huelga de zapateros aportó a su crecimiento y la bananera le brindó su experiencia política"
+  },
+  {
+    "note": 5,
     "claim": "Mecanismo de recepción de fruta y traslado de riesgos en el relato de Fallas.",
     "source": "mamita-yunai",
     "pages": [
@@ -92,7 +186,7 @@
     ]
   },
   {
-    "note": 4,
+    "note": 6,
     "claim": "Dependencias laborales, comerciales y sanitarias del enclave.",
     "source": "mamita-yunai",
     "pages": [
@@ -111,7 +205,7 @@
     ]
   },
   {
-    "note": 4,
+    "note": 6,
     "claim": "Dependencias laborales, comerciales y sanitarias del enclave.",
     "source": "crisis-1929-fundacion-partido-comunista-1984",
     "pages": [
@@ -131,7 +225,7 @@
     ]
   },
   {
-    "note": 5,
+    "note": 7,
     "claim": "Pliego favorable a productores y oposición patronal según Fallas.",
     "source": "mamita-yunai",
     "pages": [
@@ -148,7 +242,7 @@
     ]
   },
   {
-    "note": 6,
+    "note": 8,
     "claim": "Cabo Pancho, Pastora y transformación del paisaje en la novela.",
     "source": "mamita-yunai",
     "pages": [
@@ -170,7 +264,7 @@
     ]
   },
   {
-    "note": 7,
+    "note": 9,
     "claim": "Trabajo de mujeres y límites de su visibilidad en las fuentes.",
     "source": "mamita-yunai",
     "pages": [
@@ -187,7 +281,7 @@
     ]
   },
   {
-    "note": 7,
+    "note": 9,
     "claim": "Trabajo de mujeres y límites de su visibilidad en las fuentes.",
     "source": "mamita-yunai",
     "pages": [
@@ -206,7 +300,7 @@
     ]
   },
   {
-    "note": 8,
+    "note": 10,
     "claim": "Congreso del 4 de agosto y paro del 9 de agosto de 1934; variedad de demandas.",
     "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
     "pages": [
@@ -226,7 +320,7 @@
     ]
   },
   {
-    "note": 8,
+    "note": 10,
     "claim": "Congreso del 4 de agosto y paro del 9 de agosto de 1934; variedad de demandas.",
     "source": "mamita-yunai",
     "pages": [
@@ -247,7 +341,41 @@
     ]
   },
   {
-    "note": 9,
+    "note": 11,
+    "claim": "Según Cerdas, Betancourt sostuvo que los trabajadores de la zona eran «lumpen».",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      247
+    ],
+    "type": "declaracion",
+    "counterpoint": "Memoria de Jaime Cerdas citada por Angulo; no hay acta de la discusión.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/59-cap3-hechos-de-la-huelga.md"
+    ],
+    "quote": "Él sostenía que los trabajadores de la zona eran lumpen, es decir, la chusma del proletariado"
+  },
+  {
+    "note": 11,
+    "claim": "Eduardo Mora atribuye a Betancourt mensajes más radicales a los huelguistas.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      265
+    ],
+    "type": "declaracion",
+    "counterpoint": "Memoria posterior; contrapunto a la versión de Cerdas.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/62-cap3-partido-comunista-y-huelga.md"
+    ],
+    "quote": "le permitió tener contacto con ellos y enviarles mensajes constantes más “radicales”"
+  },
+  {
+    "note": 12,
     "claim": "Preparación clandestina y legitimidad del dirigente en su propio relato.",
     "source": "mamita-yunai",
     "pages": [
@@ -265,7 +393,24 @@
     ]
   },
   {
-    "note": 10,
+    "note": 13,
+    "claim": "Lectura colectiva del Manifiesto Comunista y de Trabajo en las plantaciones bananeras.",
+    "source": "ideas-socialistas-costa-rica-1880-1930-oliva",
+    "pages": [
+      4
+    ],
+    "type": "declaracion",
+    "counterpoint": "Dato derivado de la memoria novelada de Fallas; no mide frecuencia ni alcance.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/ideas-socialistas-costa-rica-1880-1930-oliva/chapters/00-articulo.md"
+    ],
+    "quote": "se reunían trabajadores a escuchar la lectura del Manifiesto Comunista y del periódico Trabajo, órgano del Partido Comunista"
+  },
+  {
+    "note": 14,
     "claim": "Reconocimiento del comité, consultas y negociación según Fallas.",
     "source": "mamita-yunai",
     "pages": [
@@ -283,7 +428,7 @@
     ]
   },
   {
-    "note": 11,
+    "note": 15,
     "claim": "Alimentación, brigadas y solidaridad como condiciones del paro.",
     "source": "mamita-yunai",
     "pages": [
@@ -302,7 +447,113 @@
     ]
   },
   {
-    "note": 12,
+    "note": 16,
+    "claim": "Proyecto contra los cupones aprobado en primer debate el 11 de agosto de 1934 y rechazado cinco días después en tercer debate.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      262
+    ],
+    "type": "hecho",
+    "counterpoint": "Fechas de la autora a partir de expedientes legislativos y de Eduardo Mora; Cerdas da otra cronología.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/62-cap3-partido-comunista-y-huelga.md"
+    ],
+    "quote": "cuando el 11 de agosto se presentó al Congreso, se dispensó trámites y fue aprobado en primer debate … cinco días después, en su tercer debate, fue rechazado"
+  },
+  {
+    "note": 16,
+    "claim": "Cerdas recuerda a los diputados reunidos con representantes de la compañía.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      262
+    ],
+    "type": "declaracion",
+    "counterpoint": "Memoria de un dirigente comunista.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/62-cap3-partido-comunista-y-huelga.md"
+    ],
+    "quote": "los diputados estaban reunidos en otro salón con representantes de la Compañía"
+  },
+  {
+    "note": 16,
+    "claim": "Claudia Mora y Alicia Albertazzi protestaron desde las barras.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      281
+    ],
+    "type": "hecho",
+    "counterpoint": "Dato procedente de la memoria de Eduardo Mora.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/65-cap3-mujeres-en-la-huelga.md"
+    ],
+    "quote": "tanto su hermana Claudia como Alicia Albertazzi protestaron contra los diputados"
+  },
+  {
+    "note": 17,
+    "claim": "Carmen Lyra, tesorera del comité pro huelga y fiadora de Ferreto; Catalina Segura, fiadora de Pedro Mora y Vaglio.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      260,
+      281
+    ],
+    "type": "hecho",
+    "counterpoint": "Basado en archivo y memorias comunistas.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/62-cap3-partido-comunista-y-huelga.md",
+      "data/books/era-del-desencanto-angulo-2021/chapters/65-cap3-mujeres-en-la-huelga.md"
+    ],
+    "quote": "Comité Pro Huelga, conformado por Manuel Mora, Alejandro Montero y Carmen Lyra, su tesorera … fiadora para que Amoldo Ferrete quedara en libertad"
+  },
+  {
+    "note": 17,
+    "claim": "Mujeres en la estación de San José, desfiles en la zona, telegrama del 18 de agosto y mujeres como correos.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      281,
+      282,
+      283
+    ],
+    "type": "hecho",
+    "counterpoint": "Telegramas y prensa; la memoria de Ferreto sobre los correos es retrospectiva.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/65-cap3-mujeres-en-la-huelga.md"
+    ],
+    "quote": "se hallaba un numeroso grupo de mujeres, quienes tenían el propósito de hacer desistir a los trabajadores de Puntarenas … Hoy hemos sido atropellados por fuerzas del General Monge por oponernos a que aprisionaran a nuestros maridos … El correo gastaba un día en ir y uno en venir"
+  },
+  {
+    "note": 17,
+    "claim": "Angulo critica que el partido no apoyara con más fuerza la lucha de las mujeres.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      266
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Valoración de la autora.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/62-cap3-partido-comunista-y-huelga.md"
+    ],
+    "quote": "la visión poco estratégica de no apoyar con más fuerza la lucha de las mujeres en la huelga"
+  },
+  {
+    "note": 18,
     "claim": "Acuerdo y desmovilización de brigadas en la memoria de Fallas.",
     "source": "mamita-yunai",
     "pages": [
@@ -320,7 +571,7 @@
     ]
   },
   {
-    "note": 13,
+    "note": 19,
     "claim": "Acuerdo del 28 de agosto, reanudación del 1 de septiembre y captura del 10 de septiembre.",
     "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
     "pages": [
@@ -338,7 +589,7 @@
     ]
   },
   {
-    "note": 13,
+    "note": 19,
     "claim": "Acuerdo del 28 de agosto, reanudación del 1 de septiembre y captura del 10 de septiembre.",
     "source": "mamita-yunai",
     "pages": [
@@ -356,7 +607,102 @@
     ]
   },
   {
-    "note": 14,
+    "note": 20,
+    "claim": "Angulo fecha el fin de la segunda fase el 17 de setiembre de 1934, tomando como referencia a Víctor Hugo Acuña.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      246
+    ],
+    "type": "hecho",
+    "counterpoint": "Rojas sitúa la caída del comité el 10 de setiembre; Emel Sibaja extiende la segunda etapa hasta enero de 1935.",
+    "visual_checked": true,
+    "visual_pages_checked": [
+      246
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/59-cap3-hechos-de-la-huelga.md"
+    ],
+    "quote": "y termina el 17 de setiembre cuando son detenidos los líderes de la huelga … Se toma como punto de referencia el estudio de Víctor"
+  },
+  {
+    "note": 20,
+    "claim": "Acuerdo del 28 de agosto tras más de nueve horas, mediación de Pinaud, ausencia de la compañía y desconocimiento del convenio el 30 de agosto.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      248,
+      249
+    ],
+    "type": "hecho",
+    "counterpoint": "Basado en La Tribuna y en el archivo de Manuel Mora.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/59-cap3-hechos-de-la-huelga.md"
+    ],
+    "quote": "se discute durante más de nueve horas el acuerdo para dar fin a la huelga … como mediador, el general José María Pinaud … El 30 de agosto, la compañía desconoce el convenio y notifica a sus trabajadores que cuentan con un plazo de cuarenta y ocho horas"
+  },
+  {
+    "note": 20,
+    "claim": "La Tribuna anuncia el 13 de setiembre la normalidad; el cuadro de detenciones registra arrestos del 14, 22 y 26 de setiembre.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      251,
+      298
+    ],
+    "type": "hecho",
+    "counterpoint": "El cuadro se basa en expedientes de Gobernación y prensa, con fechas desconocidas en algunos casos.",
+    "visual_checked": true,
+    "visual_pages_checked": [
+      298
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/59-cap3-hechos-de-la-huelga.md",
+      "data/books/era-del-desencanto-angulo-2021/chapters/68-cap3-acciones-del-estado.md"
+    ],
+    "quote": "Restablecida la normalidad en la región del Atlántico … El 22 de setiembre es arrestado Manuel Mora"
+  },
+  {
+    "note": 20,
+    "claim": "Rojas: retorno al paro el 1 de setiembre y caída del comité el 10 de setiembre, con extinción de la huelga.",
+    "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
+    "pages": [
+      66
+    ],
+    "type": "hecho",
+    "counterpoint": "Esta edición no ha cotejado la fuente que Rojas cita para esa fecha; Angulo propone el 17 de setiembre.",
+    "visual_checked": true,
+    "visual_pages_checked": [
+      66
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/lucha-social-guerra-civil-costa-rica-1940-1948/chapters/13-lucha-nivel-sindical.md"
+    ],
+    "quote": "El 10 de setiembre el Comité de Huelga cavo en manos de la policía"
+  },
+  {
+    "note": 20,
+    "claim": "Esta edición sitúa el final entre el 10 y el 17 de setiembre, con detenciones hasta fines de mes.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      246,
+      298
+    ],
+    "type": "inferencia",
+    "counterpoint": "Rango adoptado para no resolver en silencio una discrepancia entre fuentes secundarias.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/59-cap3-hechos-de-la-huelga.md",
+      "data/books/era-del-desencanto-angulo-2021/chapters/68-cap3-acciones-del-estado.md"
+    ]
+  },
+  {
+    "note": 21,
     "claim": "Contención inicial y violencia posterior en la narración del dirigente.",
     "source": "mamita-yunai",
     "pages": [
@@ -378,7 +724,236 @@
     ]
   },
   {
-    "note": 15,
+    "note": 22,
+    "claim": "Trabajo del 30 de setiembre de 1934 contra «derechistas» e «izquierdistas»; estos reprochaban no haber convertido la huelga en insurrección.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      266
+    ],
+    "type": "hecho",
+    "counterpoint": "Fuente de la dirección, escrita para corregir ambas posiciones.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/62-cap3-partido-comunista-y-huelga.md"
+    ],
+    "quote": "Estos últimos le increpan al partido no haber convertido a la huelga bananera en una insurrección y “sovietizar” a la zona atlántica"
+  },
+  {
+    "note": 22,
+    "claim": "Mora justifica ante el Buró del Caribe el fin de la huelga por el riesgo de un golpe reaccionario.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      269
+    ],
+    "type": "declaracion",
+    "counterpoint": "Carta conocida por la edición de Ching; justificación posterior de un dirigente.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/62-cap3-partido-comunista-y-huelga.md"
+    ],
+    "quote": "estaban conspirando las camarillas más reaccionarias para dar un golpe de cuartel"
+  },
+  {
+    "note": 23,
+    "claim": "Chittenden procuró convencer a Sack de una intervención estadounidense el 25 de agosto de 1934.",
+    "source": "anticomunismo-reformista-molina",
+    "pages": [
+      95
+    ],
+    "type": "hecho",
+    "counterpoint": "Despacho USNADF 818.00B/72; no precisa la forma de intervención.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/anticomunismo-reformista-molina/chapters/11-capitulo-5-diplomaticos-reformistas.md"
+    ],
+    "quote": "El gerente de la United Fruit Company, G. P. Chittenden, procuró convencer al ministro de que, dada la prolongación de la huelga bananera dirigida por los comunistas, urgía la intervención de Estados Unidos para terminarla."
+  },
+  {
+    "note": 23,
+    "claim": "Molina atribuye la negativa de Sack al New Deal y a la buena vecindad.",
+    "source": "anticomunismo-reformista-molina",
+    "pages": [
+      199
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Interpretación del autor.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/anticomunismo-reformista-molina/chapters/17-epilogo.md"
+    ],
+    "quote": "demostró ser especialmente decisivo en 1934, cuando Sack rechazó el plan del gerente de la United Fruit Company"
+  },
+  {
+    "note": 23,
+    "claim": "Chittenden pidió alertar a Ubico, Martínez, Carías y Sacasa para presionar a Jiménez; Sack se negó.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      292,
+      293,
+      294
+    ],
+    "type": "hecho",
+    "counterpoint": "Versión de Sack traducida por Angulo; Sack coincidía en el carácter comunista de la huelga.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/67-cap3-avance-del-conservadurismo.md"
+    ],
+    "quote": "Ante esta petición de Chittenden, Sack niega la posibilidad de una intervención pues le parece una intromisión en los asuntos internos del Gobierno costarricense"
+  },
+  {
+    "note": 23,
+    "claim": "Chittenden sugirió la ley marcial a Gurdián; Jiménez lo persuadió de que no era necesaria.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      268,
+      269
+    ],
+    "type": "declaracion",
+    "counterpoint": "Relato de Sack; no hay documentación costarricense de la conversación en la tesis.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/62-cap3-partido-comunista-y-huelga.md"
+    ],
+    "quote": "persuadió a su ministro de Relaciones Exteriores de que la necesidad de la ley marcial no era evidente en este momento"
+  },
+  {
+    "note": 23,
+    "claim": "Las fisuras entre gobierno, compañía y legación habrían evitado una matanza como la de El Salvador.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      378
+    ],
+    "type": "inferencia",
+    "counterpoint": "Inferencia contrafáctica de la autora.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/85-conclusiones-el-caribe.md"
+    ],
+    "quote": "los hechos no siguieran el camino de casos como la matanza de El Salvador"
+  },
+  {
+    "note": 24,
+    "claim": "Veintiocho órdenes de detención y unas ciento dieciséis personas detenidas durante la huelga.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      297
+    ],
+    "type": "hecho",
+    "counterpoint": "Recuento propio a partir de Gobernación y prensa; fechas incompletas.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/68-cap3-acciones-del-estado.md"
+    ],
+    "quote": "se dictó orden de detención a veintiocho personas … detuvieron alrededor de ciento dieciséis personas"
+  },
+  {
+    "note": 24,
+    "claim": "Deportaciones pese a resoluciones judiciales, hábeas corpus sin efecto y carta de Jiménez del 12 de setiembre de 1934.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      299,
+      300
+    ],
+    "type": "hecho",
+    "counterpoint": "Correspondencia oficial citada por la tesis.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/68-cap3-acciones-del-estado.md"
+    ],
+    "quote": "aunque el juez del crimen decretó su libertad, fueron enviados ante el gobernador de la provincia para ser deportados … no hay otra prueba que el haber sido capturado entre los acampados … implicaría la libertad de ellos inmediatamente … los recursos de habeos corpas"
+  },
+  {
+    "note": 24,
+    "claim": "La compañía prestó 422,75 dólares para expulsar a cuarenta y seis personas.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      302
+    ],
+    "type": "hecho",
+    "counterpoint": "Cuadro elaborado con un expediente de Gobernación.",
+    "visual_checked": true,
+    "visual_pages_checked": [
+      302
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/68-cap3-acciones-del-estado.md"
+    ],
+    "quote": "préstamos hechos por Fletcher Hatch y, en general, por la Compañía Bananera … Total 46 personas … Total $422,75"
+  },
+  {
+    "note": 24,
+    "claim": "Productores y la compañía, por medio de Gurdián, sugirieron estado de sitio o ley marcial.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      248,
+      268
+    ],
+    "type": "hecho",
+    "counterpoint": "Prensa y despachos de Sack.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/59-cap3-hechos-de-la-huelga.md",
+      "data/books/era-del-desencanto-angulo-2021/chapters/62-cap3-partido-comunista-y-huelga.md"
+    ],
+    "quote": "los productores sugieren al Gobierno que se declare la zona atlántica en estado de sitio"
+  },
+  {
+    "note": 24,
+    "claim": "Solís relaciona la forma relativamente poco violenta de la huelga con la presencia de Jiménez en el gobierno.",
+    "source": "reformismo-socialdemocrata-o-liberal-solis",
+    "pages": [
+      391
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Valoración general sin examen de detenciones ni expulsiones.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/reformismo-socialdemocrata-o-liberal-solis/chapters/18-liberalismo-realmente-existente.md"
+    ],
+    "quote": "La forma relativamente poco violenta como se desenvuelve la huelga no es un hecho ajeno a la circunstancia de que Ricardo Jiménez estuviese en el gobierno."
+  },
+  {
+    "note": 24,
+    "claim": "Contención frente a la ley marcial y represión selectiva como partes de una misma política.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      297,
+      299
+    ],
+    "type": "inferencia",
+    "counterpoint": "Lectura de esta edición a partir de Angulo y Solís.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/68-cap3-acciones-del-estado.md"
+    ]
+  },
+  {
+    "note": 25,
     "claim": "Balances de victoria como concesiones, organización y aprendizaje.",
     "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
     "pages": [
@@ -396,7 +971,7 @@
     ]
   },
   {
-    "note": 15,
+    "note": 25,
     "claim": "Balances de victoria como concesiones, organización y aprendizaje.",
     "source": "mamita-yunai",
     "pages": [
@@ -414,7 +989,25 @@
     ]
   },
   {
-    "note": 16,
+    "note": 26,
+    "claim": "La prensa católica reconoció demandas de los huelguistas y criticó los contratos bananeros.",
+    "source": "anticomunismo-reformista-molina",
+    "pages": [
+      106,
+      107
+    ],
+    "type": "declaracion",
+    "counterpoint": "La misma prensa fue anticomunista; Trabajo denunció a un colaborador de La Época que defendía la versión de la compañía.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/anticomunismo-reformista-molina/chapters/12-capitulo-6-fortalecimiento-catolicismo-social.md"
+    ],
+    "quote": "toca al Gobierno obligar a la United, a pagar los mismos jornales que están pagando los bananeros del país … un grito de rebeldía, según los primeros informes, contra los malos salarios y la pésimas condiciones de vida … es un nuevo ultraje de la soberanía nacional"
+  },
+  {
+    "note": 27,
     "claim": "La huelga no se tradujo automáticamente en aumento electoral; ciudadanía y racismo.",
     "source": "desempeno-electoral-partido-comunista-1999",
     "pages": [
@@ -434,7 +1027,26 @@
     ]
   },
   {
-    "note": 17,
+    "note": 28,
+    "claim": "En 1927, 607 de 19.136 personas registradas como negras tenían la ciudadanía.",
+    "source": "moradas-y-discursos-molina-2010",
+    "pages": [
+      200
+    ],
+    "type": "hecho",
+    "counterpoint": "Dato de segunda mano; la capa OmniPage lee «19 .136», cotejado en facsímil.",
+    "visual_checked": true,
+    "visual_pages_checked": [
+      200
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/moradas-y-discursos-molina-2010/chapters/11-capitulo-6-harold-nichols.md"
+    ],
+    "quote": "en 1927, sólo 607 de 19 .136 personas registradas como negras tenían la ciudadanía"
+  },
+  {
+    "note": 29,
     "claim": "Afirmación de superación de la pugna racial contrastada con límites de ciudadanía.",
     "source": "mamita-yunai",
     "pages": [
@@ -451,7 +1063,7 @@
     ]
   },
   {
-    "note": 17,
+    "note": 29,
     "claim": "Afirmación de superación de la pugna racial contrastada con límites de ciudadanía.",
     "source": "desempeno-electoral-partido-comunista-1999",
     "pages": [
@@ -469,7 +1081,226 @@
     ]
   },
   {
-    "note": 18,
+    "note": 30,
+    "claim": "Circular del Comité de Antillanos contra la huelga.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      275
+    ],
+    "type": "declaracion",
+    "counterpoint": "Traducción periodística de un texto en inglés.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/64-cap3-trabajadores-afrocaribenos.md"
+    ],
+    "quote": "Esta no es una huelga, sino un movimiento peligroso para destruir la industria bananera de Costa Rica"
+  },
+  {
+    "note": 30,
+    "claim": "Apoyos afrocaribeños: negativa a descargar en el ramal de Indiana y ayuda de Alexander Platts.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      276
+    ],
+    "type": "hecho",
+    "counterpoint": "Prensa y memoria de Ferreto.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/64-cap3-trabajadores-afrocaribenos.md"
+    ],
+    "quote": "en el ramal de Indiana un tren de carga debió devolverse porque los trabajadores negros se negaron a descargar"
+  },
+  {
+    "note": 30,
+    "claim": "El partido centró su acercamiento únicamente en la clase.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      279,
+      378
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Interpretación de la autora.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/64-cap3-trabajadores-afrocaribenos.md",
+      "data/books/era-del-desencanto-angulo-2021/chapters/65-cap3-mujeres-en-la-huelga.md",
+      "data/books/era-del-desencanto-angulo-2021/chapters/85-conclusiones-el-caribe.md"
+    ],
+    "quote": "su constante énfasis en la clase … Sus acciones para atraerlos se centraban únicamente en la clase"
+  },
+  {
+    "note": 30,
+    "claim": "Pocos asalariados afrocaribeños respaldaron la huelga y los pequeños productores la rechazaron.",
+    "source": "moradas-y-discursos-molina-2010",
+    "pages": [
+      210
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Valoración apoyada en Bourgois.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/moradas-y-discursos-molina-2010/chapters/11-capitulo-6-harold-nichols.md"
+    ],
+    "quote": "entre los afrocaribeños que eran asalariados, pocos respaldaron el movimiento, y quienes se habían convertido en pequeños productores agrícolas, lo rechazaron"
+  },
+  {
+    "note": 31,
+    "claim": "Trabajo defiende a Harold Nichols y denuncia su condena a 75 días de cárcel.",
+    "source": "moradas-y-discursos-molina-2010",
+    "pages": [
+      208,
+      209
+    ],
+    "type": "hecho",
+    "counterpoint": "Fuente partidaria que exageraba su liderazgo entre los afrocaribeños, como reconoce Molina.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/moradas-y-discursos-molina-2010/chapters/11-capitulo-6-harold-nichols.md"
+    ],
+    "quote": "nos han estado criticando porque utilizamos a un negro como propagandista … las autoridades de Limón han condenado a nuestro compañero Harold Nicholas a 75 días de cárcel"
+  },
+  {
+    "note": 31,
+    "claim": "Llamado de Nichols a los trabajadores de color durante la huelga y ausencia en las memorias de Cerdas.",
+    "source": "moradas-y-discursos-molina-2010",
+    "pages": [
+      210,
+      211
+    ],
+    "type": "hecho",
+    "counterpoint": "El recuerdo de Rodolfo Cerdas es de 2006.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/moradas-y-discursos-molina-2010/chapters/11-capitulo-6-harold-nichols.md"
+    ],
+    "quote": "solicitaba a los \"trabajadores de color\" apoyar financieramente a los obreros encarcelados … La participación de Nichols no es destacada en los estudios existentes sobre la huelga de 1934 ni en las memorias de Cerdas"
+  },
+  {
+    "note": 31,
+    "claim": "Informe de 1935 al Buró del Caribe y lectura de Molina como disimulo del fracaso.",
+    "source": "moradas-y-discursos-molina-2010",
+    "pages": [
+      204,
+      217,
+      218
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Inferencia del autor.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/moradas-y-discursos-molina-2010/chapters/11-capitulo-6-harold-nichols.md"
+    ],
+    "quote": "este problema no se conoce en Costa Rica … es verosímil que tal informe obedeciera a una estrategia del partido para disimular su fracaso en unificar a los trabajadores limonenses"
+  },
+  {
+    "note": 31,
+    "claim": "Carta de Mora a Cerdas con la expresión «malditos negros».",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      278
+    ],
+    "type": "declaracion",
+    "counterpoint": "Carta publicada por el Diario de Costa Rica tras su confiscación policial.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/64-cap3-trabajadores-afrocaribenos.md"
+    ],
+    "quote": "este movimiento no fue todo lo eficaz que pudo serlo, por los malditos negros, y por la presión del Gobierno"
+  },
+  {
+    "note": 32,
+    "claim": "El BOC enfrentó sistemáticamente la discriminación étnica; la propuesta de Mora contra la cláusula del Pacífico sur fue rechazada.",
+    "source": "moradas-y-discursos-molina-2010",
+    "pages": [
+      219,
+      220
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Valoración de Molina a partir de Trabajo; el autor reconoce que la política cambió en los años cuarenta.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/moradas-y-discursos-molina-2010/chapters/11-capitulo-6-harold-nichols.md"
+    ],
+    "quote": "se constituyó en la primera instancia institucional que, de manera sistemática, enfrentó la discriminación étnica … La propuesta del diputado Manuel Mora para eliminar tal medida del contrato entre el gobierno y la empresa fue rechazada"
+  },
+  {
+    "note": 32,
+    "claim": "El contrato bananero de 1934 prohibía emplear «gentes de color» en el Pacífico y fijaba preferencias para costarricenses.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      272,
+      306
+    ],
+    "type": "hecho",
+    "counterpoint": "Transcripción de la autora desde el Fondo Congreso.",
+    "visual_checked": true,
+    "visual_pages_checked": [
+      306
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/63-cap3-relaciones-con-la-huelga.md",
+      "data/books/era-del-desencanto-angulo-2021/chapters/64-cap3-trabajadores-afrocaribenos.md",
+      "data/books/era-del-desencanto-angulo-2021/chapters/69-cap3-avances-y-retrocesos.md"
+    ],
+    "quote": "en el contrato bananero de 1934, en su artículo n.° 5 … Queda prohibido, en la zona del Pacífico, ocupar gentes de color en dichos trabajos"
+  },
+  {
+    "note": 32,
+    "claim": "Rojas considera que el Contrato-Ley N.° 30 incorporó la mayoría de las peticiones obreras.",
+    "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
+    "pages": [
+      66
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Balance que no menciona la cláusula racial.",
+    "visual_checked": true,
+    "visual_pages_checked": [
+      66
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/lucha-social-guerra-civil-costa-rica-1940-1948/chapters/13-lucha-nivel-sindical.md"
+    ],
+    "quote": "en el Contrato-Ley No, 30, del 10 de setiembre de 1934, se incorporaron la mayoría de sus peticiones"
+  },
+  {
+    "note": 32,
+    "claim": "Solís afirma que Jiménez incorporó reivindicaciones importantes de los trabajadores.",
+    "source": "reformismo-socialdemocrata-o-liberal-solis",
+    "pages": [
+      391
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Lectura favorable al liberalismo que no examina la exclusión racial.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/reformismo-socialdemocrata-o-liberal-solis/chapters/18-liberalismo-realmente-existente.md"
+    ],
+    "quote": "Jiménez incorpora en la negociación algunas de las reivindicaciones más importantes de los trabajadores"
+  },
+  {
+    "note": 33,
     "claim": "Finalidad movilizadora de la memoria: dinero, víveres y campaña pública.",
     "source": "mamita-yunai",
     "pages": [
@@ -486,7 +1317,7 @@
     ]
   },
   {
-    "note": 19,
+    "note": 34,
     "claim": "El internacionalismo se elabora en el diálogo literario de En la brecha.",
     "source": "mamita-yunai",
     "pages": [
@@ -508,7 +1339,7 @@
     ]
   },
   {
-    "note": 20,
+    "note": 35,
     "claim": "Fallas reconoce traslado literario de un dispensario entre escenarios.",
     "source": "mamita-yunai",
     "pages": [
@@ -524,7 +1355,7 @@
     ]
   },
   {
-    "note": 21,
+    "note": 36,
     "claim": "Herencias organizativas y memorias no garantizan expansión electoral.",
     "source": "mamita-yunai",
     "pages": [
@@ -547,7 +1378,7 @@
     ]
   },
   {
-    "note": 21,
+    "note": 36,
     "claim": "Herencias organizativas y memorias no garantizan expansión electoral.",
     "source": "desempeno-electoral-partido-comunista-1999",
     "pages": [

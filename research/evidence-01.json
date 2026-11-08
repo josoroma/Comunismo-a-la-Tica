@@ -176,6 +176,88 @@
   },
   {
     "note": 9,
+    "claim": "Fundación de la Sociedad de Artesanos (1874), fases y prohibición estatutaria de hablar de política.",
+    "source": "sociedad-artesanos-instruccion-obrera-angulo-2022",
+    "pages": [
+      2,
+      3,
+      4
+    ],
+    "type": "hecho",
+    "counterpoint": "Periodización de la autora; el estatuto de 1874 se conoce por su lectura y no informa sobre la práctica de los socios.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/sociedad-artesanos-instruccion-obrera-angulo-2022/chapters/01-resumen-abstract-resumo.md",
+      "data/books/sociedad-artesanos-instruccion-obrera-angulo-2022/chapters/02-introduccion.md"
+    ],
+    "quote": "nacía, el 13 de marzo de 1874 … en el artículo 79 se expone que se prohíbe hablar en las reuniones sobre religión, asuntos públicos del Gobierno, empleados y política en general"
+  },
+  {
+    "note": 9,
+    "claim": "Disoluciones de 1882, 1888 y 1891, reorganización gremial de 1883 y junta solo artesana de 1888.",
+    "source": "sociedad-artesanos-instruccion-obrera-angulo-2022",
+    "pages": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      13
+    ],
+    "type": "hecho",
+    "counterpoint": "El Artesano solo se publicó en 1883, 1889 y 1890; la autora no explica la disolución de 1888.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/sociedad-artesanos-instruccion-obrera-angulo-2022/chapters/02-introduccion.md",
+      "data/books/sociedad-artesanos-instruccion-obrera-angulo-2022/chapters/03-proceso-de-organizacion.md",
+      "data/books/sociedad-artesanos-instruccion-obrera-angulo-2022/chapters/04-escuela-nocturna-para-artesanos.md"
+    ],
+    "quote": "Esta segunda fase de la organización duró cinco años y se disuelve, nuevamente, en 1888 … la junta directiva estaba constituida totalmente por artesanos y su presidente, por primera vez, era un artesano … pareciera que la Sociedad de Artesanos se disuelve de nuevo"
+  },
+  {
+    "note": 10,
+    "claim": "Tesis de la autora: la instrucción de 1889 incidió de manera definitiva en la constitución de la clase trabajadora.",
+    "source": "sociedad-artesanos-instruccion-obrera-angulo-2022",
+    "pages": [
+      23,
+      24
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Conclusión teleológica que su propia evidencia de disoluciones y dificultades asociativas no sostiene; la objeción es de esta edición.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/sociedad-artesanos-instruccion-obrera-angulo-2022/chapters/05-biblioteca-popular-y-sala-de-lectura.md",
+      "data/books/sociedad-artesanos-instruccion-obrera-angulo-2022/chapters/06-conclusiones.md",
+      "data/books/sociedad-artesanos-instruccion-obrera-angulo-2022/chapters/07-bibliografia.md"
+    ],
+    "quote": "incidieron de manera definitiva en la constitución de la clase trabajadora en Costa Rica … las dificultades asociativas, económicas y culturales de los artesanos"
+  },
+  {
+    "note": 10,
+    "claim": "Botey y Cisneros atribuyen periódico, caja de ahorros, escuela y biblioteca a la sociedad de 1874.",
+    "source": "crisis-1929-fundacion-partido-comunista-1984",
+    "pages": [
+      35
+    ],
+    "type": "hecho",
+    "counterpoint": "Angulo Brenes sitúa el periódico en 1883 y caja, escuela y biblioteca en 1889, en etapas distintas.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/crisis-1929-fundacion-partido-comunista-1984/chapters/06-capitulo-ii.md"
+    ],
+    "quote": "creó una caja de ahorros, una escuela de artes y oficios y una biblioteca"
+  },
+  {
+    "note": 11,
     "claim": "Prensa obrera, representación y relaciones con el liberalismo.",
     "source": "crisis-1929-fundacion-partido-comunista-1984",
     "pages": [
@@ -194,7 +276,67 @@
     ]
   },
   {
-    "note": 10,
+    "note": 12,
+    "claim": "Apoyo de El Artesano a Esquivel en 1889 y autodescripción de independencia de «quinientos y tantos» artesanos.",
+    "source": "sociedad-artesanos-instruccion-obrera-angulo-2022",
+    "pages": [
+      12,
+      13
+    ],
+    "type": "declaracion",
+    "counterpoint": "Autodescripción de un periódico partidista citada por la autora; cifra no verificada; la autora fecha por error en 1899 la posición liberal.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/sociedad-artesanos-instruccion-obrera-angulo-2022/chapters/03-proceso-de-organizacion.md",
+      "data/books/sociedad-artesanos-instruccion-obrera-angulo-2022/chapters/04-escuela-nocturna-para-artesanos.md"
+    ],
+    "quote": "desde el año 1889 la Sociedad de Artesanos, a través de su periódico, manifiesta su apoyo a la candidatura de Ascensión Esquivel … Quinientos y tantos artesanos josefinos no viven sino del sudor de su frente"
+  },
+  {
+    "note": 12,
+    "claim": "Escuela Nocturna, Biblioteca Popular de 497 volúmenes y 39 donantes, lectores varones y Sociedad de Artes y Oficios conservadora.",
+    "source": "sociedad-artesanos-instruccion-obrera-angulo-2022",
+    "pages": [
+      14,
+      16,
+      17,
+      19,
+      20,
+      21,
+      22
+    ],
+    "type": "hecho",
+    "counterpoint": "Programa y cifras proceden del periódico de la sociedad; no hay datos de matrícula; la lista de lectores cubre una quincena.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/sociedad-artesanos-instruccion-obrera-angulo-2022/chapters/04-escuela-nocturna-para-artesanos.md",
+      "data/books/sociedad-artesanos-instruccion-obrera-angulo-2022/chapters/05-biblioteca-popular-y-sala-de-lectura.md"
+    ],
+    "quote": "estudio sociológico del hombre … veremos convertidos en conscientes ciudadanos … fue un total de 39 personas las que donaron libros … que en total fueron 497 … era utilizada únicamente por hombres … la cual se funda en 1889 pero con ideas más conversadoras y en compañía del candidato José Joaquín Rodríguez"
+  },
+  {
+    "note": 12,
+    "claim": "Apoyo del clero a la candidatura de José Joaquín Rodríguez en 1889.",
+    "source": "carta-pastoral-justo-salario-thiel-2018",
+    "pages": [
+      6
+    ],
+    "type": "hecho",
+    "counterpoint": "La relación causal entre apoyo clerical y victoria es valoración de los autores, apoyada en otros estudios.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/carta-pastoral-justo-salario-thiel-2018/chapters/04-realidad-socioeconomica-y-politica-1893.md"
+    ],
+    "quote": "en particular por la ayuda brindada por los sacerdotes del país a su candidatura"
+  },
+  {
+    "note": 13,
     "claim": "Centro Germinal, educación popular y variedad de referencias ideológicas.",
     "source": "crisis-1929-fundacion-partido-comunista-1984",
     "pages": [
@@ -214,7 +356,382 @@
     ]
   },
   {
-    "note": 11,
+    "note": 14,
+    "claim": "Molina interpreta el radicalismo de García Monge, Dengo, Lyra y otros como estrategia de ascenso; solo Lyra ingresó al PCCR.",
+    "source": "moradas-y-discursos-molina-2010",
+    "pages": [
+      135
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Lectura instrumental apoyada en trabajos previos del autor; no excluye convicciones genuinas.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/moradas-y-discursos-molina-2010/chapters/09-capitulo-4-discurso-de-garcia-monge.md"
+    ],
+    "quote": "fueron parte de una estrategia más amplia para cotizarse en la esfera pública y escalar posiciones en el Estado … con excepción de Lyra, la única mujer del grupo, quien se incorporó al Partido Comunista de Costa Rica"
+  },
+  {
+    "note": 14,
+    "claim": "Botey y Cisneros valoran favorablemente al grupo del Centro Germinal.",
+    "source": "crisis-1929-fundacion-partido-comunista-1984",
+    "pages": [
+      40
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Valoración laudatoria inscrita en la escala de maduración de los autores.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/crisis-1929-fundacion-partido-comunista-1984/chapters/06-capitulo-ii.md"
+    ],
+    "quote": "Poseedores de una profunda sensibilidad social"
+  },
+  {
+    "note": 15,
+    "claim": "Escasez de títulos socialistas en la biblioteca de artesanos y en la principal librería del siglo XIX.",
+    "source": "ideas-socialistas-costa-rica-1880-1930-oliva",
+    "pages": [
+      2,
+      4,
+      5
+    ],
+    "type": "hecho",
+    "counterpoint": "Oliva no identifica los catálogos; Angulo Brenes da otras cifras y menciona títulos de Marx en la librería Lines.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/ideas-socialistas-costa-rica-1880-1930-oliva/chapters/00-articulo.md"
+    ],
+    "quote": "pretendidas corrientes socialistas abstraídas de su contexto … Del total de libros, sólo seis obras eran de temas socialistas … después de 1896, no incorporó ningún título nuevo"
+  },
+  {
+    "note": 15,
+    "claim": "Intelectuales extranjeros ayudaron a redactar estatutos de organizaciones de trabajadores.",
+    "source": "ideas-socialistas-costa-rica-1880-1930-oliva",
+    "pages": [
+      3
+    ],
+    "type": "hecho",
+    "counterpoint": "Afirmación sin referencias concretas; Angulo Brenes la corrobora solo en parte.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/ideas-socialistas-costa-rica-1880-1930-oliva/chapters/00-articulo.md"
+    ],
+    "quote": "ayudaron a redactar estatutos de no pocas organizaciones de trabajadores"
+  },
+  {
+    "note": 15,
+    "claim": "Machado propuso la reorganización gremial de 1883; Truque colaboró en El Artesano y era subsecretario de Hacienda; obras de organización obrera donadas.",
+    "source": "sociedad-artesanos-instruccion-obrera-angulo-2022",
+    "pages": [
+      5,
+      8,
+      18,
+      19
+    ],
+    "type": "hecho",
+    "counterpoint": "El cuadro 3 presenta solo «algunos títulos»; la mención de la librería Lines procede de Iván Molina.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/sociedad-artesanos-instruccion-obrera-angulo-2022/chapters/02-introduccion.md",
+      "data/books/sociedad-artesanos-instruccion-obrera-angulo-2022/chapters/03-proceso-de-organizacion.md",
+      "data/books/sociedad-artesanos-instruccion-obrera-angulo-2022/chapters/05-biblioteca-popular-y-sala-de-lectura.md"
+    ],
+    "quote": "la propuesta organizativa del abogado guatemalteco Rafael Machado Jáuregui … colaboradores como Pío Víquez, Eloy Truque … Eloy Truque, colombiano, subsecretario de Hacienda y Comercio … Historia de las asociaciones obreras en Europa"
+  },
+  {
+    "note": 16,
+    "claim": "Lectura en voz alta (1901, 1904), máximas en periódicos obreros y proyección de Germinal el Primero de Mayo de 1920.",
+    "source": "ideas-socialistas-costa-rica-1880-1930-oliva",
+    "pages": [
+      3,
+      5,
+      6
+    ],
+    "type": "hecho",
+    "counterpoint": "Convocatorias citadas sin referencia completa; no informan sobre asistencia ni recepción.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/ideas-socialistas-costa-rica-1880-1930-oliva/chapters/00-articulo.md"
+    ],
+    "quote": "A fines de 1901, la Liga de Obreros se propuso realizar la lectura en voz alta de periódicos nacionales y extranjeros … El 30 de abril de ese año, la Sociedad de Ebanistas y Carpinteros (y, por lo menos, diez organizaciones más) proyectaron a las 9:00 p.m. en el Parque Morazán"
+  },
+  {
+    "note": 16,
+    "claim": "Tesis de Oliva y Rama: la ficción realista difundió ideas socialistas más que la teoría.",
+    "source": "ideas-socialistas-costa-rica-1880-1930-oliva",
+    "pages": [
+      9,
+      10
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Tesis general sin medición de recepción; sensibilidad humanitaria no equivale a adhesión doctrinaria.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/ideas-socialistas-costa-rica-1880-1930-oliva/chapters/00-articulo.md"
+    ],
+    "quote": "sirvieron, más que todos los textos teóricos -de por sí, escasos en el medio- para difundir ideas socialistas … muchos de los autores mencionados no fueron rigurosamente socialistas"
+  },
+  {
+    "note": 17,
+    "claim": "Condena católica de novelas en 1890 y pesquisa y quema anunciada de «libros malos» en 1927.",
+    "source": "ideas-socialistas-costa-rica-1880-1930-oliva",
+    "pages": [
+      6,
+      7
+    ],
+    "type": "hecho",
+    "counterpoint": "Citas de prensa mediadas por el autor; el informe de la Liga no se identifica; la prohibición de 1901 carece de referencia.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/ideas-socialistas-costa-rica-1880-1930-oliva/chapters/00-articulo.md"
+    ],
+    "quote": "La Unión Católica del 9 de noviembre de 1890 … grande ha sido la cosecha de libros malos … van marchando camino al fuego … epopeya del socialismo"
+  },
+  {
+    "note": 17,
+    "claim": "Hipótesis de censura eclesiástica en el traslado de la Biblioteca Popular en 1890.",
+    "source": "sociedad-artesanos-instruccion-obrera-angulo-2022",
+    "pages": [
+      22,
+      23
+    ],
+    "type": "inferencia",
+    "counterpoint": "Hipótesis de la autora apoyada en Gerardo Morales, sin documento probatorio.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/sociedad-artesanos-instruccion-obrera-angulo-2022/chapters/05-biblioteca-popular-y-sala-de-lectura.md",
+      "data/books/sociedad-artesanos-instruccion-obrera-angulo-2022/chapters/06-conclusiones.md"
+    ],
+    "quote": "quizás este cambio se debió a la censura nuevamente realizada por la iglesia católica"
+  },
+  {
+    "note": 18,
+    "claim": "Contenido de la pastoral: miseria urbana, cálculo salarial, comisiones y derecho de asociación.",
+    "source": "carta-pastoral-justo-salario-thiel-2018",
+    "pages": [
+      10,
+      11,
+      12
+    ],
+    "type": "declaracion",
+    "counterpoint": "Citas y paráfrasis mediadas por los autores; el cálculo no es una serie salarial.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/carta-pastoral-justo-salario-thiel-2018/chapters/05-propuesta-de-thiel-justo-salario.md"
+    ],
+    "quote": "al mercado para reunir las cáscaras de naranjas … en 1893 el pago debía de ser de $2,30 … el derecho de formar entre ellos sus propias asociaciones y juntar sus fuerzas"
+  },
+  {
+    "note": 18,
+    "claim": "Publicación el 5 de septiembre de 1893, lectura parroquial e intervención dentro de la Constitución vigente.",
+    "source": "carta-pastoral-justo-salario-thiel-2018",
+    "pages": [
+      7,
+      13
+    ],
+    "type": "hecho",
+    "counterpoint": "Los autores no miden la difusión real de la lectura parroquial.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/carta-pastoral-justo-salario-thiel-2018/chapters/04-realidad-socioeconomica-y-politica-1893.md",
+      "data/books/carta-pastoral-justo-salario-thiel-2018/chapters/05-propuesta-de-thiel-justo-salario.md",
+      "data/books/carta-pastoral-justo-salario-thiel-2018/chapters/06-respuesta-de-los-liberales.md"
+    ],
+    "quote": "por base la Constitución Política que actualmente nos rige … La pastoral de Thiel se publicó el martes 5 de septiembre de 1893, y fue leída según la norma el domingo 10 de septiembre en todas las parroquias del país"
+  },
+  {
+    "note": 19,
+    "claim": "Carta del ministro de Culto (14 de septiembre de 1893): «tendencias socialistas» y exigencia del «pase» según una ley de 1885.",
+    "source": "carta-pastoral-justo-salario-thiel-2018",
+    "pages": [
+      16,
+      17
+    ],
+    "type": "hecho",
+    "counterpoint": "Carta citada por los autores desde el Archivo Histórico Arquidiocesano; su calificación de «sin fundamentos» es juicio de autores favorables a Thiel.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/carta-pastoral-justo-salario-thiel-2018/chapters/06-respuesta-de-los-liberales.md"
+    ],
+    "quote": "sin haber obtenido previamente la indispensable autorización del Poder Ejecutivo … al recordarle una ley del año 1885 … tendencias socialistas que entrañan, profundas perturbaciones en la marcha de los interese recíprocos de la propiedad y el trabajo"
+  },
+  {
+    "note": 19,
+    "claim": "Réplica de la prensa liberal del 12 al 17 de septiembre; la pastoral no empleó la palabra socialismo.",
+    "source": "carta-pastoral-justo-salario-thiel-2018",
+    "pages": [
+      13,
+      14,
+      16,
+      18
+    ],
+    "type": "declaracion",
+    "counterpoint": "Citas de prensa mediadas por autores que califican la réplica de «artimañas y mentiras».",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/carta-pastoral-justo-salario-thiel-2018/chapters/05-propuesta-de-thiel-justo-salario.md",
+      "data/books/carta-pastoral-justo-salario-thiel-2018/chapters/06-respuesta-de-los-liberales.md"
+    ],
+    "quote": "Las réplicas aparecieron en los cotidianos desde el 12 hasta el 17 de septiembre … el estudio económico del señor Obispo tenga mucho de cierto … no han asomado aquí su descarnada faz … el prelado nunca mencionó esta palabra"
+  },
+  {
+    "note": 19,
+    "claim": "Carta de Thiel a Rafael Iglesias (17 de septiembre de 1893) para reparar la disonancia con el gobierno.",
+    "source": "carta-pastoral-justo-salario-thiel-2018",
+    "pages": [
+      20
+    ],
+    "type": "hecho",
+    "counterpoint": "Carta citada por los autores.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/carta-pastoral-justo-salario-thiel-2018/chapters/06-respuesta-de-los-liberales.md",
+      "data/books/carta-pastoral-justo-salario-thiel-2018/chapters/07-conclusiones.md"
+    ],
+    "quote": "reparar esta disonancia, encaminando las cosas inmediatamente según la intención del Gobierno"
+  },
+  {
+    "note": 19,
+    "claim": "El gobierno de Rodríguez atribuyó a la pastoral «tendencias socialistas» (otra vía documental).",
+    "source": "anticomunismo-reformista-molina",
+    "pages": [
+      20
+    ],
+    "type": "hecho",
+    "counterpoint": "Cita mediada por la biografía de Thiel de Sanabria y por Vargas; no se consultó la carta original.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/anticomunismo-reformista-molina/chapters/07-capitulo-1-estado-liberal-iglesia-catolica.md"
+    ],
+    "quote": "Estas doctrinas pueden dar por resultado, por las tendencias socialistas que entrañan, profundas perturbaciones"
+  },
+  {
+    "note": 20,
+    "claim": "Molina explica la pastoral ante todo por un trasfondo electoral y niega su carácter socialista.",
+    "source": "anticomunismo-reformista-molina",
+    "pages": [
+      20,
+      21
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Interpretación del autor dentro de un marco de competencia electoral; Schroeder y Sandí le suman una intención religiosa y social.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/anticomunismo-reformista-molina/chapters/07-capitulo-1-estado-liberal-iglesia-catolica.md"
+    ],
+    "quote": "estaba muy lejos, no obstante, de ser socialista: influida por la encíclica Rerum Novarum (1891) de León XIII, su emisión se explica, ante todo, por un trasfondo electoral específico"
+  },
+  {
+    "note": 20,
+    "claim": "Unión Católica como partido desde 1891, sin preocupación por la cuestión social; fraude contra su triunfo en primera vuelta.",
+    "source": "anticomunismo-reformista-molina",
+    "pages": [
+      22,
+      23,
+      24
+    ],
+    "type": "hecho",
+    "counterpoint": "Schroeder y Sandí encuentran en la pastoral cinco de los nueve puntos del programa de Unión Católica.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/anticomunismo-reformista-molina/chapters/07-capitulo-1-estado-liberal-iglesia-catolica.md"
+    ],
+    "quote": "fundar una organización política propia en 1891 … falta de toda preocupación por la cuestión social … al anular varias mesas de votación primero y, después, al encarcelar a los dirigentes y electores"
+  },
+  {
+    "note": 20,
+    "claim": "La Iglesia no elaboró un discurso sistemático sobre la pobreza; la pastoral fue recuperada selectivamente por otros partidos.",
+    "source": "anticomunismo-reformista-molina",
+    "pages": [
+      25
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Molina discute la tesis de Gustavo Adolfo Soto sobre un compromiso social temprano de la Iglesia.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/anticomunismo-reformista-molina/chapters/07-capitulo-1-estado-liberal-iglesia-catolica.md"
+    ],
+    "quote": "no elaboró un discurso sistemático sobre la pobreza … fue recuperado de manera selectiva por la propaganda de partidos como el Independiente Demócrata y el Republicano"
+  },
+  {
+    "note": 20,
+    "claim": "Unión Católica de 1889 a partido; Backer lee la pastoral como manifiesto politiquero; coincidencias con el programa.",
+    "source": "carta-pastoral-justo-salario-thiel-2018",
+    "pages": [
+      6,
+      7,
+      8,
+      13
+    ],
+    "type": "interpretacion",
+    "counterpoint": "La lectura de Backer llega citada por Schroeder y Sandí; la coincidencia programática es recuento de los autores.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/carta-pastoral-justo-salario-thiel-2018/chapters/04-realidad-socioeconomica-y-politica-1893.md",
+      "data/books/carta-pastoral-justo-salario-thiel-2018/chapters/05-propuesta-de-thiel-justo-salario.md",
+      "data/books/carta-pastoral-justo-salario-thiel-2018/chapters/06-respuesta-de-los-liberales.md"
+    ],
+    "quote": "la Sociedad de la Unión Católica, fundada en 1889, tomó fuerza y se convirtió en partido político … manifiesto politiquero de la Iglesia en su pugna aguda contra el Estado Liberal … de los nueve puntos presentados en el programa de gobierno de Unión Católica, al menos cinco fueron temas tratados"
+  },
+  {
+    "note": 20,
+    "claim": "Repliegue posterior de Thiel y tesis de la primera denuncia episcopal del liberalismo económico.",
+    "source": "carta-pastoral-justo-salario-thiel-2018",
+    "pages": [
+      20,
+      22
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Tesis de autores favorables a Thiel; la prioridad no se contrasta con otros documentos eclesiásticos.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/carta-pastoral-justo-salario-thiel-2018/chapters/06-respuesta-de-los-liberales.md",
+      "data/books/carta-pastoral-justo-salario-thiel-2018/chapters/07-conclusiones.md",
+      "data/books/carta-pastoral-justo-salario-thiel-2018/chapters/08-bibliografia.md"
+    ],
+    "quote": "el papel de Thiel en la sociedad costarricense fue más de índole religioso que social … fue la primera que se externó desde la jerarquía católica costarricense"
+  },
+  {
+    "note": 21,
     "claim": "Luchas económicas y oposición a la dictadura tinoquista.",
     "source": "crisis-1929-fundacion-partido-comunista-1984",
     "pages": [
@@ -232,7 +749,7 @@
     ]
   },
   {
-    "note": 12,
+    "note": 22,
     "claim": "Coordinación huelguística y reconocimiento de límites a la jornada.",
     "source": "crisis-1929-fundacion-partido-comunista-1984",
     "pages": [
@@ -250,7 +767,7 @@
     ]
   },
   {
-    "note": 13,
+    "note": 23,
     "claim": "Diferencias entre luchas campesinas guanacastecas.",
     "source": "crisis-1929-fundacion-partido-comunista-1984",
     "pages": [
@@ -268,7 +785,7 @@
     ]
   },
   {
-    "note": 14,
+    "note": 24,
     "claim": "Programa reformista, pactos y crítica de la pérdida de autonomía.",
     "source": "crisis-1929-fundacion-partido-comunista-1984",
     "pages": [
@@ -289,7 +806,112 @@
     ]
   },
   {
-    "note": 15,
+    "note": 25,
+    "claim": "Autopresentación de Volio en 1947: prensa católica, clerecía, Nicaragua en 1912, Partido Reformista y elección de Ricardo Jiménez.",
+    "source": "jorge-volio-ineditos-documentos",
+    "pages": [
+      1,
+      2,
+      3
+    ],
+    "type": "declaracion",
+    "counterpoint": "Autopresentación retrospectiva para un diplomático; contiene una fecha incongruente (1951); Botey y Cisneros fechan el periódico en 1903 y juzgan el pacto como claudicación.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/jorge-volio-ineditos-documentos/chapters/00-presentacion-y-carta-de-1947.md"
+    ],
+    "quote": "En 1902 fundé con el Lic. don Matías Trejos el diario católico La Justicia Social. … abandonar la clerecía sin desertar jamás de la fe católica … En 1912 participé en la Revolución de Nicaragua contra el yankee y su aliado nativo … En 1923 fundé el Partido Reformista del cual fui Candidato a la Presidencia de la República. Hice Presidente de la República a don Ricardo Jiménez O."
+  },
+  {
+    "note": 25,
+    "claim": "Botey y Cisneros fechan La Justicia Social en 1903 y califican de claudicante la línea reformista desde 1924.",
+    "source": "crisis-1929-fundacion-partido-comunista-1984",
+    "pages": [
+      51,
+      53
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Valoración de autores que exigen autonomía doctrinaria obrera; ellos mismos reconocen participación reformista en la ley de accidentes.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/crisis-1929-fundacion-partido-comunista-1984/chapters/06-capitulo-ii.md"
+    ],
+    "quote": "en 1903 fundó un periódico de tendencia social cristiana … el Partido Reformista inició su línea claudicante"
+  },
+  {
+    "note": 26,
+    "claim": "Botey y Cisneros califican de social cristiano el periódico fundado por Volio.",
+    "source": "crisis-1929-fundacion-partido-comunista-1984",
+    "pages": [
+      51
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Molina considera errónea la clasificación social-cristiana del reformismo.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/crisis-1929-fundacion-partido-comunista-1984/chapters/06-capitulo-ii.md"
+    ],
+    "quote": "fundó un periódico de tendencia social cristiana"
+  },
+  {
+    "note": 26,
+    "claim": "La jerarquía persiguió a los sacerdotes volistas; Molina rechaza definir al Reformista como social-cristiano.",
+    "source": "anticomunismo-reformista-molina",
+    "pages": [
+      26
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Apoyado en memorias y tesis de licenciatura; la clasificación del reformismo sigue en debate.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/anticomunismo-reformista-molina/chapters/07-capitulo-1-estado-liberal-iglesia-catolica.md"
+    ],
+    "quote": "perseguía a los sacerdotes disidentes, en particular a los identificados con el … erróneamente define al Reformista como un partido"
+  },
+  {
+    "note": 26,
+    "claim": "Septiembre de 1926: Volio deja el Congreso para una insurrección en Nicaragua, es apresado, despojado de credenciales e internado en Bélgica.",
+    "source": "moradas-y-discursos-molina-2010",
+    "pages": [
+      147
+    ],
+    "type": "hecho",
+    "counterpoint": "Dato de segunda mano, tomado de la biografía de Marina Volio.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/moradas-y-discursos-molina-2010/chapters/09-capitulo-4-discurso-de-garcia-monge.md"
+    ],
+    "quote": "abandonó el Congreso para sumarse a una insurrección contra el gobierno nicaragüense y, antes de que pudiera realizar su plan, fue apresado en Guanacaste, despojado de sus credenciales, llevado fuera del país e internado en un manicomio belga"
+  },
+  {
+    "note": 26,
+    "claim": "La nota del editor describe el «Proceso de Liberia» y la salida de Volio a Europa.",
+    "source": "jorge-volio-ineditos-documentos",
+    "pages": [
+      3
+    ],
+    "type": "declaracion",
+    "counterpoint": "Nota sin fecha; su identificación con el episodio de 1926 es inferencia de esta edición.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/jorge-volio-ineditos-documentos/chapters/00-presentacion-y-carta-de-1947.md"
+    ],
+    "quote": "que salió en viaje de reposo a Europa"
+  },
+  {
+    "note": 27,
     "claim": "La representación y el costo de los pactos como problema recurrente.",
     "source": "crisis-1929-fundacion-partido-comunista-1984",
     "pages": [
@@ -308,7 +930,7 @@
     ]
   },
   {
-    "note": 16,
+    "note": 28,
     "claim": "Antiimperialismo, Liga Cívica y aprismo como espacio plural.",
     "source": "crisis-1929-fundacion-partido-comunista-1984",
     "pages": [
@@ -328,7 +950,7 @@
     ]
   },
   {
-    "note": 17,
+    "note": 29,
     "claim": "Circulación de ideas y contactos internacionales con grados distintos de comprobación.",
     "source": "crisis-1929-fundacion-partido-comunista-1984",
     "pages": [
@@ -346,7 +968,7 @@
     ]
   },
   {
-    "note": 18,
+    "note": 30,
     "claim": "La crisis no basta para explicar creación y persistencia de un partido.",
     "source": "crisis-1929-fundacion-partido-comunista-1984",
     "pages": [
@@ -363,7 +985,7 @@
     ]
   },
   {
-    "note": 18,
+    "note": 30,
     "claim": "La crisis no basta para explicar creación y persistencia de un partido.",
     "source": "crisis-1929-fundacion-partido-comunista-1984",
     "pages": [
@@ -386,5 +1008,23 @@
     "local_paths": [
       "data/books/crisis-1929-fundacion-partido-comunista-1984/chapters/08-capitulo-iv.md"
     ]
+  },
+  {
+    "note": 31,
+    "claim": "Pequeños cafetaleros conservadores ven en el comunismo un enemigo tras 1931; los comunistas ganan la base urbana reformista.",
+    "source": "reformismo-socialdemocrata-o-liberal-solis",
+    "pages": [
+      364,
+      365
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Basado en Acuña y González (1987), no en fuentes propias; el paso de la base reformista no se cuantifica.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/reformismo-socialdemocrata-o-liberal-solis/chapters/18-liberalismo-realmente-existente.md"
+    ],
+    "quote": "Víctor H. Acuña, demuestra en su estudio sobre este grupo, como el temor de los campesinos a la pauperización los hace conservadores y no radicales. Después de 1931, el peligro que ellos señalan es la propagación del comunismo, en el cual ven un enemigo estratégico … que éstos ganaron la anterior base urbana del"
   }
 ]

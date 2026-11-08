@@ -74,6 +74,7 @@ main{max-width:1600px;margin:auto}
 h1{font:500 clamp(56px,5.5vw,94px)/1.04 var(--serif);letter-spacing:-.055em;margin:0 0 34px}
 h1 em{display:block;color:var(--accent);font-weight:500;margin-top:.04em}
 .subtitle{font:22px/1.5 var(--serif);max-width:29ch;margin:0;text-wrap:pretty}
+.cover-epigraph{margin:30px 0 0;max-width:48ch;border-left:2px solid var(--accent);padding:2px 0 2px 18px}.cover-epigraph blockquote{margin:0}.cover-epigraph p{font:italic 15px/1.6 var(--serif);color:var(--muted);margin:0;text-wrap:pretty}.cover-epigraph cite{font-style:normal}.cover-epigraph figcaption{font:11px/1.5 var(--sans);color:var(--muted);margin-top:10px;letter-spacing:.2px}.cover-epigraph figcaption a{color:inherit}
 .author-signature{display:flex;align-items:center;gap:13px;font:13px/1.5 var(--sans);margin:32px 0 0;flex-wrap:wrap}
 .author-signature img{display:block;width:154px;height:auto}
 .author-plus{font-size:20px;color:var(--muted);margin-left:3px}
@@ -174,7 +175,7 @@ dialog input{width:100%;padding:13px;background:var(--card);border:1px solid var
   html{scroll-padding-top:85px}.toolbar{padding:0 16px;gap:12px}.toolbar-title>span:first-child{font-size:8px;letter-spacing:1px}.toolbar #current-chapter{font-size:11px}
   .tools{gap:8px}#search-open{width:36px;padding:0;justify-content:center;font-size:22px}#search-open .search-label,#search-open kbd{display:none}
   .cover{grid-template-columns:1fr;min-height:0;padding:49px 25px 42px;gap:35px}.cover .eyebrow{font-size:9px;letter-spacing:2px}.cover-period{font-size:17px;margin:17px 0 28px}
-  h1{font-size:clamp(53px,15vw,82px);margin-bottom:26px}.subtitle{font-size:21px;max-width:28ch}.author-signature{margin-top:25px;font-size:12px;gap:12px}.author-signature img{width:145px}
+  h1{font-size:clamp(53px,15vw,82px);margin-bottom:26px}.subtitle{font-size:21px;max-width:28ch}.author-signature{margin-top:25px;font-size:12px;gap:12px}.cover-epigraph{margin-top:24px}.cover-epigraph p{font-size:14px}.author-signature img{width:145px}
   .cover-actions{gap:23px;margin-top:28px}.start,.explore{font-size:11px;gap:17px}.start{padding:14px 16px}.edition-note{margin-top:23px;font-size:9px;gap:5px 14px}
   .cover-art{max-width:420px}.cover-art figcaption{font-size:8px;margin-top:0;gap:4px 14px}
   .journey{padding:40px 25px 48px}.journey-heading{display:block;margin-bottom:23px}.journey-heading .eyebrow{font-size:9px;letter-spacing:2px}.journey-heading h2{font-size:35px;letter-spacing:-1px;max-width:none}.journey-heading>p{text-align:left;max-width:none;margin-top:17px;font-size:10px}

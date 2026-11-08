@@ -28,6 +28,45 @@
   },
   {
     "note": 3,
+    "claim": "La competencia con el partido comunista obligó a sus adversarios a actualizar programas y originó un anticomunismo comprometido con el cambio social por vías institucionales.",
+    "source": "anticomunismo-reformista-molina",
+    "pages": [
+      11,
+      12,
+      196
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Tesis de Molina; otros estudios del corpus atribuyen mayor peso a la alianza de 1943 y a la presión sindical.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/anticomunismo-reformista-molina/chapters/05-prologo.md",
+      "data/books/anticomunismo-reformista-molina/chapters/17-epilogo.md"
+    ],
+    "quote": "obligó a sus adversarios a actualizar sus estrategias, programas y compromisos … originó un anticomunismo comprometido con el cambio social por vías institucionales"
+  },
+  {
+    "note": 3,
+    "claim": "En 1975 Figueres atribuyó a Mora y a los comunistas gran parte de las ideas de la reforma; Monge dio por superada una etapa histérica y violenta del anticomunismo liberacionista.",
+    "source": "pln-discurso-politico-ideologico-delgado-1983",
+    "pages": [
+      148,
+      158
+    ],
+    "type": "declaracion",
+    "counterpoint": "Entrevistas de 1975 publicadas por Delgado; testimonios tardíos y situados en la competencia política de su momento; capa de texto OCR.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/pln-discurso-politico-ideologico-delgado-1983/chapters/18-anexo-1-monge.md",
+      "data/books/pln-discurso-politico-ideologico-delgado-1983/chapters/19-anexo-2-figueres.md"
+    ],
+    "quote": "llamémosla histérica y violenta … Gran parte de esas ideas, que tienen mucho de positivo, yo creo que pertenecen a Manuel Mora y a los comunistas"
+  },
+  {
+    "note": 4,
     "claim": "Mora defendió vía pacífica local e intervención en Checoslovaquia en la misma intervención pública",
     "source": "discursos-manuel-mora-1934-1979",
     "pages": [
@@ -45,7 +84,7 @@
     "visual_checked": false
   },
   {
-    "note": 4,
+    "note": 5,
     "claim": "El estudio de Álvarez Garro explica una frontera simbólica de pertenencia nacional",
     "source": "comunismo-exterior-constitutivo-2020",
     "pages": [
@@ -57,7 +96,7 @@
     "visual_checked": false
   },
   {
-    "note": 5,
+    "note": 6,
     "claim": "FA obtuvo siete escaños en 2026 y De la Clase Trabajadora ninguno",
     "source": "tse-leg-2026",
     "pages": [],
@@ -66,7 +105,7 @@
     "visual_checked": false
   },
   {
-    "note": 6,
+    "note": 7,
     "claim": "La ruptura local precedió al derrumbe soviético y requiere seguir trayectorias de base",
     "source": "comunismo-a-la-tica-pvp-2020",
     "pages": [

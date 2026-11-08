@@ -7,21 +7,53 @@ Selección de acontecimientos tratados en el libro. Las fechas amplias se conser
 | Fecha o período | Acontecimiento | Referencia |
 |---|---|---|
 
+| 1874-03-13 | Se funda en San José la Sociedad de Artesanos por iniciativa del sacerdote Francisco Calvo; sus estatutos prohíben hablar de política en las reuniones. | [La Sociedad de Artesanos y la instrucción obrera en Costa Rica a finales del siglo XIX](https://doi.org/10.15359/rh.85.3); PDF 2–4 |
+
+| 1889-09-15 | La Sociedad de Artesanos inaugura su Biblioteca Popular y sala de lectura, formada con donaciones de 39 personas. | [La Sociedad de Artesanos y la instrucción obrera en Costa Rica a finales del siglo XIX](https://doi.org/10.15359/rh.85.3); PDF 16, 19–20 |
+
+| 1893-09-05 | El obispo Bernardo A. Thiel publica su carta pastoral sobre el justo salario de jornaleros y artesanos. | [La carta pastoral “Justo Salario”: el intento de Mons. Thiel por iniciar la Doctrina Social de la Iglesia católica en Costa Rica (1893)](https://doi.org/10.18273/revanu.v23n2-2018004); PDF 7, 13 |
+
+| 1893-09-14 | El ministro de Culto, Manuel V. Jiménez, reprocha a Thiel las «tendencias socialistas» de la pastoral y le exige el «pase» gubernamental. | [La carta pastoral “Justo Salario”: el intento de Mons. Thiel por iniciar la Doctrina Social de la Iglesia católica en Costa Rica (1893)](https://doi.org/10.18273/revanu.v23n2-2018004); PDF 16–17 |
+
 | 1913 | Constitución de la Confederación General de Trabajadores, en el entorno de educación popular descrito por Botey y Cisneros. | La crisis de 1929 y la fundación del Partido Comunista de Costa Rica (`crisis-1929-fundacion-partido-comunista-1984`); PDF 40 |
+
+| 1920-04-30 | Con motivo del Primero de Mayo, la Sociedad de Ebanistas y Carpinteros y al menos otras diez organizaciones proyectan Germinal en el Parque Morazán. | [Las ideas socialistas en Costa Rica, 1880-1930](https://doi.org/10.15359/tdna.38-e18); PDF 6 |
+
+| 1923 | Jorge Volio funda el Partido Reformista. | Anticomunismo reformista. Competencia electoral y cuestión social en Costa Rica (1931-1948) (`anticomunismo-reformista-molina`); PDF 26 |
 
 | 1928-06-25 | Formalización de la Liga Cívica según Botey y Cisneros. | La crisis de 1929 y la fundación del Partido Comunista de Costa Rica (`crisis-1929-fundacion-partido-comunista-1984`); PDF 57 |
 
 | 1929-02 | Transformación de la asociación por la Universidad Popular en ARCO, según Botey y Cisneros. | La crisis de 1929 y la fundación del Partido Comunista de Costa Rica (`crisis-1929-fundacion-partido-comunista-1984`); PDF 106 |
 
+| 1929-10-21 | Primera reunión de obreros sin trabajo de la nueva coyuntura, en el parque Central de San José, según Angulo. | La era del desencanto: protesta social, organización laboral y poder en Costa Rica, 1929-1940 (`era-del-desencanto-angulo-2021`); PDF 113 |
+
+| 1931-02-10 | Obreros sin trabajo reunidos en el salón de la UGT dan ocho días al presidente González Víquez; los firmantes son detenidos. | La era del desencanto: protesta social, organización laboral y poder en Costa Rica, 1929-1940 (`era-del-desencanto-angulo-2021`); PDF 141–142 |
+
+| 1931-05-15 | Estudiantes de Derecho lanzan volantes «Viva el Partido Comunista» en el Teatro Raventós; arresto de Carballo, Cerdas y Mora, según Molina. | Anticomunismo reformista. Competencia electoral y cuestión social en Costa Rica (1931-1948) (`anticomunismo-reformista-molina`); PDF 44–45 |
+
+| 1931-05-29 | El canónigo Ricardo Zúñiga escribe en La Tribuna que el comunismo debe combatirse y que no hay razón para que fecunde en un país «que no es de pobres». | Anticomunismo reformista. Competencia electoral y cuestión social en Costa Rica (1931-1948) (`anticomunismo-reformista-molina`); PDF 19 |
+
 | 1931-06-06 | Acuerdo formal para fundar el Partido Comunista, fecha diferenciada de la primera reunión del comité por Botey y Cisneros. | La crisis de 1929 y la fundación del Partido Comunista de Costa Rica (`crisis-1929-fundacion-partido-comunista-1984`); PDF 109 |
 
 | 1931-06-16 | Primera reunión del Comité Ejecutivo Provisional según Botey y Cisneros. | La crisis de 1929 y la fundación del Partido Comunista de Costa Rica (`crisis-1929-fundacion-partido-comunista-1984`); PDF 109 |
 
+| 1931-10-07 | El Congreso aprueba por 18 votos contra 14, con 11 diputados ausentes, el dictamen que confirma el rechazo de la inscripción del Partido Comunista para los comicios de 1932. | Anticomunismo reformista. Competencia electoral y cuestión social en Costa Rica (1931-1948) (`anticomunismo-reformista-molina`); PDF 59–60 |
+
+| 1932-05-28 | La policía disuelve la tercera reunión comunista sobre los proyectos de salario mínimo y auxilio a desocupados; unos ochenta detenidos, según La Tribuna citada por Angulo. | La era del desencanto: protesta social, organización laboral y poder en Costa Rica, 1929-1940 (`era-del-desencanto-angulo-2021`); PDF 171–172 |
+
 | 1932-12 | Participación municipal del Bloque de Obreros y Campesinos e impugnación favorable en San José. | El desempeño electoral del Partido Comunista de Costa Rica (1931-1948) (`desempeno-electoral-partido-comunista-1999`); PDF 4–5 |
+
+| 1933-05-22 | Choque entre la policía y una manifestación de desocupados en San José; después se expulsa al regidor comunista Adolfo Braña. | La era del desencanto: protesta social, organización laboral y poder en Costa Rica, 1929-1940 (`era-del-desencanto-angulo-2021`); PDF 173, 177 |
+
+| 1934-01-25 | Comienza la huelga de zapateros en el taller La Renaciente de San José; el sindicato se constituye el 12 de marzo. | La era del desencanto: protesta social, organización laboral y poder en Costa Rica, 1929-1940 (`era-del-desencanto-angulo-2021`); PDF 188, 197 |
+
+| 1934-02-11 | Elecciones de diputados y munícipes: el Bloque de Obreros y Campesinos elige sus dos primeros diputados, entre ellos el zapatero Efraín Jiménez Guerrero; 2101 votos en San José según La Tribuna (2.122 en el cuadro de Molina). | La era del desencanto: protesta social, organización laboral y poder en Costa Rica, 1929-1940 (`era-del-desencanto-angulo-2021`); PDF 195, 198 |
 
 | 1934-08-04 | Congreso clandestino de trabajadores bananeros en Finca Veintiséis Millas, según Rojas. | [Lucha social y guerra civil en Costa Rica, 1940-1948](https://www.sinabi.go.cr/biblioteca%20digital/LIBROS%20COMPLETOS/Rojas%20Manuel/Lucha%20social%20y%20guerra%20civil%20en%20CR_19490-1948.pdf); PDF 65 |
 
 | 1934-08-09 | Inicio de la huelga bananera del Atlántico, según la secuencia de Rojas. | [Lucha social y guerra civil en Costa Rica, 1940-1948](https://www.sinabi.go.cr/biblioteca%20digital/LIBROS%20COMPLETOS/Rojas%20Manuel/Lucha%20social%20y%20guerra%20civil%20en%20CR_19490-1948.pdf); PDF 66 |
+
+| 1934-08-25 | El gerente de la United Fruit, G. P. Chittenden, pide al ministro estadounidense Leo R. Sack una intervención frente a la huelga; Sack se niega. | Anticomunismo reformista. Competencia electoral y cuestión social en Costa Rica (1931-1948) (`anticomunismo-reformista-molina`); PDF 95 |
 
 | 1934-08-28 | Acuerdo que concluye la primera fase de la huelga bananera, según Rojas. | [Lucha social y guerra civil en Costa Rica, 1940-1948](https://www.sinabi.go.cr/biblioteca%20digital/LIBROS%20COMPLETOS/Rojas%20Manuel/Lucha%20social%20y%20guerra%20civil%20en%20CR_19490-1948.pdf); PDF 66 |
 
@@ -29,19 +61,51 @@ Selección de acontecimientos tratados en el libro. Las fechas amplias se conser
 
 | 1934-09-10 | Captura del comité y final del paro en la secuencia de Rojas. | [Lucha social y guerra civil en Costa Rica, 1940-1948](https://www.sinabi.go.cr/biblioteca%20digital/LIBROS%20COMPLETOS/Rojas%20Manuel/Lucha%20social%20y%20guerra%20civil%20en%20CR_19490-1948.pdf); PDF 66 |
 
+| 1934-09-13 | Se formaliza en la Cámara de Comercio de San José la Liga Anticomunista; su primer acuerdo es boicotear a los periódicos que publiquen textos de comunistas. | La era del desencanto: protesta social, organización laboral y poder en Costa Rica, 1929-1940 (`era-del-desencanto-angulo-2021`); PDF 291 |
+
+| 1934-09-17 | Fin de la huelga bananera según Angulo, que toma la fecha de Acuña (detención de líderes); Rojas sitúa la captura del comité el 10 de septiembre. | La era del desencanto: protesta social, organización laboral y poder en Costa Rica, 1929-1940 (`era-del-desencanto-angulo-2021`); PDF 246 |
+
+| 1934-11-05 | Comienza la huelga de zapateros contra la «tarjeta de conducta» (hasta el 19 de noviembre): la Sociedad de Industriales del Calzado cierra 26 talleres y rehúsa negociar con dirigentes comunistas; termina con la anulación de las tarjetas. | La era del desencanto: protesta social, organización laboral y poder en Costa Rica, 1929-1940 (`era-del-desencanto-angulo-2021`); PDF 202, 206, 212 |
+
+| 1935-08-11 | En el desfile del tricentenario de la Virgen de los Ángeles, una pancarta pide que Rusia no imponga su doctrina comunista en Costa Rica. | Anticomunismo reformista. Competencia electoral y cuestión social en Costa Rica (1931-1948) (`anticomunismo-reformista-molina`); PDF 64–65 |
+
+| 1936-08-09 | Manifiesto de apoyo a la España republicana firmado por más de trescientas personas, entre intelectuales liberales y dirigentes comunistas. | La era del desencanto: protesta social, organización laboral y poder en Costa Rica, 1929-1940 (`era-del-desencanto-angulo-2021`); PDF 336 |
+
 | 1936-09 | Declaración del Comité Central favorable a defender y ampliar la democracia, reproducida por Mora. | [Discursos 1934-1979](https://www.imprentanacional.go.cr/editorialdigital/libros/literatura%20costarricense/Discursos_1934-1979_edincr.pdf); PDF 88 |
+
+| 1936-11 | El gobierno de León Cortés presenta al Congreso la ley Gurdián contra la literatura de izquierda; Mora y Ulate se oponen. | La era del desencanto: protesta social, organización laboral y poder en Costa Rica, 1929-1940 (`era-del-desencanto-angulo-2021`); PDF 354 |
+
+| 1937-09-12 | Un editorial de La Época afirma que, ante el dilema entre comunismo y fascismo, la Iglesia prefiere el fascismo «como un mal menor». | Anticomunismo reformista. Competencia electoral y cuestión social en Costa Rica (1931-1948) (`anticomunismo-reformista-molina`); PDF 120–121 |
+
+| 1937-11-04 | Protesta antifascista en el teatro Raventós contra el recital de un poeta vinculado a actos de la Falange; cuarenta detenidos. | La era del desencanto: protesta social, organización laboral y poder en Costa Rica, 1929-1940 (`era-del-desencanto-angulo-2021`); PDF 337–338 |
+
+| 1938-02-12 | Trabajo defiende la «mano tendida» a los trabajadores católicos en vísperas de los comicios del 13 de febrero. | Anticomunismo reformista. Competencia electoral y cuestión social en Costa Rica (1931-1948) (`anticomunismo-reformista-molina`); PDF 113 |
 
 | 1938-11-13 | Discurso del Jai-Alai que formula Por un comunismo tico; fecha asignada por los compiladores. | [Discursos 1934-1979](https://www.imprentanacional.go.cr/editorialdigital/libros/literatura%20costarricense/Discursos_1934-1979_edincr.pdf); PDF 87–88, 95 |
 
 | 1939-12-05 | Intervención parlamentaria de Mora sobre el conflicto soviético-finlandés; combina autonomía nacional con defensa de la actuación soviética. | [Discursos 1934-1979](https://www.imprentanacional.go.cr/editorialdigital/libros/literatura%20costarricense/Discursos_1934-1979_edincr.pdf); PDF 101, 104, 109 |
 
+| 1940-01-31 | Un artículo firmado por Matusalén en La Prensa Libre se burla del «nacional comunismo costarricense» atribuido a Mora. | Moradas y discursos. Cultura y política en la Costa Rica de los siglos XIX y XX (`moradas-y-discursos-molina-2010`); PDF 180 |
+
+| 1941-06-29 | Sanabria publica su carta pastoral sobre el justo salario en apoyo del proyecto de seguro social, antes de que este llegue al Congreso el 15 de julio. | Anticomunismo reformista. Competencia electoral y cuestión social en Costa Rica (1931-1948) (`anticomunismo-reformista-molina`); PDF 129 |
+
 | 1942-09-03 | Primera exposición radiofónica del programa de emergencia de Mora. | [Discursos 1934-1979](https://www.imprentanacional.go.cr/editorialdigital/libros/literatura%20costarricense/Discursos_1934-1979_edincr.pdf); PDF 123–128 |
 
 | 1943 | Aprobación de Garantías Sociales y Código de Trabajo en la secuencia reformadora. | [Lucha social y guerra civil en Costa Rica, 1940-1948](https://www.sinabi.go.cr/biblioteca%20digital/LIBROS%20COMPLETOS/Rojas%20Manuel/Lucha%20social%20y%20guerra%20civil%20en%20CR_19490-1948.pdf); PDF 89–90 |
 
-| 1943-06 | Reorganización como Vanguardia Popular y negociación de compatibilidad del programa con participación católica. | [Lucha social y guerra civil en Costa Rica, 1940-1948](https://www.sinabi.go.cr/biblioteca%20digital/LIBROS%20COMPLETOS/Rojas%20Manuel/Lucha%20social%20y%20guerra%20civil%20en%20CR_19490-1948.pdf); PDF 88–89 |
+| 1943-06-13 | Reorganización como Vanguardia Popular y negociación de compatibilidad del programa con participación católica. | [Lucha social y guerra civil en Costa Rica, 1940-1948](https://www.sinabi.go.cr/biblioteca%20digital/LIBROS%20COMPLETOS/Rojas%20Manuel/Lucha%20social%20y%20guerra%20civil%20en%20CR_19490-1948.pdf); PDF 88–89 |
 
 | 1943-09-22 | Pacto entre Republicano Nacional y Vanguardia Popular en apoyo de Picado. | [Lucha social y guerra civil en Costa Rica, 1940-1948](https://www.sinabi.go.cr/biblioteca%20digital/LIBROS%20COMPLETOS/Rojas%20Manuel/Lucha%20social%20y%20guerra%20civil%20en%20CR_19490-1948.pdf); PDF 90 |
+
+| 1945-04 | Cafetaleros, con mediación de la embajada estadounidense, se comprometen a financiar a la Central Rerum Novarum y a pagar su desfile separado del 1 de mayo. | Anticomunismo reformista. Competencia electoral y cuestión social en Costa Rica (1931-1948) (`anticomunismo-reformista-molina`); PDF 168 |
+
+| 1945-09-12 | Circular del arzobispo Sanabria al clero: admite que hasta 1943 la lucha católica tuvo más de «anticomunismo» que de «projusticia». | Anticomunismo reformista. Competencia electoral y cuestión social en Costa Rica (1931-1948) (`anticomunismo-reformista-molina`); PDF 69, 76 |
+
+| 1946-04-12 | Informe del embajador Hallett C. Johnson: Sanabria considera que la campaña anticomunista puede ser un camuflaje para atacar las leyes laborales y de seguridad social. | Anticomunismo reformista. Competencia electoral y cuestión social en Costa Rica (1931-1948) (`anticomunismo-reformista-molina`); PDF 150–151 |
+
+| 1947-11-16 | Firma en Guatemala del Pacto del Caribe, por el cual Figueres obtiene armas, según Solís. | Costa Rica: ¿Reformismo socialdemócrata o liberal? (`reformismo-socialdemocrata-o-liberal-solis`); PDF 272 |
+
+| 1948-02-08 | Elección presidencial: Ulate recibe 59.931 votos y Calderón Guardia 44.438 (cifras de Aguilar Bulgarelli citadas por Solís). | Costa Rica: ¿Reformismo socialdemócrata o liberal? (`reformismo-socialdemocrata-o-liberal-solis`); PDF 270 |
 
 | 1948-03-01 | Anulación congresional de la elección presidencial, con participación calderonista y comunista. | [Lucha social y guerra civil en Costa Rica, 1940-1948](https://www.sinabi.go.cr/biblioteca%20digital/LIBROS%20COMPLETOS/Rojas%20Manuel/Lucha%20social%20y%20guerra%20civil%20en%20CR_19490-1948.pdf); PDF 136–137 |
 
@@ -51,9 +115,15 @@ Selección de acontecimientos tratados en el libro. Las fechas amplias se conser
 
 | 1948-07-17 | Decreto contra partidos de ideología considerada contraria al sistema democrático; Rojas lo identifica como dirigido contra Vanguardia Popular. | [Lucha social y guerra civil en Costa Rica, 1940-1948](https://www.sinabi.go.cr/biblioteca%20digital/LIBROS%20COMPLETOS/Rojas%20Manuel/Lucha%20social%20y%20guerra%20civil%20en%20CR_19490-1948.pdf); PDF 149 |
 
+| 1948-12-08 | Elección de la Asamblea Constituyente: Unión Nacional 34 de 45 escaños; el Partido Constitucional, con apoyo de Vanguardia Popular, 6; el PSD, 4. | Costa Rica: ¿Reformismo socialdemócrata o liberal? (`reformismo-socialdemocrata-o-liberal-solis`); PDF 282 |
+
+| 1949-04-08 | La Constituyente rechaza por 24 votos contra 21 el proyecto de Constitución de la Junta. | Costa Rica: ¿Reformismo socialdemócrata o liberal? (`reformismo-socialdemocrata-o-liberal-solis`); PDF 284 |
+
 | 1950 | La Ley 1191 aplica al PVP la prohibición prevista en el artículo 98. | [El comunismo como exterior constitutivo del ser costarricense (1950-1959)](https://revistas.ucr.ac.cr/index.php/dialogos/article/download/41006/42930); PDF 6, 17 |
 
 | 1950-04-21 | La Corte Primera de Trabajo ordena disolver la CTCR, según la reconstrucción de Álvarez Garro. | [El comunismo como exterior constitutivo del ser costarricense (1950-1959)](https://revistas.ucr.ac.cr/index.php/dialogos/article/download/41006/42930); PDF 16 |
+
+| 1950-05 | Primer contacto del Partido Social Demócrata con la Internacional Socialista; según Solís, el mismo artículo constitucional que ilegalizó al PC obstruía su ingreso. | Costa Rica: ¿Reformismo socialdemócrata o liberal? (`reformismo-socialdemocrata-o-liberal-solis`); PDF 300 |
 
 | 1951-07-13 | Se ratifica la disolución de la CTCR. | [El comunismo como exterior constitutivo del ser costarricense (1950-1959)](https://revistas.ucr.ac.cr/index.php/dialogos/article/download/41006/42930); PDF 16 |
 
@@ -78,6 +148,8 @@ Selección de acontecimientos tratados en el libro. Las fechas amplias se conser
 | 1974 | Ingreso a la JVC de militantes procedentes del MARS. | ¿Comunismo a la tica o comunismo soviético? La división del Partido Vanguardia Popular en Costa Rica (1983-1984) (`comunismo-a-la-tica-pvp-2020`); PDF 16–17 |
 
 | 1974-01-08 | Mora responde por radio a intervenciones religiosas en la campaña electoral. | [Discursos 1934-1979](https://www.imprentanacional.go.cr/editorialdigital/libros/literatura%20costarricense/Discursos_1934-1979_edincr.pdf); PDF 523, 529 |
+
+| 1975-05-27 | Entrevista de Luis Alberto Monge con Jaime Delgado Rojas: da por superada la etapa «histérica y violenta» del anticomunismo liberacionista y descarta una alianza con Vanguardia Popular. | El Partido Liberación Nacional. Análisis de su discurso político-ideológico (`pln-discurso-politico-ideologico-delgado-1983`); PDF 143, 148 |
 
 | 1975-06-04 | Ley 5698 reforma el artículo 98 y elimina el segundo párrafo utilizado para excluir al comunismo. | [Acta n.º 120-2005: artículo segundo, a), IV.1, Alcances del artículo 98 constitucional](https://www.tse.go.cr/actas/2005/120-2005-del-15-de-diciembre-del-2005.htm) |
 

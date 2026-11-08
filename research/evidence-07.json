@@ -51,6 +51,286 @@
   },
   {
     "note": 5,
+    "claim": "Eberhardt atribuyó el comunismo costarricense a judíos polacos pese al informe de Zweig; Molina lo relaciona con antisemitismo y un nacionalismo étnico; el partido fue la única organización que se opuso a la persecución de los polacos",
+    "source": "anticomunismo-reformista-molina",
+    "pages": [
+      40,
+      41,
+      42,
+      47,
+      50
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Citas diplomáticas traducidas por Molina; la causalidad cultural y la hipótesis sobre el «comunismo a la tica» son del autor, que pide investigarlas.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/anticomunismo-reformista-molina/chapters/08-capitulo-2-sombra-judia.md"
+    ],
+    "quote": "Hay poca tendencia natural hacia el comunismo entre los costarricenses"
+  },
+  {
+    "note": 6,
+    "claim": "El partido denunció la restricción de pasaportes a personas negras y propuso eliminar la cláusula del Pacífico sur, pero Mora escribió «malditos negros», el informe de 1935 negó el problema étnico y en 1942 Trabajo calló ante la prohibición migratoria",
+    "source": "moradas-y-discursos-molina-2010",
+    "pages": [
+      217,
+      218,
+      219,
+      220,
+      221,
+      222
+    ],
+    "type": "hecho",
+    "counterpoint": "La carta de Mora llega por un periódico adversario y vía Bourgois; las explicaciones del informe (disimular un fracaso) y del silencio (alianza con el PRN) son inferencias de Molina; un silencio no es aprobación explícita.",
+    "visual_checked": true,
+    "visual_pages_checked": [
+      217
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/moradas-y-discursos-molina-2010/chapters/11-capitulo-6-harold-nichols.md"
+    ],
+    "quote": "este problema no se conoce en Costa Rica"
+  },
+  {
+    "note": 7,
+    "claim": "La Liga Anticomunista se formalizó el 13 de septiembre de 1934 en la Cámara de Comercio de San José; un texto de agosto proponía combatir las causas del comunismo y organizarse contra él",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      291
+    ],
+    "type": "hecho",
+    "counterpoint": "El vínculo con Gurdián y Chittenden es interpretación de Angulo a partir de prensa y cartas de Sack.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/67-cap3-avance-del-conservadurismo.md"
+    ],
+    "quote": "hay que combatir las causas que puedan originar el comunismo … el 13 de setiembre, en la Cámara de Comercio de San José se formalizó la creación de la Liga Anticomunista"
+  },
+  {
+    "note": 7,
+    "claim": "La Liga publicó un cheque del Buró del Caribe como prueba del «oro de Moscú»; impugnar el carácter nacional del partido fue el eje de la propaganda",
+    "source": "moradas-y-discursos-molina-2010",
+    "pages": [
+      178,
+      179
+    ],
+    "type": "hecho",
+    "counterpoint": "Molina toma el dato de Ching y no da fecha exacta, monto ni destino; un pago aislado no prueba dependencia financiera.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/moradas-y-discursos-molina-2010/chapters/10-capitulo-5-prensa-propaganda-y-comunismo.md"
+    ],
+    "quote": "un cheque enviado por el Buró del Caribe cayó en poder de la Liga Anti-comunista"
+  },
+  {
+    "note": 8,
+    "claim": "En la huelga de noviembre de 1934, la Sociedad de Industriales del Calzado impuso la tarjeta de conducta, cerró 26 talleres y rehusó negociar con dirigentes comunistas; la huelga terminó el 19 de noviembre con la anulación de las tarjetas",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      202,
+      203,
+      204,
+      205,
+      206,
+      207,
+      208,
+      209,
+      210,
+      211,
+      212
+    ],
+    "type": "hecho",
+    "counterpoint": "La patronal decía rechazar la dependencia partidaria del sindicato, no una ideología; hubo zapateros que rechazaron «la férula comunista», a quienes el sindicato llamó rompehuelgas.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/51-cap2-huelga-tarjeta-de-conducta.md",
+      "data/books/era-del-desencanto-angulo-2021/chapters/50-cap2-formacion-de-los-sindicatos.md"
+    ],
+    "quote": "sin aceptar la intervención del comunista don Efraín Jiménez Guerrero ni de ningún otro elemento dirigente de este partido político"
+  },
+  {
+    "note": 9,
+    "claim": "Pancarta del 11 de agosto de 1935 en el tricentenario de la Virgen de los Ángeles contra la doctrina comunista; Molina lo lee como respuesta al avance del BOC",
+    "source": "anticomunismo-reformista-molina",
+    "pages": [
+      64,
+      65
+    ],
+    "type": "hecho",
+    "counterpoint": "La pancarta se conoce por Gil; la lectura del tricentenario como tradición inventada frente al BOC es interpretación de Molina.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/anticomunismo-reformista-molina/chapters/09-capitulo-3-ilegalizacion-fallida.md"
+    ],
+    "quote": "Soberana Reina no permitas que Rusia imponga su doctrina comunista en Costa Rica"
+  },
+  {
+    "note": 9,
+    "claim": "Anuncio del PRN de 1938 sobre la fe religiosa como escudo de la democracia; Molina sostiene que los rivales privilegiaron moral, religión e identidad nacional",
+    "source": "moradas-y-discursos-molina-2010",
+    "pages": [
+      175,
+      176
+    ],
+    "type": "declaracion",
+    "counterpoint": "Cita mediada de prensa seleccionada por Molina; no mide eficacia.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/moradas-y-discursos-molina-2010/chapters/10-capitulo-5-prensa-propaganda-y-comunismo.md"
+    ],
+    "quote": "privilegió temas menos riesgosos, como la moral, la religión, el cálculo político y la identidad nacional … la fe religiosa que es el escudo de nuestra democracia"
+  },
+  {
+    "note": 10,
+    "claim": "Editorial de La Época del 12 de septiembre de 1937: ante el dilema, la Iglesia prefería el fascismo como mal menor",
+    "source": "anticomunismo-reformista-molina",
+    "pages": [
+      120,
+      121
+    ],
+    "type": "declaracion",
+    "counterpoint": "La Época era bisemanario de un círculo católico, no órgano de la jerarquía, y pedía no interpretar mal sus palabras.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/anticomunismo-reformista-molina/chapters/13-capitulo-7-catolicismo-social-al-poder.md"
+    ],
+    "quote": "ante el dilema Comunismo Fascismo, la Iglesia prefiere, naturalmente, el Fascismo como un mal menor"
+  },
+  {
+    "note": 11,
+    "claim": "En agosto de 1944, unos 35 capitalistas jóvenes fundaron una organización anticomunista secreta presidida por Iglesias Bonilla y buscaron contacto con el obispo de Alajuela",
+    "source": "anticomunismo-reformista-molina",
+    "pages": [
+      154,
+      155
+    ],
+    "type": "hecho",
+    "counterpoint": "Información de segunda mano en despachos de la embajada; Molina no puede determinar si el obispo Solís se alió con el grupo.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/anticomunismo-reformista-molina/chapters/14-capitulo-8-alianza-de-la-discordia.md"
+    ],
+    "quote": "unos 35 capitalistas jóvenes acababan de fundar una organización secreta anticomunista"
+  },
+  {
+    "note": 12,
+    "claim": "Tesis del anticomunismo reformista: la legalidad e inserción del partido comunista obligaron a sus adversarios a competir con reformas; la reforma de los cuarenta tuvo en esencia origen anticomunista",
+    "source": "anticomunismo-reformista-molina",
+    "pages": [
+      11,
+      12,
+      196,
+      201
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Marco de competencia electoral; conviene contrastarlo con lecturas de clase (Rojas Bolaños) y con la exclusión como exterior constitutivo (Álvarez Garro); muchas citas son mediadas.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/anticomunismo-reformista-molina/chapters/05-prologo.md",
+      "data/books/anticomunismo-reformista-molina/chapters/17-epilogo.md"
+    ],
+    "quote": "obligó a sus adversarios a actualizar sus estrategias, programas y compromisos … originó un anticomunismo comprometido con el cambio social por vías institucionales … tuvo, en esencia, un origen anticomunista"
+  },
+  {
+    "note": 13,
+    "claim": "Zúñiga negó en 1931 que Costa Rica fuera un país de pobres; entre 1934 y 1936 se desgastaron la exclusión y la negación de la pobreza y predominó un anticomunismo católico reformista",
+    "source": "anticomunismo-reformista-molina",
+    "pages": [
+      19,
+      57,
+      84
+    ],
+    "type": "interpretacion",
+    "counterpoint": "La frase de Zúñiga es cita mediada; la periodización del desgaste es interpretación de Molina.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/anticomunismo-reformista-molina/chapters/07-capitulo-1-estado-liberal-iglesia-catolica.md",
+      "data/books/anticomunismo-reformista-molina/chapters/09-capitulo-3-ilegalizacion-fallida.md",
+      "data/books/anticomunismo-reformista-molina/chapters/10-capitulo-4-impugnacion-cuestion-social.md"
+    ],
+    "quote": "No hay razón para que ese germen fecunde en este país que no es de pobres … favoreció el predominio de un anticomunismo católico que promovió, en vez de adversar, transformaciones legales e institucionales"
+  },
+  {
+    "note": 14,
+    "claim": "Castro Cervantes culpó en 1936 al capitalista indiferente de la existencia del comunismo",
+    "source": "moradas-y-discursos-molina-2010",
+    "pages": [
+      186,
+      187
+    ],
+    "type": "declaracion",
+    "counterpoint": "Molina subraya que la crítica a los acomodados fue excepcional en la propaganda partidaria.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/moradas-y-discursos-molina-2010/chapters/10-capitulo-5-prensa-propaganda-y-comunismo.md"
+    ],
+    "quote": "De su existencia es culpable en primer término el capitalista"
+  },
+  {
+    "note": 15,
+    "claim": "Circular de Sanabria del 12 de septiembre de 1945: se creyó acabar con el comunismo ilegalizándolo; hasta 1943 la lucha tuvo más de anticomunismo que de projusticia",
+    "source": "anticomunismo-reformista-molina",
+    "pages": [
+      69,
+      76,
+      84
+    ],
+    "type": "declaracion",
+    "counterpoint": "Cita mediada por Arrieta y Picado; autocrítica interesada que omitía, según Molina, la corriente católica social de los treinta.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/anticomunismo-reformista-molina/chapters/09-capitulo-3-ilegalizacion-fallida.md",
+      "data/books/anticomunismo-reformista-molina/chapters/10-capitulo-4-impugnacion-cuestion-social.md"
+    ],
+    "quote": "Se pensó, inclusive, que con decretar que la existencia del partido fuera ilegal, se habría terminado … nuestra lucha, en apariencia, tenía más aspectos de “anticomunismo” que de “projusticia”"
+  },
+  {
+    "note": 16,
+    "claim": "Según Johnson (12 de abril de 1946), Sanabria dijo que la campaña anticomunista podía ser un camuflaje contra las leyes laborales y de seguridad social",
+    "source": "anticomunismo-reformista-molina",
+    "pages": [
+      150,
+      151,
+      186
+    ],
+    "type": "declaracion",
+    "counterpoint": "Resumen diplomático traducido; Sanabria era parte interesada y Molina advierte que su opinión podía no ser objetiva.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/anticomunismo-reformista-molina/chapters/14-capitulo-8-alianza-de-la-discordia.md",
+      "data/books/anticomunismo-reformista-molina/chapters/16-capitulo-10-de-comunistas-a-laboristas.md"
+    ],
+    "quote": "puede ser un camuflaje para atacar las leyes laborales y de seguridad social"
+  },
+  {
+    "note": 17,
     "claim": "Justicia social anticomunista y contradicción sobre origen del conflicto",
     "source": "comunismo-exterior-constitutivo-2020",
     "pages": [
@@ -62,7 +342,7 @@
     "visual_checked": false
   },
   {
-    "note": 6,
+    "note": 18,
     "claim": "Disputa entre defensores del libre mercado y reformismo liberacionista",
     "source": "comunismo-exterior-constitutivo-2020",
     "pages": [
@@ -75,7 +355,7 @@
     "visual_checked": false
   },
   {
-    "note": 7,
+    "note": 19,
     "claim": "Uso de socialismo para impugnar nacionalizaciones, impuestos y prestaciones",
     "source": "comunismo-exterior-constitutivo-2020",
     "pages": [
@@ -88,7 +368,7 @@
     "visual_checked": false
   },
   {
-    "note": 8,
+    "note": 20,
     "claim": "Ideario de ANFE y estrategia de transformación estatal",
     "source": "marchena-anfe-1958-1975",
     "pages": [
@@ -101,7 +381,7 @@
     "visual_checked": false
   },
   {
-    "note": 9,
+    "note": 21,
     "claim": "Trabajo, responsabilidad y cristianismo en repertorios antisocialistas",
     "source": "comunismo-exterior-constitutivo-2020",
     "pages": [
@@ -113,7 +393,34 @@
     "visual_checked": false
   },
   {
-    "note": 10,
+    "note": 22,
+    "claim": "El Manual del Demócrata Cristiano se presenta como tercera posición frente a capitalismo y comunismo, critica la producción capitalista y limita la propiedad por las necesidades ajenas; no tiene fecha",
+    "source": "manual-democrata-cristiano",
+    "pages": [
+      2,
+      3,
+      12,
+      13,
+      14
+    ],
+    "type": "declaracion",
+    "counterpoint": "Autodefinición partidaria sin fecha, lugar ni imprenta; no prueba difusión, peso electoral ni práctica.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/manual-democrata-cristiano/chapters/01-presentacion.md",
+      "data/books/manual-democrata-cristiano/chapters/02-introduccion.md",
+      "data/books/manual-democrata-cristiano/chapters/03-principios-doctrinarios.md",
+      "data/books/manual-democrata-cristiano/chapters/06-sintesis-popular.md",
+      "data/books/manual-democrata-cristiano/chapters/07-trabajo-y-propiedad.md",
+      "data/books/manual-democrata-cristiano/chapters/08-concepto-de-la-produccion.md",
+      "data/books/manual-democrata-cristiano/chapters/09-principios-para-la-accion.md"
+    ],
+    "quote": "una tercera posición ha comenzado a llegar al corazón de nuestro pueblo, alimentada por una concepción cristiana del hombre … nadie tiene derecho a tener bienes que no usa cuando otros hombres los necesitan … El capitalismo ha invertido los términos al hacer de la ganancia monetaria, el objeto de la producción"
+  },
+  {
+    "note": 23,
     "claim": "Deslindes publicados y desigual carga de legitimación",
     "source": "comunismo-exterior-constitutivo-2020",
     "pages": [
@@ -125,7 +432,7 @@
     "visual_checked": false
   },
   {
-    "note": 11,
+    "note": 24,
     "claim": "Sospechas extendidas a sindicatos no comunistas y católicos",
     "source": "comunismo-exterior-constitutivo-2020",
     "pages": [
@@ -137,7 +444,7 @@
     "visual_checked": false
   },
   {
-    "note": 12,
+    "note": 25,
     "claim": "Ligas anticomunistas conectaron episodios internacionales y nombres locales",
     "source": "comunismo-exterior-constitutivo-2020",
     "pages": [
@@ -149,7 +456,7 @@
     "visual_checked": false
   },
   {
-    "note": 13,
+    "note": 26,
     "claim": "Redes y financiamiento de Combate e Instituto de Educación Política",
     "source": "luces-y-sombras-socialdemocracia-guerra-fria",
     "pages": [
@@ -165,7 +472,60 @@
     "visual_checked": false
   },
   {
-    "note": 14,
+    "note": 27,
+    "claim": "Solís afirmó en 1992 que Combate y el instituto recibían fondos de una fundación que servía de cobertura a la CIA y que los dirigentes lo sabían",
+    "source": "reformismo-socialdemocrata-o-liberal-solis",
+    "pages": [
+      344
+    ],
+    "type": "declaracion",
+    "counterpoint": "Descansa en la biografía de Figueres de Ameringer, sin desarrollo de evidencia; el dato sobre la Fundación Ebert carece de fuente en la página.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/reformismo-socialdemocrata-o-liberal-solis/chapters/16-ruta-del-ascenso-1950-1974.md"
+    ],
+    "quote": "Combate y el Instituto trabajaban con fondos de la Kaplan Fundation Inc., una institución que servía de cobertura a la CIA norteamericana"
+  },
+  {
+    "note": 27,
+    "claim": "Iber y Díaz Arias precisan que no todos conocían las conexiones con la CIA, pero Figueres sí",
+    "source": "luces-y-sombras-socialdemocracia-guerra-fria",
+    "pages": [
+      72
+    ],
+    "type": "hecho",
+    "counterpoint": "Los autores se apoyan en testimonios posteriores de Figueres y en archivos estadounidenses; el grado de conocimiento de cada dirigente no queda establecido.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/luces-y-sombras-socialdemocracia-guerra-fria/chapters/08-capitulo-2.md"
+    ],
+    "quote": "no todos aquellos que trabajaban cercanos al IILR y al IEP conocían acerca de sus conexiones con la CIA, pero Figueres sí lo sabía"
+  },
+  {
+    "note": 28,
+    "claim": "Según Solís, en 1959 el PLN estaba incorporado en bloque al frente contra Cuba, y en 1962 Figueres reclamó la primera victoria sobre el comunismo en América, antes de Guatemala 1954",
+    "source": "reformismo-socialdemocrata-o-liberal-solis",
+    "pages": [
+      322,
+      326,
+      327
+    ],
+    "type": "interpretacion",
+    "counterpoint": "La frase de Figueres llega por Solís desde Dos revoluciones, con OCR dañado; la conexión con 1948 es inferencia de esta edición; el vínculo con intereses agrarios es interpretación de Solís.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/reformismo-socialdemocrata-o-liberal-solis/chapters/16-ruta-del-ascenso-1950-1974.md"
+    ],
+    "quote": "En 1959, el PLN en bloque estaba incorporado al frente político en contra de Cuba"
+  },
+  {
+    "note": 29,
     "claim": "Anticomunismo reformista, críticas a dictaduras y conflicto ante Cuba",
     "source": "luces-y-sombras-socialdemocracia-guerra-fria",
     "pages": [
@@ -181,7 +541,7 @@
     "visual_checked": false
   },
   {
-    "note": 15,
+    "note": 30,
     "claim": "Dimensión internacional y agencia propia del proyecto liberacionista",
     "source": "luces-y-sombras-socialdemocracia-guerra-fria",
     "pages": [
@@ -200,7 +560,101 @@
     "visual_checked": false
   },
   {
-    "note": 16,
+    "note": 31,
+    "claim": "Orlich (1962 y 1963) oponía a la afirmación comunista de una cuestión social la conciencia de las privaciones del pueblo y decía que la democracia estaba paralizada por el temor al comunismo",
+    "source": "pln-discurso-politico-ideologico-delgado-1983",
+    "pages": [
+      117,
+      118,
+      179
+    ],
+    "type": "declaracion",
+    "counterpoint": "Citas mediadas por Delgado de textos publicados en Combate; la lectura como Alianza para el Progreso es del autor.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/pln-discurso-politico-ideologico-delgado-1983/chapters/13-capitulo-v-tendencias-internas-y-personajes.md",
+      "data/books/pln-discurso-politico-ideologico-delgado-1983/chapters/23-bibliografia.md"
+    ],
+    "quote": "a su afirmación de que existe una cuestión social opondremos la conciencia clara que tenemos de las privaciones y frustraciones del pueblo … La democracia se encuentra paralizada por el temor al comunismo"
+  },
+  {
+    "note": 32,
+    "claim": "En la campaña de 1966 los sectores conservadores acusaron de comunista a Oduber, apoyado por el partido comunista",
+    "source": "pln-discurso-politico-ideologico-delgado-1983",
+    "pages": [
+      118,
+      119,
+      184
+    ],
+    "type": "hecho",
+    "counterpoint": "El apoyo se documenta con un folleto de 1966 atribuido a Vanguardia Popular; la causalidad es interpretación de Delgado.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/pln-discurso-politico-ideologico-delgado-1983/chapters/13-capitulo-v-tendencias-internas-y-personajes.md",
+      "data/books/pln-discurso-politico-ideologico-delgado-1983/chapters/23-bibliografia.md"
+    ],
+    "quote": "Esta vez los sectores más conservadores del país lo acusaron de comunista"
+  },
+  {
+    "note": 33,
+    "claim": "Núñez recordó en 1976 la campaña de 1970 contra Patio de Agua como documento comunista y aceptó indirectamente que el voto mostró límites del anticomunismo",
+    "source": "pln-discurso-politico-ideologico-delgado-1983",
+    "pages": [
+      162,
+      163
+    ],
+    "type": "declaracion",
+    "counterpoint": "Testimonio de un firmante; la inferencia sobre la masa la propone el entrevistador y Núñez admite que la figura de Figueres pudo explicar el voto.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/pln-discurso-politico-ideologico-delgado-1983/chapters/20-anexo-3-nunez.md"
+    ],
+    "quote": "diciendo que éste era documento comunista … Páginas enteras, horas y horas en televisión atacando el documento … Indirectamente se puede llegar a esa consecuencia"
+  },
+  {
+    "note": 34,
+    "claim": "Monge (27 de mayo de 1975): hubo una etapa histérica y violenta del anticomunismo liberacionista, ya superada",
+    "source": "pln-discurso-politico-ideologico-delgado-1983",
+    "pages": [
+      148
+    ],
+    "type": "declaracion",
+    "counterpoint": "Testimonio de un dirigente que atribuye la distensión a su partido; los comunistas la presentaban como conquista propia.",
+    "visual_checked": true,
+    "visual_pages_checked": [
+      148
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/pln-discurso-politico-ideologico-delgado-1983/chapters/18-anexo-1-monge.md"
+    ],
+    "quote": "llamémosla histérica y violenta, en donde Liberación Nacional veía al comunismo como su principal enemigo y viceversa"
+  },
+  {
+    "note": 35,
+    "claim": "Delgado interpreta que el PLN se orientó hacia una destrucción total de la izquierda mediante la conciliación de clases",
+    "source": "pln-discurso-politico-ideologico-delgado-1983",
+    "pages": [
+      127
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Tesis de un estudio de intención crítica; sus propias entrevistas matizan esa conclusión.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/pln-discurso-politico-ideologico-delgado-1983/chapters/14-capitulo-vi.md"
+    ],
+    "quote": "Liberación se orientó hacia una destrucción total de la izquierda"
+  },
+  {
+    "note": 36,
     "claim": "Alcance temporal de la interpretación y necesidad de probar continuidades",
     "source": "comunismo-exterior-constitutivo-2020",
     "pages": [

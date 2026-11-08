@@ -20,6 +20,25 @@
   },
   {
     "note": 2,
+    "claim": "En 1975 Figueres atribuyó a Mora y a los comunistas gran parte de las ideas de la reforma social y puso en duda el protagonismo de Calderón.",
+    "source": "pln-discurso-politico-ideologico-delgado-1983",
+    "pages": [
+      154,
+      157,
+      158
+    ],
+    "type": "declaracion",
+    "counterpoint": "Declaración tardía (27 años después) e interesada de un adversario de 1948, transcrita por el entrevistador sobre capa OCR; no resuelve la autoría de las reformas.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/pln-discurso-politico-ideologico-delgado-1983/chapters/19-anexo-2-figueres.md"
+    ],
+    "quote": "Ahí no se sabe quién hacía, si eran los comunistas o el doctor. Gran parte de esas ideas, que tienen mucho de positivo, yo creo que pertenecen a Manuel Mora y a los comunistas."
+  },
+  {
+    "note": 3,
     "claim": "Bases sociales, competencia electoral y motivos de alianza.",
     "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
     "pages": [
@@ -41,7 +60,7 @@
     ]
   },
   {
-    "note": 2,
+    "note": 3,
     "claim": "Bases sociales, competencia electoral y motivos de alianza.",
     "source": "desempeno-electoral-partido-comunista-1999",
     "pages": [
@@ -59,7 +78,61 @@
     ]
   },
   {
-    "note": 3,
+    "note": 4,
+    "claim": "Molina interpreta la reforma calderonista como cálculo electoral contra el BOC, con el testimonio de Carballo y el contraste con Mora.",
+    "source": "anticomunismo-reformista-molina",
+    "pages": [
+      124,
+      125
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Testimonio retrospectivo mediado por Creedman; Mora sostuvo lo contrario y Molina admite que el planeamiento de la reforma es poco conocido.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/anticomunismo-reformista-molina/chapters/13-capitulo-7-catolicismo-social-al-poder.md"
+    ],
+    "quote": "La propuesta de Calderón nos encontró con … la guardia baja y nos vimos obligados a apoyarlo para conservar nuestra influencia … es todavía poco conocido"
+  },
+  {
+    "note": 4,
+    "claim": "Molina reitera en 2010 que el programa social fue emprendido originalmente para disputar a los comunistas el voto urbano.",
+    "source": "moradas-y-discursos-molina-2010",
+    "pages": [
+      171
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Síntesis del propio autor sobre su libro de 2007; complementa sin sustituir la explicación de Rojas.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/moradas-y-discursos-molina-2010/chapters/10-capitulo-5-prensa-propaganda-y-comunismo.md"
+    ],
+    "quote": "emprendido originalmente por el calderonismo para disputarle el voto de los trabajadores urbanos a los comunistas"
+  },
+  {
+    "note": 5,
+    "claim": "En 1934 el ministro estadounidense Leo R. Sack vinculó el futuro del comunismo costarricense a la expansión de la política social.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      373,
+      374
+    ],
+    "type": "declaracion",
+    "counterpoint": "Opinión de un diplomático extranjero en traducción de la autora y sobre capa OCR; no prueba la intención de los gobernantes costarricenses.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/82-conclusiones-expresiones-sociopoliticas.md",
+      "data/books/era-del-desencanto-angulo-2021/chapters/83-conclusiones-desocupacion.md"
+    ],
+    "quote": "Si la política actual, ligeramente humanitaria, continúa y eventualmente se expande para asegurar a todos unas condiciones de vida dignas y la mayor seguridad posible, la razón de ser de la organización comunista en este país desaparecerá"
+  },
+  {
+    "note": 6,
     "claim": "Programa de emergencia de 1942: unidad e intervención económica.",
     "source": "discursos-manuel-mora-1934-1979",
     "pages": [
@@ -80,7 +153,98 @@
     ]
   },
   {
-    "note": 4,
+    "note": 7,
+    "claim": "Según Solís, los comunistas apoyaron la suspensión de garantías individuales (1941) y la expropiación y deportación de alemanes.",
+    "source": "reformismo-socialdemocrata-o-liberal-solis",
+    "pages": [
+      112,
+      113
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Basado en Rojas Suárez y Schifter, no en documentos del partido; el texto (marzo de 1942) y la nota 224 (21 de mayo de 1941) fechan de forma distinta las deportaciones; capa OCR de ABBYY.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/reformismo-socialdemocrata-o-liberal-solis/chapters/10-estado-equilibrador-clase-politica.md"
+    ],
+    "quote": "En estos pasos el Gobierno recibe el apoyo de los comunistas; ellos respaldan además la suspensión de las Garantías Individuales"
+  },
+  {
+    "note": 7,
+    "claim": "Trabajo no denunció la prohibición de inmigración de abril de 1942 contra negros, chinos, árabes y turcos.",
+    "source": "moradas-y-discursos-molina-2010",
+    "pages": [
+      221,
+      222
+    ],
+    "type": "hecho",
+    "counterpoint": "Un silencio en la prensa del partido no prueba aprobación explícita; Molina lo explica por la alianza con el PRN y la guerra mundial.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/moradas-y-discursos-molina-2010/chapters/11-capitulo-6-harold-nichols.md"
+    ],
+    "quote": "La decisión tomada en abril de 1942 por el gobierno de Calderón Guardia de prohibir la inmigración de negros, chinos, árabes y turcos, entre otros, no fue denunciada por"
+  },
+  {
+    "note": 8,
+    "claim": "Rafael Ángel y Francisco Calderón Guardia participaron en el Bellavistazo de 1932 y luego se incorporaron al PRN; Volio apoyó el levantamiento.",
+    "source": "anticomunismo-reformista-molina",
+    "pages": [
+      118,
+      119,
+      122
+    ],
+    "type": "hecho",
+    "counterpoint": "Molina se apoya en Oconitrillo, Obregón y Lehoucq y pide investigar a fondo esa inserción; 1932 no determina la orientación del gobierno de 1940-1944.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/anticomunismo-reformista-molina/chapters/13-capitulo-7-catolicismo-social-al-poder.md"
+    ],
+    "quote": "un intento de golpe de Estado conocido como … El Bellavistazo … dejó un saldo de 15 muertos y 36 heridos … contó el apoyo de Jorge Volio … urge investigar a fondo"
+  },
+  {
+    "note": 8,
+    "claim": "Volio afirma que Calderón Guardia lo nombró director de los Archivos Nacionales el día de su toma de posesión en 1940.",
+    "source": "jorge-volio-ineditos-documentos",
+    "pages": [
+      3
+    ],
+    "type": "declaracion",
+    "counterpoint": "Carta autobiográfica de 1947 con capa de texto defectuosa y una fecha incongruente («1951»); un cargo no prueba adhesión al programa calderonista.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/jorge-volio-ineditos-documentos/chapters/00-presentacion-y-carta-de-1947.md"
+    ],
+    "quote": "En 1940 el Presidente Calderón Guardia me nombró Director General de los Archivos … haciéndome el señalado honor de que mi nombramiento apareciera el propio 8 de mayo, al tomar él posesión del Poder"
+  },
+  {
+    "note": 9,
+    "claim": "Restricciones de 1936 y 1942 a la prensa comunista; reforma electoral retirada en mayo de 1943 y nombramiento de Mora como jefe de fracción.",
+    "source": "reformismo-socialdemocrata-o-liberal-solis",
+    "pages": [
+      113,
+      114,
+      115
+    ],
+    "type": "hecho",
+    "counterpoint": "Datos tomados de Rodríguez, Schifter y Aguilar Bulgarelli; el antecedente de 1936 no tiene nota y no se reproducen los textos de las medidas.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/reformismo-socialdemocrata-o-liberal-solis/chapters/10-estado-equilibrador-clase-politica.md"
+    ],
+    "quote": "Todavía en diciembre de 1942 se prohibió la circulación del periódico del Partido Comunista en las bibliotecas públicas. … En la segunda quincena de mayo de 1943, el Gobierno retira su propuesta de reforma electoral y nombra al Secretario General del Partido Comunista, Manuel Mora, jefe de la fracción gubernamental en el Congreso."
+  },
+  {
+    "note": 10,
     "claim": "Sanabria: preocupación social y competencia con el comunismo.",
     "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
     "pages": [
@@ -98,8 +262,66 @@
     ]
   },
   {
-    "note": 5,
-    "claim": "Reorganización como Vanguardia Popular y respuesta de Sanabria en 1943.",
+    "note": 11,
+    "claim": "Secuencia de medidas favorables a la Iglesia y pastoral de Sanabria (1940-1942), leída por Molina como coordinación.",
+    "source": "anticomunismo-reformista-molina",
+    "pages": [
+      123,
+      127,
+      128,
+      129,
+      132
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Las fechas son hechos; la coordinación es inferencia del autor, que reconoce que no puede afirmar acuerdos previos a los comicios de 1940.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/anticomunismo-reformista-molina/chapters/13-capitulo-7-catolicismo-social-al-poder.md"
+    ],
+    "quote": "no permite afirmar que la jerarquía eclesiástica y los líderes calderonistas alcanzaran acuerdos previos a los comicios … patentiza una coordinación tal entre los dirigentes del calderonismo y las autoridades eclesiásticas … el 29 de junio apoyó la iniciativa de Calderón Guardia"
+  },
+  {
+    "note": 12,
+    "claim": "El título de la pastoral de Sanabria evocaba la de Thiel de 1893.",
+    "source": "anticomunismo-reformista-molina",
+    "pages": [
+      129
+    ],
+    "type": "hecho",
+    "counterpoint": "La evocación de un título no prueba continuidad doctrinal.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/anticomunismo-reformista-molina/chapters/13-capitulo-7-catolicismo-social-al-poder.md"
+    ],
+    "quote": "cuyo título evocaba la que publicara Thiel en septiembre de 1893"
+  },
+  {
+    "note": 12,
+    "claim": "La pastoral de Thiel omitió huelgas, socialismo y propiedad privada, fue atacada como socialista y su proyecto social se interrumpió tras 1894.",
+    "source": "carta-pastoral-justo-salario-thiel-2018",
+    "pages": [
+      10,
+      20
+    ],
+    "type": "interpretacion",
+    "counterpoint": "La omisión deliberada es inferencia de los autores, que simpatizan con Thiel; no permite trazar una línea continua hasta Sanabria.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/carta-pastoral-justo-salario-thiel-2018/chapters/05-propuesta-de-thiel-justo-salario.md",
+      "data/books/carta-pastoral-justo-salario-thiel-2018/chapters/06-respuesta-de-los-liberales.md",
+      "data/books/carta-pastoral-justo-salario-thiel-2018/chapters/07-conclusiones.md"
+    ],
+    "quote": "no hizo referencia a las huelgas, al socialismo, ni a la abolición de la propiedad privada, temas que en la encíclica leonina sí se trataron … el papel de Thiel en la sociedad costarricense fue más de índole religioso que social"
+  },
+  {
+    "note": 13,
+    "claim": "Disolución del partido por su Conferencia Nacional el 13 de junio de 1943, reorganización como Vanguardia Popular y respuesta de Sanabria.",
     "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
     "pages": [
       88,
@@ -115,10 +337,11 @@
     "native_text": false,
     "local_paths": [
       "data/books/lucha-social-guerra-civil-costa-rica-1940-1948/chapters/16-alineaciones-clase-1942-1944.md"
-    ]
+    ],
+    "quote": "El 13 de junio de ese mismo año, la Conferencia Nacional del Partido Comunista de Costa Rica"
   },
   {
-    "note": 5,
+    "note": 13,
     "claim": "Reorganización como Vanguardia Popular y respuesta de Sanabria en 1943.",
     "source": "desempeno-electoral-partido-comunista-1999",
     "pages": [
@@ -134,7 +357,25 @@
     ]
   },
   {
-    "note": 6,
+    "note": 14,
+    "claim": "Disolución del BOC el 13 de junio de 1943, respuesta de Sanabria el 14 e inferencia de una negociación previa.",
+    "source": "anticomunismo-reformista-molina",
+    "pages": [
+      139,
+      140
+    ],
+    "type": "interpretacion",
+    "counterpoint": "La negociación previa es inferencia de Molina; la carta de Sanabria del 16 de julio llega mediada por la tesis de Alpízar.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/anticomunismo-reformista-molina/chapters/14-capitulo-8-alianza-de-la-discordia.md"
+    ],
+    "quote": "la cual se verificó el 13 de junio de 1943 … La inmediata respuesta del eclesiástico en un asunto tan delicado insinúa fuertemente que la verdadera negociación se había efectuado antes"
+  },
+  {
+    "note": 15,
     "claim": "Garantías Sociales y Código de Trabajo como niveles distintos de reforma.",
     "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
     "pages": [
@@ -150,7 +391,7 @@
     ]
   },
   {
-    "note": 6,
+    "note": 15,
     "claim": "Garantías Sociales y Código de Trabajo como niveles distintos de reforma.",
     "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
     "pages": [
@@ -178,7 +419,7 @@
     ]
   },
   {
-    "note": 7,
+    "note": 16,
     "claim": "Pacto entre Republicano Nacional y Vanguardia Popular del 22 de septiembre de 1943.",
     "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
     "pages": [
@@ -196,7 +437,7 @@
     ]
   },
   {
-    "note": 8,
+    "note": 17,
     "claim": "Mora critica administración y política económica de Picado en intervención catalogada como 1945.",
     "source": "discursos-manuel-mora-1934-1979",
     "pages": [
@@ -213,7 +454,7 @@
     ]
   },
   {
-    "note": 9,
+    "note": 18,
     "claim": "Defensa de la alianza como medio de afianzar reformas y advertencia sobre beneficios tardíos.",
     "source": "discursos-manuel-mora-1934-1979",
     "pages": [
@@ -233,7 +474,25 @@
     ]
   },
   {
-    "note": 10,
+    "note": 19,
+    "claim": "Calderón Guardia definió en 1946 la alianza como coincidencia en leyes concretas y se declaró partidario de una transformación social suave.",
+    "source": "anticomunismo-reformista-molina",
+    "pages": [
+      147,
+      148
+    ],
+    "type": "declaracion",
+    "counterpoint": "Autojustificación pública en plena polarización; la frase anticomunista atribuida a 1939 es de autenticidad dudosa según Molina.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/anticomunismo-reformista-molina/chapters/14-capitulo-8-alianza-de-la-discordia.md"
+    ],
+    "quote": "Vanguardia Popular y yo coincidimos en ciertas cuestiones concretas: Garantías Sociales, Código de Trabajo, Seguros Sociales, leyes de tierras. … partidario de una transformación social suave"
+  },
+  {
+    "note": 20,
     "claim": "Crítica de autonomía política contrastada con análisis electoral de Molina.",
     "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
     "pages": [
@@ -251,7 +510,7 @@
     ]
   },
   {
-    "note": 10,
+    "note": 20,
     "claim": "Crítica de autonomía política contrastada con análisis electoral de Molina.",
     "source": "desempeno-electoral-partido-comunista-1999",
     "pages": [
@@ -275,7 +534,7 @@
     ]
   },
   {
-    "note": 11,
+    "note": 21,
     "claim": "Oposición plural, anticomunismo, violencia y problemas administrativos.",
     "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
     "pages": [
@@ -301,7 +560,44 @@
     ]
   },
   {
-    "note": 12,
+    "note": 22,
+    "claim": "Impuesto sobre la renta de 1946 (1 a 15 %), oposición unida en contra y ataque del PSD a su carácter comunista.",
+    "source": "reformismo-socialdemocrata-o-liberal-solis",
+    "pages": [
+      123,
+      266
+    ],
+    "type": "hecho",
+    "counterpoint": "El juicio de moderación procede del embajador estadounidense vía Schifter; el artículo de Facio de diciembre de 1946 muestra que el PSD no era uniforme; capa OCR de ABBYY.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/reformismo-socialdemocrata-o-liberal-solis/chapters/10-estado-equilibrador-clase-politica.md",
+      "data/books/reformismo-socialdemocrata-o-liberal-solis/chapters/15-camino-al-poder.md"
+    ],
+    "quote": "toda la oposición política se une en contra del impuesto en cuestión … Como sus aliados, el PSD concentra su ataque en el carácter … comunista … del mismo"
+  },
+  {
+    "note": 23,
+    "claim": "En abril de 1945 cafetaleros, con mediación de la embajada estadounidense, financiaron a la Rerum Novarum y pagaron su desfile separado del 1 de mayo.",
+    "source": "anticomunismo-reformista-molina",
+    "pages": [
+      168,
+      169
+    ],
+    "type": "hecho",
+    "counterpoint": "Dato procedente de literatura secundaria (Schifter, Cerdas, Alpízar); lo que sabía Sanabria llega por informes diplomáticos citados por Miller.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/anticomunismo-reformista-molina/chapters/15-capitulo-9-sindicalismo-catolico.md"
+    ],
+    "quote": "por medio de la embajada estadounidense, se concertó una reunión entre Núñez y varios importantes cafetaleros, quienes se comprometieron a cancelar las deudas de la organización, que ascendían a casi 7000 colones"
+  },
+  {
+    "note": 24,
     "claim": "Documentos partidarios reconocen motivos legítimos en sectores opositores.",
     "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
     "pages": [
@@ -318,7 +614,7 @@
     ]
   },
   {
-    "note": 13,
+    "note": 25,
     "claim": "Declaración provisional por Ulate y anulación congresional del 1 de marzo de 1948.",
     "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
     "pages": [
@@ -338,7 +634,24 @@
     ]
   },
   {
-    "note": 14,
+    "note": 26,
+    "claim": "Votos de febrero de 1948 y argumento de Solís: con 34 de 54 diputados la Reforma Social no podía derogarse.",
+    "source": "reformismo-socialdemocrata-o-liberal-solis",
+    "pages": [
+      270
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Las cifras proceden de Aguilar Bulgarelli; la imposibilidad de derogar es inferencia del autor. Se omite la excomunión de 1947 mencionada en la misma página por falta de respaldo documental suficiente.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/reformismo-socialdemocrata-o-liberal-solis/chapters/15-camino-al-poder.md"
+    ],
+    "quote": "La coalición republicano-vanguardista había obtenido 34 puestos de 54. En tales condiciones la Reforma Social no se podía derogar, en caso de haber existido intención para ello."
+  },
+  {
+    "note": 27,
     "claim": "Versión retrospectiva de Mora sobre discrepancia ante la anulación.",
     "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
     "pages": [
@@ -356,7 +669,24 @@
     ]
   },
   {
-    "note": 15,
+    "note": 28,
+    "claim": "En marzo de 1948 Mora dijo a la embajada estadounidense que Ulate era más cercano a Vanguardia que Calderón y que se alió con este por el Código de Trabajo y la seguridad social.",
+    "source": "moradas-y-discursos-molina-2010",
+    "pages": [
+      173
+    ],
+    "type": "declaracion",
+    "counterpoint": "Informe diplomático traducido por Molina; declaración hecha en busca de una salida negociada, posiblemente táctica.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/moradas-y-discursos-molina-2010/chapters/10-capitulo-5-prensa-propaganda-y-comunismo.md"
+    ],
+    "quote": "Mora dijo que él se había colocado a sí mismo y a su partido del lado de Calderón Guardia durante la presidencia de este último porque Calderón había sido instrumental en dar al país tanto el Código de Trabajo"
+  },
+  {
+    "note": 29,
     "claim": "Milicias, armas y contexto regional del conflicto.",
     "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
     "pages": [
@@ -375,7 +705,26 @@
     ]
   },
   {
-    "note": 16,
+    "note": 30,
+    "claim": "Figueres, único opositor con infraestructura militar, obtuvo armas por el Pacto del Caribe (16 de noviembre de 1947).",
+    "source": "reformismo-socialdemocrata-o-liberal-solis",
+    "pages": [
+      271,
+      272,
+      274
+    ],
+    "type": "hecho",
+    "counterpoint": "Solís usa El espíritu del 48 de Figueres y a Schifter; debe equilibrarse con la intervención de Somoza y la ayuda al otro bando.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/reformismo-socialdemocrata-o-liberal-solis/chapters/15-camino-al-poder.md"
+    ],
+    "quote": "El 16 de noviembre de 1947, se firma en Guatemala el … Pacto del Caribe … Por medio de éste, Figueres obtendrá las armas"
+  },
+  {
+    "note": 31,
     "claim": "Negociación de garantías sociales, sindicales y políticas.",
     "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
     "pages": [
@@ -396,7 +745,25 @@
     ]
   },
   {
-    "note": 17,
+    "note": 32,
+    "claim": "Cláusulas del compromiso con Vanguardia en abril de 1948 y advertencia sobre la cifra de muertos.",
+    "source": "reformismo-socialdemocrata-o-liberal-solis",
+    "pages": [
+      273,
+      274
+    ],
+    "type": "hecho",
+    "counterpoint": "El texto procede del libro de Figueres, uno de los firmantes: fuente posterior y no neutral. Añade a Rojas la cláusula del impuesto sobre la renta; la cifra de muertos es objeto de advertencia del propio autor.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/reformismo-socialdemocrata-o-liberal-solis/chapters/15-camino-al-poder.md"
+    ],
+    "quote": "Con el PC se llega a un compromiso que incluía el preservar las Garantías Sociales y el Código del Trabajo, la no supresión del impuesto de la renta y la plena libertad para los partidos y organizaciones sindicales. … Estas cifras son inciertas y aparentemente abultadas."
+  },
+  {
+    "note": 33,
     "claim": "Conservación de legislación y exclusión comunista tras la guerra.",
     "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
     "pages": [
@@ -414,7 +781,7 @@
     ]
   },
   {
-    "note": 18,
+    "note": 34,
     "claim": "Reformas de la Junta y conflictos con intereses empresariales.",
     "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
     "pages": [
@@ -434,7 +801,7 @@
     ]
   },
   {
-    "note": 19,
+    "note": 35,
     "claim": "Herencia dividida de derechos conservados y actores excluidos.",
     "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
     "pages": [

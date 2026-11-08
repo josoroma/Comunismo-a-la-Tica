@@ -1,6 +1,6 @@
 # Fuentes y auditoría del corpus
 
-El inventario inicial comprende 32 obras y documentos. La selección se hizo por pertinencia histórica; disponibilidad no equivale a uso ni a lectura integral de cada obra. Los capítulos utilizados y sus páginas están identificados en las notas y en la matriz. El corpus permanece en la biblioteca local y no se redistribuye con este ensayo.
+El inventario comprende 42 obras y documentos: 32 del corpus de la primera versión y 10 incorporados en la ampliación del 7 de noviembre de 2026. La selección se hizo por pertinencia histórica; disponibilidad no equivale a uso ni a lectura integral de cada obra. Los capítulos utilizados y sus páginas están identificados en las notas y en la matriz. El corpus permanece en la biblioteca local y no se redistribuye con este ensayo.
 
 ## Fuentes locales utilizadas
 
@@ -114,7 +114,7 @@ Identificador local: `lucha-social-guerra-civil-costa-rica-1940-1948`. Extracci�
 
 [Original o fuente de procedencia](https://www.sinabi.go.cr/biblioteca%20digital/LIBROS%20COMPLETOS/Rojas%20Manuel/Lucha%20social%20y%20guerra%20civil%20en%20CR_19490-1948.pdf).
 
-Capítulos del ensayo que la utilizan: [02](02-fundar-y-organizar.md), [03](03-el-banano-y-la-huelga.md), [04](04-las-urnas-y-la-palabra.md), [05](05-la-alianza-y-la-guerra.md).
+Capítulos del ensayo que la utilizan: [02](02-fundar-y-organizar.md), [03](03-el-banano-y-la-huelga.md), [04](04-las-urnas-y-la-palabra.md), [05](05-la-alianza-y-la-guerra.md), [06](06-la-democracia-y-sus-excluidos.md).
 
 ### Discursos 1934-1979
 
@@ -126,11 +126,113 @@ Identificador local: `discursos-manuel-mora-1934-1979`. Extracción: texto nativ
 
 Capítulos del ensayo que la utilizan: [04](04-las-urnas-y-la-palabra.md), [05](05-la-alianza-y-la-guerra.md), [08](08-entre-la-isla-y-el-mundo.md), [09](09-volver-a-la-politica.md), [17](17-epilogo-una-tradicion-en-disputa.md).
 
+### Las ideas socialistas en Costa Rica, 1880-1930
+
+**Mario Oliva Medina.** Temas de Nuestra América, vol. 38, número extraordinario, ISSN 0259-2339, EISSN 2215-5449. 2022. 10 páginas PDF.
+
+Identificador local: `ideas-socialistas-costa-rica-1880-1930-oliva`. Extracción: texto nativo con facsímiles; no revisión íntegra palabra por palabra.
+
+[Original o fuente de procedencia](https://doi.org/10.15359/tdna.38-e18).
+
+Capítulos del ensayo que la utilizan: [01](01-el-pais-antes-del-partido.md), [03](03-el-banano-y-la-huelga.md).
+
+### La Sociedad de Artesanos y la instrucción obrera en Costa Rica a finales del siglo XIX
+
+**Sonia Angulo Brenes.** Revista de Historia, n.º 85, enero-junio de 2022, ISSN 1012-9790, e-ISSN 2215-4744. 2022. 26 páginas PDF.
+
+Identificador local: `sociedad-artesanos-instruccion-obrera-angulo-2022`. Extracción: texto nativo con facsímiles; no revisión íntegra palabra por palabra.
+
+[Original o fuente de procedencia](https://doi.org/10.15359/rh.85.3).
+
+Capítulos del ensayo que la utilizan: [01](01-el-pais-antes-del-partido.md), [08](08-entre-la-isla-y-el-mundo.md).
+
+### La carta pastoral “Justo Salario”: el intento de Mons. Thiel por iniciar la Doctrina Social de la Iglesia católica en Costa Rica (1893)
+
+**Ana María Schroeder Barrantes y José Aurelio Sandí Morales.** Anuario de Historia Regional y de las Fronteras, vol. 23, n.º 2. 2018. 25 páginas PDF.
+
+Identificador local: `carta-pastoral-justo-salario-thiel-2018`. Extracción: texto nativo con facsímiles; no revisión íntegra palabra por palabra.
+
+[Original o fuente de procedencia](https://doi.org/10.18273/revanu.v23n2-2018004).
+
+Capítulos del ensayo que la utilizan: [01](01-el-pais-antes-del-partido.md), [05](05-la-alianza-y-la-guerra.md).
+
+### Jorge Volio Jiménez. Inéditos y documentos
+
+**Jorge Volio Jiménez; presentación, notas y transcripción de Constantino Láscaris Comneno.** Revista no identificada en el PDF (sección «Inéditos y Documentos», páginas impresas 263-276). Sin año confirmado en el registro. 14 páginas PDF.
+
+Identificador local: `jorge-volio-ineditos-documentos`. Extracción: texto nativo con facsímiles; no revisión íntegra palabra por palabra.
+
+La copia consultada es local; no se registró una URL pública del original. Las notas identifican el archivo y la página para consulta con `pagina.py`.
+
+Capítulos del ensayo que la utilizan: [01](01-el-pais-antes-del-partido.md), [02](02-fundar-y-organizar.md), [05](05-la-alianza-y-la-guerra.md).
+
+### La era del desencanto: protesta social, organización laboral y poder en Costa Rica, 1929-1940
+
+**Sonia Angulo Brenes.** Programa de Posgrado en Historia, Sistema de Estudios de Posgrado, Universidad de Costa Rica (tesis de Doctorado en Historia). 2021. 402 páginas PDF.
+
+Identificador local: `era-del-desencanto-angulo-2021`. Extracción: texto nativo con facsímiles; no revisión íntegra palabra por palabra.
+
+La copia consultada es local; no se registró una URL pública del original. Las notas identifican el archivo y la página para consulta con `pagina.py`.
+
+Capítulos del ensayo que la utilizan: [02](02-fundar-y-organizar.md), [03](03-el-banano-y-la-huelga.md), [04](04-las-urnas-y-la-palabra.md), [05](05-la-alianza-y-la-guerra.md), [07](07-el-enemigo-en-la-nacion.md), [08](08-entre-la-isla-y-el-mundo.md), [10](10-la-fractura-y-su-nombre.md).
+
+### Anticomunismo reformista. Competencia electoral y cuestión social en Costa Rica (1931-1948)
+
+**Iván Molina Jiménez.** Editorial Costa Rica, San José. Primera edición, 2007; primera edición, segunda reimpresión, 2016. 2016. 226 páginas PDF.
+
+Identificador local: `anticomunismo-reformista-molina`. Extracción: texto nativo con facsímiles; no revisión íntegra palabra por palabra.
+
+La copia consultada es local; no se registró una URL pública del original. Las notas identifican el archivo y la página para consulta con `pagina.py`.
+
+Capítulos del ensayo que la utilizan: [01](01-el-pais-antes-del-partido.md), [02](02-fundar-y-organizar.md), [03](03-el-banano-y-la-huelga.md), [04](04-las-urnas-y-la-palabra.md), [05](05-la-alianza-y-la-guerra.md), [06](06-la-democracia-y-sus-excluidos.md), [07](07-el-enemigo-en-la-nacion.md), [08](08-entre-la-isla-y-el-mundo.md), [09](09-volver-a-la-politica.md), [17](17-epilogo-una-tradicion-en-disputa.md).
+
+### Moradas y discursos. Cultura y política en la Costa Rica de los siglos XIX y XX
+
+**Iván Molina Jiménez.** EUNA, Editorial Universidad Nacional, Heredia. 2010. 280 páginas PDF.
+
+Identificador local: `moradas-y-discursos-molina-2010`. Extracción: texto nativo con facsímiles; no revisión íntegra palabra por palabra.
+
+La copia consultada es local; no se registró una URL pública del original. Las notas identifican el archivo y la página para consulta con `pagina.py`.
+
+Capítulos del ensayo que la utilizan: [01](01-el-pais-antes-del-partido.md), [02](02-fundar-y-organizar.md), [03](03-el-banano-y-la-huelga.md), [04](04-las-urnas-y-la-palabra.md), [05](05-la-alianza-y-la-guerra.md), [06](06-la-democracia-y-sus-excluidos.md), [07](07-el-enemigo-en-la-nacion.md), [10](10-la-fractura-y-su-nombre.md).
+
+### Costa Rica: ¿Reformismo socialdemócrata o liberal?
+
+**Manuel Antonio Solís.** Facultad Latinoamericana de Ciencias Sociales (FLACSO), Secretaría General. 1992. 420 páginas PDF.
+
+Identificador local: `reformismo-socialdemocrata-o-liberal-solis`. Extracción: texto nativo con facsímiles; no revisión íntegra palabra por palabra.
+
+La copia consultada es local; no se registró una URL pública del original. Las notas identifican el archivo y la página para consulta con `pagina.py`.
+
+Capítulos del ensayo que la utilizan: [01](01-el-pais-antes-del-partido.md), [03](03-el-banano-y-la-huelga.md), [05](05-la-alianza-y-la-guerra.md), [06](06-la-democracia-y-sus-excluidos.md), [07](07-el-enemigo-en-la-nacion.md), [08](08-entre-la-isla-y-el-mundo.md).
+
+### El Partido Liberación Nacional. Análisis de su discurso político-ideológico
+
+**Jaime Delgado Rojas.** Editorial de la Universidad Nacional (EUNA). Colección Barva, Serie Pensamiento, Subserie Ensayo. 1983. 192 páginas PDF.
+
+Identificador local: `pln-discurso-politico-ideologico-delgado-1983`. Extracción: texto nativo con facsímiles; no revisión íntegra palabra por palabra.
+
+La copia consultada es local; no se registró una URL pública del original. Las notas identifican el archivo y la página para consulta con `pagina.py`.
+
+Capítulos del ensayo que la utilizan: [05](05-la-alianza-y-la-guerra.md), [06](06-la-democracia-y-sus-excluidos.md), [07](07-el-enemigo-en-la-nacion.md), [08](08-entre-la-isla-y-el-mundo.md), [09](09-volver-a-la-politica.md), [17](17-epilogo-una-tradicion-en-disputa.md).
+
+### Manual del Demócrata Cristiano
+
+**Partido Demócrata Cristiano (Costa Rica). Secretaría General, Secretaría de Información y Propaganda.** Partido Demócrata Cristiano, Secretaría de Información y Propaganda. Sin año confirmado en el registro. 16 páginas PDF.
+
+Identificador local: `manual-democrata-cristiano`. Extracción: texto nativo con facsímiles; no revisión íntegra palabra por palabra.
+
+La copia consultada es local; no se registró una URL pública del original. Las notas identifican el archivo y la página para consulta con `pagina.py`.
+
+Capítulos del ensayo que la utilizan: [07](07-el-enemigo-en-la-nacion.md), [09](09-volver-a-la-politica.md).
+
 ## Criterios de lectura
 
 Botey y Cisneros aportan una reconstrucción de antecedentes y fundación con un criterio de maduración revolucionaria que el ensayo discute. Molina permite contrastar movilización y rendimiento electoral. Rojas reconstruye la lucha social y la guerra; su ejemplar presenta omisiones materiales. Cortés estudia la ruptura y sus representaciones. Álvarez Garro analiza discursos de la década de 1950; esa muestra no acredita por sí sola su continuidad hasta 2026.
 
 Los discursos de Mora y la memoria de Fallas son declaraciones situadas, no balances neutrales. La novela se utiliza como literatura. Los capítulos de *Luces y sombras* ofrecen estudios diferenciados del liberacionismo, las redes internacionales, el sindicalismo y la prensa cultural. Castro Méndez aporta una interpretación del derecho colectivo, que se atribuye y no sustituye los expedientes originales. Gómez Campos estudia organización partidaria en un período específico.
+
+La ampliación del 7 de noviembre de 2026 añade otras miradas. Oliva Medina y Angulo Brenes (2022) reconstruyen la circulación de ideas socialistas y la instrucción artesanal antes de 1930. Schroeder Barrantes y Sandí Morales estudian el catolicismo social de Thiel. La carta de Volio es una autorrepresentación retrospectiva. La tesis de Angulo Brenes (2021) estudia protesta y organización laboral entre 1929 y 1940. Molina examina el anticomunismo de los reformistas y la cultura política. Solís discute la naturaleza del reformismo posterior a 1940. Delgado analiza el discurso liberacionista y publica entrevistas de 1975–1976. El manual demócrata cristiano, sin fecha, acredita una autodefinición partidaria. Ninguna de estas obras sustituye a las demás; varias discrepan en fechas y énfasis, y esas diferencias se señalan en las notas.
 
 ## Inventario completo disponible al iniciar
 
@@ -202,6 +304,26 @@ Esta tabla documenta la auditoría de disponibilidad. «Citada» significa prese
 | Lucha social y guerra civil en Costa Rica, 1940-1948 | Manuel Rojas Bolaños | 170 | Citada |
 
 | Discursos 1934-1979 | Manuel Mora Valverde | 594 | Citada |
+
+| Las ideas socialistas en Costa Rica, 1880-1930 | Mario Oliva Medina | 10 | Citada · incorporada 2026-11-07 |
+
+| La Sociedad de Artesanos y la instrucción obrera en Costa Rica a finales del siglo XIX | Sonia Angulo Brenes | 26 | Citada · incorporada 2026-11-07 |
+
+| La carta pastoral “Justo Salario”: el intento de Mons. Thiel por iniciar la Doctrina Social de la Iglesia católica en Costa Rica (1893) | Ana María Schroeder Barrantes y José Aurelio Sandí Morales | 25 | Citada · incorporada 2026-11-07 |
+
+| Jorge Volio Jiménez. Inéditos y documentos | Jorge Volio Jiménez; presentación, notas y transcripción de Constantino Láscaris Comneno | 14 | Citada · incorporada 2026-11-07 |
+
+| La era del desencanto: protesta social, organización laboral y poder en Costa Rica, 1929-1940 | Sonia Angulo Brenes | 402 | Citada · incorporada 2026-11-07 |
+
+| Anticomunismo reformista. Competencia electoral y cuestión social en Costa Rica (1931-1948) | Iván Molina Jiménez | 226 | Citada · incorporada 2026-11-07 |
+
+| Moradas y discursos. Cultura y política en la Costa Rica de los siglos XIX y XX | Iván Molina Jiménez | 280 | Citada · incorporada 2026-11-07 |
+
+| Costa Rica: ¿Reformismo socialdemócrata o liberal? | Manuel Antonio Solís | 420 | Citada · incorporada 2026-11-07 |
+
+| El Partido Liberación Nacional. Análisis de su discurso político-ideológico | Jaime Delgado Rojas | 192 | Citada · incorporada 2026-11-07 |
+
+| Manual del Demócrata Cristiano | Partido Demócrata Cristiano (Costa Rica). Secretaría General, Secretaría de Información y Propaganda | 16 | Citada · incorporada 2026-11-07 |
 
 
 ## Documentación externa

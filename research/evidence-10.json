@@ -293,6 +293,41 @@
   },
   {
     "note": 22,
+    "claim": "En los años treinta la dirigencia del BOC, especialmente Mora, afirmaba un «genuino comunismo costarricense» para contrarrestar la propaganda que lo desnacionalizaba.",
+    "source": "moradas-y-discursos-molina-2010",
+    "pages": [
+      184
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Interpretación de Molina; la expresión entre paréntesis es suya y no se documenta aquí como cita literal de Mora.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/moradas-y-discursos-molina-2010/chapters/10-capitulo-5-prensa-propaganda-y-comunismo.md"
+    ],
+    "quote": "afirmar que el suyo era un genuino comunismo costarricense (\"a la tica\")"
+  },
+  {
+    "note": 22,
+    "claim": "Angulo atribuye a Víctor Hugo Acuña (1996) la conceptualización del comunismo a la tica: formulado en 1938, con contenido presente desde la fundación.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      56,
+      57
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Conferencia conocida por el resumen de Angulo; capa OCR de la tesis.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/20-estado-fundacion-partido-comunista.md"
+    ],
+    "quote": "el comunismo a la tica fue más tico que comunista … el comunismo a la tica aunque fue formulado en 1938 su contenido existía desde la fundación del partido"
+  },
+  {
+    "note": 23,
     "claim": "Crisis de la izquierda costarricense anterior al derrumbe europeo",
     "source": "comunismo-a-la-tica-pvp-2020",
     "pages": [

@@ -3,13 +3,13 @@
   "cutoff": "2026-11-06",
   "counts": {
     "chapters": 17,
-    "notes": 257,
-    "corpus_references": 237,
+    "notes": 368,
+    "corpus_references": 400,
     "web_references": 59,
-    "pages_checked": 440,
-    "evidence_rows": 296,
-    "literal_quotes_checked": 1,
-    "facsimile_review_rows": 26
+    "pages_checked": 751,
+    "evidence_rows": 501,
+    "literal_quotes_checked": 204,
+    "facsimile_review_rows": 47
   },
   "errors": [],
   "limitations": [

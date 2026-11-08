@@ -44,6 +44,231 @@
   },
   {
     "note": 4,
+    "claim": "Según Solís, el proyecto constitucional depuró el Código de Trabajo y confirmó restricciones sindicales que afectaron también a la Rerum Novarum.",
+    "source": "reformismo-socialdemocrata-o-liberal-solis",
+    "pages": [
+      292
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Basado en El Social Demócrata, no en las actas; no precisa qué disposiciones se aprobaron. Capa OCR de ABBYY con errores.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/reformismo-socialdemocrata-o-liberal-solis/chapters/15-camino-al-poder.md"
+    ],
+    "quote": "Estas medidas están pensadas en primer lugar contra los comunistas pero afectarán a la misma … que entra en crisis después de 1948."
+  },
+  {
+    "note": 4,
+    "claim": "La Junta asumió una orientación antisindical que afectó a la CCTRN; el catolicismo social desapareció tras 1948.",
+    "source": "anticomunismo-reformista-molina",
+    "pages": [
+      198
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Síntesis del epílogo apoyada en Opazo y Aguilar, sin desarrollo propio en el libro.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/anticomunismo-reformista-molina/chapters/17-epilogo.md"
+    ],
+    "quote": "desapareció tras la guerra civil de 1948 … asumió una orientación tan antisindical que afectó incluso a la CCTRN"
+  },
+  {
+    "note": 5,
+    "claim": "En mayo de 1948 la Junta decretó la expulsión de empleados públicos de los gobiernos anteriores, la intervención de bienes de altos funcionarios y una indemnización que excluía a los combatientes del gobierno.",
+    "source": "reformismo-socialdemocrata-o-liberal-solis",
+    "pages": [
+      277
+    ],
+    "type": "hecho",
+    "counterpoint": "Solís no identifica los números de decreto; las sumas de su nota 606 proceden de Martén y Ameringer.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/reformismo-socialdemocrata-o-liberal-solis/chapters/15-camino-al-poder.md"
+    ],
+    "quote": "Las primeras medidas de la Junta se dirigen contra los perdedores. En mayo se emiten los decretos que disponen la expulsión de los trabajadores públicos de los gobiernos anteriores y la intervención de los bienes de sus altos funcionarios."
+  },
+  {
+    "note": 5,
+    "claim": "El PRN no fue ilegalizado, pero Calderón fue declarado traidor y dirigentes y militantes del PRN y del PVP fueron exiliados, encarcelados y juzgados en tribunales especiales.",
+    "source": "moradas-y-discursos-molina-2010",
+    "pages": [
+      183
+    ],
+    "type": "hecho",
+    "counterpoint": "Síntesis apoyada en Aguilar, Quirós y López; no cuantifica a los afectados.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/moradas-y-discursos-molina-2010/chapters/10-capitulo-5-prensa-propaganda-y-comunismo.md"
+    ],
+    "quote": "El PRN, a diferencia del PVP, no fue ilegalizado, pero Calderón Guardia fue declarado traidor a la patria y dirigentes y militantes de ambas organizaciones fueron exiliados, encarcelados y sometidos a juicio en tribunales especiales."
+  },
+  {
+    "note": 6,
+    "claim": "Solís interpreta que el procedimiento contra la confederación (art. 280) y la proscripción rompieron lo convenido en abril de 1948.",
+    "source": "reformismo-socialdemocrata-o-liberal-solis",
+    "pages": [
+      278
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Cronología incoherente en el impreso («a principios de julio» y luego «el 17 de junio siguiente»); no se adoptan esas fechas.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/reformismo-socialdemocrata-o-liberal-solis/chapters/15-camino-al-poder.md"
+    ],
+    "quote": "se inicia el procedimiento para disolver la Central de Trabajadores de Costa Rica. A ella se le aplica el artículo 280 del Código de Trabajo … De esta manera la Junta rompía las condiciones en que capituló Picado el 19 de abril y lo convenido con Vanguardia Popular."
+  },
+  {
+    "note": 6,
+    "claim": "La ilegalización comunista se hizo por el decreto 105 de la Junta, de julio de 1948; la Corte lo juzgó no inconstitucional pero no retroactivo.",
+    "source": "luces-y-sombras-socialdemocracia-guerra-fria",
+    "pages": [
+      131
+    ],
+    "type": "hecho",
+    "counterpoint": "Dato en una nota que remite a Marielos Aguilar; la resolución de la Corte llega por testimonio de Montero Vega.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/luces-y-sombras-socialdemocracia-guerra-fria/chapters/09-capitulo-3.md"
+    ],
+    "quote": "Desde la ilegalización del Partido Comunista por medio del decreto de la Junta 105 de julio de 1948 … aunque el decreto 105 no era inconstitucional, en realidad no podía aplicarse de forma retroactiva"
+  },
+  {
+    "note": 6,
+    "claim": "El 17 de julio de 1948 la Junta emitió un decreto contra partidos de ideología considerada contraria al sistema democrático, dirigido contra Vanguardia Popular.",
+    "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
+    "pages": [
+      149
+    ],
+    "type": "hecho",
+    "counterpoint": "Rojas no da el número del decreto y su capa es OCR con errores; la orientación contra Vanguardia es su lectura. Confirma el mes de julio frente a la cronología incoherente de Solís.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/lucha-social-guerra-civil-costa-rica-1940-1948/chapters/27-guerra-civil-dieciocho-meses.md"
+    ],
+    "quote": "El 17 de julio de ese año, la Junta de Gobierno presidida por Figueres emitió un decreto por medio del cual se prohibió el funcionamiento de cualquier"
+  },
+  {
+    "note": 7,
+    "claim": "Figueres justificó la proscripción de los comunistas como muestra de debilidad frente a su apoyo externo.",
+    "source": "pln-discurso-politico-ideologico-delgado-1983",
+    "pages": [
+      114,
+      184
+    ],
+    "type": "declaracion",
+    "counterpoint": "Cita doblemente mediada (Vega Carballo 1977, citado por Delgado) y sin fecha original; la obediencia al Departamento de Estado es afirmación de Delgado sin fuente. Capa OCR.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/pln-discurso-politico-ideologico-delgado-1983/chapters/13-capitulo-v-tendencias-internas-y-personajes.md",
+      "data/books/pln-discurso-politico-ideologico-delgado-1983/chapters/23-bibliografia.md"
+    ],
+    "quote": "Los comunistas tenían apoyo externo. Nosotros no. Tenían la fuerza que da el fanatismo, nosotros no. Resolvimos ponerlos fuera de ley, como partido político. Una muestra de debilidad"
+  },
+  {
+    "note": 8,
+    "claim": "Elección de la Constituyente (8 de diciembre de 1948), apoyo de Vanguardia al Partido Constitucional y rechazo del proyecto de la Junta por 24 a 21.",
+    "source": "reformismo-socialdemocrata-o-liberal-solis",
+    "pages": [
+      282,
+      284
+    ],
+    "type": "hecho",
+    "counterpoint": "Cifras de las Actas y de Ferreto; el voto comunista dentro del Constitucional no puede medirse.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/reformismo-socialdemocrata-o-liberal-solis/chapters/15-camino-al-poder.md"
+    ],
+    "quote": "El Constitucional recibe el apoyo de Vanguardia Popular, que no puede participar en las elecciones; él obtiene seis constituyentes. … con Vanguardia Popular detrás … 24 contra 21 votos"
+  },
+  {
+    "note": 9,
+    "claim": "Solís menciona cargos contra Cardona y su gente por el asesinato de un grupo de militantes comunistas durante la invasión de diciembre de 1948.",
+    "source": "reformismo-socialdemocrata-o-liberal-solis",
+    "pages": [
+      287
+    ],
+    "type": "declaracion",
+    "counterpoint": "Descansa en una sola obra (Villegas Hoffmeister, El cardonazo), sin nombres, lugar ni fecha; OCR muy dañado. Se registra con reserva.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/reformismo-socialdemocrata-o-liberal-solis/chapters/15-camino-al-poder.md"
+    ],
+    "quote": "se acumulan nuevos cargos contra … gente, entre ellos el asesinato de un grupo … del PC, al margen de los hechos bélicos"
+  },
+  {
+    "note": 10,
+    "claim": "Solís interpreta la proscripción como parte del cordón de seguridad del orden electoral de 1949.",
+    "source": "reformismo-socialdemocrata-o-liberal-solis",
+    "pages": [
+      294,
+      295
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Interpretación funcional de un crítico del PLN; el artículo 98 original no nombraba al comunismo.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/reformismo-socialdemocrata-o-liberal-solis/chapters/15-camino-al-poder.md"
+    ],
+    "quote": "El sufragio en cuanto institución es fortalecido por el párrafo constitucional que prohíbe el ejército y por un cordón de seguridad adicional, del que forma parte el artículo … que pagan más severamente los sucesos políticos"
+  },
+  {
+    "note": 10,
+    "claim": "Molina explica la ilegalización por la necesidad del figuerismo de desarticular al PRN y al PVP; la justificación formal fue el carácter internacional del movimiento.",
+    "source": "moradas-y-discursos-molina-2010",
+    "pages": [
+      183
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Explicación causal fuerte del autor; compite con la lectura funcional de Solís.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/moradas-y-discursos-molina-2010/chapters/10-capitulo-5-prensa-propaganda-y-comunismo.md"
+    ],
+    "quote": "La ilegalización ocurrida tras la guerra civil de 1948 se explica, en este contexto y ante todo, porque el figuerismo precisaba desarticular al PRN y al PVP"
+  },
+  {
+    "note": 10,
+    "claim": "Molina fecha la ilegalización del PVP a partir de 1949.",
+    "source": "anticomunismo-reformista-molina",
+    "pages": [
+      198
+    ],
+    "type": "hecho",
+    "counterpoint": "No precisa el instrumento jurídico; no debe fundirse con el decreto de 1948 ni con la Ley 1191 de 1950.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/anticomunismo-reformista-molina/chapters/17-epilogo.md"
+    ],
+    "quote": "ilegalizado a partir de 1949"
+  },
+  {
+    "note": 11,
     "claim": "Ley 1191 de 1950 y aplicación del artículo 98 al PVP",
     "source": "comunismo-exterior-constitutivo-2020",
     "pages": [
@@ -54,7 +279,44 @@
     "visual_checked": false
   },
   {
-    "note": 5,
+    "note": 12,
+    "claim": "En mayo de 1950 el PSD contactó a la Internacional Socialista, pero el mismo artículo constitucional que ilegalizó al PC obstruía su ingreso; el PLN ingresó en 1978.",
+    "source": "reformismo-socialdemocrata-o-liberal-solis",
+    "pages": [
+      300,
+      353
+    ],
+    "type": "hecho",
+    "counterpoint": "Solís no explica el mecanismo jurídico ni cita doctrina; la relación con la reforma de 1975 no se infiere.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/reformismo-socialdemocrata-o-liberal-solis/chapters/15-camino-al-poder.md",
+      "data/books/reformismo-socialdemocrata-o-liberal-solis/chapters/16-ruta-del-ascenso-1950-1974.md"
+    ],
+    "quote": "Un eventual ingreso a la internacional estaba obstruido por el mismo artículo de la Constitución que ilegalizó al Partido Comunista en razón de su alineamiento exterior. … En 1978 el PLN ingresa a la Internacional"
+  },
+  {
+    "note": 12,
+    "claim": "El artículo 98 prohibía partidos que por sus vinculaciones internacionales, entre otros motivos, tendieran a destruir los fundamentos democráticos.",
+    "source": "comunismo-exterior-constitutivo-2020",
+    "pages": [
+      6
+    ],
+    "type": "hecho",
+    "counterpoint": "Paráfrasis de la autora a partir de Muñoz; no sustituye el texto constitucional.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/comunismo-exterior-constitutivo-2020/chapters/03-introduccion.md",
+      "data/books/comunismo-exterior-constitutivo-2020/chapters/04-adhesion-al-capitalismo.md"
+    ],
+    "quote": "Este artículo prohibía la formación y funcionamiento de partidos que por sus programas ideológicos, medios de acción o vinculaciones internacionales"
+  },
+  {
+    "note": 13,
     "claim": "Disolución de CTCR en 1950, ratificación en 1951 y persecución de sindicatos",
     "source": "comunismo-exterior-constitutivo-2020",
     "pages": [
@@ -65,7 +327,7 @@
     "visual_checked": false
   },
   {
-    "note": 6,
+    "note": 14,
     "claim": "Prohibición del PPI en 1953 y solicitud posterior contra Unión Popular",
     "source": "comunismo-exterior-constitutivo-2020",
     "pages": [
@@ -76,7 +338,7 @@
     "visual_checked": false
   },
   {
-    "note": 7,
+    "note": 15,
     "claim": "Papel de Montero Vega y Meléndez Ibarra en reconstrucción organizativa",
     "source": "luces-y-sombras-socialdemocracia-guerra-fria",
     "pages": [
@@ -88,7 +350,7 @@
     "visual_checked": false
   },
   {
-    "note": 8,
+    "note": 16,
     "claim": "Cooperación entre dirigentes de FOBA y FETRABA y oposición de redes anticomunistas",
     "source": "luces-y-sombras-socialdemocracia-guerra-fria",
     "pages": [
@@ -103,7 +365,7 @@
     "visual_checked": false
   },
   {
-    "note": 9,
+    "note": 17,
     "claim": "Demandas, conciliación y legalidad de huelga de 1955",
     "source": "luces-y-sombras-socialdemocracia-guerra-fria",
     "pages": [
@@ -116,7 +378,7 @@
     "visual_checked": false
   },
   {
-    "note": 10,
+    "note": 18,
     "claim": "Acuerdo de Marchena, presiones y sanciones internas",
     "source": "luces-y-sombras-socialdemocracia-guerra-fria",
     "pages": [
@@ -131,7 +393,7 @@
     "visual_checked": false
   },
   {
-    "note": 11,
+    "note": 19,
     "claim": "Los criterios para valorar un acuerdo sindical podían divergir",
     "source": "luces-y-sombras-socialdemocracia-guerra-fria",
     "pages": [
@@ -146,7 +408,7 @@
     "visual_checked": false
   },
   {
-    "note": 12,
+    "note": 20,
     "claim": "Huelga de aguinaldo de diciembre de 1959 a enero de 1960",
     "source": "luces-y-sombras-socialdemocracia-guerra-fria",
     "pages": [
@@ -158,7 +420,7 @@
     "visual_checked": false
   },
   {
-    "note": 13,
+    "note": 21,
     "claim": "Unidad sindical y resultado ambiguo en distribución del costo del aguinaldo",
     "source": "luces-y-sombras-socialdemocracia-guerra-fria",
     "pages": [
@@ -171,7 +433,7 @@
     "visual_checked": false
   },
   {
-    "note": 14,
+    "note": 22,
     "claim": "Creación de FUTRA en 1960 y persistencia de obstáculos",
     "source": "luces-y-sombras-socialdemocracia-guerra-fria",
     "pages": [
@@ -183,7 +445,7 @@
     "visual_checked": false
   },
   {
-    "note": 15,
+    "note": 23,
     "claim": "SITRACOBA anticomunista también sufrió conflicto empresarial y retiro de apoyo internacional",
     "source": "luces-y-sombras-socialdemocracia-guerra-fria",
     "pages": [
@@ -195,7 +457,7 @@
     "visual_checked": false
   },
   {
-    "note": 16,
+    "note": 24,
     "claim": "Recursos ante OIT y negativa de reconocimiento a FUTRA",
     "source": "luces-y-sombras-socialdemocracia-guerra-fria",
     "pages": [
@@ -209,7 +471,7 @@
     "visual_checked": false
   },
   {
-    "note": 17,
+    "note": 25,
     "claim": "Recurso de Montero Vega y liberación de Solís Barboza en 1963",
     "source": "luces-y-sombras-socialdemocracia-guerra-fria",
     "pages": [
@@ -220,7 +482,7 @@
     "visual_checked": false
   },
   {
-    "note": 18,
+    "note": 26,
     "claim": "Estrategia jurídica y acusación interna de legalismo",
     "source": "luces-y-sombras-socialdemocracia-guerra-fria",
     "pages": [

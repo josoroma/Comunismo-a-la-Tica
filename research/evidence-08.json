@@ -29,6 +29,82 @@
   },
   {
     "note": 3,
+    "claim": "En 1889 la Sociedad de Artesanos se relacionaba con sociedades centroamericanas y difundió la idea de un congreso centroamericano de obreros.",
+    "source": "sociedad-artesanos-instruccion-obrera-angulo-2022",
+    "pages": [
+      12
+    ],
+    "type": "hecho",
+    "counterpoint": "Vínculos sin contenido ni frecuencia precisados; el congreso fue una propuesta.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/sociedad-artesanos-instruccion-obrera-angulo-2022/chapters/03-proceso-de-organizacion.md"
+    ],
+    "quote": "con los países de Nicaragua, con las Sociedades de Artesanos de Managua y León…Congreso centroamericano de obreros"
+  },
+  {
+    "note": 4,
+    "claim": "Manifiesto pro República de agosto de 1936 (más de trescientas firmas), zapatos del grupo Lina Odena (1937) y ampliación de alianzas con intelectuales antifascistas.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      336,
+      342,
+      347
+    ],
+    "type": "hecho",
+    "counterpoint": "Fuente casi exclusiva: Trabajo; la tesis no indica si los zapatos llegaron a España.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/75-cap4-espana-republicana.md",
+      "data/books/era-del-desencanto-angulo-2021/chapters/78-cap4-grupo-lina-odena.md"
+    ],
+    "quote": "Firmado por más de trescientas personas, el documento se solidarizaba con el pueblo español y se oponía al fascismo…le permitieron al Partido Comunista ampliar sus bases de trabajo, así como sus alianzas con intelectuales antifascistas…una de las primeras actividades fue la recolección de cien pares de zapatos para los milicianos…el 28 de agosto de 1937 se logró su meta"
+  },
+  {
+    "note": 5,
+    "claim": "La Iglesia costarricense se identificó con Franco; La Época prefería el fascismo como mal menor.",
+    "source": "anticomunismo-reformista-molina",
+    "pages": [
+      120
+    ],
+    "type": "declaracion",
+    "counterpoint": "Cita mediada; posición de la prensa eclesiástica, no de todos los católicos.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/anticomunismo-reformista-molina/chapters/13-capitulo-7-catolicismo-social-al-poder.md"
+    ],
+    "quote": "el estallido de la guerra civil en España, en la cual la Iglesia costarricense se identificó con Franco…ante el dilema Comunismo Fascismo, la Iglesia prefiere, naturalmente, el Fascismo como un mal menor"
+  },
+  {
+    "note": 6,
+    "claim": "Protesta del teatro Raventós (4 de noviembre de 1937): cuarenta detenidos y destitución de Yolanda Oreamuno; Braña internado en Francia en 1939.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      338,
+      340,
+      341,
+      342
+    ],
+    "type": "hecho",
+    "counterpoint": "Fuentes periodísticas y militantes; inconsistencia sobre el gobierno que expulsó a Braña.",
+    "visual_checked": true,
+    "visual_pages_checked": [
+      338
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/75-cap4-espana-republicana.md"
+    ],
+    "quote": "la detención de cuarenta manifestantes, entre ellos, treinta seis hombres y cuatro mujeres; en segundo lugar, la destitución de Yolanda Oreamuno…Adolfo Braña había sido expulsado del país por el gobierno de Cleto González Víquez…en 1939, se traslada a Francia, en donde es internado en un campo de concentración…sobrevino la falta de barcos para que los refugiados americanos pudieran retornar al continente"
+  },
+  {
+    "note": 7,
     "claim": "Programa democrático y económico atribuido por Mora a revolución cubana en 1959",
     "source": "discursos-manuel-mora-1934-1979",
     "pages": [
@@ -40,7 +116,7 @@
     "visual_checked": false
   },
   {
-    "note": 4,
+    "note": 8,
     "claim": "Mora interpreta enfrentamiento Castro–Figueres desde alineamiento y monopolios",
     "source": "discursos-manuel-mora-1934-1979",
     "pages": [
@@ -55,7 +131,7 @@
     "visual_checked": false
   },
   {
-    "note": 5,
+    "note": 9,
     "claim": "Visita de Figueres en marzo de 1959 y diferencia sobre alineamiento internacional",
     "source": "luces-y-sombras-socialdemocracia-guerra-fria",
     "pages": [
@@ -67,7 +143,7 @@
     "visual_checked": false
   },
   {
-    "note": 6,
+    "note": 10,
     "claim": "Monge retira apoyo a Castro en abril de 1961 por concentración de poder y libertades",
     "source": "luces-y-sombras-socialdemocracia-guerra-fria",
     "pages": [
@@ -79,7 +155,7 @@
     "visual_checked": false
   },
   {
-    "note": 7,
+    "note": 11,
     "claim": "Tensiones entre antiimperialismo, anticomunismo y democracia",
     "source": "luces-y-sombras-socialdemocracia-guerra-fria",
     "pages": [
@@ -94,7 +170,27 @@
     "visual_checked": false
   },
   {
-    "note": 8,
+    "note": 12,
+    "claim": "En 1965 el PLN y el gobierno de Orlich apoyaron la intervención en República Dominicana y Costa Rica envió un destacamento de la Guardia Civil.",
+    "source": "reformismo-socialdemocrata-o-liberal-solis",
+    "pages": [
+      344,
+      345
+    ],
+    "type": "hecho",
+    "counterpoint": "Sin fuente citada para el envío; la función de cobertura política es juicio de Solís.",
+    "visual_checked": true,
+    "visual_pages_checked": [
+      345
+    ],
+    "native_text": false,
+    "local_paths": [
+      "data/books/reformismo-socialdemocrata-o-liberal-solis/chapters/16-ruta-del-ascenso-1950-1974.md"
+    ],
+    "quote": "En 1965, la política de contención…Costa Rica envía un destacamento de la Guardia Civil a la Dominicana con la función de darle cobertura política a los Estados Unidos…Juan Bosch ayudó a Figueres a conseguir las armas para el levantamiento de 1948"
+  },
+  {
+    "note": 13,
     "claim": "Mora defiende vía pacífica condicional y reserva otros medios ante cierre de vías",
     "source": "discursos-manuel-mora-1934-1979",
     "pages": [
@@ -105,7 +201,7 @@
     "visual_checked": false
   },
   {
-    "note": 9,
+    "note": 14,
     "claim": "Concepción material de democracia y límites de su diseño institucional",
     "source": "discursos-manuel-mora-1934-1979",
     "pages": [
@@ -117,7 +213,7 @@
     "visual_checked": false
   },
   {
-    "note": 10,
+    "note": 15,
     "claim": "Mora justifica intervención del Pacto de Varsovia como prevención de amenaza occidental",
     "source": "discursos-manuel-mora-1934-1979",
     "pages": [
@@ -129,7 +225,7 @@
     "visual_checked": false
   },
   {
-    "note": 11,
+    "note": 16,
     "claim": "Defensa soviética, autodeterminación y acusación de doble criterio",
     "source": "discursos-manuel-mora-1934-1979",
     "pages": [
@@ -141,7 +237,7 @@
     "visual_checked": false
   },
   {
-    "note": 12,
+    "note": 17,
     "claim": "Datación de discurso de 1968 frente al encabezado de 1969 de la compilación",
     "source": "discursos-manuel-mora-1934-1979",
     "pages": [
@@ -153,7 +249,7 @@
     "visual_checked": true
   },
   {
-    "note": 13,
+    "note": 18,
     "claim": "Mora defiende relación soviética mediante argumentos comerciales y de desarrollo",
     "source": "discursos-manuel-mora-1934-1979",
     "pages": [
@@ -166,7 +262,7 @@
     "visual_checked": false
   },
   {
-    "note": 14,
+    "note": 19,
     "claim": "Relato de operaciones de café y honorarios entregados al partido",
     "source": "discursos-manuel-mora-1934-1979",
     "pages": [
@@ -178,7 +274,24 @@
     "visual_checked": false
   },
   {
-    "note": 15,
+    "note": 20,
+    "claim": "La apertura de relaciones con la URSS bajo gobiernos del PLN tuvo también un móvil comercial: excedentes de café.",
+    "source": "pln-discurso-politico-ideologico-delgado-1983",
+    "pages": [
+      128
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Interpretación sin datos comerciales ni fechas en el pasaje.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/pln-discurso-politico-ideologico-delgado-1983/chapters/14-capitulo-vi.md"
+    ],
+    "quote": "la apertura de relaciones con la Unión Soviética y los países socialistas tuvo también un móvil comercial: la salida de excedentes de café para la oligarquía cafetalera"
+  },
+  {
+    "note": 21,
     "claim": "Defensa de orden constitucional y rechazo a guerra civil",
     "source": "discursos-manuel-mora-1934-1979",
     "pages": [
@@ -189,7 +302,7 @@
     "visual_checked": false
   },
   {
-    "note": 16,
+    "note": 22,
     "claim": "Impacto de Chile en 1973 y justificación de capacidad defensiva",
     "source": "comunismo-a-la-tica-pvp-2020",
     "pages": [
@@ -202,7 +315,7 @@
     "visual_checked": false
   },
   {
-    "note": 17,
+    "note": 23,
     "claim": "CNS, mando de Mora y colaboración con sandinismo",
     "source": "comunismo-a-la-tica-pvp-2020",
     "pages": [
