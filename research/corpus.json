@@ -13855,5 +13855,2274 @@
    "Documento doctrinal: expresa la posición del partido, no hechos verificados ni su aplicación."
   ],
   "added": "2026-11-07"
+ },
+ {
+  "id": "llaguno-en-busqueda-de-la-idea-2013",
+  "title": "En búsqueda de la idea: rutas para la investigación del anarquismo en Costa Rica en las primeras décadas del siglo XX",
+  "author": "José Julián Llaguno Thomas",
+  "publisher": "Anuario del Centro de Investigación y Estudios Políticos (CIEP), n.º 4, pp. 104-131, 2013. Universidad de Costa Rica, ISSN 2215-2873",
+  "year": 2013,
+  "pdf_pages": 28,
+  "source_url": "https://revistas.ucr.ac.cr/index.php/ciep/article/download/1438/1722",
+  "sha256": "183bbd85b351548880afccd6e5a7893d346cf756df0cb8b578cc5120947bddf9",
+  "requires_ocr": false,
+  "chapters": [
+   {
+    "title": "En búsqueda de la idea: rutas para la investigación del anarquismo en Costa Rica en las primeras décadas del siglo XX",
+    "file": "llaguno-en-busqueda-de-la-idea-2013/chapters/00-articulo.md",
+    "pdf_pages": [
+     1
+    ]
+   },
+   {
+    "title": "Resumen y palabras clave",
+    "file": "llaguno-en-busqueda-de-la-idea-2013/chapters/01-resumen-y-palabras-clave.md",
+    "pdf_pages": [
+     1
+    ]
+   },
+   {
+    "title": "Abstract y keywords",
+    "file": "llaguno-en-busqueda-de-la-idea-2013/chapters/02-abstract-y-keywords.md",
+    "pdf_pages": [
+     2
+    ]
+   },
+   {
+    "title": "Introducción",
+    "file": "llaguno-en-busqueda-de-la-idea-2013/chapters/03-introduccion.md",
+    "pdf_pages": [
+     2,
+     3
+    ]
+   },
+   {
+    "title": "Migración: las rutas de la idea",
+    "file": "llaguno-en-busqueda-de-la-idea-2013/chapters/04-migracion.md",
+    "pdf_pages": [
+     3,
+     4,
+     5,
+     6,
+     7,
+     8
+    ]
+   },
+   {
+    "title": "Movimiento obrero y sindicalismo",
+    "file": "llaguno-en-busqueda-de-la-idea-2013/chapters/05-movimiento-obrero-y-sindicalismo.md",
+    "pdf_pages": [
+     8,
+     9,
+     10,
+     11,
+     12
+    ]
+   },
+   {
+    "title": "Redes intelectuales, cultura impresa y publicaciones periódicas",
+    "file": "llaguno-en-busqueda-de-la-idea-2013/chapters/06-redes-intelectuales-y-publicaciones.md",
+    "pdf_pages": [
+     12,
+     13,
+     14,
+     15,
+     16
+    ]
+   },
+   {
+    "title": "Construyendo una agenda de investigación",
+    "file": "llaguno-en-busqueda-de-la-idea-2013/chapters/07-agenda-de-investigacion.md",
+    "pdf_pages": [
+     17,
+     18,
+     19
+    ]
+   },
+   {
+    "title": "Fuentes consultadas",
+    "file": "llaguno-en-busqueda-de-la-idea-2013/chapters/08-fuentes-consultadas.md",
+    "pdf_pages": [
+     19,
+     20,
+     21,
+     22,
+     23,
+     24,
+     25,
+     26,
+     27,
+     28
+    ]
+   }
+  ],
+  "limits": [
+   "Artículo con capa de texto nativa; no requirió OCR. No declara licencia ni titularidad.",
+   "Las notas llevan el número al mismo cuerpo que el texto y quedan al final del texto de cada página, cada una en su párrafo; las llamadas del cuerpo quedan pegadas a la palabra.",
+   "extraction/ocr-corrections.json no corrige OCR: reúne un título partido y mueve ocho años de inicio de renglón para que no se lean como incisos. Las palabras partidas entre páginas quedan partidas.",
+   "Es un balance bibliográfico; sus juicios sobre la historiografía son del autor. La extracción no está cotejada palabra por palabra."
+  ],
+  "added": "2026-11-08"
+ },
+ {
+  "id": "llaguno-anarquismo-sociabilidad-redes-tesis-2015",
+  "title": "Anarquismo, sociabilidad obrera y redes intelectuales en Costa Rica: un estudio de cultura política (1909-1919)",
+  "author": "José Julián Llaguno Thomas",
+  "publisher": "Tesis de Maestría Académica en Historia, Posgrado Centroamericano en Historia, Sistema de Estudios de Posgrado, Universidad de Costa Rica. Director: David Díaz Arias",
+  "year": 2015,
+  "pdf_pages": 292,
+  "source_url": "https://repositorio.iis.ucr.ac.cr/bitstream/handle/123456789/554/Anarquismo_sociabilidad_obrera_y_redes_i.pdf?sequence=1",
+  "sha256": "567b4c6a187a5c22d5528f697ed3050fdeb472d02f9d7c48d3d5a58dac3ee087",
+  "requires_ocr": false,
+  "chapters": [
+   {
+    "title": "Portada",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/00-portada.md",
+    "pdf_pages": [
+     1
+    ]
+   },
+   {
+    "title": "Dedicatoria",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/01-dedicatoria.md",
+    "pdf_pages": [
+     2
+    ]
+   },
+   {
+    "title": "Agradecimientos",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/02-agradecimientos.md",
+    "pdf_pages": [
+     3,
+     4
+    ]
+   },
+   {
+    "title": "Hoja de aprobación",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/03-hoja-de-aprobacion.md",
+    "pdf_pages": [
+     5
+    ]
+   },
+   {
+    "title": "Índice",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/04-indice.md",
+    "pdf_pages": [
+     6,
+     7,
+     8
+    ]
+   },
+   {
+    "title": "Resumen",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/05-resumen.md",
+    "pdf_pages": [
+     9
+    ]
+   },
+   {
+    "title": "Listas de cuadros, figuras, ilustraciones y abreviaturas",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/06-listas.md",
+    "pdf_pages": [
+     10,
+     11
+    ]
+   },
+   {
+    "title": "1. Justificación temática",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/07-justificacion-tematica.md",
+    "pdf_pages": [
+     12,
+     13,
+     14,
+     15
+    ]
+   },
+   {
+    "title": "1.1 Delimitación temporal",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/08-delimitacion-temporal.md",
+    "pdf_pages": [
+     15
+    ]
+   },
+   {
+    "title": "1.2 Delimitación espacial",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/09-delimitacion-espacial.md",
+    "pdf_pages": [
+     15,
+     16
+    ]
+   },
+   {
+    "title": "2. Problema de investigación",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/10-problema-de-investigacion.md",
+    "pdf_pages": [
+     16
+    ]
+   },
+   {
+    "title": "3. Objetivos",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/11-objetivos.md",
+    "pdf_pages": [
+     17
+    ]
+   },
+   {
+    "title": "4. Hipótesis",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/12-hipotesis.md",
+    "pdf_pages": [
+     17,
+     18
+    ]
+   },
+   {
+    "title": "5. Fuentes",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/13-fuentes.md",
+    "pdf_pages": [
+     19
+    ]
+   },
+   {
+    "title": "5.1 Procedencia de las fuentes",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/14-procedencia-de-las-fuentes.md",
+    "pdf_pages": [
+     19,
+     20,
+     21,
+     22
+    ]
+   },
+   {
+    "title": "5.2 Distribución espacial y temporal de las fuentes",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/15-distribucion-de-las-fuentes.md",
+    "pdf_pages": [
+     22,
+     23,
+     24,
+     25
+    ]
+   },
+   {
+    "title": "6. Estado de la cuestión",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/16-estado-de-la-cuestion.md",
+    "pdf_pages": [
+     25,
+     26,
+     27,
+     28,
+     29,
+     30,
+     31
+    ]
+   },
+   {
+    "title": "6.2 Estudios sobre la temática de investigación",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/17-estudios-sobre-la-tematica.md",
+    "pdf_pages": [
+     31,
+     32,
+     33,
+     34,
+     35,
+     36,
+     37,
+     38,
+     39,
+     40,
+     41,
+     42
+    ]
+   },
+   {
+    "title": "7. Marco teórico-conceptual",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/18-marco-teorico-conceptual.md",
+    "pdf_pages": [
+     42,
+     43
+    ]
+   },
+   {
+    "title": "7.1 Historia intelectual: redes intelectuales, cultura política y publicaciones periódicas",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/19-historia-intelectual.md",
+    "pdf_pages": [
+     43,
+     44,
+     45,
+     46,
+     47,
+     48,
+     49,
+     50,
+     51
+    ]
+   },
+   {
+    "title": "7.2 Historia social: clase obrera, espacios de sociabilidad y tejido asociativo",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/20-historia-social.md",
+    "pdf_pages": [
+     51,
+     52,
+     53,
+     54,
+     55,
+     56,
+     57,
+     58,
+     59
+    ]
+   },
+   {
+    "title": "8. Estrategia metodológica",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/21-estrategia-metodologica.md",
+    "pdf_pages": [
+     59,
+     60
+    ]
+   },
+   {
+    "title": "8.1 Criterios de selección, recolección y extracción de la información",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/22-criterios-de-seleccion.md",
+    "pdf_pages": [
+     60,
+     61,
+     62,
+     63,
+     64,
+     65,
+     66
+    ]
+   },
+   {
+    "title": "8.2 Técnicas de análisis y procesamiento",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/23-tecnicas-de-analisis.md",
+    "pdf_pages": [
+     66,
+     67,
+     68,
+     69,
+     70,
+     71,
+     72
+    ]
+   },
+   {
+    "title": "Capítulo I. Circulando la Idea: anarquismo y redes intelectuales en Costa Rica, 1909-1919",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/24-capitulo-i.md",
+    "pdf_pages": [
+     73,
+     74,
+     75
+    ]
+   },
+   {
+    "title": "I.1 El tejido asociativo anarquista: la primera generación 1904-1910",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/25-i-1-primera-generacion.md",
+    "pdf_pages": [
+     76,
+     77,
+     78,
+     79,
+     80,
+     81
+    ]
+   },
+   {
+    "title": "I.1.2 Las publicaciones periódicas y los grupos culturales",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/26-i-1-2-publicaciones-y-grupos-culturales.md",
+    "pdf_pages": [
+     81,
+     82,
+     83,
+     84,
+     85
+    ]
+   },
+   {
+    "title": "I.1.3 Labor de propaganda y actividades públicas",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/27-i-1-3-propaganda-y-actividades-publicas.md",
+    "pdf_pages": [
+     86,
+     87,
+     88,
+     89
+    ]
+   },
+   {
+    "title": "I.2 La segunda generación anarquista: el grupo Renovación",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/28-i-2-segunda-generacion.md",
+    "pdf_pages": [
+     89,
+     90,
+     91,
+     92,
+     93,
+     94,
+     95
+    ]
+   },
+   {
+    "title": "I.2.2 Las colaboraciones locales y su relación con el anarquismo",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/29-i-2-2-colaboraciones-locales.md",
+    "pdf_pages": [
+     95,
+     96,
+     97,
+     98,
+     99,
+     100,
+     101,
+     102,
+     103,
+     104,
+     105,
+     106,
+     107,
+     108,
+     109,
+     110,
+     111
+    ]
+   },
+   {
+    "title": "I.2.3 Los lazos intelectuales del grupo Renovación",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/30-i-2-3-lazos-intelectuales.md",
+    "pdf_pages": [
+     111,
+     112,
+     113
+    ]
+   },
+   {
+    "title": "I.2.4 El Centro de Estudios Sociales Germinal",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/31-i-2-4-centro-germinal.md",
+    "pdf_pages": [
+     113,
+     114,
+     115
+    ]
+   },
+   {
+    "title": "I.2.5 Distribución local de Renovación y emprendimientos editoriales",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/32-i-2-5-distribucion-local.md",
+    "pdf_pages": [
+     115,
+     116,
+     117,
+     118,
+     119,
+     120
+    ]
+   },
+   {
+    "title": "I.2.6 Las colaboraciones internacionales: idearios y tendencias",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/33-i-2-6-colaboraciones-internacionales.md",
+    "pdf_pages": [
+     120,
+     121,
+     122,
+     123,
+     124,
+     125,
+     126
+    ]
+   },
+   {
+    "title": "I.2.7 El sistema de canje y la distribución de publicaciones",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/34-i-2-7-sistema-de-canje.md",
+    "pdf_pages": [
+     126,
+     127,
+     128,
+     129,
+     130,
+     131,
+     132,
+     133
+    ]
+   },
+   {
+    "title": "I.3 El declive del proyecto sociológico internacional 1915-1920",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/35-i-3-declive.md",
+    "pdf_pages": [
+     134,
+     135,
+     136,
+     137,
+     138
+    ]
+   },
+   {
+    "title": "I.3.2 Las colaboraciones intelectuales y el intercambio de publicaciones",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/36-i-3-2-colaboraciones-e-intercambio.md",
+    "pdf_pages": [
+     139,
+     140,
+     141,
+     142,
+     143,
+     144
+    ]
+   },
+   {
+    "title": "I.3.3 Los factores internacionales del declive",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/37-i-3-3-factores-internacionales.md",
+    "pdf_pages": [
+     145,
+     146,
+     147,
+     148,
+     149
+    ]
+   },
+   {
+    "title": "I.3.4 Los factores internos del declive",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/38-i-3-4-factores-internos.md",
+    "pdf_pages": [
+     149,
+     150,
+     151,
+     152
+    ]
+   },
+   {
+    "title": "Capítulo I. Conclusiones",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/39-i-conclusiones.md",
+    "pdf_pages": [
+     152,
+     153,
+     154,
+     155,
+     156
+    ]
+   },
+   {
+    "title": "Capítulo II. Vivir la Idea: anarquismo y cultura política en Costa Rica, 1909-1919",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/40-capitulo-ii.md",
+    "pdf_pages": [
+     157,
+     158
+    ]
+   },
+   {
+    "title": "II.1 Pensar la Idea: principios y significados del anarquismo",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/41-ii-1-pensar-la-idea.md",
+    "pdf_pages": [
+     158,
+     159,
+     160,
+     161,
+     162,
+     163
+    ]
+   },
+   {
+    "title": "II.1.2 La versión positiva del anarquismo: propaganda y educación libertaria",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/42-ii-1-2-version-positiva.md",
+    "pdf_pages": [
+     163,
+     164,
+     165,
+     166
+    ]
+   },
+   {
+    "title": "II.2 Representaciones de la Idea: imágenes y simbología ácrata",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/43-ii-2-representaciones-de-la-idea.md",
+    "pdf_pages": [
+     167,
+     168,
+     169,
+     170,
+     171,
+     172
+    ]
+   },
+   {
+    "title": "II.2.2 Frases célebres y crítica iconoclasta",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/44-ii-2-2-frases-celebres.md",
+    "pdf_pages": [
+     172,
+     173,
+     174,
+     175,
+     176
+    ]
+   },
+   {
+    "title": "II.2.3 Poesía ácrata e himnos obreros",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/45-ii-2-3-poesia-acrata.md",
+    "pdf_pages": [
+     176,
+     177,
+     178,
+     179,
+     180,
+     181
+    ]
+   },
+   {
+    "title": "II.3 Vivir la Idea: conmemoraciones y ritos ácratas",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/46-ii-3-conmemoraciones-y-ritos.md",
+    "pdf_pages": [
+     181,
+     182,
+     183
+    ]
+   },
+   {
+    "title": "II.3.2 Homenajes, retratos y fotografías",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/47-ii-3-2-homenajes-retratos.md",
+    "pdf_pages": [
+     183,
+     184,
+     185,
+     186,
+     187,
+     188
+    ]
+   },
+   {
+    "title": "II.3.3 El martirologio ácrata: Ferrer y Tolstoi",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/48-ii-3-3-martirologio.md",
+    "pdf_pages": [
+     189,
+     190,
+     191,
+     192,
+     193,
+     194,
+     195
+    ]
+   },
+   {
+    "title": "II.3.4 La Pascua Roja: el primero de mayo",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/49-ii-3-4-pascua-roja.md",
+    "pdf_pages": [
+     195,
+     196,
+     197
+    ]
+   },
+   {
+    "title": "Capítulo II. Conclusiones",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/50-ii-conclusiones.md",
+    "pdf_pages": [
+     198,
+     199,
+     200,
+     201
+    ]
+   },
+   {
+    "title": "Capítulo III. Discutir la Idea: espacios de sociabilidad obrera y tejido asociativo en el espacio urbano de Costa Rica, 1909-1919",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/51-capitulo-iii.md",
+    "pdf_pages": [
+     202,
+     203
+    ]
+   },
+   {
+    "title": "III.1 Debatiendo la Idea: temas y discusiones",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/52-iii-1-debatiendo-la-idea.md",
+    "pdf_pages": [
+     203,
+     204,
+     205,
+     206,
+     207,
+     208,
+     209
+    ]
+   },
+   {
+    "title": "III.2 Politizando el ocio: bailes, juegos deportivos y teatro",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/53-iii-2-politizando-el-ocio.md",
+    "pdf_pages": [
+     210,
+     211,
+     212,
+     213,
+     214
+    ]
+   },
+   {
+    "title": "III.2.2 La recreación sana: la práctica del deporte",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/54-iii-2-2-recreacion-sana.md",
+    "pdf_pages": [
+     214,
+     215,
+     216
+    ]
+   },
+   {
+    "title": "III.2.3 Los bailes obreros",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/55-iii-2-3-bailes-obreros.md",
+    "pdf_pages": [
+     217,
+     218
+    ]
+   },
+   {
+    "title": "III.2.3 Las representaciones teatrales",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/56-iii-2-3-representaciones-teatrales.md",
+    "pdf_pages": [
+     218,
+     219,
+     220,
+     221
+    ]
+   },
+   {
+    "title": "III.3 Formando las conciencias: instrucción y educación obrera",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/57-iii-3-formando-las-conciencias.md",
+    "pdf_pages": [
+     221,
+     222,
+     223,
+     224,
+     225,
+     226,
+     227
+    ]
+   },
+   {
+    "title": "III.3.2 Conferencias sociológicas y giras de propaganda",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/58-iii-3-2-conferencias-y-giras.md",
+    "pdf_pages": [
+     227,
+     228,
+     229,
+     230,
+     231,
+     232,
+     233,
+     234,
+     235
+    ]
+   },
+   {
+    "title": "III.4 Organizando los gremios: sindicalismo y actividad política",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/59-iii-4-organizando-los-gremios.md",
+    "pdf_pages": [
+     236,
+     237,
+     238,
+     239,
+     240,
+     241
+    ]
+   },
+   {
+    "title": "III.4.2 Tendencias internas y debate ideológico",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/60-iii-4-2-tendencias-internas.md",
+    "pdf_pages": [
+     241,
+     242,
+     243,
+     244,
+     245,
+     246,
+     247
+    ]
+   },
+   {
+    "title": "III.4.3 Debates y polémicas en torno a la fundación del partido obrero",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/61-iii-4-3-partido-obrero.md",
+    "pdf_pages": [
+     248,
+     249,
+     250
+    ]
+   },
+   {
+    "title": "III.4.4 El partido reformista y su relación con el anarquismo",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/62-iii-4-4-partido-reformista.md",
+    "pdf_pages": [
+     250,
+     251,
+     252,
+     253
+    ]
+   },
+   {
+    "title": "Capítulo III. Conclusiones",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/63-iii-conclusiones.md",
+    "pdf_pages": [
+     253,
+     254,
+     255,
+     256,
+     257,
+     258
+    ]
+   },
+   {
+    "title": "Conclusiones generales",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/64-conclusiones-generales.md",
+    "pdf_pages": [
+     259
+    ]
+   },
+   {
+    "title": "A) Producción sociohistórica del ser intelectual",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/65-a-produccion-sociohistorica.md",
+    "pdf_pages": [
+     260,
+     261,
+     262,
+     263,
+     264,
+     265
+    ]
+   },
+   {
+    "title": "B) Cultura política libertaria: personalidad libertaria y acción política",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/66-b-cultura-politica-libertaria.md",
+    "pdf_pages": [
+     266,
+     267,
+     268,
+     269,
+     270,
+     271,
+     272,
+     273
+    ]
+   },
+   {
+    "title": "C) Recomendaciones",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/67-c-recomendaciones.md",
+    "pdf_pages": [
+     273,
+     274
+    ]
+   },
+   {
+    "title": "Bibliografía",
+    "file": "llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/68-bibliografia.md",
+    "pdf_pages": [
+     275,
+     276,
+     277,
+     278,
+     279,
+     280,
+     281,
+     282,
+     283,
+     284,
+     285,
+     286,
+     287,
+     288,
+     289,
+     290,
+     291,
+     292
+    ]
+   }
+  ],
+  "limits": [
+   "Tesis exportada desde Word con capa de texto nativa; no requirió OCR. El PDF está cifrado con contraseña de propietario, que no impide la extracción; se conserva sin modificar.",
+   "Las 69 secciones siguen el índice impreso hasta el segundo nivel; en los capítulos, los títulos de navegación anteponen el número romano (I.2.3) y el texto conserva la numeración impresa, que repite «2.3» en el capítulo III. Los apartados seguidos de inmediato por su x.1 comparten sección.",
+   "Las notas al pie se reproducen al final de cada página; en las páginas 168, 175, 185 y 191 el pie de una ilustración queda entre las notas. Algunas notas conservan el número pegado a la primera palabra («4Mario»).",
+   "Los 14 cuadros, las figuras y las ilustraciones constan en el facsímil; el texto de los cuadros sigue el orden de los renglones, sin filas ni columnas.",
+   "extraction/ocr-corrections.json no corrige OCR: reúne el año partido del título del capítulo II y mueve doce cifras de inicio de renglón para que no se lean como incisos.",
+   "Las citas de prensa obrera y anarquista son citas mediadas por la tesis; la extracción no está cotejada palabra por palabra."
+  ],
+  "added": "2026-11-08"
+ },
+ {
+  "id": "cappelletti-anarquismo-repertorio-americano-2015",
+  "title": "El anarquismo en Costa Rica",
+  "author": "Ángel J. Cappelletti",
+  "publisher": "Repertorio Americano, Segunda Nueva Época, n.º 25, enero-diciembre de 2015, pp. 81-94. Universidad Nacional, Costa Rica",
+  "year": 2015,
+  "pdf_pages": 14,
+  "source_url": "https://www.revistas.una.ac.cr/index.php/repertorio/article/download/9268/11151/29812",
+  "sha256": "64f5b574f79b04973d49396ea9af017a0f51c85b2e76b100296b0b793ad7d8a2",
+  "requires_ocr": false,
+  "chapters": [
+   {
+    "title": "El anarquismo en Costa Rica",
+    "file": "cappelletti-anarquismo-repertorio-americano-2015/chapters/00-articulo.md",
+    "pdf_pages": [
+     1
+    ]
+   },
+   {
+    "title": "Resumen, palabras clave, abstract y keywords",
+    "file": "cappelletti-anarquismo-repertorio-americano-2015/chapters/01-resumen-y-abstract.md",
+    "pdf_pages": [
+     1
+    ]
+   },
+   {
+    "title": "Texto y bibliografía",
+    "file": "cappelletti-anarquismo-repertorio-americano-2015/chapters/02-texto-y-bibliografia.md",
+    "pdf_pages": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14
+    ]
+   }
+  ],
+  "limits": [
+   "Artículo a dos columnas con capa de texto nativa; no requirió OCR. No declara licencia ni titularidad.",
+   "Sin apartados internos: texto y bibliografía forman una sola sección porque la bibliografía empieza a media columna derecha; el orden de columnas se fija por página y los párrafos se rehacen por posición vertical.",
+   "La bibliografía se separa por su sangría francesa en extraction/table-overrides.json; se conservan las erratas del original.",
+   "El PDF no indica que sea póstumo ni una reedición; según fuentes externas el autor murió en 1995 y Llaguno (2013) cita un artículo homónimo en Orto (1994). La bibliografía incluye una obra de 1998.",
+   "Las citas de época son mediadas por el autor; la extracción no está cotejada palabra por palabra."
+  ],
+  "added": "2026-11-08"
+ },
+ {
+  "id": "llaguno-presencia-anarquista-centroamerica-2016",
+  "title": "Acción local y auditorio global: la presencia anarquista en América Central según sus fondos documentales entre 1910 y 1930",
+  "author": "José Julián Llaguno Thomas",
+  "publisher": "Diálogos. Revista Electrónica de Historia, vol. 17, núm. 2, 2016, pp. 33-51. E-ISSN 1409-469X. Universidad de Costa Rica (PDF distribuido por Redalyc)",
+  "year": 2016,
+  "pdf_pages": 20,
+  "source_url": "https://www.redalyc.org/pdf/439/43946838002.pdf",
+  "sha256": "49c02c440a68a8450eb983b0b5b452e14c5c35f539167a7503263b3834771d4a",
+  "requires_ocr": false,
+  "chapters": [
+   {
+    "title": "Portada de Redalyc",
+    "file": "llaguno-presencia-anarquista-centroamerica-2016/chapters/00-portada-redalyc.md",
+    "pdf_pages": [
+     1
+    ]
+   },
+   {
+    "title": "Acción local y auditorio global: la presencia anarquista en América Central según sus fondos documentales entre 1910 y 1930",
+    "file": "llaguno-presencia-anarquista-centroamerica-2016/chapters/01-articulo.md",
+    "pdf_pages": [
+     2
+    ]
+   },
+   {
+    "title": "Resumen y palabras clave",
+    "file": "llaguno-presencia-anarquista-centroamerica-2016/chapters/02-resumen-y-palabras-clave.md",
+    "pdf_pages": [
+     2
+    ]
+   },
+   {
+    "title": "Abstract y keywords, fechas y nota sobre el autor",
+    "file": "llaguno-presencia-anarquista-centroamerica-2016/chapters/03-abstract-y-keywords.md",
+    "pdf_pages": [
+     2
+    ]
+   },
+   {
+    "title": "Una posición dentro de la historiografía anarquista",
+    "file": "llaguno-presencia-anarquista-centroamerica-2016/chapters/04-posicion-historiografia-anarquista.md",
+    "pdf_pages": [
+     3,
+     4,
+     5,
+     6
+    ]
+   },
+   {
+    "title": "El estudio de redes y la actividad anarquista en América Central",
+    "file": "llaguno-presencia-anarquista-centroamerica-2016/chapters/05-estudio-de-redes.md",
+    "pdf_pages": [
+     6,
+     7,
+     8,
+     9
+    ]
+   },
+   {
+    "title": "Cartografía de la presencia anarquista en América Central",
+    "file": "llaguno-presencia-anarquista-centroamerica-2016/chapters/06-cartografia-presencia-anarquista.md",
+    "pdf_pages": [
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15
+    ]
+   },
+   {
+    "title": "Conclusiones",
+    "file": "llaguno-presencia-anarquista-centroamerica-2016/chapters/07-conclusiones.md",
+    "pdf_pages": [
+     15,
+     16
+    ]
+   },
+   {
+    "title": "Notas",
+    "file": "llaguno-presencia-anarquista-centroamerica-2016/chapters/08-notas.md",
+    "pdf_pages": [
+     16
+    ]
+   },
+   {
+    "title": "Referencias",
+    "file": "llaguno-presencia-anarquista-centroamerica-2016/chapters/09-referencias.md",
+    "pdf_pages": [
+     17,
+     18,
+     19,
+     20
+    ]
+   }
+  ],
+  "limits": [
+   "PDF de Redalyc: la página 1 es la portada del sistema y el artículo ocupa las páginas impresas 33-51. Licencia CC BY-NC-SA 4.0 declarada en la página 2.",
+   "Un tercio de los renglones usa fuentes sin correspondencia Unicode (caracteres de uso privado y ligaduras fi/fl como «À»/«Á»); el texto se reconstruyó desde los identificadores de glifo, sin OCR, y cada renglón consta en extraction/ocr-corrections.json, cotejado por muestreo con el facsímil.",
+   "En las referencias, algunas entradas quedan partidas en dos párrafos cuando su segunda línea empieza en mayúscula.",
+   "Las citas de prensa anarquista son citas mediadas por el autor; la extracción no está cotejada palabra por palabra."
+  ],
+  "added": "2026-11-08"
+ },
+ {
+  "id": "llaguno-propagar-la-idea-tesis-2022",
+  "title": "Propagar a ideia: anarquismo e mundos do trabalho no istmo centro-americano, 1890–1930",
+  "author": "José Julián Llaguno Thomas",
+  "publisher": "Tese de doutorado em História (área de História Social), Instituto de Filosofia e Ciências Humanas, Universidade Estadual de Campinas (UNICAMP). Orientador: Claudio Henrique de Moraes Batalha",
+  "year": 2022,
+  "pdf_pages": 358,
+  "source_url": "https://repositorio.sibdi.ucr.ac.cr/server/api/core/bitstreams/f620d354-6dab-4d30-9d49-f29d61ee2a77/content",
+  "sha256": "3c7223acc5db5ddb66c5984dc45488e9b465ce83c62255fea6156aad8b1a184e",
+  "requires_ocr": false,
+  "chapters": [
+   {
+    "title": "Portada",
+    "file": "llaguno-propagar-la-idea-tesis-2022/chapters/00-portada.md",
+    "pdf_pages": [
+     1
+    ]
+   },
+   {
+    "title": "Hoja de título",
+    "file": "llaguno-propagar-la-idea-tesis-2022/chapters/01-hoja-de-titulo.md",
+    "pdf_pages": [
+     2
+    ]
+   },
+   {
+    "title": "Ficha catalográfica",
+    "file": "llaguno-propagar-la-idea-tesis-2022/chapters/02-ficha-catalografica.md",
+    "pdf_pages": [
+     3
+    ]
+   },
+   {
+    "title": "Hoja de aprobación",
+    "file": "llaguno-propagar-la-idea-tesis-2022/chapters/03-hoja-de-aprobacion.md",
+    "pdf_pages": [
+     4
+    ]
+   },
+   {
+    "title": "Dedicatoria",
+    "file": "llaguno-propagar-la-idea-tesis-2022/chapters/04-dedicatoria.md",
+    "pdf_pages": [
+     5
+    ]
+   },
+   {
+    "title": "Agradecimentos",
+    "file": "llaguno-propagar-la-idea-tesis-2022/chapters/05-agradecimentos.md",
+    "pdf_pages": [
+     6,
+     7,
+     8,
+     9
+    ]
+   },
+   {
+    "title": "Resumo, Abstract, Resumen",
+    "file": "llaguno-propagar-la-idea-tesis-2022/chapters/06-resumo-abstract-resumen.md",
+    "pdf_pages": [
+     10,
+     11,
+     12
+    ]
+   },
+   {
+    "title": "Listas de ilustrações, tabelas e mapas",
+    "file": "llaguno-propagar-la-idea-tesis-2022/chapters/07-listas-de-ilustracoes-tabelas-e-mapas.md",
+    "pdf_pages": [
+     13,
+     14,
+     15,
+     16
+    ]
+   },
+   {
+    "title": "Lista de abreviaturas e siglas",
+    "file": "llaguno-propagar-la-idea-tesis-2022/chapters/08-lista-de-abreviaturas-e-siglas.md",
+    "pdf_pages": [
+     17,
+     18
+    ]
+   },
+   {
+    "title": "Sumário",
+    "file": "llaguno-propagar-la-idea-tesis-2022/chapters/09-sumario.md",
+    "pdf_pages": [
+     19,
+     20
+    ]
+   },
+   {
+    "title": "Nota do autor",
+    "file": "llaguno-propagar-la-idea-tesis-2022/chapters/10-nota-do-autor.md",
+    "pdf_pages": [
+     21
+    ]
+   },
+   {
+    "title": "Introdução",
+    "file": "llaguno-propagar-la-idea-tesis-2022/chapters/11-introducao.md",
+    "pdf_pages": [
+     22,
+     23,
+     24,
+     25,
+     26,
+     27,
+     28,
+     29,
+     30
+    ]
+   },
+   {
+    "title": "1. América Central na história do anarquismo",
+    "file": "llaguno-propagar-la-idea-tesis-2022/chapters/12-america-central-na-historia-do-anarquismo.md",
+    "pdf_pages": [
+     30,
+     31,
+     32,
+     33,
+     34,
+     35,
+     36
+    ]
+   },
+   {
+    "title": "2. História transnacional e mundos do trabalho",
+    "file": "llaguno-propagar-la-idea-tesis-2022/chapters/13-historia-transnacional-e-mundos-do-trabalho.md",
+    "pdf_pages": [
+     36,
+     37,
+     38,
+     39,
+     40,
+     41,
+     42
+    ]
+   },
+   {
+    "title": "3. Escalas, sujeitos e métodos",
+    "file": "llaguno-propagar-la-idea-tesis-2022/chapters/14-escalas-sujeitos-e-metodos.md",
+    "pdf_pages": [
+     42,
+     43,
+     44,
+     45,
+     46
+    ]
+   },
+   {
+    "title": "4. Arquivos e fontes de estudo",
+    "file": "llaguno-propagar-la-idea-tesis-2022/chapters/15-arquivos-e-fontes-de-estudo.md",
+    "pdf_pages": [
+     46,
+     47,
+     48
+    ]
+   },
+   {
+    "title": "Capítulo 1. Compreender o istmo centro-americano: unionismo, imperialismo e economia agroexportadora entre 1870–1930",
+    "file": "llaguno-propagar-la-idea-tesis-2022/chapters/16-capitulo-1-compreender-o-istmo.md",
+    "pdf_pages": [
+     49,
+     50
+    ]
+   },
+   {
+    "title": "1.1 Fragmentação política e unionismo centro-americano",
+    "file": "llaguno-propagar-la-idea-tesis-2022/chapters/17-fragmentacao-politica-e-unionismo.md",
+    "pdf_pages": [
+     50,
+     51,
+     52,
+     53,
+     54,
+     55,
+     56,
+     57,
+     58,
+     59
+    ]
+   },
+   {
+    "title": "1.2 A construção do canal interoceânico e o problema do imperialismo",
+    "file": "llaguno-propagar-la-idea-tesis-2022/chapters/18-canal-interoceanico-e-imperialismo.md",
+    "pdf_pages": [
+     59,
+     60,
+     61,
+     62,
+     63,
+     64,
+     65,
+     66,
+     67
+    ]
+   },
+   {
+    "title": "1.3 Entre o café e a banana, as economias agroexportadoras da América Central",
+    "file": "llaguno-propagar-la-idea-tesis-2022/chapters/19-entre-o-cafe-e-a-banana.md",
+    "pdf_pages": [
+     67,
+     68,
+     69,
+     70,
+     71,
+     72,
+     73,
+     74,
+     75
+    ]
+   },
+   {
+    "title": "Capítulo 2. Anarcofobia e pânico moral: agentes da ordem frente à anarquia, 1850-1910",
+    "file": "llaguno-propagar-la-idea-tesis-2022/chapters/20-capitulo-2-anarcofobia-e-panico-moral.md",
+    "pdf_pages": [
+     76,
+     77
+    ]
+   },
+   {
+    "title": "2.1 A batalha dos significados",
+    "file": "llaguno-propagar-la-idea-tesis-2022/chapters/21-batalha-dos-significados.md",
+    "pdf_pages": [
+     77,
+     78,
+     79,
+     80,
+     81,
+     82,
+     83,
+     84,
+     85,
+     86,
+     87,
+     88,
+     89
+    ]
+   },
+   {
+    "title": "2.2 Anarcofobia e pânico moral",
+    "file": "llaguno-propagar-la-idea-tesis-2022/chapters/22-anarcofobia-e-panico-moral.md",
+    "pdf_pages": [
+     89,
+     90,
+     91,
+     92,
+     93,
+     94,
+     95,
+     96,
+     97,
+     98,
+     99,
+     100,
+     101,
+     102,
+     103,
+     104,
+     105,
+     106,
+     107,
+     108
+    ]
+   },
+   {
+    "title": "2.3 Os agentes da ordem contra a anarquia",
+    "file": "llaguno-propagar-la-idea-tesis-2022/chapters/23-agentes-da-ordem-contra-a-anarquia.md",
+    "pdf_pages": [
+     108,
+     109,
+     110,
+     111,
+     112,
+     113,
+     114,
+     115,
+     116,
+     117,
+     118,
+     119,
+     120,
+     121,
+     122,
+     123,
+     124,
+     125,
+     126,
+     127,
+     128,
+     129
+    ]
+   },
+   {
+    "title": "Capítulo 3. De todos e de ninguém: federalismo anarquista no Istmo do Panamá, 1910–1925",
+    "file": "llaguno-propagar-la-idea-tesis-2022/chapters/24-capitulo-3-de-todos-e-de-ninguem.md",
+    "pdf_pages": [
+     130,
+     131
+    ]
+   },
+   {
+    "title": "3.1 Federação de agrupações e indivíduos livres do Istmo do Panamá",
+    "file": "llaguno-propagar-la-idea-tesis-2022/chapters/25-federacao-de-agrupacoes-do-istmo.md",
+    "pdf_pages": [
+     132,
+     133,
+     134,
+     135,
+     136,
+     137,
+     138,
+     139,
+     140,
+     141,
+     142,
+     143,
+     144,
+     145,
+     146,
+     147,
+     148,
+     149,
+     150,
+     151,
+     152,
+     153,
+     154,
+     155,
+     156,
+     157,
+     158,
+     159,
+     160,
+     161
+    ]
+   },
+   {
+    "title": "3.2 Federação Individualista Internacional",
+    "file": "llaguno-propagar-la-idea-tesis-2022/chapters/26-federacao-individualista-internacional.md",
+    "pdf_pages": [
+     161,
+     162,
+     163,
+     164,
+     165,
+     166
+    ]
+   },
+   {
+    "title": "3.3 Anarquistas sem federação",
+    "file": "llaguno-propagar-la-idea-tesis-2022/chapters/27-anarquistas-sem-federacao.md",
+    "pdf_pages": [
+     166,
+     167,
+     168,
+     169,
+     170,
+     171,
+     172,
+     173,
+     174,
+     175,
+     176
+    ]
+   },
+   {
+    "title": "Capítulo 4. Pela causa do trabalho organizado: os anarquistas no movimento operário centro-americano, 1910-1928",
+    "file": "llaguno-propagar-la-idea-tesis-2022/chapters/28-capitulo-4-pela-causa-do-trabalho-organizado.md",
+    "pdf_pages": [
+     177,
+     178
+    ]
+   },
+   {
+    "title": "4.1 As muitas faces do internacionalismo proletário",
+    "file": "llaguno-propagar-la-idea-tesis-2022/chapters/29-faces-do-internacionalismo-proletario.md",
+    "pdf_pages": [
+     179,
+     180,
+     181,
+     182,
+     183,
+     184,
+     185
+    ]
+   },
+   {
+    "title": "4.2 Espaços de articulação regional na década de 1910",
+    "file": "llaguno-propagar-la-idea-tesis-2022/chapters/30-espacos-de-articulacao-regional.md",
+    "pdf_pages": [
+     185,
+     186,
+     187,
+     188,
+     189,
+     190,
+     191,
+     192,
+     193,
+     194,
+     195,
+     196,
+     197,
+     198,
+     199,
+     200,
+     201,
+     202,
+     203,
+     204
+    ]
+   },
+   {
+    "title": "4.3 A Luta pelo Pan-Americanismo operário radical na década de 1920",
+    "file": "llaguno-propagar-la-idea-tesis-2022/chapters/31-pan-americanismo-operario-radical.md",
+    "pdf_pages": [
+     205,
+     206,
+     207,
+     208,
+     209,
+     210,
+     211,
+     212,
+     213,
+     214,
+     215,
+     216,
+     217,
+     218,
+     219,
+     220,
+     221,
+     222,
+     223,
+     224,
+     225
+    ]
+   },
+   {
+    "title": "Capítulo 5. Saúde e comunismo libertário: América Central e a Associação Continental Americana de Trabalhadores, 1929-1935",
+    "file": "llaguno-propagar-la-idea-tesis-2022/chapters/32-capitulo-5-saude-e-comunismo-libertario.md",
+    "pdf_pages": [
+     226,
+     227
+    ]
+   },
+   {
+    "title": "5.1 Propaganda continental da AIT",
+    "file": "llaguno-propagar-la-idea-tesis-2022/chapters/33-propaganda-continental-da-ait.md",
+    "pdf_pages": [
+     227,
+     228,
+     229,
+     230,
+     231,
+     232,
+     233,
+     234,
+     235
+    ]
+   },
+   {
+    "title": "5.2 A ideologia e as lutas da ACAT",
+    "file": "llaguno-propagar-la-idea-tesis-2022/chapters/34-ideologia-e-lutas-da-acat.md",
+    "pdf_pages": [
+     235,
+     236,
+     237,
+     238,
+     239,
+     240,
+     241,
+     242,
+     243,
+     244
+    ]
+   },
+   {
+    "title": "5.3 O anarcossindicalismo centro-americano e a esfera internacional",
+    "file": "llaguno-propagar-la-idea-tesis-2022/chapters/35-anarcossindicalismo-centro-americano.md",
+    "pdf_pages": [
+     244,
+     245,
+     246,
+     247,
+     248,
+     249,
+     250,
+     251,
+     252,
+     253,
+     254,
+     255,
+     256,
+     257,
+     258,
+     259,
+     260,
+     261,
+     262,
+     263,
+     264,
+     265
+    ]
+   },
+   {
+    "title": "Capítulo 6. Viagem Libertária pela América Central: imprensa libertária e relações militantes, 1904-1932",
+    "file": "llaguno-propagar-la-idea-tesis-2022/chapters/36-capitulo-6-viagem-libertaria.md",
+    "pdf_pages": [
+     266,
+     267,
+     268,
+     269
+    ]
+   },
+   {
+    "title": "6.1 Produzir o verbo novo",
+    "file": "llaguno-propagar-la-idea-tesis-2022/chapters/37-produzir-o-verbo-novo.md",
+    "pdf_pages": [
+     269,
+     270,
+     271,
+     272,
+     273,
+     274,
+     275,
+     276,
+     277,
+     278,
+     279,
+     280,
+     281,
+     282,
+     283,
+     284,
+     285,
+     286,
+     287,
+     288,
+     289,
+     290,
+     291,
+     292,
+     293,
+     294,
+     295,
+     296,
+     297,
+     298,
+     299,
+     300
+    ]
+   },
+   {
+    "title": "6.2 Caribe Libertário",
+    "file": "llaguno-propagar-la-idea-tesis-2022/chapters/38-caribe-libertario.md",
+    "pdf_pages": [
+     301,
+     302,
+     303,
+     304,
+     305,
+     306,
+     307,
+     308,
+     309,
+     310,
+     311,
+     312,
+     313,
+     314
+    ]
+   },
+   {
+    "title": "6.3 Camaradas do mundo inteiro",
+    "file": "llaguno-propagar-la-idea-tesis-2022/chapters/39-camaradas-do-mundo-inteiro.md",
+    "pdf_pages": [
+     314,
+     315,
+     316,
+     317,
+     318,
+     319,
+     320,
+     321,
+     322
+    ]
+   },
+   {
+    "title": "Conclusões gerais",
+    "file": "llaguno-propagar-la-idea-tesis-2022/chapters/40-conclusoes-gerais.md",
+    "pdf_pages": [
+     323,
+     324,
+     325,
+     326,
+     327,
+     328,
+     329,
+     330,
+     331,
+     332
+    ]
+   },
+   {
+    "title": "Referências Bibliográficas: 1. Fontes de arquivo",
+    "file": "llaguno-propagar-la-idea-tesis-2022/chapters/41-referencias-fontes-de-arquivo.md",
+    "pdf_pages": [
+     333,
+     334,
+     335,
+     336
+    ]
+   },
+   {
+    "title": "2. Publicações periódicas",
+    "file": "llaguno-propagar-la-idea-tesis-2022/chapters/42-referencias-publicacoes-periodicas.md",
+    "pdf_pages": [
+     336,
+     337,
+     338
+    ]
+   },
+   {
+    "title": "3. Fontes impressas",
+    "file": "llaguno-propagar-la-idea-tesis-2022/chapters/43-referencias-fontes-impressas.md",
+    "pdf_pages": [
+     338,
+     339,
+     340,
+     341
+    ]
+   },
+   {
+    "title": "4. Fontes secundárias",
+    "file": "llaguno-propagar-la-idea-tesis-2022/chapters/44-referencias-fontes-secundarias.md",
+    "pdf_pages": [
+     341,
+     342,
+     343,
+     344,
+     345,
+     346,
+     347,
+     348,
+     349,
+     350,
+     351,
+     352,
+     353,
+     354,
+     355,
+     356,
+     357
+    ]
+   },
+   {
+    "title": "Anexos",
+    "file": "llaguno-propagar-la-idea-tesis-2022/chapters/45-anexos.md",
+    "pdf_pages": [
+     358
+    ]
+   }
+  ],
+  "limits": [
+   "Tesis doctoral con capa de texto nativa exportada desde Word; no requirió OCR. El cuerpo está en portugués; resúmenes también en inglés y español; muchas notas y citas de fuentes en español.",
+   "Secciones por introducción, capítulos y apartados x.y del sumario; los apartados x.y.z quedan como encabezados internos. Las referencias se dividen en fuentes de archivo, publicaciones periódicas, fuentes impresas y fuentes secundarias.",
+   "Se retiró la capa OCR de Adobe Paper Capture sobre mapas, facsímiles de prensa y logotipos (53 reglas por página, registradas en extraction/coverage.json); esas imágenes solo se leen en el facsímil.",
+   "Tablas, diagramas y anexo pierden filas y columnas; algunas celdas en negrita salen como encabezados.",
+   "Párrafos rehechos por la sangría de primera línea; un año o número al inicio de línea abre a veces un párrafo de más. En la página 40 la nota 58 queda en el cuerpo; algunas notas largas quedan partidas en dos párrafos.",
+   "El folio impreso coincide con la página PDF (la página 49 imprime «21» por error del original).",
+   "Las citas de fuentes de época están traducidas o transcritas por el autor: son citas mediadas.",
+   "El PDF no declara licencia ni reserva; sus permisos restringen copia y modificación. La conversión se basa en la autorización declarada por el responsable del repositorio."
+  ],
+  "added": "2026-11-08"
+ },
+ {
+  "id": "dobles-segunda-ola-marxismo-2003",
+  "title": "La “segunda ola” del marxismo en Costa Rica: los linderos del discurso y la práctica",
+  "author": "Vilma Leandro Zúñiga e Ignacio Dobles Oropeza",
+  "publisher": "Ciencias Sociales (Revista de Ciencias Sociales), n.º 100: 189-205, 2003 (II), Universidad de Costa Rica",
+  "year": 2003,
+  "pdf_pages": 18,
+  "source_url": "https://revistacienciassociales.ucr.ac.cr/images/revistas/RCS100/15DOBLES.pdf",
+  "sha256": "cc414dcc5d08ebb52d403b49ef246befdb806cb085736ef0a278dc956278ca09",
+  "requires_ocr": false,
+  "chapters": [
+   {
+    "title": "La “segunda ola” del marxismo en Costa Rica: los linderos del discurso y la práctica",
+    "file": "dobles-segunda-ola-marxismo-2003/chapters/00-articulo.md",
+    "pdf_pages": [
+     1
+    ]
+   },
+   {
+    "title": "Resumen",
+    "file": "dobles-segunda-ola-marxismo-2003/chapters/01-resumen.md",
+    "pdf_pages": [
+     1
+    ]
+   },
+   {
+    "title": "Texto del artículo (siete apartados) y bibliografía",
+    "file": "dobles-segunda-ola-marxismo-2003/chapters/02-texto-y-bibliografia.md",
+    "pdf_pages": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14,
+     15,
+     16,
+     17,
+     18
+    ]
+   }
+  ],
+  "limits": [
+   "Artículo a dos columnas con capa de texto nativa; no requirió OCR. El plan fija el orden de lectura de cada página; el paso de columna o de página abre un párrafo nuevo aunque la frase continúe.",
+   "La autoría impresa es de Vilma Leandro Zúñiga e Ignacio Dobles Oropeza, en ese orden; el nombre del archivo del repositorio solo menciona a Dobles.",
+   "Los siete rótulos de apartado y la bibliografía empiezan a media columna y no pueden separarse en secciones sin mezclar columnas: el texto forma una sola sección con los rótulos como encabezados.",
+   "La numeración impresa va de 189 a 205 (desplazamiento constante de 188); la página 18 del PDF está en blanco.",
+   "Las citas de Salom, Araya, Ferreto, Manuel Mora, Merino y otros autores son citas mediadas por la autora y el autor."
+  ],
+  "added": "2026-11-08"
+ },
+ {
+  "id": "salom-resena-militantes-2007",
+  "title": "Carencias, limitaciones, frustraciones y esperanzas de la vida militante de la izquierda costarricense en los años setenta y ochenta (reseña de «Militantes. La vivencia de lo político en la segunda ola del marxismo en Costa Rica», de Ignacio Dobles Oropeza y Vilma Leandro Zúñiga)",
+  "author": "Roberto Salom E.",
+  "publisher": "Revista de Ciencias Sociales, n.º 115: 143-146, 2007 (I), ISSN 0482-5276, Universidad de Costa Rica",
+  "year": 2007,
+  "pdf_pages": 4,
+  "source_url": "https://revistacienciassociales.ucr.ac.cr/images/revistas/RCS115/11SALOM.pdf",
+  "sha256": "9d597082209083c240fe6a74cb290bc2279475a2eaf9e57d296301ed04508c98",
+  "requires_ocr": false,
+  "chapters": [
+   {
+    "title": "Título y autoría",
+    "file": "salom-resena-militantes-2007/chapters/00-titulo-y-autoria.md",
+    "pdf_pages": [
+     1
+    ]
+   },
+   {
+    "title": "Texto de la reseña y bibliografía",
+    "file": "salom-resena-militantes-2007/chapters/01-resena.md",
+    "pdf_pages": [
+     1,
+     2,
+     3,
+     4
+    ]
+   }
+  ],
+  "limits": [
+   "Reseña a dos columnas con capa de texto nativa; no requirió OCR. El plan fija el orden de lectura; el paso de columna abre un párrafo nuevo aunque la frase continúe.",
+   "Reseña el libro de Ignacio Dobles Oropeza y Vilma Leandro Zúñiga, «Militantes». La vivencia de lo político en la segunda ola del marxismo en Costa Rica (EUCR, 2005); según la nota 1, se preparó para la presentación del libro el 18 de octubre de 2006.",
+   "La numeración impresa va de 143 a 146 (desplazamiento constante de 142).",
+   "Las frases del libro reseñado (con su paginación) y la cita de Ludolfo Paramio son citas mediadas por el reseñista.",
+   "La referencia del libro reseñado queda unida al primer párrafo, y la bibliografía forma parte de la misma sección que el texto."
+  ],
+  "added": "2026-11-08"
+ },
+ {
+  "id": "diaz-arias-crimen-viviana-gallardo-2017",
+  "title": "El crimen de Viviana Gallardo",
+  "author": "David Díaz Arias",
+  "publisher": "Centro de Investigaciones Históricas de América Central (CIHAC) y Vicerrectoría de Investigación, Universidad de Costa Rica, San José. Colección Avances de Investigación CIHAC, segunda época, n.º 1; primera edición",
+  "year": 2017,
+  "pdf_pages": 34,
+  "source_url": "https://api.obregon.cihac.fcs.ucr.ac.cr/obregon/api/core/bitstreams/50e1fd06-4b73-4e07-ae12-2fcacd1b5396/content",
+  "sha256": "299c5f5fc2b7ae61f799cb292664be8c323f5beb9bebd4dd866d7294a46ad1ee",
+  "requires_ocr": false,
+  "chapters": [
+   {
+    "title": "Cubierta",
+    "file": "diaz-arias-crimen-viviana-gallardo-2017/chapters/00-cubierta.md",
+    "pdf_pages": [
+     1
+    ]
+   },
+   {
+    "title": "Portada",
+    "file": "diaz-arias-crimen-viviana-gallardo-2017/chapters/01-portada.md",
+    "pdf_pages": [
+     2
+    ]
+   },
+   {
+    "title": "Créditos y datos de la publicación",
+    "file": "diaz-arias-crimen-viviana-gallardo-2017/chapters/02-creditos.md",
+    "pdf_pages": [
+     3
+    ]
+   },
+   {
+    "title": "Índice",
+    "file": "diaz-arias-crimen-viviana-gallardo-2017/chapters/03-indice.md",
+    "pdf_pages": [
+     4,
+     5
+    ]
+   },
+   {
+    "title": "Introducción",
+    "file": "diaz-arias-crimen-viviana-gallardo-2017/chapters/04-introduccion.md",
+    "pdf_pages": [
+     6,
+     7,
+     8
+    ]
+   },
+   {
+    "title": "1. El enfrentamiento con la policía",
+    "file": "diaz-arias-crimen-viviana-gallardo-2017/chapters/05-enfrentamiento-con-la-policia.md",
+    "pdf_pages": [
+     9,
+     10,
+     11
+    ]
+   },
+   {
+    "title": "2. La Familia",
+    "file": "diaz-arias-crimen-viviana-gallardo-2017/chapters/06-la-familia.md",
+    "pdf_pages": [
+     12,
+     13,
+     14,
+     15,
+     16
+    ]
+   },
+   {
+    "title": "3. El asesinato de Gallardo",
+    "file": "diaz-arias-crimen-viviana-gallardo-2017/chapters/07-asesinato-de-gallardo.md",
+    "pdf_pages": [
+     17,
+     18,
+     19
+    ]
+   },
+   {
+    "title": "4. La conspiración para matar a Gallardo",
+    "file": "diaz-arias-crimen-viviana-gallardo-2017/chapters/08-conspiracion-para-matar-a-gallardo.md",
+    "pdf_pages": [
+     20,
+     21,
+     22
+    ]
+   },
+   {
+    "title": "5. La niña buena: las memorias de Viviana Gallardo",
+    "file": "diaz-arias-crimen-viviana-gallardo-2017/chapters/09-la-nina-buena.md",
+    "pdf_pages": [
+     23,
+     24,
+     25,
+     26,
+     27,
+     28
+    ]
+   },
+   {
+    "title": "6. ¿Crimen de Estado?",
+    "file": "diaz-arias-crimen-viviana-gallardo-2017/chapters/10-crimen-de-estado.md",
+    "pdf_pages": [
+     29,
+     30
+    ]
+   },
+   {
+    "title": "Conclusión",
+    "file": "diaz-arias-crimen-viviana-gallardo-2017/chapters/11-conclusion.md",
+    "pdf_pages": [
+     31,
+     32
+    ]
+   },
+   {
+    "title": "Acerca del autor",
+    "file": "diaz-arias-crimen-viviana-gallardo-2017/chapters/12-acerca-del-autor.md",
+    "pdf_pages": [
+     33
+    ]
+   },
+   {
+    "title": "Contraportada",
+    "file": "diaz-arias-crimen-viviana-gallardo-2017/chapters/13-contraportada.md",
+    "pdf_pages": [
+     34
+    ]
+   }
+  ],
+  "limits": [
+   "Cuaderno con capa de texto nativa; no requirió OCR. Se retiran el título corrido, el nombre de la colección y el folio del pie; las 135 notas se reproducen al final de cada página.",
+   "La cubierta y la contraportada son imágenes sin texto y la página 5 está en blanco; constan solo en el facsímil.",
+   "La numeración impresa arábiga empieza en la página 6 del PDF (desplazamiento constante de 5).",
+   "Las citas de prensa de 1981, de documentos judiciales e interamericanos y de testimonios posteriores son citas mediadas por el autor; por respeto a las identidades, solo conserva los nombres de personas que se hicieron públicos o que ocupaban cargos públicos.",
+   "En las notas al pie no se aplica la protección de guiones: la URL de la nota 126 queda partida («…Gallardo-San- Pedro…»), y dos continuaciones que empiezan por «p.» quedan como párrafo aparte.",
+   "Es un avance de investigación, anunciado como parte de un libro en preparación con Iván Molina Jiménez."
+  ],
+  "added": "2026-11-08"
+ },
+ {
+  "id": "garcia-quesada-resena-verdadero-anticomunismo-2018",
+  "title": "Reseña del libro El verdadero anticomunismo. Política, género y Guerra Fría en Costa Rica (1948-1973), de Iván Molina Jiménez y David Díaz Arias (editores)",
+  "author": "George García Quesada",
+  "publisher": "Revista de Historia, n.º 78: 197-202, julio-diciembre de 2018, ISSN 1012-9790, Universidad Nacional (Costa Rica)",
+  "year": 2018,
+  "pdf_pages": 6,
+  "source_url": "https://doi.org/10.15359/rh.78.9",
+  "sha256": "c0c066a4622fcee05b2f962d09d0b1cee1db126e02dbf0b02eae882a6c743f7a",
+  "requires_ocr": false,
+  "chapters": [
+   {
+    "title": "Título, autoría y palabras clave",
+    "file": "garcia-quesada-resena-verdadero-anticomunismo-2018/chapters/00-titulo-autoria-y-palabras-clave.md",
+    "pdf_pages": [
+     1
+    ]
+   },
+   {
+    "title": "Texto de la reseña",
+    "file": "garcia-quesada-resena-verdadero-anticomunismo-2018/chapters/01-resena.md",
+    "pdf_pages": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ]
+   }
+  ],
+  "limits": [
+   "Reseña con capa de texto nativa a una columna; no requirió OCR. Se retiran cabecera, pie, folio y el aviso de licencia (CC BY-NC-SA 4.0), que se transcribe en el plan y el README.",
+   "Reseña el libro editado por Iván Molina Jiménez y David Díaz Arias, El verdadero anticomunismo. Política, género y Guerra Fría en Costa Rica (1948-1973) (San José: EUNED, 2017).",
+   "La numeración impresa va de 197 a 202 (desplazamiento constante de 196).",
+   "Las tesis de los capítulos del libro reseñado llegan mediadas por el reseñista, que las lee con el concepto de «fantasía paranoide» de Žižek.",
+   "El título en inglés queda como «(1948- 1973)» y una palabra partida entre las páginas 2 y 3 queda separada."
+  ],
+  "added": "2026-11-08"
+ },
+ {
+  "id": "rosales-elecciones-2014-ciep-2015",
+  "title": "Elecciones Costa Rica 2014: el aparente giro hacia el progresismo de izquierda mediante el triunfo del Partido Acción Ciudadana y el ascenso del Frente Amplio",
+  "author": "Rotsay Rosales Valladares",
+  "publisher": "Anuario del Centro de Investigación y Estudios Políticos (CIEP), vol. 6: 155-175, 2015, ISSN 2215-2873, Universidad de Costa Rica",
+  "year": 2015,
+  "pdf_pages": 21,
+  "source_url": "https://revistas.ucr.ac.cr/index.php/ciep/article/download/1487/1814",
+  "sha256": "1bac17b2cfff2a2834f4c1cc82f1c1970184e279369eb52b340bfa4f8344f484",
+  "requires_ocr": false,
+  "chapters": [
+   {
+    "title": "Elecciones Costa Rica 2014: el aparente giro hacia el progresismo de izquierda mediante el triunfo del Partido Acción Ciudadana y el ascenso del Frente Amplio",
+    "file": "rosales-elecciones-2014-ciep-2015/chapters/00-articulo.md",
+    "pdf_pages": [
+     1
+    ]
+   },
+   {
+    "title": "Resumen y palabras clave",
+    "file": "rosales-elecciones-2014-ciep-2015/chapters/01-resumen-y-palabras-clave.md",
+    "pdf_pages": [
+     1,
+     2
+    ]
+   },
+   {
+    "title": "Abstract y keywords",
+    "file": "rosales-elecciones-2014-ciep-2015/chapters/02-abstract-y-keywords.md",
+    "pdf_pages": [
+     2
+    ]
+   },
+   {
+    "title": "Introducción",
+    "file": "rosales-elecciones-2014-ciep-2015/chapters/03-introduccion.md",
+    "pdf_pages": [
+     2,
+     3,
+     4,
+     5
+    ]
+   },
+   {
+    "title": "Las elecciones nacionales del 2014",
+    "file": "rosales-elecciones-2014-ciep-2015/chapters/04-elecciones-nacionales-2014.md",
+    "pdf_pages": [
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13
+    ]
+   },
+   {
+    "title": "El primer año del gobierno PAC: limitaciones para un cambio progresista de izquierda",
+    "file": "rosales-elecciones-2014-ciep-2015/chapters/05-primer-ano-del-gobierno-pac.md",
+    "pdf_pages": [
+     13,
+     14,
+     15,
+     16,
+     17
+    ]
+   },
+   {
+    "title": "Fuentes consultadas",
+    "file": "rosales-elecciones-2014-ciep-2015/chapters/06-fuentes-consultadas.md",
+    "pdf_pages": [
+     18,
+     19,
+     20,
+     21
+    ]
+   }
+  ],
+  "limits": [
+   "Artículo con capa de texto nativa a una columna; no requirió OCR. Se retiran cabecera, pie y folio; las notas se reproducen al final de cada página.",
+   "Las tablas 1, 2 y 3 se transcribieron a mano en extraction/table-overrides.json y se cotejaron con el facsímil; conservan las erratas del original. La columna de emblemas de la tabla 1 y la correspondencia de valores del gráfico 1 deben leerse en el facsímil.",
+   "La numeración impresa va de 155 a 175 (desplazamiento constante de 154).",
+   "En la nota 12 el empalme de guiones deja «no-partidariase dedicó» donde el original dice «no-partidaria- se dedicó».",
+   "Análisis politológico escrito al cumplirse el primer año del gobierno de Solís (ponencia de julio de 2015), desde una posición que el autor declara afín al progresismo de izquierda."
+  ],
+  "added": "2026-11-08"
+ },
+ {
+  "id": "frente-amplio-estatuto",
+  "title": "Partido Frente Amplio: Estatuto (texto con las reformas acreditadas hasta el 22 de marzo de 2025)",
+  "author": "Partido Frente Amplio",
+  "publisher": "Partido Frente Amplio (documento partidario publicado en su sitio oficial; sin pie editorial)",
+  "year": 2025,
+  "pdf_pages": 70,
+  "source_url": "https://www.frenteamplio.org/wp-content/uploads/2025/06/EOPFA.pdf",
+  "sha256": "f1d3828a1820c1e280dc2aedf4e5f38037fc602475c9473d7ae9d1612e993b5e",
+  "requires_ocr": false,
+  "chapters": [
+   {
+    "title": "Partido Frente Amplio: Estatuto",
+    "file": "frente-amplio-estatuto/chapters/00-portada.md",
+    "pdf_pages": [
+     1
+    ]
+   },
+   {
+    "title": "Capítulo I. Del Nombre, Sede y Emblemas",
+    "file": "frente-amplio-estatuto/chapters/01-capitulo-i-nombre-sede-y-emblemas.md",
+    "pdf_pages": [
+     1,
+     2
+    ]
+   },
+   {
+    "title": "Capítulo II. De los Principios Doctrinales y Programáticos",
+    "file": "frente-amplio-estatuto/chapters/02-capitulo-ii-principios-doctrinales-y-programaticos.md",
+    "pdf_pages": [
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10
+    ]
+   },
+   {
+    "title": "Capítulo III. De los Afiliados/as, Sus Deberes y Derechos",
+    "file": "frente-amplio-estatuto/chapters/03-capitulo-iii-afiliados-deberes-y-derechos.md",
+    "pdf_pages": [
+     10,
+     11,
+     12,
+     13,
+     14,
+     15,
+     16,
+     17
+    ]
+   },
+   {
+    "title": "Capítulo IV. De los Órganos Legales",
+    "file": "frente-amplio-estatuto/chapters/04-capitulo-iv-organos-legales.md",
+    "pdf_pages": [
+     17,
+     18,
+     19,
+     20,
+     21,
+     22,
+     23,
+     24,
+     25,
+     26,
+     27,
+     28,
+     29,
+     30,
+     31,
+     32,
+     33,
+     34
+    ]
+   },
+   {
+    "title": "Capítulo V. De los puestos de elección popular",
+    "file": "frente-amplio-estatuto/chapters/05-capitulo-v-puestos-de-eleccion-popular.md",
+    "pdf_pages": [
+     34,
+     35,
+     36,
+     37
+    ]
+   },
+   {
+    "title": "Capítulo VI. De los Órganos de Dirección y Operación Política",
+    "file": "frente-amplio-estatuto/chapters/06-capitulo-vi-organos-de-direccion-y-operacion-politica.md",
+    "pdf_pages": [
+     37,
+     38,
+     39,
+     40,
+     41,
+     42,
+     43,
+     44,
+     45,
+     46,
+     47,
+     48,
+     49,
+     50
+    ]
+   },
+   {
+    "title": "Capítulo VII. Mecanismos de Democracia Participativa",
+    "file": "frente-amplio-estatuto/chapters/07-capitulo-vii-mecanismos-de-democracia-participativa.md",
+    "pdf_pages": [
+     50,
+     51,
+     52,
+     53
+    ]
+   },
+   {
+    "title": "Capítulo VIII. De los Principios de Acción Política",
+    "file": "frente-amplio-estatuto/chapters/08-capitulo-viii-principios-de-accion-politica.md",
+    "pdf_pages": [
+     53,
+     54,
+     55,
+     56,
+     57
+    ]
+   },
+   {
+    "title": "Capítulo IX. De las Finanzas y el Control Contable",
+    "file": "frente-amplio-estatuto/chapters/09-capitulo-ix-finanzas-y-control-contable.md",
+    "pdf_pages": [
+     57,
+     58,
+     59,
+     60
+    ]
+   },
+   {
+    "title": "Capítulo X. De las Sanciones Disciplinarias, la Revocatoria de Mandato y los Estímulos",
+    "file": "frente-amplio-estatuto/chapters/10-capitulo-x-sanciones-revocatoria-y-estimulos.md",
+    "pdf_pages": [
+     60,
+     61,
+     62,
+     63
+    ]
+   },
+   {
+    "title": "Capítulo XI. Disposiciones Generales",
+    "file": "frente-amplio-estatuto/chapters/11-capitulo-xi-disposiciones-generales.md",
+    "pdf_pages": [
+     63,
+     64,
+     65
+    ]
+   },
+   {
+    "title": "Transitorios",
+    "file": "frente-amplio-estatuto/chapters/12-transitorios.md",
+    "pdf_pages": [
+     65,
+     66,
+     67,
+     68,
+     69
+    ]
+   },
+   {
+    "title": "Modificaciones acreditadas",
+    "file": "frente-amplio-estatuto/chapters/13-modificaciones-acreditadas.md",
+    "pdf_pages": [
+     70
+    ]
+   }
+  ],
+  "limits": [
+   "Estatuto exportado desde Word, con capa de texto nativa; no requirió OCR. Los párrafos se rehacen por posición vertical; los de un mismo artículo quedan unidos porque el original no los separa con espacio adicional.",
+   "Sin fecha de emisión. El año 2025 corresponde a la última modificación acreditada que lista el propio documento (Asamblea Nacional del 22-03-2025, Resolución DGRE-0047-DRPP-2025); los metadatos del PDF registran creación el 6 de junio de 2025. No se deduce de ello la vigencia del texto.",
+   "Las anotaciones de reforma («Reformado en…», «Creado en…», «Anterior artículo…») se conservan en su lugar, después del texto reformado; no son notas al pie.",
+   "Documento público de una organización política; no declara licencia ni reserva de derechos.",
+   "Es un texto normativo: dice cómo el partido se define y organiza, no cómo funciona en la práctica."
+  ],
+  "added": "2026-11-08"
  }
 ]

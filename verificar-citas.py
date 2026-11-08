@@ -13,6 +13,7 @@ p = argparse.ArgumentParser(description=__doc__)
 p.add_argument('--corpus', action='store_true')
 p.add_argument('--json', action='store_true', help='Guardar informe en research/verification.json')
 a = p.parse_args()
+EDITION = '2026-11-08'  # fecha de la edición; el corte de los acontecimientos sigue siendo el 6 de noviembre
 external = {}
 errors, warnings = [], []
 stats = dict(chapters=0, notes=0, corpus_references=0, web_references=0, pages_checked=0, evidence_rows=0, literal_quotes_checked=0, facsimile_review_rows=0)
@@ -24,8 +25,8 @@ for f in sorted((ROOT/'research').glob('external-*.json')):
         for field in ['author', 'title', 'url', 'accessed', 'locator']:
             if not record.get(field):
                 errors.append(f'{f.name}: falta {field} en {record["id"]}')
-        if record.get('accessed', '9999') > '2026-11-06':
-            errors.append(f'Consulta posterior al corte: {record["id"]}')
+        if record.get('accessed', '9999') > EDITION:
+            errors.append(f'Consulta posterior a la edición: {record["id"]}')
 seen_pages = set()
 for f in sorted(ROOT.glob('[0-9][0-9]-*.md')):
     number = int(f.name[:2])
@@ -104,7 +105,7 @@ stats['pages_checked']=len(seen_pages)
 if stats['chapters'] != 17: errors.append(f'Se esperan 16 capítulos y epílogo; encontrados {stats["chapters"]}')
 if not a.corpus: warnings.append('Sin corpus: páginas contrastadas solo con catálogo. No se verificó el texto de las fuentes locales.')
 warnings.append('Las comprobaciones automáticas no certifican respaldo semántico, causalidad, representatividad ni exactitud del OCR. La revisión de facsímiles se registra por afirmación; no cubre todas las páginas.')
-report={'mode':'local-corpus' if a.corpus else 'public-metadata','cutoff':'2026-11-06','counts':stats,'errors':errors,'limitations':warnings}
+report={'mode':'local-corpus' if a.corpus else 'public-metadata','cutoff':'2026-11-06','edition':EDITION,'counts':stats,'errors':errors,'limitations':warnings}
 if a.json: (ROOT/'research/verification.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')
 print(json.dumps(report,ensure_ascii=False,indent=2))
 raise SystemExit(bool(errors))

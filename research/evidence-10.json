@@ -171,6 +171,227 @@
   },
   {
     "note": 13,
+    "claim": "El 12 de junio de 1981, en Guadalupe, un tiroteo entre policías y cuatro jóvenes dejó tres policías y un joven muertos; un taxista murió en la huida y Viviana Gallardo, de 18 años, fue capturada. Díaz Arias describe al grupo como jóvenes marxistas-leninistas imbuidos de la teoría de la guerra popular prolongada.",
+    "source": "diaz-arias-crimen-viviana-gallardo-2017",
+    "pages": [
+      9,
+      10
+    ],
+    "type": "hecho",
+    "counterpoint": "Reconstrucción basada en prensa de 1981; un reportaje del Semanario Universidad la cuestionó sin pruebas, según el autor. La orientación ideológica se introduce con «al parecer».",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/diaz-arias-crimen-viviana-gallardo-2017/chapters/05-enfrentamiento-con-la-policia.md"
+    ],
+    "quote": "se produjo un intercambio de disparos del que salieron mortalmente heridos tres policías y uno de los jóvenes … imbuidos por la teoría de la guerra popular prolongada y con conexiones con grupos subversivos centroamericanos"
+  },
+  {
+    "note": 14,
+    "claim": "Investigaciones vincularon al grupo con el ataque a marines del 17 de marzo y el tiroteo en Zapote; el OIJ identificó quince células; el ministro Carmona dijo que se llamaban «La Familia», con inicios en 1976; en septiembre de 1983 se condenó a 15 de 19 procesados por asociación ilícita, con estatutos que proponían una guerra popular prolongada.",
+    "source": "diaz-arias-crimen-viviana-gallardo-2017",
+    "pages": [
+      7,
+      15,
+      16,
+      31
+    ],
+    "type": "hecho",
+    "counterpoint": "Datos de fuentes oficiales y prensa citadas por el autor; la ideología del grupo la estudia Rey Tristán, no Díaz Arias.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/diaz-arias-crimen-viviana-gallardo-2017/chapters/04-introduccion.md",
+      "data/books/diaz-arias-crimen-viviana-gallardo-2017/chapters/06-la-familia.md",
+      "data/books/diaz-arias-crimen-viviana-gallardo-2017/chapters/11-conclusion.md"
+    ],
+    "quote": "El único trabajo académico que existe sobre … identificado quince células del grupo, compuesta cada una por cuatro o cinco personas … sus inicios se podían rastrear hasta 1976 … aplicó penas de entre 3 y 15 años a 15 de las 19 personas"
+  },
+  {
+    "note": 15,
+    "claim": "La prensa y autoridades usaron el lenguaje del «terrorismo» y del origen extranjero; murió un ciudadano en un control; el gobierno propuso disparos en defensa propia y allanamientos sin orden; el MCRL, Pueblo Unido y el PVP se pronunciaron; el PVP advirtió contra institucionalizar la represión.",
+    "source": "diaz-arias-crimen-viviana-gallardo-2017",
+    "pages": [
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Que el lenguaje promoviera la violencia es interpretación del autor; los comunicados son declaraciones de parte.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/diaz-arias-crimen-viviana-gallardo-2017/chapters/05-enfrentamiento-con-la-policia.md",
+      "data/books/diaz-arias-crimen-viviana-gallardo-2017/chapters/06-la-familia.md"
+    ],
+    "quote": "al éxodo de suramericanos extremistas … allanamientos sin autorización judicial … ¡Los términos medios no existen! … hechos aislados sirvan para institucionalizar la represión, contra las organizaciones populares"
+  },
+  {
+    "note": 16,
+    "claim": "El 1 de julio de 1981 el cabo José Manuel Bolaños Quesada mató a Gallardo en su celda e hirió a dos detenidas; alegó venganza y luego una conjura; fue condenado el 2 de marzo de 1982 a 24 años (reducidos a 18) y obtuvo libertad condicional el 30 de septiembre de 1987. Díaz Arias considera infundada la tesis de la delación y poco creíble la de altas autoridades.",
+    "source": "diaz-arias-crimen-viviana-gallardo-2017",
+    "pages": [
+      6,
+      17,
+      18,
+      21,
+      22,
+      31,
+      32
+    ],
+    "type": "hecho",
+    "counterpoint": "El móvil sigue sin establecerse; el juicio sobre las tesis conspirativas es interpretación del autor.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/diaz-arias-crimen-viviana-gallardo-2017/chapters/04-introduccion.md",
+      "data/books/diaz-arias-crimen-viviana-gallardo-2017/chapters/07-asesinato-de-gallardo.md",
+      "data/books/diaz-arias-crimen-viviana-gallardo-2017/chapters/08-conspiracion-para-matar-a-gallardo.md",
+      "data/books/diaz-arias-crimen-viviana-gallardo-2017/chapters/11-conclusion.md"
+    ],
+    "quote": "A las 5:20 de la mañana del primero de julio de 1981 … al condenar a Bolaños a 24 de años de prisión el 2 de marzo de 1982 … la investigación que se había hecho terminó en un punto muerto … el 30 de setiembre de 1987 obtuvo la libertad condicional … carece de fundamento"
+  },
+  {
+    "note": 17,
+    "claim": "El gobierno de Costa Rica, por medio de la ministra Odio Benito, llevó el caso a la Corte IDH renunciando a recursos internos y al trámite ante la Comisión; la Corte no admitió la demanda (13-11-1981), la CIDH la declaró inadmisible (30-6-1983) y la Corte retiró el asunto (septiembre de 1983). Odio calificó de infundada la tesis del crimen de Estado en 2017.",
+    "source": "diaz-arias-crimen-viviana-gallardo-2017",
+    "pages": [
+      19,
+      30
+    ],
+    "type": "hecho",
+    "counterpoint": "Documentos interamericanos conocidos de forma mediada; la declaración de Odio es testimonio de una exfuncionaria.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/diaz-arias-crimen-viviana-gallardo-2017/chapters/07-asesinato-de-gallardo.md",
+      "data/books/diaz-arias-crimen-viviana-gallardo-2017/chapters/10-crimen-de-estado.md"
+    ],
+    "quote": "no admitir la demanda introducida por el Gobierno de Costa Rica para el examen del caso de Viviana Gallardo y otras … suprimir de su lista de asuntos pendientes … carece de todo fundamento"
+  },
+  {
+    "note": 17,
+    "claim": "Boeglin sostiene que fue la primera y única vez que un Estado se denunció a sí mismo ante la jurisdicción interamericana, recuerda el voto salvado de Piza Escalante y cuestiona la rapidez de la libertad condicional de Bolaños.",
+    "source": "boeglin-gallardo-elmundo-2021",
+    "pages": [],
+    "type": "declaracion",
+    "counterpoint": "Columna de opinión de un jurista; transcribe documentos interamericanos no incluidos en el corpus y contiene una discrepancia interna sobre si la familia prosiguió el caso.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "local_paths": [
+      "data/books/prensa-elmundo-2021-boeglin-viviana-gallardo/chapters/00-articulo.md"
+    ]
+  },
+  {
+    "note": 17,
+    "claim": "Versión breve de la misma columna: denuncia del Estado contra sí mismo, fechas del 6 y 15 de julio de 1981 y voto salvado de Piza Escalante.",
+    "source": "boeglin-gallardo-delfino-2021",
+    "pages": [],
+    "type": "declaracion",
+    "counterpoint": "Columna de opinión; las fechas de la gestión difieren de la que da Díaz Arias (13 de julio de 1981).",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "local_paths": [
+      "data/books/prensa-delfino-2021-40-anos-viviana-gallardo/chapters/00-articulo.md"
+    ]
+  },
+  {
+    "note": 18,
+    "claim": "Díaz Arias describe una guerra de la memoria: prensa que vuelve a la conspiración, testimonios de la madre (2011) y de Sagot, memorias de antiguos integrantes y la placa de junio de 2017 retirada por la municipalidad.",
+    "source": "diaz-arias-crimen-viviana-gallardo-2017",
+    "pages": [
+      7,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      32
+    ],
+    "type": "interpretacion",
+    "counterpoint": "La crítica a la memoria de Sagot es interpretación del autor; los testimonios de integrantes se conocen sin nombres.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/diaz-arias-crimen-viviana-gallardo-2017/chapters/04-introduccion.md",
+      "data/books/diaz-arias-crimen-viviana-gallardo-2017/chapters/09-la-nina-buena.md",
+      "data/books/diaz-arias-crimen-viviana-gallardo-2017/chapters/10-crimen-de-estado.md",
+      "data/books/diaz-arias-crimen-viviana-gallardo-2017/chapters/11-conclusion.md"
+    ],
+    "quote": "algo que podría considerarse una guerra de la memoria … Al infantilizar a Gallardo, Sagot desconoce su protagonismo histórico … Asesinada impunemente por el Estado de Costa Rica … volver sobre el asunto e insistir en la tesis de la conspiración, pero sin ir más allá de lo testimonial"
+  },
+  {
+    "note": 18,
+    "claim": "Un boletín de Delfino.cr (8-6-2017) comentó la placa y resumió la polarización entre la imagen de una activista asesinada por el Estado y la de una guerrillera al mando de un grupo terrorista.",
+    "source": "delfino-fantasma-gallardo-2017",
+    "pages": [],
+    "type": "declaracion",
+    "counterpoint": "Boletín de opinión; sus afirmaciones sobre los hechos de 1981 no se adoptan.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "local_paths": [
+      "data/books/prensa-delfino-2017-fantasma-viviana-gallardo/chapters/00-articulo.md"
+    ]
+  },
+  {
+    "note": 18,
+    "claim": "Una nota de Delfino.cr (13-9-2024) anunció la exhibición en el DocsMX del documental Lo que olvidamos, de Zenén Vargas Salas, sobre Gallardo, las alegaciones de inocencia y las teorías de conspiración.",
+    "source": "delfino-lo-que-olvidamos-2024",
+    "pages": [],
+    "type": "hecho",
+    "counterpoint": "Acredita el anuncio y la sinopsis; no el contenido del documental, que no se vio.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "local_paths": [
+      "data/books/prensa-delfino-2024-documental-lo-que-olvidamos/chapters/00-articulo.md"
+    ]
+  },
+  {
+    "note": 19,
+    "claim": "El PVP condenó públicamente el terrorismo en junio de 1981 y advirtió contra la institucionalización de la represión.",
+    "source": "diaz-arias-crimen-viviana-gallardo-2017",
+    "pages": [
+      14
+    ],
+    "type": "declaracion",
+    "counterpoint": "Comunicado partidario citado por Díaz Arias; declaración de parte.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/diaz-arias-crimen-viviana-gallardo-2017/chapters/06-la-familia.md"
+    ],
+    "quote": "el Partido Vanguardia Popular (PVP) manifestó que siempre había estado en contra de toda forma de terrorismo"
+  },
+  {
+    "note": 19,
+    "claim": "Leandro y Dobles tratan a «La Familia» como caso aparte y fuertemente reprimido que intentó llevar a la práctica la lucha armada.",
+    "source": "dobles-segunda-ola-marxismo-2003",
+    "pages": [
+      12
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Caracterización breve, sin estudio del grupo; la circulación del repertorio hasta 1983 es inferencia de esta edición.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/dobles-segunda-ola-marxismo-2003/chapters/02-texto-y-bibliografia.md"
+    ],
+    "quote": "como caso aparte (y fuertemente reprimido) tenemos la experiencia del grupo denominado por la prensa"
+  },
+  {
+    "note": 20,
     "claim": "Difusión pública diciembre de 1983 y negaciones iniciales",
     "source": "comunismo-a-la-tica-pvp-2020",
     "pages": [
@@ -184,7 +405,25 @@
     "visual_checked": false
   },
   {
-    "note": 14,
+    "note": 21,
+    "claim": "Cortés contextualiza la actitud de la DIS en 1983 con la impronta fresca de «La Familia» y sugiere que pudo aumentar el seguimiento de la izquierda por los organismos de seguridad.",
+    "source": "comunismo-a-la-tica-pvp-2020",
+    "pages": [
+      47,
+      48
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Hipótesis formulada como posibilidad; las acciones de 1981 que menciona (asaltos bancarios) no constan en la reconstrucción de Díaz Arias.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/comunismo-a-la-tica-pvp-2020/chapters/07-la-prensa-entra-en-accion.md"
+    ],
+    "quote": "estaba aún fresca la impronta de los acontecimientos protagonizados por el grupo denominado … podría haber provocado un mayor seguimiento y control por parte de los organismos de seguridad del Estado"
+  },
+  {
+    "note": 22,
     "claim": "Nacionalización simbólica de Mora y extranjerización de oponentes",
     "source": "comunismo-a-la-tica-pvp-2020",
     "pages": [
@@ -198,7 +437,7 @@
     "visual_checked": false
   },
   {
-    "note": 15,
+    "note": 23,
     "claim": "Representación periodística de Ferreto y Vargas",
     "source": "comunismo-a-la-tica-pvp-2020",
     "pages": [
@@ -211,7 +450,25 @@
     "visual_checked": false
   },
   {
-    "note": 16,
+    "note": 24,
+    "claim": "Manuel Mora, Merino y Ferreto explicaron la división por divergencias políticas; Eduardo Mora la atribuyó al peso juvenil de la dirección; los autores concluyen que no fueron problemas generacionales.",
+    "source": "dobles-segunda-ola-marxismo-2003",
+    "pages": [
+      12,
+      13
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Resumen de memorias de protagonistas no incluidas en el corpus.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/dobles-segunda-ola-marxismo-2003/chapters/02-texto-y-bibliografia.md"
+    ],
+    "quote": "mientras que Manuel Mora, José Merino y Arnoldo Ferreto la explican en términos de divergencias políticas … Lo que no explica el peso de una figura veterana como Ferreto en el otro bando … estos no son problemas generacionales"
+  },
+  {
+    "note": 25,
     "claim": "Filtración de la carta de Chaves y participación de La Nación",
     "source": "comunismo-a-la-tica-pvp-2020",
     "pages": [
@@ -225,7 +482,7 @@
     "visual_checked": false
   },
   {
-    "note": 17,
+    "note": 26,
     "claim": "El MCRL rechaza la distinción entre comunistas buenos y malos",
     "source": "comunismo-a-la-tica-pvp-2020",
     "pages": [
@@ -236,7 +493,7 @@
     "visual_checked": false
   },
   {
-    "note": 18,
+    "note": 27,
     "claim": "Representación jurídica, dos periódicos y expulsiones de 1984",
     "source": "comunismo-a-la-tica-pvp-2020",
     "pages": [
@@ -253,7 +510,7 @@
     "visual_checked": false
   },
   {
-    "note": 19,
+    "note": 28,
     "claim": "Congreso morista, resolución del Registro y formación del PPC en 1984",
     "source": "comunismo-a-la-tica-pvp-2020",
     "pages": [
@@ -266,7 +523,7 @@
     "visual_checked": false
   },
   {
-    "note": 20,
+    "note": 29,
     "claim": "Dificultades financieras y desmoralización tras la ruptura",
     "source": "comunismo-a-la-tica-pvp-2020",
     "pages": [
@@ -278,7 +535,7 @@
     "visual_checked": false
   },
   {
-    "note": 21,
+    "note": 30,
     "claim": "Multicausalidad de la crisis y papel de la prensa",
     "source": "comunismo-a-la-tica-pvp-2020",
     "pages": [
@@ -292,7 +549,7 @@
     "visual_checked": false
   },
   {
-    "note": 22,
+    "note": 31,
     "claim": "En los años treinta la dirigencia del BOC, especialmente Mora, afirmaba un «genuino comunismo costarricense» para contrarrestar la propaganda que lo desnacionalizaba.",
     "source": "moradas-y-discursos-molina-2010",
     "pages": [
@@ -309,7 +566,7 @@
     "quote": "afirmar que el suyo era un genuino comunismo costarricense (\"a la tica\")"
   },
   {
-    "note": 22,
+    "note": 31,
     "claim": "Angulo atribuye a Víctor Hugo Acuña (1996) la conceptualización del comunismo a la tica: formulado en 1938, con contenido presente desde la fundación.",
     "source": "era-del-desencanto-angulo-2021",
     "pages": [
@@ -327,7 +584,7 @@
     "quote": "el comunismo a la tica fue más tico que comunista … el comunismo a la tica aunque fue formulado en 1938 su contenido existía desde la fundación del partido"
   },
   {
-    "note": 23,
+    "note": 32,
     "claim": "Crisis de la izquierda costarricense anterior al derrumbe europeo",
     "source": "comunismo-a-la-tica-pvp-2020",
     "pages": [

@@ -80,6 +80,120 @@
   },
   {
     "note": 7,
+    "claim": "El artículo 4 define al FA con doce atributos y funda su socialismo en valores del humanismo, la ilustración y el socialismo; el artículo 5 pide evitar la dictadura del capital.",
+    "source": "frente-amplio-estatuto",
+    "pages": [
+      2,
+      3,
+      4
+    ],
+    "type": "declaracion",
+    "counterpoint": "Autodefinición normativa en texto con reformas hasta 2025; no prueba cumplimiento ni se proyecta sobre 2004.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/frente-amplio-estatuto/chapters/01-capitulo-i-nombre-sede-y-emblemas.md",
+      "data/books/frente-amplio-estatuto/chapters/02-capitulo-ii-principios-doctrinales-y-programaticos.md"
+    ],
+    "quote": "Promete respetar el orden constitucional, de acuerdo con el sistema de democracia representativa y participativa … El Frente Amplio es SOCIALISTA. Lucha por una sociedad inclusiva, igualitaria, próspera, culta y sostenible que se apoye en los valores del humanismo, de la ilustración y del socialismo … se evite la dictadura del capital"
+  },
+  {
+    "note": 7,
+    "claim": "Las fórmulas de respeto al orden constitucional y de no subordinación a organizaciones o Estados extranjeros responderían a exigencias de inscripción más que a rasgos doctrinales propios.",
+    "source": "frente-amplio-estatuto",
+    "pages": [
+      2,
+      3
+    ],
+    "type": "inferencia",
+    "counterpoint": "Inferencia de esta edición a partir de la coincidencia con el estatuto del PT y con el artículo 98 reformado; no se cotejó la legislación electoral.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/frente-amplio-estatuto/chapters/01-capitulo-i-nombre-sede-y-emblemas.md",
+      "data/books/frente-amplio-estatuto/chapters/02-capitulo-ii-principios-doctrinales-y-programaticos.md"
+    ],
+    "quote": "su acción política no estará subordinada a disposiciones de Organizaciones o Estados Extranjeros"
+  },
+  {
+    "note": 8,
+    "claim": "El estatuto prevé Comisión Política con línea obligatoria, frentes sectoriales, foros, comités de base y congreso; exige unidad de acción, pero admite corrientes temporales y minorías ideológicas hasta que un congreso resuelva.",
+    "source": "frente-amplio-estatuto",
+    "pages": [
+      37,
+      38,
+      39,
+      44,
+      45,
+      54,
+      55
+    ],
+    "type": "declaracion",
+    "counterpoint": "Normas escritas; no prueban funcionamiento efectivo de órganos ni de corrientes.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/frente-amplio-estatuto/chapters/05-capitulo-v-puestos-de-eleccion-popular.md",
+      "data/books/frente-amplio-estatuto/chapters/06-capitulo-vi-organos-de-direccion-y-operacion-politica.md",
+      "data/books/frente-amplio-estatuto/chapters/08-capitulo-viii-principios-de-accion-politica.md"
+    ],
+    "quote": "Sus resoluciones son de acatamiento obligatorio para todas las instancias del Partido y las personas electas en cargos de elección popular. Es la instancia que da línea política … las corrientes de opinión sean admitidas en los debates partidarios y se puedan constituir de manera temporal … hasta que un Congreso resuelva en definitiva"
+  },
+  {
+    "note": 9,
+    "claim": "El estatuto registra dieciséis reformas acreditadas entre 2009 y el 22-3-2025, incluida la renumeración de 2015 y una denegación parcial del Registro Electoral sobre revocatoria.",
+    "source": "frente-amplio-estatuto",
+    "pages": [
+      3,
+      38,
+      52,
+      53,
+      54,
+      57,
+      61,
+      62,
+      70
+    ],
+    "type": "hecho",
+    "counterpoint": "Las anotaciones no siempre precisan la frase reformada; discrepancia interna en la fecha de una asamblea de 2015.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/frente-amplio-estatuto/chapters/02-capitulo-ii-principios-doctrinales-y-programaticos.md",
+      "data/books/frente-amplio-estatuto/chapters/06-capitulo-vi-organos-de-direccion-y-operacion-politica.md",
+      "data/books/frente-amplio-estatuto/chapters/07-capitulo-vii-mecanismos-de-democracia-participativa.md",
+      "data/books/frente-amplio-estatuto/chapters/08-capitulo-viii-principios-de-accion-politica.md",
+      "data/books/frente-amplio-estatuto/chapters/09-capitulo-ix-finanzas-y-control-contable.md",
+      "data/books/frente-amplio-estatuto/chapters/10-capitulo-x-sanciones-revocatoria-y-estimulos.md",
+      "data/books/frente-amplio-estatuto/chapters/13-modificaciones-acreditadas.md"
+    ],
+    "quote": "se indica que a partir del presente artículo se modificará la numeración del cuerpo estatutario … se deniega la reforma atinente a la revocatoria del mandato … Reformado en Asamblea Nacional celebrada el 22-03-2025, Resolución DGRE-0047-DRPP-2025"
+  },
+  {
+    "note": 10,
+    "claim": "Las distinciones honoríficas del FA llevan nombres como Manuel Mora Valverde y Carmen Lyra o Carlos Luis Fallas y Luisa González; solo el inciso cultural se añadió en 2015.",
+    "source": "frente-amplio-estatuto",
+    "pages": [
+      62,
+      63
+    ],
+    "type": "hecho",
+    "counterpoint": "Memoria inscrita en la norma; no informa sobre otorgamientos ni prueba continuidad jurídica u organizativa.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/frente-amplio-estatuto/chapters/10-capitulo-x-sanciones-revocatoria-y-estimulos.md",
+      "data/books/frente-amplio-estatuto/chapters/11-capitulo-xi-disposiciones-generales.md"
+    ],
+    "quote": "Medalla de la Orden al Compromiso Histórico “Manuel Mora Valverde y Carmen Lyra” … Medalla de la Orden al Esfuerzo “Carlos Luis Fallas y Luisa González” … se incorpora el inciso d) a este artículo, el resto del texto se mantiene"
+  },
+  {
+    "note": 11,
     "claim": "Merino consultó sobre recursos públicos en campaña del referéndum en julio 2007.",
     "source": "tse-merino-referendum-2007",
     "pages": [],
@@ -88,7 +202,7 @@
     "visual_checked": false
   },
   {
-    "note": 8,
+    "note": 12,
     "claim": "Investigaciones UCR examinaban diversidad y continuidad parcial de comités patrióticos.",
     "source": "ucr-no-tlc-2008",
     "pages": [],
@@ -97,7 +211,7 @@
     "visual_checked": false
   },
   {
-    "note": 9,
+    "note": 13,
     "claim": "Referéndum 2007:805658 votos por el Sí y 756814 No, participación 59,2%.",
     "source": "tse-referendum-2007",
     "pages": [],
@@ -106,7 +220,7 @@
     "visual_checked": false
   },
   {
-    "note": 10,
+    "note": 14,
     "claim": "Una sola curul ofrecía capacidades limitadas de intervención.",
     "source": "tse-leg-2006",
     "pages": [],

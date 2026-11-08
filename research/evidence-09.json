@@ -320,6 +320,153 @@
   },
   {
     "note": 22,
+    "claim": "Leandro y Dobles definen la «segunda ola» del marxismo político costarricense (años 60–80) y distinguen dos momentos de auge; el de los setenta, con fuerzas influidas por Cuba y corrientes maoístas y europeas, ALCOA y la izquierda estudiantil.",
+    "source": "dobles-segunda-ola-marxismo-2003",
+    "pages": [
+      2,
+      7,
+      8
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Periodización propia de los autores; advierten que la relación entre crisis y auge de la izquierda no es mecánica.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/dobles-segunda-ola-marxismo-2003/chapters/01-resumen.md",
+      "data/books/dobles-segunda-ola-marxismo-2003/chapters/02-texto-y-bibliografia.md"
+    ],
+    "quote": "del marxismo político en nuestro país, en el contexto de la convulsión centroamericana de los años 60-80 … aunque de ninguna manera se puede establecer una relación mecanicista … influenciadas por la Revolución Cubana, y por corrientes maoístas y europeas"
+  },
+  {
+    "note": 23,
+    "claim": "El artículo analiza textos escritos por protagonistas tras el debilitamiento de los partidos, muchos con cargos de dirección; los autores rechazan que Salom descalifique a Ferreto por escribir en plena contienda.",
+    "source": "dobles-segunda-ola-marxismo-2003",
+    "pages": [
+      3,
+      4,
+      5
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Las obras de Salom, Araya y Ferreto no están en el corpus; su contenido llega mediado por los autores.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/dobles-segunda-ola-marxismo-2003/chapters/02-texto-y-bibliografia.md"
+    ],
+    "quote": "Estos textos fueron escritos en su mayoría después del debilitamiento de los partidos de izquierda de la época … la observación se podría aplicar a cualquier escrito de la época, incluyendo el del propio Salom"
+  },
+  {
+    "note": 24,
+    "claim": "Según Leandro y Dobles, Salom juzgaba adecuada la política de alianzas del PVP en los cuarenta y excesiva en los setenta, y contraponía la revolución democrático-burguesa como tarea pendiente (partidos comunistas) o cumplida (Mora); Araya veía en 1948 una huella que limitaba a la izquierda.",
+    "source": "dobles-segunda-ola-marxismo-2003",
+    "pages": [
+      5,
+      6,
+      9,
+      10
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Lecturas mediadas de autores que fueron parte de la contienda; la conexión con la división registrada por Delgado es inferencia de esta edición.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/dobles-segunda-ola-marxismo-2003/chapters/02-texto-y-bibliografia.md"
+    ],
+    "quote": "la derrota del partido Vanguardia Popular en la Guerra Civil de 1948 … Para los primeros se trataba de una tarea a cumplir, que definía una política de alianzas, para el segundo se trataba de una tarea ya cumplida en Costa Rica"
+  },
+  {
+    "note": 25,
+    "claim": "MRP y PSC, que acusaban de timidez al PVP, giraron hacia 1982 en sentido contrario, mientras órganos del PVP planteaban una situación «prerrevolucionaria»; el PSC acusó al PVP de confundir crisis económica y política.",
+    "source": "dobles-segunda-ola-marxismo-2003",
+    "pages": [
+      11,
+      12
+    ],
+    "type": "interpretacion",
+    "counterpoint": "La resolución del MRP llega por Salom y la del PSC por un documento partidario; ambos son rivales del PVP y no prueban decisiones de este.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/dobles-segunda-ola-marxismo-2003/chapters/02-texto-y-bibliografia.md"
+    ],
+    "quote": "acusando al PVP de tímido, terminan más bien girando en sentido contrario … la existencia de una situación … liquidarse como proyecto político alternativo … ha confundido la crisis económica con una crisis de carácter político"
+  },
+  {
+    "note": 26,
+    "claim": "Salom preguntó si el sufragio era una trampa; Araya calificó de «crimen político» dar connotación burguesa a la democracia; los autores señalan la ambigüedad de participar en elecciones con la consigna «no basta votar».",
+    "source": "dobles-segunda-ola-marxismo-2003",
+    "pages": [
+      16
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Fórmulas de protagonistas citadas por los autores, que consideran hiperbólica la de Araya.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/dobles-segunda-ola-marxismo-2003/chapters/02-texto-y-bibliografia.md"
+    ],
+    "quote": "el principal crimen político de la izquierda costarricense … como el de participar en un proceso electoral y a la vez utilizar la consigna"
+  },
+  {
+    "note": 27,
+    "claim": "Según Salom, Militantes (2005) se basó en cuarenta entrevistas, sobre todo a militantes de base de PVP, MRP y PSC, con solo un miembro de dirección; buscó sentidos y halló militancia como estilo de vida y experiencia formadora.",
+    "source": "salom-resena-militantes-2007",
+    "pages": [
+      1,
+      2
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Reseña breve y comprometida de un autor analizado en el propio estudio; el contenido del libro llega mediado.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/salom-resena-militantes-2007/chapters/01-resena.md"
+    ],
+    "quote": "a partir de 40 entrevistas a hombres y mujeres, en su gran mayoría militantes de base … solo un miembro de dirección fue entrevistado … como una experiencia importante, incluso formadora"
+  },
+  {
+    "note": 27,
+    "claim": "Leandro y Dobles advierten que las discusiones de las alturas no reflejan necesariamente cómo vivieron las divisiones las militancias.",
+    "source": "dobles-segunda-ola-marxismo-2003",
+    "pages": [
+      13
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Remite a entrevistas no incluidas en el corpus.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/dobles-segunda-ola-marxismo-2003/chapters/02-texto-y-bibliografia.md"
+    ],
+    "quote": "no necesariamente reflejan la forma en que las divisiones fueron vividas por las militancias"
+  },
+  {
+    "note": 28,
+    "claim": "Según Salom, Militantes muestra que el género no tenía atención política en la izquierda, salvo en la OST, y que la práctica militante creaba dificultades adicionales a las mujeres; Salom sostiene que la crisis fue paradigmática del marxismo-leninismo, no del socialismo como aspiración.",
+    "source": "salom-resena-militantes-2007",
+    "pages": [
+      3,
+      4
+    ],
+    "type": "interpretacion",
+    "counterpoint": "La tesis de la crisis paradigmática es del reseñista; el estudio, cualitativo, no busca representatividad estadística.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/salom-resena-militantes-2007/chapters/01-resena.md"
+    ],
+    "quote": "excepto en la OST, había una negación del género como tema político … lo que ha fracasado no fue el socialismo como concepción"
+  },
+  {
+    "note": 29,
     "claim": "Juventud Liberacionista (1958; carta de 1968) definió el socialismo por la propiedad colectiva y se declaraba anticomunista; Patio de Agua (1968, 58 firmantes) definió la revolución como proceso acelerado e integral en libertad",
     "source": "pln-discurso-politico-ideologico-delgado-1983",
     "pages": [
@@ -340,7 +487,7 @@
     "quote": "La Juventud Liberacionista fue fundada en 1958 por estudiantes de colegios de enseñanza media y la universidad … La revolución debe ser un proceso acelerado, dirigido, profundo, integral e irreversible … unos se han orientado hacia el marxismo a través del partido Socialista"
   },
   {
-    "note": 23,
+    "note": 30,
     "claim": "El Manual del Demócrata Cristiano rechaza el golpe de Estado, define una revolución planificada y critica «la razón del Partido» y la instrumentalización de organizaciones sociales",
     "source": "manual-democrata-cristiano",
     "pages": [
@@ -361,7 +508,7 @@
     "quote": "el golpe de Estado no puede ser concebido por la DC … lo que le conviene al Partido le conviene al país"
   },
   {
-    "note": 23,
+    "note": 30,
     "claim": "Núñez distinguía el socialcristianismo de la democracia cristiana",
     "source": "pln-discurso-politico-ideologico-delgado-1983",
     "pages": [
@@ -378,7 +525,7 @@
     "quote": "advirtiendo que el socialcristianismo no es la democracia cristiana"
   },
   {
-    "note": 24,
+    "note": 31,
     "claim": "Programa neoliberal y heterogeneidad coalición de Carazo en 1977–1978",
     "source": "neoliberalismo-costa-rica-1977-1978",
     "pages": [
@@ -391,7 +538,7 @@
     "visual_checked": false
   },
   {
-    "note": 25,
+    "note": 32,
     "claim": "Debate comunista sobre aliados dentro del PLN",
     "source": "luces-y-sombras-socialdemocracia-guerra-fria",
     "pages": [

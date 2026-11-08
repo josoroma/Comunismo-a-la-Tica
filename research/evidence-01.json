@@ -732,6 +732,409 @@
   },
   {
     "note": 21,
+    "claim": "Maestros formados en Chile y jóvenes editaron entre 1904 y 1910 publicaciones de orientación libertaria con abstencionismo electoral; Renovación apareció en 1911 con Zeledón, Lorenzo y Falcó.",
+    "source": "llaguno-anarquismo-sociabilidad-redes-tesis-2015",
+    "pages": [
+      9,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      89,
+      90,
+      91,
+      195
+    ],
+    "type": "hecho",
+    "counterpoint": "Las citas de prensa de época llegan mediadas por la tesis; la caracterización como cultura política es del autor.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/05-resumen.md",
+      "data/books/llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/25-i-1-primera-generacion.md",
+      "data/books/llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/26-i-1-2-publicaciones-y-grupos-culturales.md",
+      "data/books/llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/27-i-1-3-propaganda-y-actividades-publicas.md",
+      "data/books/llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/28-i-2-segunda-generacion.md",
+      "data/books/llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/48-ii-3-3-martirologio.md",
+      "data/books/llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/49-ii-3-4-pascua-roja.md"
+    ],
+    "quote": "Esta experiencia ocurrida en Chile, que también vivieron Joaquín García Monge y Gonzalo Sánchez Bonilla … Abstengámonos, pero luchemos … con el lema: “sociología, arte, ciencia y pedagogía racionalista”"
+  },
+  {
+    "note": 21,
+    "claim": "Profesores formados en Francia y Chile difundieron el anarquismo; Falcó y Borrasé crearon la Biblioteca Sociológica Internacional y un sistema de canje internacional.",
+    "source": "llaguno-presencia-anarquista-centroamerica-2016",
+    "pages": [
+      10,
+      11
+    ],
+    "type": "hecho",
+    "counterpoint": "Artículo programático; la reconstrucción del texto procede de identificadores de glifo cotejados por muestreo.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/llaguno-presencia-anarquista-centroamerica-2016/chapters/06-cartografia-presencia-anarquista.md"
+    ],
+    "quote": "varios profesores de Costa Rica como Elías Jiménez Rojas, Joaquín García Monge, Roberto Brenes Mesén y Arturo Torres, formados en Francia y Chile … crearon la Biblioteca Sociológica Internacional"
+  },
+  {
+    "note": 22,
+    "claim": "El Centro Germinal se fundó en 1912 como grupo de afinidad; su circular presentó a Costa Rica como el lugar menos represivo de Centroamérica; promovió el 1.º de mayo de 1913; el discurso de García Monge se reprodujo en 1921.",
+    "source": "llaguno-anarquismo-sociabilidad-redes-tesis-2015",
+    "pages": [
+      20,
+      113,
+      114,
+      115,
+      196,
+      197
+    ],
+    "type": "hecho",
+    "counterpoint": "La circular y el discurso llegan mediados por la tesis; la lectura del giro patriótico es interpretación del autor.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/14-procedencia-de-las-fuentes.md",
+      "data/books/llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/30-i-2-3-lazos-intelectuales.md",
+      "data/books/llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/31-i-2-4-centro-germinal.md",
+      "data/books/llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/32-i-2-5-distribucion-local.md",
+      "data/books/llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/49-ii-3-4-pascua-roja.md"
+    ],
+    "quote": "en el 1912, se funda el Centro de Estudios Sociales Germinal, como un grupo de afinidad doctrinaria … Los Oprimidos no hallarán libertadores fuera de sí mismos … cuyo discurso de 1913 fue reproducido en Repertorio Americano en 1921"
+  },
+  {
+    "note": 22,
+    "claim": "El Centro tenía banderas roja y negra y retratos de Zola y Reclus, pasó de cinco a más de ochenta socios en 1912 y mantuvo contactos con El Salvador y Panamá.",
+    "source": "llaguno-propagar-la-idea-tesis-2022",
+    "pages": [
+      192,
+      193,
+      195
+    ],
+    "type": "hecho",
+    "counterpoint": "Texto en portugués, traducido en esta edición; el recuento de socios procede de la propia circular del Centro.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/llaguno-propagar-la-idea-tesis-2022/chapters/30-espacos-de-articulacao-regional.md"
+    ],
+    "quote": "uma bandeira vermelha e uma bandeira preta, ao lado de retratos de Zola e Eliseo Reclus … o centro começou com cinco e tinha mais de oitenta membros no final de 1912"
+  },
+  {
+    "note": 22,
+    "claim": "Botey y Cisneros fechan la fundación del Centro Germinal en 1909 y mencionan los retratos de Zola y Reclus en su salón.",
+    "source": "crisis-1929-fundacion-partido-comunista-1984",
+    "pages": [
+      40,
+      126
+    ],
+    "type": "interpretacion",
+    "counterpoint": "No documentan la fecha de 1909; contrasta con 1912 en Llaguno.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/crisis-1929-fundacion-partido-comunista-1984/chapters/06-capitulo-ii.md",
+      "data/books/crisis-1929-fundacion-partido-comunista-1984/chapters/09-conclusiones.md"
+    ],
+    "quote": "la presencia de los retratos de Zolá y Eliseo Reclus … El Centro de Estudios Sociales Germinal, fundado en 1909 por un grupo de intelectuales y trabajadores"
+  },
+  {
+    "note": 22,
+    "claim": "Cappelletti, siguiendo a De la Cruz, sitúa la creación del Centro Germinal en 1909.",
+    "source": "cappelletti-anarquismo-repertorio-americano-2015",
+    "pages": [
+      3
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Ensayo de síntesis con fuentes secundarias; la fecha discrepa de Llaguno.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/cappelletti-anarquismo-repertorio-americano-2015/chapters/02-texto-y-bibliografia.md"
+    ],
+    "quote": "En ese año se creó así mismo el “Centro de Estudios Sociales Germinal”"
+  },
+  {
+    "note": 22,
+    "claim": "El intento de conectar la red con Centroamérica dio escasos resultados: solo hubo intercambio fluido con San Salvador.",
+    "source": "llaguno-presencia-anarquista-centroamerica-2016",
+    "pages": [
+      11,
+      12
+    ],
+    "type": "interpretacion",
+    "counterpoint": "La tesis de 2022 añade contactos con Panamá.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/llaguno-presencia-anarquista-centroamerica-2016/chapters/06-cartografia-presencia-anarquista.md"
+    ],
+    "quote": "sus resultados fueron muy escasos, pues solo se encuentra un intercambio fluido de esta propaganda hacia San Salvador"
+  },
+  {
+    "note": 23,
+    "claim": "La CGT de 1913 no fue anarcosindicalista en sentido estricto: carta sin socialismo ni revolución, acciones de petición; su rasgo libertario más constante fue la antipolítica hasta 1923.",
+    "source": "llaguno-anarquismo-sociabilidad-redes-tesis-2015",
+    "pages": [
+      114,
+      115,
+      238,
+      242,
+      244,
+      246,
+      257
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Llaguno reconoce no tener toda la documentación de la Confederación; discute obras ausentes del corpus.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/31-i-2-4-centro-germinal.md",
+      "data/books/llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/32-i-2-5-distribucion-local.md",
+      "data/books/llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/59-iii-4-organizando-los-gremios.md",
+      "data/books/llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/60-iii-4-2-tendencias-internas.md",
+      "data/books/llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/63-iii-conclusiones.md"
+    ],
+    "quote": "ha identificado a la CGT como la representante del anarcosindicalismo en el país … No se hace referencia explícita al socialismo ni a la revolución … El principio más claro que liga la práctica de la CGT con el anarcosindicalismo era su antipolítica"
+  },
+  {
+    "note": 23,
+    "claim": "La carta de 1913 prohibía participar en actos religiosos y electorales; la Sociedad Federal apoyaba candidaturas obreras en el Partido Republicano.",
+    "source": "llaguno-propagar-la-idea-tesis-2022",
+    "pages": [
+      196,
+      202,
+      214
+    ],
+    "type": "hecho",
+    "counterpoint": "La misma tesis llama en otra página «antipolíticos y socialistas» a esos estatutos; tensión interna no resuelta.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/llaguno-propagar-la-idea-tesis-2022/chapters/30-espacos-de-articulacao-regional.md",
+      "data/books/llaguno-propagar-la-idea-tesis-2022/chapters/31-pan-americanismo-operario-radical.md"
+    ],
+    "quote": "duas cláusulas tenham sido introduzidas proibindo a organização de participar de eventos religiosos e de políticas eleitorais … apoiou as candidaturas dos trabalhadores no Partido Republicano"
+  },
+  {
+    "note": 23,
+    "claim": "Las publicaciones anarquistas solo dejan ver a la parte letrada del movimiento.",
+    "source": "llaguno-presencia-anarquista-centroamerica-2016",
+    "pages": [
+      9
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Advertencia metodológica del autor, aplicable a sus propias fuentes.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/llaguno-presencia-anarquista-centroamerica-2016/chapters/05-estudio-de-redes.md",
+      "data/books/llaguno-presencia-anarquista-centroamerica-2016/chapters/06-cartografia-presencia-anarquista.md"
+    ],
+    "quote": "solo es posible acceder a una pequeña parte del movimiento anarquista a través de ellas, particularmente a aquellas personas con la capacidad de expresión letrada"
+  },
+  {
+    "note": 24,
+    "claim": "Cappelletti atribuye a braceros italianos de 1888 la introducción del anarquismo, sitúa a Juan Vera en una huelga de 1905 y explica el pacifismo por la falta de represión.",
+    "source": "cappelletti-anarquismo-repertorio-americano-2015",
+    "pages": [
+      2,
+      3,
+      4
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Se apoya en Mora, Rojas y Láscaris; Llaguno no confirma el vínculo de los italianos y documenta una legislación antianarquista.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/cappelletti-anarquismo-repertorio-americano-2015/chapters/02-texto-y-bibliografia.md"
+    ],
+    "quote": "se trajo un numeroso grupo de braceros procedentes de Italia … en la de 1905, llevada a cabo por los panaderos … sobresalieron algunos anarcosindicalistas españoles, como Juan Vera … a la relativa falta de represión"
+  },
+  {
+    "note": 24,
+    "claim": "Botey y Cisneros fechan la expulsión de Juan Vera tras las luchas de panaderos de 1903–1904 y atribuyen la difusión anarquista a inmigrantes italianos y españoles.",
+    "source": "crisis-1929-fundacion-partido-comunista-1984",
+    "pages": [
+      36,
+      37
+    ],
+    "type": "hecho",
+    "counterpoint": "La atribución migratoria es impersonal («se les atribuye») y sin documento.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/crisis-1929-fundacion-partido-comunista-1984/chapters/06-capitulo-ii.md"
+    ],
+    "quote": "se expulsó al español Juan Vera, uno de los dirigentes, a quien se le acusaba de anarquista … se les atribuye el haber divulgado las ideas anarquistas en Costa Rica"
+  },
+  {
+    "note": 24,
+    "claim": "Llaguno (2013) fecha en 1903 la expulsión de Vera, no puede precisar el anarquismo de los italianos y registra la versión de 1994 del artículo de Cappelletti.",
+    "source": "llaguno-en-busqueda-de-la-idea-2013",
+    "pages": [
+      7,
+      8,
+      15
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Balance bibliográfico sin fuentes primarias nuevas.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/llaguno-en-busqueda-de-la-idea-2013/chapters/04-migracion.md",
+      "data/books/llaguno-en-busqueda-de-la-idea-2013/chapters/05-movimiento-obrero-y-sindicalismo.md",
+      "data/books/llaguno-en-busqueda-de-la-idea-2013/chapters/06-redes-intelectuales-y-publicaciones.md"
+    ],
+    "quote": "expulsado del país como “anarquista indeseable” en 1903 … En el caso de los italianos no se ha podido precisar su vinculación específica con el anarquismo … Revista Orto. 1994."
+  },
+  {
+    "note": 24,
+    "claim": "La migración de militantes anarquistas europeos a Centroamérica fue muy reducida.",
+    "source": "llaguno-presencia-anarquista-centroamerica-2016",
+    "pages": [
+      10
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Juicio general sobre la región; no excluye militantes individuales.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/llaguno-presencia-anarquista-centroamerica-2016/chapters/06-cartografia-presencia-anarquista.md"
+    ],
+    "quote": "En cuanto a la migración de militantes europeos, fue muy reducida"
+  },
+  {
+    "note": 24,
+    "claim": "El Legislativo aprobó en 1903 el tratado de extradición y protección contra el anarquismo; un decreto de 1906 castigó con arresto la prensa anarquista.",
+    "source": "llaguno-anarquismo-sociabilidad-redes-tesis-2015",
+    "pages": [
+      19,
+      77,
+      78
+    ],
+    "type": "hecho",
+    "counterpoint": "Llaguno cita la Colección de Leyes y Decretos, no incluida en el corpus.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/13-fuentes.md",
+      "data/books/llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/14-procedencia-de-las-fuentes.md",
+      "data/books/llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/25-i-1-primera-generacion.md"
+    ],
+    "quote": "Tratado de extradición y protección contra el anarquismo, aprobado por el Poder Legislativo en 1903 … un decreto de 1906 introduce las siguientes disposiciones … Con arresto si la publicación es"
+  },
+  {
+    "note": 24,
+    "claim": "El tratado de 1902 excluía el anarquismo de los delitos políticos; Costa Rica lo ratificó en 1903, vedó en 1905 la entrada de anarquistas manifiestos y expulsó a Juan Vera Córdoba en 1903.",
+    "source": "llaguno-propagar-la-idea-tesis-2022",
+    "pages": [
+      122,
+      124,
+      125,
+      126
+    ],
+    "type": "hecho",
+    "counterpoint": "Texto en portugués; la ratificación se documenta con una constancia de 1905.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/llaguno-propagar-la-idea-tesis-2022/chapters/23-agentes-da-ordem-contra-a-anarquia.md"
+    ],
+    "quote": "Os atos de anarquismo dirigidos contra os fundamentos da organização social não serão considerados delitos políticos … Costa Rica (1903) … Em 1903, o padeiro canário Juan Vera Córdoba foi expulso após uma greve"
+  },
+  {
+    "note": 25,
+    "claim": "La red declinó desde 1914 por factores internacionales e internos; los intelectuales tenían un anarquismo amalgamado y poco militante, mientras obreros tipógrafos siguieron activos.",
+    "source": "llaguno-anarquismo-sociabilidad-redes-tesis-2015",
+    "pages": [
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      258
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Explicación tomada de David Díaz y Clara Lida; la tesis se contradice sobre García Monge bajo Tinoco.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/37-i-3-3-factores-internacionales.md",
+      "data/books/llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/38-i-3-4-factores-internos.md",
+      "data/books/llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/39-i-conclusiones.md",
+      "data/books/llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/63-iii-conclusiones.md"
+    ],
+    "quote": "la muerte de Anselmo Lorenzo en 1914 y el estallido de la Primera Guerra Mundial … una amalgama en donde las ideas principales eran el anticlericalismo, el pacifismo, el racionalismo y una suerte de cristianismo primitivo"
+  },
+  {
+    "note": 25,
+    "claim": "La historiografía obrera confundió la presencia anarquista con la formación de los partidos comunistas; parte de los trabajadores siguió ligada al anarcosindicalismo hasta fines de los años veinte.",
+    "source": "llaguno-en-busqueda-de-la-idea-2013",
+    "pages": [
+      11,
+      18
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Balance programático anterior a las tesis del autor.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/llaguno-en-busqueda-de-la-idea-2013/chapters/05-movimiento-obrero-y-sindicalismo.md",
+      "data/books/llaguno-en-busqueda-de-la-idea-2013/chapters/07-agenda-de-investigacion.md"
+    ],
+    "quote": "la presencia anarquista es difusa y es muchas veces confundida con la formación de los partidos comunistas … sigue vinculada al anarcosindicalismo hasta finales de los años veinte"
+  },
+  {
+    "note": 25,
+    "claim": "Cappelletti presenta una galería elogiosa de intelectuales y registra, con Láscaris, que casi todos pasaron a posiciones liberales.",
+    "source": "cappelletti-anarquismo-repertorio-americano-2015",
+    "pages": [
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Tono apologético; la caracterización del ensayo es de esta edición.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/cappelletti-anarquismo-repertorio-americano-2015/chapters/02-texto-y-bibliografia.md"
+    ],
+    "quote": "García Monge es, sin duda, una de las figuras más simpáticas y admirables de la literatura costarricense … Casi todos ellos, como anota Láscaris, pasaron después a posiciones meramente liberales"
+  },
+  {
+    "note": 26,
     "claim": "Luchas económicas y oposición a la dictadura tinoquista.",
     "source": "crisis-1929-fundacion-partido-comunista-1984",
     "pages": [
@@ -749,7 +1152,7 @@
     ]
   },
   {
-    "note": 22,
+    "note": 27,
     "claim": "Coordinación huelguística y reconocimiento de límites a la jornada.",
     "source": "crisis-1929-fundacion-partido-comunista-1984",
     "pages": [
@@ -767,7 +1170,7 @@
     ]
   },
   {
-    "note": 23,
+    "note": 28,
     "claim": "Diferencias entre luchas campesinas guanacastecas.",
     "source": "crisis-1929-fundacion-partido-comunista-1984",
     "pages": [
@@ -785,7 +1188,7 @@
     ]
   },
   {
-    "note": 24,
+    "note": 29,
     "claim": "Programa reformista, pactos y crítica de la pérdida de autonomía.",
     "source": "crisis-1929-fundacion-partido-comunista-1984",
     "pages": [
@@ -806,7 +1209,7 @@
     ]
   },
   {
-    "note": 25,
+    "note": 30,
     "claim": "Autopresentación de Volio en 1947: prensa católica, clerecía, Nicaragua en 1912, Partido Reformista y elección de Ricardo Jiménez.",
     "source": "jorge-volio-ineditos-documentos",
     "pages": [
@@ -825,7 +1228,7 @@
     "quote": "En 1902 fundé con el Lic. don Matías Trejos el diario católico La Justicia Social. … abandonar la clerecía sin desertar jamás de la fe católica … En 1912 participé en la Revolución de Nicaragua contra el yankee y su aliado nativo … En 1923 fundé el Partido Reformista del cual fui Candidato a la Presidencia de la República. Hice Presidente de la República a don Ricardo Jiménez O."
   },
   {
-    "note": 25,
+    "note": 30,
     "claim": "Botey y Cisneros fechan La Justicia Social en 1903 y califican de claudicante la línea reformista desde 1924.",
     "source": "crisis-1929-fundacion-partido-comunista-1984",
     "pages": [
@@ -843,7 +1246,7 @@
     "quote": "en 1903 fundó un periódico de tendencia social cristiana … el Partido Reformista inició su línea claudicante"
   },
   {
-    "note": 26,
+    "note": 31,
     "claim": "Botey y Cisneros califican de social cristiano el periódico fundado por Volio.",
     "source": "crisis-1929-fundacion-partido-comunista-1984",
     "pages": [
@@ -860,7 +1263,7 @@
     "quote": "fundó un periódico de tendencia social cristiana"
   },
   {
-    "note": 26,
+    "note": 31,
     "claim": "La jerarquía persiguió a los sacerdotes volistas; Molina rechaza definir al Reformista como social-cristiano.",
     "source": "anticomunismo-reformista-molina",
     "pages": [
@@ -877,7 +1280,7 @@
     "quote": "perseguía a los sacerdotes disidentes, en particular a los identificados con el … erróneamente define al Reformista como un partido"
   },
   {
-    "note": 26,
+    "note": 31,
     "claim": "Septiembre de 1926: Volio deja el Congreso para una insurrección en Nicaragua, es apresado, despojado de credenciales e internado en Bélgica.",
     "source": "moradas-y-discursos-molina-2010",
     "pages": [
@@ -894,7 +1297,7 @@
     "quote": "abandonó el Congreso para sumarse a una insurrección contra el gobierno nicaragüense y, antes de que pudiera realizar su plan, fue apresado en Guanacaste, despojado de sus credenciales, llevado fuera del país e internado en un manicomio belga"
   },
   {
-    "note": 26,
+    "note": 31,
     "claim": "La nota del editor describe el «Proceso de Liberia» y la salida de Volio a Europa.",
     "source": "jorge-volio-ineditos-documentos",
     "pages": [
@@ -911,7 +1314,68 @@
     "quote": "que salió en viaje de reposo a Europa"
   },
   {
-    "note": 27,
+    "note": 32,
+    "claim": "La CGT se disolvió en 1923 para sumarse al Partido Reformista; antiguos miembros de Germinal participaron en su fundación; Dengo negó la continuidad con el «decálogo ácrata».",
+    "source": "llaguno-anarquismo-sociabilidad-redes-tesis-2015",
+    "pages": [
+      242,
+      243,
+      248,
+      249,
+      250,
+      251,
+      252,
+      253
+    ],
+    "type": "hecho",
+    "counterpoint": "La continuidad de ideas es interpretación del autor, que reconoce no tener una explicación completa.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/60-iii-4-2-tendencias-internas.md",
+      "data/books/llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/61-iii-4-3-partido-obrero.md",
+      "data/books/llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/62-iii-4-4-partido-reformista.md",
+      "data/books/llaguno-anarquismo-sociabilidad-redes-tesis-2015/chapters/63-iii-conclusiones.md"
+    ],
+    "quote": "una resolución mayoritaria decide disolverla … las comunas libres, sin gobierno … Rafael Meneses, Juan Rafael Pérez y Ricardo Falcó … Mi anarquismo claudicante … el decálogo ácrata del Centro Germinal"
+  },
+  {
+    "note": 32,
+    "claim": "Desde 1923 la CGT prácticamente se había disuelto para seguir el reformismo de Volio.",
+    "source": "crisis-1929-fundacion-partido-comunista-1984",
+    "pages": [
+      104
+    ],
+    "type": "hecho",
+    "counterpoint": "Los autores no precisan el congreso ni a los disidentes anarquistas.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/crisis-1929-fundacion-partido-comunista-1984/chapters/08-capitulo-iv.md"
+    ],
+    "quote": "Desde 1923, la Confederación General de Trabajadores prácticamente se había disuelto para seguir el Reformismo de Volio"
+  },
+  {
+    "note": 32,
+    "claim": "En 1910 Volio, cura de Heredia, pidió orar por Tolstói y fue reprendido por el obispo.",
+    "source": "cappelletti-anarquismo-repertorio-americano-2015",
+    "pages": [
+      4
+    ],
+    "type": "declaracion",
+    "counterpoint": "Anécdota con doble mediación (Cappelletti cita a Álvaro Quesada), sin documento de época.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/cappelletti-anarquismo-repertorio-americano-2015/chapters/02-texto-y-bibliografia.md"
+    ],
+    "quote": "Jorge Volio, flamante cura párroco de Heredia, pidió a los feligreses “orar por el hermano Tolstoi”"
+  },
+  {
+    "note": 33,
     "claim": "La representación y el costo de los pactos como problema recurrente.",
     "source": "crisis-1929-fundacion-partido-comunista-1984",
     "pages": [
@@ -930,7 +1394,7 @@
     ]
   },
   {
-    "note": 28,
+    "note": 34,
     "claim": "Antiimperialismo, Liga Cívica y aprismo como espacio plural.",
     "source": "crisis-1929-fundacion-partido-comunista-1984",
     "pages": [
@@ -950,7 +1414,7 @@
     ]
   },
   {
-    "note": 29,
+    "note": 35,
     "claim": "Circulación de ideas y contactos internacionales con grados distintos de comprobación.",
     "source": "crisis-1929-fundacion-partido-comunista-1984",
     "pages": [
@@ -968,7 +1432,25 @@
     ]
   },
   {
-    "note": 30,
+    "note": 36,
+    "claim": "En 1913 críticos del Centro Germinal invocaron la «bondad democrática» de Costa Rica y la «planta exótica»; una hoja suelta antijudía excomulgó al anarquismo del ser nacional.",
+    "source": "llaguno-propagar-la-idea-tesis-2022",
+    "pages": [
+      203,
+      204
+    ],
+    "type": "hecho",
+    "counterpoint": "Texto en portugués; discrepancia interna entre «judaicos» (cuerpo) y «Judaizantes» (nota); la conexión con la excepcionalidad es inferencia de esta edición.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/llaguno-propagar-la-idea-tesis-2022/chapters/30-espacos-de-articulacao-regional.md"
+    ],
+    "quote": "a suposta “bondade democrática” da Costa Rica … comparando-o a um judeu errante, sem pátria e sem raízes … UN OBRERO. Judaizantes. 24 de dezembro de 1913"
+  },
+  {
+    "note": 37,
     "claim": "La crisis no basta para explicar creación y persistencia de un partido.",
     "source": "crisis-1929-fundacion-partido-comunista-1984",
     "pages": [
@@ -985,7 +1467,7 @@
     ]
   },
   {
-    "note": 30,
+    "note": 37,
     "claim": "La crisis no basta para explicar creación y persistencia de un partido.",
     "source": "crisis-1929-fundacion-partido-comunista-1984",
     "pages": [
@@ -1010,7 +1492,7 @@
     ]
   },
   {
-    "note": 31,
+    "note": 38,
     "claim": "Pequeños cafetaleros conservadores ven en el comunismo un enemigo tras 1931; los comunistas ganan la base urbana reformista.",
     "source": "reformismo-socialdemocrata-o-liberal-solis",
     "pages": [

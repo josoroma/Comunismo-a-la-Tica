@@ -655,6 +655,59 @@
   },
   {
     "note": 36,
+    "claim": "Según la reseña de García Quesada, El verdadero anticomunismo (1948–1973) presenta un abanico de estrategias anticomunistas complementarias entre reforma y represión abierta, según los balances de poder.",
+    "source": "garcia-quesada-resena-verdadero-anticomunismo-2018",
+    "pages": [
+      3,
+      4
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Lectura de un reseñista sobre ocho capítulos no consultados por esta edición; el marco del libro, según el propio reseñista, privilegia un anticomunismo reformista o «verdadero».",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/garcia-quesada-resena-verdadero-anticomunismo-2018/chapters/01-resena.md"
+    ],
+    "quote": "un abanico de estrategias frente a un conflicto social desgarrante … estrategias complementarias que oscilaron entre el reformismo y la represión abierta, de acuerdo con los balances de poder entre los actores políticos"
+  },
+  {
+    "note": 36,
+    "claim": "El reseñista sostiene que el anticomunismo «verdadero» se consolidó al final del período y fue posibilitado por la persecución de calderonistas y comunistas, la prohibición política comunista y la impunidad del Codo del Diablo; añade que García Monge declinó en 1952 el Premio Stalin y propone llamar «anticomunismo a la tica» a la variante blanda.",
+    "source": "garcia-quesada-resena-verdadero-anticomunismo-2018",
+    "pages": [
+      4,
+      5
+    ],
+    "type": "interpretacion",
+    "counterpoint": "El dato sobre García Monge procede de otro libro del reseñista y no se cotejó; la fórmula «anticomunismo a la tica» es una ironía del autor, no una categoría de los editores. La objeción no afecta por sí sola la tesis de Molina sobre 1931–1948 (distinción de esta edición).",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/garcia-quesada-resena-verdadero-anticomunismo-2018/chapters/01-resena.md"
+    ],
+    "quote": "solo aparece consolidado hacia el final de este … La impunidad del crimen de Codo del Diablo … podríamos caracterizar también como un … declinó el Premio Stalin de la Paz para ahorrarse problemas"
+  },
+  {
+    "note": 36,
+    "claim": "Para 1973 había operado, según el reseñista, un blindaje de veinticinco años de políticas anticomunistas por medios oficiales y no oficiales.",
+    "source": "garcia-quesada-resena-verdadero-anticomunismo-2018",
+    "pages": [
+      5
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Juicio de conjunto del reseñista; la relación con la distensión descrita por Monge en 1975 es inferencia de esta edición.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/garcia-quesada-resena-verdadero-anticomunismo-2018/chapters/01-resena.md"
+    ],
+    "quote": "ya había operado un"
+  },
+  {
+    "note": 37,
     "claim": "Alcance temporal de la interpretación y necesidad de probar continuidades",
     "source": "comunismo-exterior-constitutivo-2020",
     "pages": [

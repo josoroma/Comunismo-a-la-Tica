@@ -1,14 +1,15 @@
 {
   "mode": "local-corpus",
   "cutoff": "2026-11-06",
+  "edition": "2026-11-08",
   "counts": {
     "chapters": 17,
-    "notes": 368,
-    "corpus_references": 400,
-    "web_references": 59,
-    "pages_checked": 751,
-    "evidence_rows": 501,
-    "literal_quotes_checked": 204,
+    "notes": 421,
+    "corpus_references": 471,
+    "web_references": 72,
+    "pages_checked": 916,
+    "evidence_rows": 593,
+    "literal_quotes_checked": 279,
     "facsimile_review_rows": 47
   },
   "errors": [],

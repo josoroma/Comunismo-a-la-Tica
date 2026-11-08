@@ -1,6 +1,6 @@
 # Fuentes y auditoría del corpus
 
-El inventario comprende 42 obras y documentos: 32 del corpus de la primera versión y 10 incorporados en la ampliación del 7 de noviembre de 2026. La selección se hizo por pertinencia histórica; disponibilidad no equivale a uso ni a lectura integral de cada obra. Los capítulos utilizados y sus páginas están identificados en las notas y en la matriz. El corpus permanece en la biblioteca local y no se redistribuye con este ensayo.
+El inventario comprende 53 obras y documentos: 32 del corpus de la primera versión y 10 incorporados el 7 de noviembre de 2026 y 11 el 8 de noviembre. La selección se hizo por pertinencia histórica; disponibilidad no equivale a uso ni a lectura integral de cada obra. Los capítulos utilizados y sus páginas están identificados en las notas y en la matriz. El corpus permanece en la biblioteca local y no se redistribuye con este ensayo.
 
 ## Fuentes locales utilizadas
 
@@ -14,7 +14,7 @@ Identificador local: `comunismo-a-la-tica-pvp-2020`. Extracción: texto nativo c
 
 La copia consultada es local; no se registró una URL pública del original. Las notas identifican el archivo y la página para consulta con `pagina.py`.
 
-Capítulos del ensayo que la utilizan: [08](08-entre-la-isla-y-el-mundo.md), [09](09-volver-a-la-politica.md), [10](10-la-fractura-y-su-nombre.md), [11](11-despues-de-la-fractura.md), [17](17-epilogo-una-tradicion-en-disputa.md).
+Capítulos del ensayo que la utilizan: [08](08-entre-la-isla-y-el-mundo.md), [09](09-volver-a-la-politica.md), [10](10-la-fractura-y-su-nombre.md), [11](11-despues-de-la-fractura.md), [16](16-izquierdas-ante-el-presente.md), [17](17-epilogo-una-tradicion-en-disputa.md).
 
 ### El comunismo como exterior constitutivo del ser costarricense (1950-1959)
 
@@ -124,7 +124,7 @@ Identificador local: `discursos-manuel-mora-1934-1979`. Extracción: texto nativ
 
 [Original o fuente de procedencia](https://www.imprentanacional.go.cr/editorialdigital/libros/literatura%20costarricense/Discursos_1934-1979_edincr.pdf).
 
-Capítulos del ensayo que la utilizan: [04](04-las-urnas-y-la-palabra.md), [05](05-la-alianza-y-la-guerra.md), [08](08-entre-la-isla-y-el-mundo.md), [09](09-volver-a-la-politica.md), [17](17-epilogo-una-tradicion-en-disputa.md).
+Capítulos del ensayo que la utilizan: [04](04-las-urnas-y-la-palabra.md), [05](05-la-alianza-y-la-guerra.md), [08](08-entre-la-isla-y-el-mundo.md), [09](09-volver-a-la-politica.md), [16](16-izquierdas-ante-el-presente.md), [17](17-epilogo-una-tradicion-en-disputa.md).
 
 ### Las ideas socialistas en Costa Rica, 1880-1930
 
@@ -194,7 +194,7 @@ Identificador local: `moradas-y-discursos-molina-2010`. Extracción: texto nativ
 
 La copia consultada es local; no se registró una URL pública del original. Las notas identifican el archivo y la página para consulta con `pagina.py`.
 
-Capítulos del ensayo que la utilizan: [01](01-el-pais-antes-del-partido.md), [02](02-fundar-y-organizar.md), [03](03-el-banano-y-la-huelga.md), [04](04-las-urnas-y-la-palabra.md), [05](05-la-alianza-y-la-guerra.md), [06](06-la-democracia-y-sus-excluidos.md), [07](07-el-enemigo-en-la-nacion.md), [10](10-la-fractura-y-su-nombre.md).
+Capítulos del ensayo que la utilizan: [01](01-el-pais-antes-del-partido.md), [02](02-fundar-y-organizar.md), [03](03-el-banano-y-la-huelga.md), [04](04-las-urnas-y-la-palabra.md), [05](05-la-alianza-y-la-guerra.md), [06](06-la-democracia-y-sus-excluidos.md), [07](07-el-enemigo-en-la-nacion.md), [10](10-la-fractura-y-su-nombre.md), [16](16-izquierdas-ante-el-presente.md).
 
 ### Costa Rica: ¿Reformismo socialdemócrata o liberal?
 
@@ -225,6 +225,116 @@ Identificador local: `manual-democrata-cristiano`. Extracción: texto nativo con
 La copia consultada es local; no se registró una URL pública del original. Las notas identifican el archivo y la página para consulta con `pagina.py`.
 
 Capítulos del ensayo que la utilizan: [07](07-el-enemigo-en-la-nacion.md), [09](09-volver-a-la-politica.md).
+
+### En búsqueda de la idea: rutas para la investigación del anarquismo en Costa Rica en las primeras décadas del siglo XX
+
+**José Julián Llaguno Thomas.** Anuario del Centro de Investigación y Estudios Políticos (CIEP), n.º 4, pp. 104-131, 2013. Universidad de Costa Rica, ISSN 2215-2873. 2013. 28 páginas PDF.
+
+Identificador local: `llaguno-en-busqueda-de-la-idea-2013`. Extracción: texto nativo con facsímiles; no revisión íntegra palabra por palabra.
+
+[Original o fuente de procedencia](https://revistas.ucr.ac.cr/index.php/ciep/article/download/1438/1722).
+
+Capítulos del ensayo que la utilizan: [01](01-el-pais-antes-del-partido.md), [12](12-la-politica-fuera-del-partido.md).
+
+### Anarquismo, sociabilidad obrera y redes intelectuales en Costa Rica: un estudio de cultura política (1909-1919)
+
+**José Julián Llaguno Thomas.** Tesis de Maestría Académica en Historia, Posgrado Centroamericano en Historia, Sistema de Estudios de Posgrado, Universidad de Costa Rica. Director: David Díaz Arias. 2015. 292 páginas PDF.
+
+Identificador local: `llaguno-anarquismo-sociabilidad-redes-tesis-2015`. Extracción: texto nativo con facsímiles; no revisión íntegra palabra por palabra.
+
+[Original o fuente de procedencia](https://repositorio.iis.ucr.ac.cr/bitstream/handle/123456789/554/Anarquismo_sociabilidad_obrera_y_redes_i.pdf?sequence=1).
+
+Capítulos del ensayo que la utilizan: [01](01-el-pais-antes-del-partido.md).
+
+### El anarquismo en Costa Rica
+
+**Ángel J. Cappelletti.** Repertorio Americano, Segunda Nueva Época, n.º 25, enero-diciembre de 2015, pp. 81-94. Universidad Nacional, Costa Rica. 2015. 14 páginas PDF.
+
+Identificador local: `cappelletti-anarquismo-repertorio-americano-2015`. Extracción: texto nativo con facsímiles; no revisión íntegra palabra por palabra.
+
+[Original o fuente de procedencia](https://www.revistas.una.ac.cr/index.php/repertorio/article/download/9268/11151/29812).
+
+Capítulos del ensayo que la utilizan: [01](01-el-pais-antes-del-partido.md).
+
+### Acción local y auditorio global: la presencia anarquista en América Central según sus fondos documentales entre 1910 y 1930
+
+**José Julián Llaguno Thomas.** Diálogos. Revista Electrónica de Historia, vol. 17, núm. 2, 2016, pp. 33-51. E-ISSN 1409-469X. Universidad de Costa Rica (PDF distribuido por Redalyc). 2016. 20 páginas PDF.
+
+Identificador local: `llaguno-presencia-anarquista-centroamerica-2016`. Extracción: texto nativo con facsímiles; no revisión íntegra palabra por palabra.
+
+[Original o fuente de procedencia](https://www.redalyc.org/pdf/439/43946838002.pdf).
+
+Capítulos del ensayo que la utilizan: [01](01-el-pais-antes-del-partido.md).
+
+### Propagar a ideia: anarquismo e mundos do trabalho no istmo centro-americano, 1890–1930
+
+**José Julián Llaguno Thomas.** Tese de doutorado em História (área de História Social), Instituto de Filosofia e Ciências Humanas, Universidade Estadual de Campinas (UNICAMP). Orientador: Claudio Henrique de Moraes Batalha. 2022. 358 páginas PDF.
+
+Identificador local: `llaguno-propagar-la-idea-tesis-2022`. Extracción: texto nativo con facsímiles; no revisión íntegra palabra por palabra.
+
+[Original o fuente de procedencia](https://repositorio.sibdi.ucr.ac.cr/server/api/core/bitstreams/f620d354-6dab-4d30-9d49-f29d61ee2a77/content).
+
+Capítulos del ensayo que la utilizan: [01](01-el-pais-antes-del-partido.md), [02](02-fundar-y-organizar.md), [12](12-la-politica-fuera-del-partido.md), [17](17-epilogo-una-tradicion-en-disputa.md).
+
+### La “segunda ola” del marxismo en Costa Rica: los linderos del discurso y la práctica
+
+**Vilma Leandro Zúñiga e Ignacio Dobles Oropeza.** Ciencias Sociales (Revista de Ciencias Sociales), n.º 100: 189-205, 2003 (II), Universidad de Costa Rica. 2003. 18 páginas PDF.
+
+Identificador local: `dobles-segunda-ola-marxismo-2003`. Extracción: texto nativo con facsímiles; no revisión íntegra palabra por palabra.
+
+[Original o fuente de procedencia](https://revistacienciassociales.ucr.ac.cr/images/revistas/RCS100/15DOBLES.pdf).
+
+Capítulos del ensayo que la utilizan: [09](09-volver-a-la-politica.md), [10](10-la-fractura-y-su-nombre.md), [16](16-izquierdas-ante-el-presente.md).
+
+### Carencias, limitaciones, frustraciones y esperanzas de la vida militante de la izquierda costarricense en los años setenta y ochenta (reseña de «Militantes. La vivencia de lo político en la segunda ola del marxismo en Costa Rica», de Ignacio Dobles Oropeza y Vilma Leandro Zúñiga)
+
+**Roberto Salom E..** Revista de Ciencias Sociales, n.º 115: 143-146, 2007 (I), ISSN 0482-5276, Universidad de Costa Rica. 2007. 4 páginas PDF.
+
+Identificador local: `salom-resena-militantes-2007`. Extracción: texto nativo con facsímiles; no revisión íntegra palabra por palabra.
+
+[Original o fuente de procedencia](https://revistacienciassociales.ucr.ac.cr/images/revistas/RCS115/11SALOM.pdf).
+
+Capítulos del ensayo que la utilizan: [09](09-volver-a-la-politica.md), [16](16-izquierdas-ante-el-presente.md), [17](17-epilogo-una-tradicion-en-disputa.md).
+
+### El crimen de Viviana Gallardo
+
+**David Díaz Arias.** Centro de Investigaciones Históricas de América Central (CIHAC) y Vicerrectoría de Investigación, Universidad de Costa Rica, San José. Colección Avances de Investigación CIHAC, segunda época, n.º 1; primera edición. 2017. 34 páginas PDF.
+
+Identificador local: `diaz-arias-crimen-viviana-gallardo-2017`. Extracción: texto nativo con facsímiles; no revisión íntegra palabra por palabra.
+
+[Original o fuente de procedencia](https://api.obregon.cihac.fcs.ucr.ac.cr/obregon/api/core/bitstreams/50e1fd06-4b73-4e07-ae12-2fcacd1b5396/content).
+
+Capítulos del ensayo que la utilizan: [10](10-la-fractura-y-su-nombre.md), [17](17-epilogo-una-tradicion-en-disputa.md).
+
+### Reseña del libro El verdadero anticomunismo. Política, género y Guerra Fría en Costa Rica (1948-1973), de Iván Molina Jiménez y David Díaz Arias (editores)
+
+**George García Quesada.** Revista de Historia, n.º 78: 197-202, julio-diciembre de 2018, ISSN 1012-9790, Universidad Nacional (Costa Rica). 2018. 6 páginas PDF.
+
+Identificador local: `garcia-quesada-resena-verdadero-anticomunismo-2018`. Extracción: texto nativo con facsímiles; no revisión íntegra palabra por palabra.
+
+[Original o fuente de procedencia](https://doi.org/10.15359/rh.78.9).
+
+Capítulos del ensayo que la utilizan: [07](07-el-enemigo-en-la-nacion.md).
+
+### Elecciones Costa Rica 2014: el aparente giro hacia el progresismo de izquierda mediante el triunfo del Partido Acción Ciudadana y el ascenso del Frente Amplio
+
+**Rotsay Rosales Valladares.** Anuario del Centro de Investigación y Estudios Políticos (CIEP), vol. 6: 155-175, 2015, ISSN 2215-2873, Universidad de Costa Rica. 2015. 21 páginas PDF.
+
+Identificador local: `rosales-elecciones-2014-ciep-2015`. Extracción: texto nativo con facsímiles; no revisión íntegra palabra por palabra.
+
+[Original o fuente de procedencia](https://revistas.ucr.ac.cr/index.php/ciep/article/download/1487/1814).
+
+Capítulos del ensayo que la utilizan: [14](14-crecer-retroceder-volver.md), [16](16-izquierdas-ante-el-presente.md).
+
+### Partido Frente Amplio: Estatuto (texto con las reformas acreditadas hasta el 22 de marzo de 2025)
+
+**Partido Frente Amplio.** Partido Frente Amplio (documento partidario publicado en su sitio oficial; sin pie editorial). 2025. 70 páginas PDF.
+
+Identificador local: `frente-amplio-estatuto`. Extracción: texto nativo con facsímiles; no revisión íntegra palabra por palabra.
+
+[Original o fuente de procedencia](https://www.frenteamplio.org/wp-content/uploads/2025/06/EOPFA.pdf).
+
+Capítulos del ensayo que la utilizan: [13](13-un-frente-y-muchas-izquierdas.md), [14](14-crecer-retroceder-volver.md), [16](16-izquierdas-ante-el-presente.md).
 
 ## Criterios de lectura
 
@@ -324,6 +434,28 @@ Esta tabla documenta la auditoría de disponibilidad. «Citada» significa prese
 | El Partido Liberación Nacional. Análisis de su discurso político-ideológico | Jaime Delgado Rojas | 192 | Citada · incorporada 2026-11-07 |
 
 | Manual del Demócrata Cristiano | Partido Demócrata Cristiano (Costa Rica). Secretaría General, Secretaría de Información y Propaganda | 16 | Citada · incorporada 2026-11-07 |
+
+| En búsqueda de la idea: rutas para la investigación del anarquismo en Costa Rica en las primeras décadas del siglo XX | José Julián Llaguno Thomas | 28 | Citada · incorporada 2026-11-08 |
+
+| Anarquismo, sociabilidad obrera y redes intelectuales en Costa Rica: un estudio de cultura política (1909-1919) | José Julián Llaguno Thomas | 292 | Citada · incorporada 2026-11-08 |
+
+| El anarquismo en Costa Rica | Ángel J. Cappelletti | 14 | Citada · incorporada 2026-11-08 |
+
+| Acción local y auditorio global: la presencia anarquista en América Central según sus fondos documentales entre 1910 y 1930 | José Julián Llaguno Thomas | 20 | Citada · incorporada 2026-11-08 |
+
+| Propagar a ideia: anarquismo e mundos do trabalho no istmo centro-americano, 1890–1930 | José Julián Llaguno Thomas | 358 | Citada · incorporada 2026-11-08 |
+
+| La “segunda ola” del marxismo en Costa Rica: los linderos del discurso y la práctica | Vilma Leandro Zúñiga e Ignacio Dobles Oropeza | 18 | Citada · incorporada 2026-11-08 |
+
+| Carencias, limitaciones, frustraciones y esperanzas de la vida militante de la izquierda costarricense en los años setenta y ochenta (reseña de «Militantes. La vivencia de lo político en la segunda ola del marxismo en Costa Rica», de Ignacio Dobles Oropeza y Vilma Leandro Zúñiga) | Roberto Salom E. | 4 | Citada · incorporada 2026-11-08 |
+
+| El crimen de Viviana Gallardo | David Díaz Arias | 34 | Citada · incorporada 2026-11-08 |
+
+| Reseña del libro El verdadero anticomunismo. Política, género y Guerra Fría en Costa Rica (1948-1973), de Iván Molina Jiménez y David Díaz Arias (editores) | George García Quesada | 6 | Citada · incorporada 2026-11-08 |
+
+| Elecciones Costa Rica 2014: el aparente giro hacia el progresismo de izquierda mediante el triunfo del Partido Acción Ciudadana y el ascenso del Frente Amplio | Rotsay Rosales Valladares | 21 | Citada · incorporada 2026-11-08 |
+
+| Partido Frente Amplio: Estatuto (texto con las reformas acreditadas hasta el 22 de marzo de 2025) | Partido Frente Amplio | 70 | Citada · incorporada 2026-11-08 |
 
 
 ## Documentación externa

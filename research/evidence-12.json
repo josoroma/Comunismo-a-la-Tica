@@ -103,6 +103,69 @@
   },
   {
     "note": 9,
+    "claim": "The Tico Times atribuyó los disturbios del 1-5-2013 frente a la Asamblea Legislativa a jóvenes autoproclamados anarquistas; unas 20 detenciones; el resto del desfile fue pacífico.",
+    "source": "ticotimes-primero-mayo-2013",
+    "pages": [],
+    "type": "hecho",
+    "counterpoint": "Acredita lo publicado; la autodefinición es atribución del periodista, sin voz de los participantes ni organización identificada.",
+    "visual_checked": false
+  },
+  {
+    "note": 9,
+    "claim": "El jefe policial declaró que algunos detenidos pretendían usar botellas con combustible como bombas molotov.",
+    "source": "ticotimes-primero-mayo-2013",
+    "pages": [],
+    "type": "declaracion",
+    "counterpoint": "Declaración policial reproducida por el medio, que presenta el contenido de las botellas como alegación.",
+    "visual_checked": false
+  },
+  {
+    "note": 10,
+    "claim": "Delfino.cr informó de una marcha de unas 500 personas con cánticos contra nicaragüenses, calificada de xenófoba y neofascista, con al menos 20 detenidos (18-8-2018).",
+    "source": "delfino-marcha-neofascista-2018",
+    "pages": [],
+    "type": "hecho",
+    "counterpoint": "Las calificaciones son del medio; la captura no menciona contramanifestación ni grupos antifascistas.",
+    "visual_checked": false
+  },
+  {
+    "note": 11,
+    "claim": "Llaguno sigue el anarcosindicalismo costarricense hasta fines de los años veinte, cuando se pierde su rastro en las fuentes.",
+    "source": "llaguno-en-busqueda-de-la-idea-2013",
+    "pages": [
+      18
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Balance bibliográfico de 2013; la pérdida de rastro es límite de las fuentes, no prueba de desaparición.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/llaguno-en-busqueda-de-la-idea-2013/chapters/07-agenda-de-investigacion.md"
+    ],
+    "quote": "parte de la clase trabajadora organizada sigue vinculada al anarcosindicalismo hasta finales de los años veinte, fecha en donde se pierde su rastro en las fuentes históricas"
+  },
+  {
+    "note": 11,
+    "claim": "Las autoridades aplicaron a comunistas la ley de 1903 contra la propaganda anarquista, mientras comunistas y anarquistas polemizaban; unos anarquistas ingresaron al PCCR y otros siguieron en la lucha sindical y antifascista.",
+    "source": "llaguno-propagar-la-idea-tesis-2022",
+    "pages": [
+      263,
+      264,
+      265
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Reconstrucción de Llaguno con prensa militante y despachos diplomáticos; traducción de esta edición desde el portugués.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/llaguno-propagar-la-idea-tesis-2022/chapters/35-anarcossindicalismo-centro-americano.md"
+    ],
+    "quote": "Como nenhuma medida legal específica havia sido criada contra o comunismo, a linha interpretativa era considerar esses militantes como anarquistas subversivos … Para os membros do Partido Comunista, o anarquismo estava associado ao individualismo extremo e ao terrorismo … alguns líderes anarquistas haviam decidido aderir à militância do PCCR, enquanto outros permaneceram na luta sindical e antifascista sem serem membros do PCCR"
+  },
+  {
+    "note": 12,
     "claim": "La reforma procesal laboral atravesó gobiernos, acuerdos y controversias.",
     "source": "derecho-colectivo-trabajo-costa-rica-2021",
     "pages": [
@@ -116,7 +179,7 @@
     "visual_checked": false
   },
   {
-    "note": 10,
+    "note": 13,
     "claim": "Castro sitúa la firma de la reforma en 2016 y vigencia 25 julio 2017; valora avances parciales.",
     "source": "derecho-colectivo-trabajo-costa-rica-2021",
     "pages": [

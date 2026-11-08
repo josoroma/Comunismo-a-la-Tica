@@ -152,5 +152,236 @@
     "type": "declaracion",
     "counterpoint": "No prueba asistencia al acto ni valida cifras y acusaciones contenidas en declaración.",
     "visual_checked": false
+  },
+  {
+    "note": 11,
+    "claim": "El 24 de enero de 2026, en entrevista con El Observador, Ariel Robles habló de «un socialismo costarricense» basado, según el medio, en diálogo democrático, respeto a la empresa privada, Estado social de derecho y los pactos que originaron Código de Trabajo, seguridad social y educación pública.",
+    "source": "observador-robles-socialismo-2026",
+    "pages": [],
+    "type": "declaracion",
+    "counterpoint": "Entrevista mayormente parafraseada por el medio; acredita la posición pública del candidato, no su aplicación ni la del partido.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "quote": "No se trata de imponer, sino de construir acuerdos nacionales"
+  },
+  {
+    "note": 12,
+    "claim": "En 1938 Mora habló de «lo que quizá podríamos llamar un comunismo costarricense», aplazó el comunismo integral por el atraso económico y admitió que la acción armada podía ser necesaria o no.",
+    "source": "discursos-manuel-mora-1934-1979",
+    "pages": [
+      87,
+      88
+    ],
+    "type": "declaracion",
+    "counterpoint": "Consigna dirigida a militantes; no abandona el horizonte socialista ni prueba ausencia de vínculos internacionales.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/discursos-manuel-mora-1934-1979/chapters/11-democracia-progreso-bienestar.md"
+    ],
+    "quote": "La acción armada puede ser necesaria pero podría también no serlo … lo que quizá podríamos llamar un comunismo costarricense"
+  },
+  {
+    "note": 12,
+    "claim": "Molina sitúa en agosto de 1935 el ingreso del partido en la Internacional Comunista y cita la acusación de 1940 de que para Mora Rusia estaba aun primero que Costa Rica.",
+    "source": "moradas-y-discursos-molina-2010",
+    "pages": [
+      166,
+      179
+    ],
+    "type": "hecho",
+    "counterpoint": "Propaganda adversaria conocida por cita de Molina; la fecha de ingreso procede de Caballero, citado por Molina.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/moradas-y-discursos-molina-2010/chapters/10-capitulo-5-prensa-propaganda-y-comunismo.md"
+    ],
+    "quote": "cuyo ingreso al Comintern se verificó tardíamente (en agosto de 1935 … para él Rusia está antes que todo, y aun primero que Costa Rica"
+  },
+  {
+    "note": 12,
+    "claim": "La fórmula de Robles y la consigna de Mora comparten el recurso de nacionalizar un sustantivo disputado, pero difieren en destinatario, contenido y relación con el fin; no hay prueba de filiación.",
+    "source": "discursos-manuel-mora-1934-1979",
+    "pages": [
+      87,
+      88
+    ],
+    "type": "inferencia",
+    "counterpoint": "Comparación de esta edición con la entrevista citada en la nota 11; esta no menciona a Mora ni al comunismo y llega como paráfrasis periodística.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/discursos-manuel-mora-1934-1979/chapters/11-democracia-progreso-bienestar.md"
+    ]
+  },
+  {
+    "note": 13,
+    "claim": "Una columna de El Mundo CR (20-1-2026) llamó «reciclaje ideológico» al supuesto paso de la izquierda de la economía política a las causas de identidad, ambiente y derechos, y agrupó a PLN, FA y PAC como «tres máscaras».",
+    "source": "elmundo-reciclaje-ideologico-2026",
+    "pages": [],
+    "type": "declaracion",
+    "counterpoint": "Columna de opinión: acredita la tesis del autor, no los hechos ni las cifras que aduce.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "quote": "No es evolución programática, es rebranding con maquillaje moral"
+  },
+  {
+    "note": 14,
+    "claim": "El artículo cuatro del estatuto del FA enumera doce rasgos, empezando por democrático; incluye socialista, feminista, ecologista, pacifista (rechazo del terrorismo y de intervenciones armadas extranjeras), pluralista y latinoamericanista sin subordinación a organizaciones o Estados extranjeros.",
+    "source": "frente-amplio-estatuto",
+    "pages": [
+      2,
+      3,
+      4
+    ],
+    "type": "declaracion",
+    "counterpoint": "Autodefinición partidaria con reformas anotadas de 13-11-2022; no prueba cumplimiento ni redacción anterior.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/frente-amplio-estatuto/chapters/02-capitulo-ii-principios-doctrinales-y-programaticos.md"
+    ],
+    "quote": "El Frente Amplio es DEMOCRÁTICO … Rechaza el terrorismo y las intervenciones armadas extranjeras … no estará subordinada a disposiciones de Organizaciones o Estados Extranjeros"
+  },
+  {
+    "note": 14,
+    "claim": "La columna de El Mundo cita tres de los doce rasgos del artículo cuatro y omite el primero, democrático.",
+    "source": "frente-amplio-estatuto",
+    "pages": [
+      2,
+      3
+    ],
+    "type": "inferencia",
+    "counterpoint": "Comparación de esta edición entre la columna y el estatuto; la columna pudo consultar otra versión del texto.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/frente-amplio-estatuto/chapters/02-capitulo-ii-principios-doctrinales-y-programaticos.md"
+    ],
+    "quote": "El Frente Amplio es SOCIALISTA … El Frente Amplio es FEMINISTA … El Frente Amplio es ECOLOGISTA"
+  },
+  {
+    "note": 15,
+    "claim": "El 22 de julio de 2026 José Alonso Sánchez Vargas reprochó a algunos miembros de la Juventud Frenteamplista una defensa implícita de la Revolución Sandinista y pidió a la izquierda definir si responde a la democracia plena o a símbolos históricos.",
+    "source": "delfino-la-jota-2026",
+    "pages": [],
+    "type": "declaracion",
+    "counterpoint": "Columna de opinión; no identifica declaraciones, personas ni fechas, y no acredita lo que dijo la organización juvenil.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "quote": "la Nicaragua contemporánea no es la misma de 1979"
+  },
+  {
+    "note": 16,
+    "claim": "Rosales atribuye a sectores conservadores una campaña de 2014 contra el «peligro orteguista o chavista» del FA y a los medios el aprovechamiento de declaraciones aisladas de dirigentes.",
+    "source": "rosales-elecciones-2014-ciep-2015",
+    "pages": [
+      9,
+      11
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Interpretación de un politólogo con posición declarada; no mide efectos de la campaña sobre el voto.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/rosales-elecciones-2014-ciep-2015/chapters/04-elecciones-nacionales-2014.md"
+    ],
+    "quote": "una campaña efectiva de los sectores conservadores del país contra el “peligro orteguista o chavista” del FA … capitalizaron algunas declaraciones aisladas de alguna dirigencia del FA"
+  },
+  {
+    "note": 17,
+    "claim": "En enero de 1948 la propaganda opositora afirmó que los vanguardistas cambiaron de nombre por orden de Moscú y conservaban la bandera de la hoz y el martillo; en 1940 Matusalén comparó la mutabilidad de Mora con la del camaleón.",
+    "source": "moradas-y-discursos-molina-2010",
+    "pages": [
+      180,
+      181,
+      182
+    ],
+    "type": "declaracion",
+    "counterpoint": "Acusaciones de adversarios conocidas por cita de Molina; no prueban una orden de Moscú. Capa OCR.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/moradas-y-discursos-molina-2010/chapters/10-capitulo-5-prensa-propaganda-y-comunismo.md"
+    ],
+    "quote": "mutabilidad semejante a la del camaleón … cambiaron de nombre a su partido por orden de Moscú, en sus salones sigue presente la bandera de la hoz y el martillo"
+  },
+  {
+    "note": 18,
+    "claim": "José Merino del Río ingresó a la Juventud Vanguardista desde el MARS, escisión estudiantil del MRP, y fue expulsado del PVP en enero de 1984 con Eduardo Mora y otros dirigentes moristas.",
+    "source": "comunismo-a-la-tica-pvp-2020",
+    "pages": [
+      16,
+      17,
+      102,
+      103
+    ],
+    "type": "hecho",
+    "counterpoint": "Reconstrucción de Cortés con archivo del PVP y prensa de 1984; una trayectoria no describe a toda la afiliación frenteamplista.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/comunismo-a-la-tica-pvp-2020/chapters/05-breve-esbozo-del-pvp.md",
+      "data/books/comunismo-a-la-tica-pvp-2020/chapters/10-batalla-legal-por-el-pvp.md"
+    ],
+    "quote": "se integraron José Picado Lagos, Fernando Camacho, Hubert Méndez, César Solano, José Merino del Río … se resolvió expulsar del PVP a Eduardo Mora, José Merino, Lenin Chacón y César Solano"
+  },
+  {
+    "note": 18,
+    "claim": "Merino escribió en 1996 la tesis «Manuel Mora y la democracia costarricense. Viaje al interior del partido Comunista».",
+    "source": "dobles-segunda-ola-marxismo-2003",
+    "pages": [
+      5
+    ],
+    "type": "hecho",
+    "counterpoint": "Referencia bibliográfica de Leandro y Dobles; la tesis no se consultó directamente.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/dobles-segunda-ola-marxismo-2003/chapters/02-texto-y-bibliografia.md"
+    ],
+    "quote": "Merino Del Río, J. Manuel Mora y la democracia costarricense. Viaje al interior del partido Comunista. Heredia: Fundación UNA, 1996"
+  },
+  {
+    "note": 18,
+    "claim": "La hipótesis del reetiquetado no se sostiene en su versión fuerte (misma organización y doctrina) ni puede negarse toda relación: hay circulación de personas y memoria, sin continuidad jurídica.",
+    "source": "comunismo-a-la-tica-pvp-2020",
+    "pages": [
+      103
+    ],
+    "type": "inferencia",
+    "counterpoint": "Balance de esta edición; ninguna fuente mide intenciones ni la composición completa de la militancia.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/comunismo-a-la-tica-pvp-2020/chapters/10-batalla-legal-por-el-pvp.md"
+    ]
+  },
+  {
+    "note": 19,
+    "claim": "Según Salom, la izquierda de los setenta y ochenta no auspició el desarrollo posterior de la lucha de género, salvo la OST.",
+    "source": "salom-resena-militantes-2007",
+    "pages": [
+      3
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Juicio de un reseñista apoyado en entrevistas de Militantes; no es inventario de programas.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/salom-resena-militantes-2007/chapters/01-resena.md"
+    ],
+    "quote": "la izquierda no auspició el desarrollo posterior de la lucha de género"
   }
 ]

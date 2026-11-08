@@ -369,6 +369,121 @@
   },
   {
     "note": 12,
+    "claim": "Entre 1927 y 1929 hubo intentos de reorganizar la antigua CGT; según los autores, seguía faltando una organización que orientara la lucha.",
+    "source": "crisis-1929-fundacion-partido-comunista-1984",
+    "pages": [
+      104,
+      105
+    ],
+    "type": "interpretacion",
+    "counterpoint": "No mencionan anarquistas ni la constitución formal de 1928 que afirma Llaguno.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/crisis-1929-fundacion-partido-comunista-1984/chapters/08-capitulo-iv.md"
+    ],
+    "quote": "las organizaciones josefinas hicieron intentos de reorganizar la antigua Confederación General de Trabajadores … Organización inexistente"
+  },
+  {
+    "note": 12,
+    "claim": "La CGT se reorganizó desde 1927 con orientación sindicalista revolucionaria y se constituyó en 1928; su comité reunía a militantes de pasado anarquista; comunistas, anarquistas y reformistas convivían en ella.",
+    "source": "llaguno-propagar-la-idea-tesis-2022",
+    "pages": [
+      215,
+      257,
+      258,
+      259
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Texto en portugués; los estatutos se conocen por La Lucha y un despacho estadounidense; en otra página el autor subraya la influencia marxista.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/llaguno-propagar-la-idea-tesis-2022/chapters/31-pan-americanismo-operario-radical.md",
+      "data/books/llaguno-propagar-la-idea-tesis-2022/chapters/35-anarcossindicalismo-centro-americano.md"
+    ],
+    "quote": "iniciada em 1927, com uma orientação sindicalista revolucionária … A maioria deles havia participado de grupos de afinidade anarquistas … Isso poderia explicar a incorporação das cláusulas contra a participação eleitoral e religiosa na CGT"
+  },
+  {
+    "note": 13,
+    "claim": "La mayoría de la CGT eligió la CSLA y en 1930 se llamó UGT; el grupo «Hacia la Libertad» (1928), animado por Recoba, era un grupo de afinidad con unos 150 nombres y participó en el comité de desocupados.",
+    "source": "llaguno-propagar-la-idea-tesis-2022",
+    "pages": [
+      127,
+      257,
+      259,
+      260,
+      261
+    ],
+    "type": "hecho",
+    "counterpoint": "Datos procedentes sobre todo de los informes del propio Recoba; la fecha de 1929 de la manifestación parece errónea.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/llaguno-propagar-la-idea-tesis-2022/chapters/23-agentes-da-ordem-contra-a-anarquia.md",
+      "data/books/llaguno-propagar-la-idea-tesis-2022/chapters/35-anarcossindicalismo-centro-americano.md"
+    ],
+    "quote": "essa organização não reunia sindicatos, mas funcionava como um grupo de afinidade e um centro social … mudar o nome da organização para Unión General de Trabajadores (UGT), em 1930 … identificamos cerca de 150 nomes … A manifestação de 27 de maio de 1929 foi reprimida"
+  },
+  {
+    "note": 13,
+    "claim": "El 27 de mayo de 1930 se produjo en el parque Central el primer choque entre obreros y policías.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      134
+    ],
+    "type": "hecho",
+    "counterpoint": "Reconstrucción con prensa diaria; no menciona al grupo anarquista.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/39-cap1-crisis-1929-y-desocupados.md"
+    ],
+    "quote": "el 27 de mayo de 1930, en el parque Central, se presentó la primera confrontación entre obreros y policías"
+  },
+  {
+    "note": 14,
+    "claim": "Recoba defendía una lucha exclusivamente obrera frente al frente único comunista, acusó a Peraza de cobrar dinero de Moscú y polemizó con Betancourt; Llaguno atribuye a los comunistas una Alianza que postulaba a García Monge a la presidencia.",
+    "source": "llaguno-propagar-la-idea-tesis-2022",
+    "pages": [
+      261,
+      262
+    ],
+    "type": "declaracion",
+    "counterpoint": "La acusación es de un adversario; la frase de Betancourt llega por prensa y por Recoba; la Alianza carece de nota propia y discrepa de Botey y Cisneros.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/llaguno-propagar-la-idea-tesis-2022/chapters/35-anarcossindicalismo-centro-americano.md"
+    ],
+    "quote": "a luta deveria ser exclusivamente do movimento operário … sendo pago com dinheiro enviado por Moscou … uma forma de terrorismo utópico … promovendo o professor Joaquín García Monge como candidato à presidência"
+  },
+  {
+    "note": 14,
+    "claim": "La Alianza de Obreros, Campesinos e Intelectuales, de influencia aprista, llevó a García Monge en su papeleta de diputados en 1930.",
+    "source": "crisis-1929-fundacion-partido-comunista-1984",
+    "pages": [
+      59,
+      105
+    ],
+    "type": "hecho",
+    "counterpoint": "Los autores la vinculan al antiimperialismo y al aprismo, no a los comunistas.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/crisis-1929-fundacion-partido-comunista-1984/chapters/06-capitulo-ii.md",
+      "data/books/crisis-1929-fundacion-partido-comunista-1984/chapters/08-capitulo-iv.md"
+    ],
+    "quote": "La papeleta nacionalista estuvo integrada por Joaquín García Monge, Otilio Ulate … asumió una gran cantidad de elementos ideológicos provenientes del aprismo"
+  },
+  {
+    "note": 15,
     "claim": "Volantes de «Viva el Partido Comunista» en el Teatro Raventós el 15 de mayo de 1931 y arresto de Carballo, Cerdas y Mora.",
     "source": "anticomunismo-reformista-molina",
     "pages": [
@@ -386,7 +501,7 @@
     "quote": "desde un palco, lanzaron a los presentes volantes con la frase, en tinta roja, “Viva el Partido Comunista” … Mora fue suspendido no por ser comunista"
   },
   {
-    "note": 12,
+    "note": 15,
     "claim": "El secretario de Seguridad Pública dijo a Eberhardt que desarticularía reuniones comunistas aun con violencia.",
     "source": "anticomunismo-reformista-molina",
     "pages": [
@@ -403,7 +518,7 @@
     "quote": "en el proceso algunas cabezas pueden ser rotas o, incluso, puede ser necesario tomar algunas vidas"
   },
   {
-    "note": 13,
+    "note": 16,
     "claim": "Acuerdo del 6 de junio y comité del 16 de junio de 1931, según Botey y Cisneros.",
     "source": "crisis-1929-fundacion-partido-comunista-1984",
     "pages": [
@@ -421,7 +536,7 @@
     ]
   },
   {
-    "note": 14,
+    "note": 17,
     "claim": "Los desocupados se organizaron sin intervención comunista y dieron fuerza al partido; la influencia comunista crece tras el 16 de junio de 1931.",
     "source": "era-del-desencanto-angulo-2021",
     "pages": [
@@ -438,7 +553,7 @@
     "quote": "fueron los desocupados quienes, en primera instancia, dieron fuerza al partido"
   },
   {
-    "note": 14,
+    "note": 17,
     "claim": "División del movimiento entre sectores colaboradores, socialistas y provinciales.",
     "source": "era-del-desencanto-angulo-2021",
     "pages": [
@@ -455,7 +570,7 @@
     "quote": "la existencia de una división entre los grupos de obreros sin trabajo"
   },
   {
-    "note": 15,
+    "note": 18,
     "claim": "Diversidad de trayectorias fundadoras y centralidad historiográfica de Mora.",
     "source": "crisis-1929-fundacion-partido-comunista-1984",
     "pages": [
@@ -475,7 +590,7 @@
     ]
   },
   {
-    "note": 16,
+    "note": 19,
     "claim": "Programa integral, medidas inmediatas y condiciones internacionales.",
     "source": "crisis-1929-fundacion-partido-comunista-1984",
     "pages": [
@@ -500,7 +615,7 @@
     ]
   },
   {
-    "note": 17,
+    "note": 20,
     "claim": "Seguros, huelga, vivienda, salud y emancipación de la mujer en el programa.",
     "source": "crisis-1929-fundacion-partido-comunista-1984",
     "pages": [
@@ -518,7 +633,7 @@
     ]
   },
   {
-    "note": 18,
+    "note": 21,
     "claim": "Política económica, servicio civil y educación en el programa.",
     "source": "crisis-1929-fundacion-partido-comunista-1984",
     "pages": [
@@ -536,7 +651,7 @@
     ]
   },
   {
-    "note": 19,
+    "note": 22,
     "claim": "Horizonte de república socialista soviética continental en el programa.",
     "source": "crisis-1929-fundacion-partido-comunista-1984",
     "pages": [
@@ -554,7 +669,7 @@
     ]
   },
   {
-    "note": 20,
+    "note": 23,
     "claim": "Tensiones entre programa, estrategia y condiciones de transformación.",
     "source": "crisis-1929-fundacion-partido-comunista-1984",
     "pages": [
@@ -577,7 +692,7 @@
     ]
   },
   {
-    "note": 21,
+    "note": 24,
     "claim": "Permanencia, células, programa y educación política.",
     "source": "crisis-1929-fundacion-partido-comunista-1984",
     "pages": [
@@ -604,7 +719,7 @@
     ]
   },
   {
-    "note": 22,
+    "note": 25,
     "claim": "Relación entre desarrollo sindical y partidario.",
     "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
     "pages": [
@@ -625,7 +740,7 @@
     ]
   },
   {
-    "note": 23,
+    "note": 26,
     "claim": "Proyectos comunistas de salario mínimo y auxilio a desocupados (1932), dictamen contrario y memorial de desocupados de octubre de 1933.",
     "source": "era-del-desencanto-angulo-2021",
     "pages": [
@@ -647,7 +762,7 @@
     "quote": "El segundo fue la propuesta de la ley de auxilio para los desocupados, cuya presentación al Congreso estuvo a cargo del diputado Otilio Ulate … DIEZ MIL O MAS sin trabajo … sería irremediablemente burlada por los capitalistas"
   },
   {
-    "note": 23,
+    "note": 26,
     "claim": "La Oficina Técnica del Trabajo fue propuesta por Jorge Volio y formalizada por la Ley N.° 14.",
     "source": "era-del-desencanto-angulo-2021",
     "pages": [
@@ -664,7 +779,7 @@
     "quote": "La Oficina Técnica del Trabajo fue propuesta por el diputado Jorge Volio"
   },
   {
-    "note": 23,
+    "note": 26,
     "claim": "Volio recuerda haber sido diputado dos períodos más y haberse retirado en 1936.",
     "source": "jorge-volio-ineditos-documentos",
     "pages": [
@@ -681,7 +796,7 @@
     "quote": "Todavía fui Diputado al Congreso en dos períodos más, y en 1936 me retiré definitivamente de la Política"
   },
   {
-    "note": 23,
+    "note": 26,
     "claim": "Consejo de clase frente a oficina estatal como alternativas políticas de protección del trabajo.",
     "source": "era-del-desencanto-angulo-2021",
     "pages": [
@@ -704,7 +819,7 @@
     ]
   },
   {
-    "note": 24,
+    "note": 27,
     "claim": "Disolución de la reunión comunista del 28 de mayo de 1932: unos cincuenta disparos al aire, dos policías heridos y unos ochenta detenidos.",
     "source": "era-del-desencanto-angulo-2021",
     "pages": [
@@ -722,7 +837,7 @@
     "quote": "en la que fueron detenidos ochenta obreros comunistas. La policía atacó y lanzó cincuenta disparos al aire"
   },
   {
-    "note": 24,
+    "note": 27,
     "claim": "Convocatoria «sin distinción de ideas» y declaración de Ricardo Jiménez justificando la acción policial.",
     "source": "era-del-desencanto-angulo-2021",
     "pages": [
@@ -742,7 +857,7 @@
     "quote": "ni creo que tengan mayor incremento en una sociedad bien organizada como la nuestra"
   },
   {
-    "note": 25,
+    "note": 28,
     "claim": "Manifestación del 22 de mayo de 1933: once heridos y versión del partido sobre el préstamo de su salón.",
     "source": "era-del-desencanto-angulo-2021",
     "pages": [
@@ -759,7 +874,7 @@
     "quote": "lo que produjo once heridos: seis policías y cinco obreros … la actuación del Partido se limitó a prestarle su salón a los desocupados"
   },
   {
-    "note": 25,
+    "note": 28,
     "claim": "Testimonio de un obrero sin trabajo que niega tener doctrina.",
     "source": "era-del-desencanto-angulo-2021",
     "pages": [
@@ -778,7 +893,7 @@
     "quote": "Yo no tengo doctrina alguna. Soy un hombre sin trabajo nada más."
   },
   {
-    "note": 25,
+    "note": 28,
     "claim": "Confiscación de archivos, expulsión de Braña y destitución de Carmen Lyra.",
     "source": "era-del-desencanto-angulo-2021",
     "pages": [
@@ -797,7 +912,45 @@
     "quote": "se expulsó del país a Adolfo Braña … fue destituida de su cargo como directora de la Escuela Maternal de San José"
   },
   {
-    "note": 26,
+    "note": 29,
+    "claim": "A falta de ley anticomunista, el gobierno aplicó la legislación de 1903 contra la propaganda anarquista para expulsar comunistas, como Braña en 1933; el reglamento postal de 1931 alcanzó también la prensa anarquista; hubo militantes que pasaron del grupo anarquista al partido.",
+    "source": "llaguno-propagar-la-idea-tesis-2022",
+    "pages": [
+      260,
+      263,
+      264,
+      265
+    ],
+    "type": "hecho",
+    "counterpoint": "Texto en portugués; la norma de 1903 no se identifica en el pasaje; la lista de conversos procede de una carta de un correligionario de Recoba.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/llaguno-propagar-la-idea-tesis-2022/chapters/35-anarcossindicalismo-centro-americano.md"
+    ],
+    "quote": "sua legislação aprovada em 1903 contra a “propaganda anarquista” … a linha interpretativa era considerar esses militantes como anarquistas subversivos … foi reconhecido haver “anarquistas honestos” no país"
+  },
+  {
+    "note": 29,
+    "claim": "Braña fue expulsado tras la manifestación de 1933; según Fallas, por la hostilidad que le ganó su acción como regidor.",
+    "source": "era-del-desencanto-angulo-2021",
+    "pages": [
+      177,
+      178
+    ],
+    "type": "declaracion",
+    "counterpoint": "La explicación de Fallas es una memoria posterior mediada por Angulo; no excluye el fundamento legal señalado por Llaguno.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": false,
+    "local_paths": [
+      "data/books/era-del-desencanto-angulo-2021/chapters/45-cap1-manifestaciones-de-los-desocupados.md"
+    ],
+    "quote": "se expulsó del país a Adolfo Braña … la oportunidad de expulsar a Braña a partir de esta manifestación se debió a sus acciones como uno de los regidores municipales de San José"
+  },
+  {
+    "note": 30,
     "claim": "La respuesta estatal combinó obra pública y control policial, con medidas más radicales bajo Jiménez.",
     "source": "era-del-desencanto-angulo-2021",
     "pages": [
@@ -816,7 +969,7 @@
     "quote": "en el que la persecución de los líderes comunistas dentro del movimiento generó medidas más radicales"
   },
   {
-    "note": 26,
+    "note": 30,
     "claim": "Confinamiento de Fallas en la zona atlántica tras la manifestación de 1933 y expulsión de Braña.",
     "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
     "pages": [
@@ -833,7 +986,7 @@
     "quote": "por espacio de un año, debido a su participación en una manifestación de desocupados"
   },
   {
-    "note": 27,
+    "note": 31,
     "claim": "Combinación cambiante de reforma, revolución y marco internacional.",
     "source": "crisis-1929-fundacion-partido-comunista-1984",
     "pages": [
@@ -862,7 +1015,7 @@
     ]
   },
   {
-    "note": 28,
+    "note": 32,
     "claim": "Fundar no resuelve el problema de organizar territorialmente.",
     "source": "crisis-1929-fundacion-partido-comunista-1984",
     "pages": [
@@ -887,7 +1040,7 @@
     ]
   },
   {
-    "note": 28,
+    "note": 32,
     "claim": "Fundar no resuelve el problema de organizar territorialmente.",
     "source": "lucha-social-guerra-civil-costa-rica-1940-1948",
     "pages": [

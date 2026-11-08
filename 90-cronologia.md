@@ -15,17 +15,29 @@ Selección de acontecimientos tratados en el libro. Las fechas amplias se conser
 
 | 1893-09-14 | El ministro de Culto, Manuel V. Jiménez, reprocha a Thiel las «tendencias socialistas» de la pastoral y le exige el «pase» gubernamental. | [La carta pastoral “Justo Salario”: el intento de Mons. Thiel por iniciar la Doctrina Social de la Iglesia católica en Costa Rica (1893)](https://doi.org/10.18273/revanu.v23n2-2018004); PDF 16–17 |
 
+| 1903-07-19 | La Cartera de Policía dispone la expulsión del panadero Juan Vera bajo cargos de «anarquismo», según la Colección de Leyes y Decretos citada por Llaguno. | [Anarquismo, sociabilidad obrera y redes intelectuales en Costa Rica: un estudio de cultura política (1909-1919)](https://repositorio.iis.ucr.ac.cr/bitstream/handle/123456789/554/Anarquismo_sociabilidad_obrera_y_redes_i.pdf?sequence=1); PDF 19 |
+
+| 1911-01-15 | Sale en San José el primer número de Renovación, revista anarquista de «sociología, arte, ciencia y pedagogía racionalista» dirigida por José María Zeledón. | [Anarquismo, sociabilidad obrera y redes intelectuales en Costa Rica: un estudio de cultura política (1909-1919)](https://repositorio.iis.ucr.ac.cr/bitstream/handle/123456789/554/Anarquismo_sociabilidad_obrera_y_redes_i.pdf?sequence=1); PDF 89–90 |
+
 | 1913 | Constitución de la Confederación General de Trabajadores, en el entorno de educación popular descrito por Botey y Cisneros. | La crisis de 1929 y la fundación del Partido Comunista de Costa Rica (`crisis-1929-fundacion-partido-comunista-1984`); PDF 40 |
+
+| 1913-05-01 | Primera conmemoración del Primero de Mayo en Costa Rica, organizada por el Centro de Estudios Sociales Germinal y sociedades obreras. | [Propagar a ideia: anarquismo e mundos do trabalho no istmo centro-americano, 1890–1930](https://repositorio.sibdi.ucr.ac.cr/server/api/core/bitstreams/f620d354-6dab-4d30-9d49-f29d61ee2a77/content); PDF 196–197 |
 
 | 1920-04-30 | Con motivo del Primero de Mayo, la Sociedad de Ebanistas y Carpinteros y al menos otras diez organizaciones proyectan Germinal en el Parque Morazán. | [Las ideas socialistas en Costa Rica, 1880-1930](https://doi.org/10.15359/tdna.38-e18); PDF 6 |
 
 | 1923 | Jorge Volio funda el Partido Reformista. | Anticomunismo reformista. Competencia electoral y cuestión social en Costa Rica (1931-1948) (`anticomunismo-reformista-molina`); PDF 26 |
+
+| 1928 | Fundación del grupo anarquista «Hacia la Libertad», animado por Víctor Recoba, y constitución formal de la CGT reorganizada, según Llaguno. | [Propagar a ideia: anarquismo e mundos do trabalho no istmo centro-americano, 1890–1930](https://repositorio.sibdi.ucr.ac.cr/server/api/core/bitstreams/f620d354-6dab-4d30-9d49-f29d61ee2a77/content); PDF 257–258 |
 
 | 1928-06-25 | Formalización de la Liga Cívica según Botey y Cisneros. | La crisis de 1929 y la fundación del Partido Comunista de Costa Rica (`crisis-1929-fundacion-partido-comunista-1984`); PDF 57 |
 
 | 1929-02 | Transformación de la asociación por la Universidad Popular en ARCO, según Botey y Cisneros. | La crisis de 1929 y la fundación del Partido Comunista de Costa Rica (`crisis-1929-fundacion-partido-comunista-1984`); PDF 106 |
 
 | 1929-10-21 | Primera reunión de obreros sin trabajo de la nueva coyuntura, en el parque Central de San José, según Angulo. | La era del desencanto: protesta social, organización laboral y poder en Costa Rica, 1929-1940 (`era-del-desencanto-angulo-2021`); PDF 113 |
+
+| 1930 | La CGT, afiliada por mayoría a la Confederación Sindical Latinoamericana, adopta el nombre de Unión General de Trabajadores, según Llaguno. | [Propagar a ideia: anarquismo e mundos do trabalho no istmo centro-americano, 1890–1930](https://repositorio.sibdi.ucr.ac.cr/server/api/core/bitstreams/f620d354-6dab-4d30-9d49-f29d61ee2a77/content); PDF 259 |
+
+| 1930-05-27 | Manifestación obrera en el parque Central de San José: primer choque entre obreros y policías según Angulo (Llaguno la fecha en 1929). | La era del desencanto: protesta social, organización laboral y poder en Costa Rica, 1929-1940 (`era-del-desencanto-angulo-2021`); PDF 134 |
 
 | 1931-02-10 | Obreros sin trabajo reunidos en el salón de la UGT dan ocho días al presidente González Víquez; los firmantes son detenidos. | La era del desencanto: protesta social, organización laboral y poder en Costa Rica, 1929-1940 (`era-del-desencanto-angulo-2021`); PDF 141–142 |
 
@@ -105,6 +117,8 @@ Selección de acontecimientos tratados en el libro. Las fechas amplias se conser
 
 | 1947-11-16 | Firma en Guatemala del Pacto del Caribe, por el cual Figueres obtiene armas, según Solís. | Costa Rica: ¿Reformismo socialdemócrata o liberal? (`reformismo-socialdemocrata-o-liberal-solis`); PDF 272 |
 
+| 1948-01-20 | La Prensa Libre publica propaganda opositora según la cual los vanguardistas «cambiaron de nombre a su partido por orden de Moscú» y conservaban la bandera de la hoz y el martillo. | Moradas y discursos. Cultura y política en la Costa Rica de los siglos XIX y XX (`moradas-y-discursos-molina-2010`); PDF 181–182 |
+
 | 1948-02-08 | Elección presidencial: Ulate recibe 59.931 votos y Calderón Guardia 44.438 (cifras de Aguilar Bulgarelli citadas por Solís). | Costa Rica: ¿Reformismo socialdemócrata o liberal? (`reformismo-socialdemocrata-o-liberal-solis`); PDF 270 |
 
 | 1948-03-01 | Anulación congresional de la elección presidencial, con participación calderonista y comunista. | [Lucha social y guerra civil en Costa Rica, 1940-1948](https://www.sinabi.go.cr/biblioteca%20digital/LIBROS%20COMPLETOS/Rojas%20Manuel/Lucha%20social%20y%20guerra%20civil%20en%20CR_19490-1948.pdf); PDF 136–137 |
@@ -159,6 +173,16 @@ Selección de acontecimientos tratados en el libro. Las fechas amplias se conser
 
 | 1980 | XIII Congreso: renovación de dirección y redistribución de funciones internas. | ¿Comunismo a la tica o comunismo soviético? La división del Partido Vanguardia Popular en Costa Rica (1983-1984) (`comunismo-a-la-tica-pvp-2020`); PDF 20–23 |
 
+| 1981-06-12 | Tiroteo en Guadalupe entre una patrulla y cuatro jóvenes: mueren tres policías, uno de los jóvenes y un taxista; Viviana Gallardo es capturada. | [El crimen de Viviana Gallardo](https://api.obregon.cihac.fcs.ucr.ac.cr/obregon/api/core/bitstreams/50e1fd06-4b73-4e07-ae12-2fcacd1b5396/content); PDF 9–10 |
+
+| 1981-07-01 | El cabo José Manuel Bolaños Quesada mata a Viviana Gallardo en su celda de la Primera Comisaría e hiere a las dos detenidas que estaban con ella. | [El crimen de Viviana Gallardo](https://api.obregon.cihac.fcs.ucr.ac.cr/obregon/api/core/bitstreams/50e1fd06-4b73-4e07-ae12-2fcacd1b5396/content); PDF 6, 17 |
+
+| 1981-11-13 | La Corte Interamericana no admite la demanda del gobierno de Costa Rica en el «Asunto Viviana Gallardo y otras» y remite el asunto a la Comisión. | [El crimen de Viviana Gallardo](https://api.obregon.cihac.fcs.ucr.ac.cr/obregon/api/core/bitstreams/50e1fd06-4b73-4e07-ae12-2fcacd1b5396/content); PDF 19 |
+
+| 1982-03-02 | Bolaños es condenado a 24 años de prisión, pena reducida después a 18 en casación. | [El crimen de Viviana Gallardo](https://api.obregon.cihac.fcs.ucr.ac.cr/obregon/api/core/bitstreams/50e1fd06-4b73-4e07-ae12-2fcacd1b5396/content); PDF 18, 21 |
+
+| 1983-09-02 | El Tribunal Superior Segundo Penal impone penas de 3 a 15 años a 15 de los 19 procesados vinculados con «La Familia», por asociación ilícita. | [El crimen de Viviana Gallardo](https://api.obregon.cihac.fcs.ucr.ac.cr/obregon/api/core/bitstreams/50e1fd06-4b73-4e07-ae12-2fcacd1b5396/content); PDF 31 |
+
 | 1983-11 | Congreso extraordinario aprueba reforma estatutaria y traslado de Mora a la presidencia partidaria; profundización de la ruptura. | ¿Comunismo a la tica o comunismo soviético? La división del Partido Vanguardia Popular en Costa Rica (1983-1984) (`comunismo-a-la-tica-pvp-2020`); PDF 39–44 |
 
 | 1983-12 | La disputa del PVP se vuelve pública en la prensa y se intensifica con filtraciones de documentos internos. | ¿Comunismo a la tica o comunismo soviético? La división del Partido Vanguardia Popular en Costa Rica (1983-1984) (`comunismo-a-la-tica-pvp-2020`); PDF 46–52, 62–64 |
@@ -201,6 +225,8 @@ Selección de acontecimientos tratados en el libro. Las fechas amplias se conser
 
 | 2012-05-01 | Asamblea constitutiva del Partido de los Trabajadores, confirmada en resolución de inscripción. | [Resolución DGRE-070-DRPP-2013, inscripción nacional del Partido de los Trabajadores](https://www.tse.go.cr/pdf/estructuras/delostrabajadores/DGRE-070-DRPP-2013%20-%20De%20los%20Trabajadores%20-%20Nacional.pdf); PDF 2 |
 
+| 2013-05-01 | Disturbios frente a la Asamblea Legislativa durante el Primero de Mayo, atribuidos por la prensa a jóvenes autoproclamados anarquistas; unas veinte detenciones. | [Rioters turn May Day demonstrations violent in Costa Rica’s capital ahead of Obama visit](https://ticotimes.net/2013/05/01/rioters-turn-may-day-demonstrations-violent-in-costa-rica-s-capital-ahead-of-obama-visit) |
+
 | 2013-07-02 | Primera inscripción nacional del Partido de los Trabajadores, DGRE-070-DRPP-2013. | [Resolución DGRE-070-DRPP-2013, inscripción nacional del Partido de los Trabajadores](https://www.tse.go.cr/pdf/estructuras/delostrabajadores/DGRE-070-DRPP-2013%20-%20De%20los%20Trabajadores%20-%20Nacional.pdf); PDF 1–2, 12–13 |
 
 | 2014 | Frente Amplio obtiene nueve diputaciones; PT participa sin obtener curules. | [Resolución 0830-E 11-2014](https://www.tse.go.cr/juris/electorales/0830-E11-2014.pdf); PDF 3–10 |
@@ -213,13 +239,19 @@ Selección de acontecimientos tratados en el libro. Las fechas amplias se conser
 
 | 2016-08-21 | Fecha de nueva constitución del partido consignada en la ficha vigente del TSE. | [Ficha del partido De La Clase Trabajadora](https://www.tse.go.cr/delostrabajadores.html) |
 
+| 2017-06-07 | Una placa no autorizada rebautiza el parque Kennedy de San Pedro como «Parque Viviana Gallardo»; las autoridades municipales la retiran en pocas horas. | [El crimen de Viviana Gallardo](https://api.obregon.cihac.fcs.ucr.ac.cr/obregon/api/core/bitstreams/50e1fd06-4b73-4e07-ae12-2fcacd1b5396/content); PDF 29 |
+
 | 2017-06-21 | Nueva inscripción nacional del PT mediante DGRE-059-DRPP-2017. | [Ficha del partido De La Clase Trabajadora](https://www.tse.go.cr/delostrabajadores.html) |
 
 | 2017-07-25 | Entrada en vigor de la reforma procesal laboral, según reconstrucción de Castro Méndez. | Evolución histórica del derecho colectivo de trabajo en Costa Rica (`derecho-colectivo-trabajo-costa-rica-2021`); PDF 46–47 |
 
 | 2018 | Frente Amplio obtiene una diputación y PT ninguna. | [Resolución 1230-E 11-2018](https://www.tse.go.cr/juris/electorales/1230-E11-2018.html) |
 
+| 2018-08-18 | Marcha xenófoba contra la población nicaragüense desde el Parque de la Merced, en San José; al menos veinte detenidos. | [Marcha neofascista en San José deja al menos 20 personas detenidas](https://delfino.cr/2018/08/marcha-neofascista-en-san-jose-deja-al-menos-20-personas-detenidas) |
+
 | 2018-12-03 | José María Villalta vota contra el proyecto de fortalecimiento de las finanzas públicas en segundo debate. | [Registro de votación del proyecto 20580, segundo debate](https://delfino.cr/asamblea/votaciones/proyecto/201812031) |
+
+| 2019-09-01 | Fin de semana del III Congreso Ideológico del Frente Amplio, con unas 200 personas, según El Observador. | [Frente Amplio se propone llenar espacios “que dejó la socialdemocracia y socialcristianismo”](https://observador.cr/frente-amplio-se-propone-llenar-espacios-que-dejo-la-socialdemocracia-y-socialcristianismo/) |
 
 | 2022 | Frente Amplio obtiene seis diputaciones; PT no obtiene escaños. | [Resolución 1555-E 11-2022](https://www.tse.go.cr/juris/relevantes/1555-E11-2022.html) |
 
@@ -227,11 +259,21 @@ Selección de acontecimientos tratados en el libro. Las fechas amplias se conser
 
 | 2024-10-25 | Cambio de denominación a De La Clase Trabajadora acreditado por DGRE-0106-DRPP-2024. | [Ficha del partido De La Clase Trabajadora](https://www.tse.go.cr/delostrabajadores.html) |
 
+| 2024-10-26 | Plenarias del IV Congreso Ideológico del Frente Amplio (26 y 27 de octubre), anunciadas por Delfino.cr. | [Frente Amplio culminará su IV Congreso Ideológico con sesiones plenarias y diálogo entre sectores](https://delfino.cr/2024/10/frente-amplio-culminara-su-iv-congreso-ideologico-con-sesiones-plenarias-y-dialogo-entre-sectores) |
+
+| 2025-03-22 | La Asamblea Nacional del Frente Amplio aprueba la última reforma estatutaria registrada en el texto difundido (DGRE-0047-DRPP-2025). | [Partido Frente Amplio: Estatuto (texto con las reformas acreditadas hasta el 22 de marzo de 2025)](https://www.frenteamplio.org/wp-content/uploads/2025/06/EOPFA.pdf); PDF 70 |
+
 | 2026-01-02 a 2026-01-15 | Período de consulta de veinte programas electorales utilizado por el análisis UCR sobre discriminaciones étnico raciales. | [Análisis comparativo de planes de gobierno. Propuestas contra las discriminaciones y reconocimiento étnico-raciales, pluriculturalidad y multietnicidad. Elecciones Nacionales 2026 de Costa Rica](https://africa.caribe.fcs.ucr.ac.cr/wp-content/uploads/2026/01/Informe-Comparacion-planes-de-gobierno-Final.pdf); PDF 2–4 |
+
+| 2026-01-20 | El Mundo CR publica la columna de opinión «Del martillo y la hoz al arcoíris», que llama «reciclaje ideológico» a la trayectoria de PLN, FA y PAC. | [Del martillo y la hoz al arcoíris, el reciclaje ideológico en Costa Rica](https://elmundo.cr/opinion/del-martillo-y-la-hoz-al-arcoiris-el-reciclaje-ideologico-en-costa-rica/) |
+
+| 2026-01-24 | En entrevista con El Observador, Ariel Robles, candidato presidencial del Frente Amplio, habla de «un socialismo costarricense» basado en diálogo democrático y pactos sociales. | [Elección 2026 \| Ariel Robles habla de “un socialismo costarricense” basado en diálogo y pactos sociales](https://observador.cr/entrevista-ariel-robles-habla-de-un-socialismo-costarricense-basado-en-dialogo-y-pactos-sociales/) |
 
 | 2026-02-01 | Elecciones nacionales: Frente Amplio obtiene siete diputaciones; De La Clase Trabajadora, ninguna. | [Resolución 2363-E 11-2026](https://www.tse.go.cr/juris/electorales/2363-E11-2026.html) |
 
 | 2026-03-23 | Declaratoria definitiva de diputaciones para el período 2026–2030. | [Resolución 2363-E 11-2026](https://www.tse.go.cr/juris/electorales/2363-E11-2026.html) |
+
+| 2026-07-22 | Delfino.cr publica «La Jota y la nostalgia revolucionaria», columna que cuestiona la relación de la Juventud Frenteamplista con la memoria sandinista. | [La Jota y la nostalgia revolucionaria: ¿se responde a la democracia o a los intereses?](https://delfino.cr/2026/07/la-jota-y-la-nostalgia-revolucionaria-se-responde-a-la-democracia-o-a-los-intereses) |
 
 | 2026-10-18 | Asamblea del Frente Amplio abre proceso de su quinto congreso ideológico; sus conclusiones futuras quedan fuera del libro. | [Asamblea Nacional del Frente Amplio da inicio a su congreso ideológico](https://crhoy.com/nacionales/asamblea-nacional-del-frente-amplio-da-inicio-a-su-congreso-ideologico/) |
 

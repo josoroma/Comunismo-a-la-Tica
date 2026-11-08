@@ -3,26 +3,26 @@
   "cutoff": "2026-11-06",
   "chapters": 16,
   "chapter_words": [
-    4226,
-    3652,
+    5323,
+    4451,
     4285,
     3620,
     3776,
     3329,
-    3844,
+    4135,
     2801,
-    3022,
-    2391,
+    3981,
+    3393,
     1891,
-    1942,
-    1848,
-    1940,
+    2480,
+    2554,
+    2676,
     1892,
-    1939
+    2851
   ],
-  "words_chapters": 46398,
-  "words_manuscript_without_notes": 49722,
+  "words_chapters": 53438,
+  "words_manuscript_without_notes": 57387,
   "word_count_method": "Tokens léxicos del texto anterior a Notas; incluye marcadores numéricos y texto de tablas.",
   "documents": 23,
-  "sections": 191
+  "sections": 212
 }

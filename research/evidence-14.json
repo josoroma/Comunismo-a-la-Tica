@@ -81,6 +81,88 @@
   },
   {
     "note": 4,
+    "claim": "Rosales pregunta por qué las elecciones de 2014 serían evidencia frágil de un ascenso del progresismo de izquierda; Villalta terminó tercero pese a encuestas favorables en diciembre de 2013; en 2010 el FA tuvo 0,35 % presidencial y 3,6 % legislativo.",
+    "source": "rosales-elecciones-2014-ciep-2015",
+    "pages": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Análisis de 2015 de un autor que declara afinidad política; cifras de 2010 tomadas de su cuadro, sin cotejo propio con la declaratoria.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/rosales-elecciones-2014-ciep-2015/chapters/01-resumen-y-palabras-clave.md",
+      "data/books/rosales-elecciones-2014-ciep-2015/chapters/02-abstract-y-keywords.md",
+      "data/books/rosales-elecciones-2014-ciep-2015/chapters/03-introduccion.md",
+      "data/books/rosales-elecciones-2014-ciep-2015/chapters/04-elecciones-nacionales-2014.md"
+    ],
+    "quote": "¿Por qué las elecciones nacionales de Costa Rica en 2014 (presidencial y legislativa) son evidencia frágil e insuficiente para inferir una tendencia ascendente del progresismo de izquierdas … progresismo por sí mismo no es necesariamente sinónimo de … obtuvo el tercero lugar con un 17% de los votos, a pesar de aparecer en primer o segundo lugar -dependiendo de las encuestas- durante el mes de diciembre del 2013"
+  },
+  {
+    "note": 5,
+    "claim": "Rosales atribuye el resultado a factores de coyuntura, incluida una campaña contra el «peligro orteguista o chavista» del FA, financiamiento empresarial de la «Alianza por Costa Rica» y pérdidas tardías de votantes de Villalta.",
+    "source": "rosales-elecciones-2014-ciep-2015",
+    "pages": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Hipótesis del autor; datos de cambio de voto mediados por Alvarado y Raventós; la nota sobre financiamiento remite a Raventós sin exponer pruebas.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/rosales-elecciones-2014-ciep-2015/chapters/04-elecciones-nacionales-2014.md"
+    ],
+    "quote": "una campaña efectiva de los sectores conservadores del país contra el “peligro orteguista o chavista” del FA … motivó a diversos grupos empresariales a financiar una organización proselitista que denominaron “Alianza por Costa Rica” … El candidato que perdió mayor proporción de personas que originalmente pensaron en votar por él, fue José María Villalta (27,7%)"
+  },
+  {
+    "note": 6,
+    "claim": "Rosales da más peso a la movilización espontánea que a la organización territorial, declara su posición epistémica y fecha la constitución nacional del FA en 2008 y la primera ronda en dos fechas distintas.",
+    "source": "rosales-elecciones-2014-ciep-2015",
+    "pages": [
+      2,
+      5,
+      7,
+      8,
+      10,
+      17
+    ],
+    "type": "declaracion",
+    "counterpoint": "Discrepancias internas del artículo y con el acta del TSE; pueden referirse a actos distintos.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/rosales-elecciones-2014-ciep-2015/chapters/01-resumen-y-palabras-clave.md",
+      "data/books/rosales-elecciones-2014-ciep-2015/chapters/02-abstract-y-keywords.md",
+      "data/books/rosales-elecciones-2014-ciep-2015/chapters/03-introduccion.md",
+      "data/books/rosales-elecciones-2014-ciep-2015/chapters/04-elecciones-nacionales-2014.md",
+      "data/books/rosales-elecciones-2014-ciep-2015/chapters/05-primer-ano-del-gobierno-pac.md"
+    ],
+    "quote": "6 de febrero de 2014 (primera ronda) … Las elecciones nacionales convocadas para el 2 de febrero de 2014 … Se constituye en partido nacional en el 2008 … Este factor resultó de mayor impacto en el resultado final que la tradicional organización territorial … Desde una posición epistémica afín a las luchas populares – progresistas o de izquierda democrática"
+  },
+  {
+    "note": 6,
+    "claim": "El acta del TSE registra la inscripción nacional del FA por resolución del 13-7-2009.",
+    "source": "tse-fa-nacional-2009",
+    "pages": [],
+    "type": "hecho",
+    "counterpoint": "Inscripción registral; no excluye actos partidarios previos de constitución nacional.",
+    "visual_checked": false
+  },
+  {
+    "note": 7,
     "claim": "La reforma laboral integró acuerdos legislativos con participación FA, PAC y PUSC.",
     "source": "derecho-colectivo-trabajo-costa-rica-2021",
     "pages": [
@@ -93,7 +175,7 @@
     "visual_checked": false
   },
   {
-    "note": 5,
+    "note": 8,
     "claim": "La reforma que entró en vigor 2017 abrió protecciones y dejó controversias según Castro.",
     "source": "derecho-colectivo-trabajo-costa-rica-2021",
     "pages": [
@@ -108,7 +190,7 @@
     "visual_checked": false
   },
   {
-    "note": 6,
+    "note": 9,
     "claim": "Mora utilizó una memoria de militancia en intervención parlamentaria 2015.",
     "source": "mora-asamblea-2015",
     "pages": [
@@ -121,7 +203,7 @@
     "visual_checked": false
   },
   {
-    "note": 7,
+    "note": 10,
     "claim": "FA 2018:16863 votos presidenciales,0,78%.",
     "source": "tse-pres-2018",
     "pages": [],
@@ -130,7 +212,7 @@
     "visual_checked": false
   },
   {
-    "note": 7,
+    "note": 10,
     "claim": "FA 2018:84437 votos legislativos y una diputación.",
     "source": "tse-leg-2018",
     "pages": [],
@@ -139,7 +221,7 @@
     "visual_checked": false
   },
   {
-    "note": 8,
+    "note": 11,
     "claim": "Villalta integró comisión de fortalecimiento de finanzas públicas.",
     "source": "asamblea-fiscal-2018",
     "pages": [],
@@ -148,7 +230,7 @@
     "visual_checked": false
   },
   {
-    "note": 9,
+    "note": 12,
     "claim": "Villalta votó contra proyecto 20580 en segundo debate 3 diciembre 2018.",
     "source": "delfino-fiscal-2018",
     "pages": [],
@@ -157,7 +239,16 @@
     "visual_checked": false
   },
   {
-    "note": 10,
+    "note": 13,
+    "claim": "El Observador informó del III Congreso Ideológico del FA (unas 200 personas) y de la conclusión, según Antonio Ortega, de ocupar espacios dejados por socialdemocracia y socialcristianismo; homenajes a José Merino.",
+    "source": "observador-fa-congreso-2019",
+    "pages": [],
+    "type": "declaracion",
+    "counterpoint": "Crónica basada en declaraciones de un dirigente; no reproduce resoluciones ni prueba sinceridad o simulación.",
+    "visual_checked": false
+  },
+  {
+    "note": 14,
     "claim": "Castro caracteriza el período abierto 2018 como tercera reacción conservadora.",
     "source": "derecho-colectivo-trabajo-costa-rica-2021",
     "pages": [
@@ -170,7 +261,7 @@
     "visual_checked": false
   },
   {
-    "note": 11,
+    "note": 15,
     "claim": "FA 2022:182789 votos presidenciales y 8,73%.",
     "source": "tse-pres-2022",
     "pages": [],
@@ -179,12 +270,41 @@
     "visual_checked": false
   },
   {
-    "note": 11,
+    "note": 15,
     "claim": "FA 2022:172961 votos legislativos;3 diputacionesSJ y 1 enAlajuela, Cartago, Heredia.",
     "source": "tse-leg-2022",
     "pages": [],
     "type": "hecho",
     "counterpoint": "Distribución provincial no demuestra ocupación o identidad étnica de votantes.",
     "visual_checked": false
+  },
+  {
+    "note": 16,
+    "claim": "Delfino.cr anunció las plenarias del IV Congreso del FA (26-27 de octubre de 2024) y recogió declaraciones de Patricia Mora sobre unidad en la diversidad y convergencia.",
+    "source": "delfino-fa-iv-congreso-2024",
+    "pages": [],
+    "type": "declaracion",
+    "counterpoint": "Nota basada en comunicado partidario; anuncia plenarias, no informa resultados; identificación con la diputada de 2015 es inferencia.",
+    "visual_checked": false
+  },
+  {
+    "note": 16,
+    "claim": "El estatuto nombra como adversario el modelo neoliberal y ordena convocar el Congreso al menos una vez cada cuatro años.",
+    "source": "frente-amplio-estatuto",
+    "pages": [
+      2,
+      45
+    ],
+    "type": "declaracion",
+    "counterpoint": "Norma en texto de 2025; no prueba la periodicidad efectiva de los congresos.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/frente-amplio-estatuto/chapters/01-capitulo-i-nombre-sede-y-emblemas.md",
+      "data/books/frente-amplio-estatuto/chapters/02-capitulo-ii-principios-doctrinales-y-programaticos.md",
+      "data/books/frente-amplio-estatuto/chapters/06-capitulo-vi-organos-de-direccion-y-operacion-politica.md"
+    ],
+    "quote": "una alternativa real al modelo neoliberal concentrador y excluyente … El Congreso se convocará al menos una vez cada cuatro años"
   }
 ]

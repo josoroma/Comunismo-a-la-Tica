@@ -114,5 +114,95 @@
     "type": "inferencia",
     "counterpoint": "La cronología no sustituye archivos de afiliación ni prueba una causalidad uniforme.",
     "visual_checked": false
+  },
+  {
+    "note": 8,
+    "claim": "Anarquistas, comunistas y reformistas confluyeron en la CGT de 1927–1928 y luego polemizaron sobre alianzas, elecciones, el primero de mayo y la URSS; el Estado aplicó a comunistas la ley de 1903 contra la propaganda anarquista y asimiló ambas corrientes a la violencia.",
+    "source": "llaguno-propagar-la-idea-tesis-2022",
+    "pages": [
+      257,
+      258,
+      262,
+      263,
+      264,
+      265
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Reconstrucción de Llaguno basada sobre todo en prensa anarquista, despachos y expedientes; tesis en portugués, cita traducida por esta edición.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/llaguno-propagar-la-idea-tesis-2022/chapters/35-anarcossindicalismo-centro-americano.md"
+    ],
+    "quote": "Na confederação, reuniram-se trabalhadores de tendências comunistas e anarquistas e membros do partido reformista … Essa relação entre anarquismo e comunismo foi construída do ponto de vista do Estado como sinônimo de violência e de ideias alheias à tranquilidade do país"
+  },
+  {
+    "note": 9,
+    "claim": "En 1981, ante «La Familia», el MCRL negó los términos medios y el PVP condenó el terrorismo y advirtió contra la represión; Gallardo fue asesinada en su celda por un cabo; quince de diecinueve procesados fueron condenados en 1983; Díaz Arias descarta las tesis conspirativas y habla de una guerra de la memoria.",
+    "source": "diaz-arias-crimen-viviana-gallardo-2017",
+    "pages": [
+      6,
+      7,
+      14,
+      31,
+      32
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Avance de investigación basado sobre todo en prensa; las declaraciones de 1981 son campos pagados citados por el autor; el móvil del crimen sigue sin resolverse.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/diaz-arias-crimen-viviana-gallardo-2017/chapters/04-introduccion.md",
+      "data/books/diaz-arias-crimen-viviana-gallardo-2017/chapters/06-la-familia.md",
+      "data/books/diaz-arias-crimen-viviana-gallardo-2017/chapters/11-conclusion.md"
+    ],
+    "quote": "una guerra de la memoria … ¡Los términos medios no existen! … aplicó penas de entre 3 y 15 años a 15 de las 19 personas … quitándose el traje de juez"
+  },
+  {
+    "note": 9,
+    "claim": "La acción armada del grupo y el crimen cometido bajo custodia requieren juicios separados.",
+    "source": "diaz-arias-crimen-viviana-gallardo-2017",
+    "pages": [
+      31,
+      32
+    ],
+    "type": "inferencia",
+    "counterpoint": "Criterio normativo de esta edición, no resultado de la fuente.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/diaz-arias-crimen-viviana-gallardo-2017/chapters/11-conclusion.md"
+    ]
+  },
+  {
+    "note": 10,
+    "claim": "Salom situó el fracaso no en el socialismo como aspiración sino en una forma particular de lucha y de construcción del socialismo.",
+    "source": "salom-resena-militantes-2007",
+    "pages": [
+      4
+    ],
+    "type": "interpretacion",
+    "counterpoint": "Tesis de un autor socialista en una reseña; no se deriva de las entrevistas reseñadas.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "native_text": true,
+    "local_paths": [
+      "data/books/salom-resena-militantes-2007/chapters/01-resena.md"
+    ],
+    "quote": "lo que ha fracasado no fue el socialismo como concepción o aun más como aspiración por un mundo mejor … una forma particular de lucha y de construcción del socialismo"
+  },
+  {
+    "note": 11,
+    "claim": "La columna de 2026 agrupó a PLN, FA y PAC bajo el reciclaje ideológico; esta edición compara solo la operación de clasificar corrientes distintas como una sola con la ley de 1903 y la propaganda de 1981.",
+    "source": "elmundo-reciclaje-ideologico-2026",
+    "pages": [],
+    "type": "inferencia",
+    "counterpoint": "No equipara autores, medios ni efectos; la columna es opinión y no coerción.",
+    "visual_checked": false,
+    "visual_pages_checked": [],
+    "quote": "Tres máscaras. Un mismo libreto"
   }
 ]
